@@ -14,10 +14,10 @@ source_url: ""
 
 * Конституционные гарантии
 * Принцип разделения власти
-* [Федеральный бюджет](../../power/fed/README.md)
-* [Бюджеты субъектов федерации](../../power/reg.md)
-* [Местные бюджеты](../../power/mun.md)
-* [Счетная Палата](../../power/fed/bodies/auditgov.md)
+* [Федеральный бюджет](/organizations)
+* [Бюджеты субъектов федерации](/budget-system/regional-budgets)
+* [Местные бюджеты](/budget-system/municipal-budgets)
+* [Счетная Палата](/organizations/accounts-chamber)
 
 и многое другое.
 

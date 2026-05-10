@@ -72,15 +72,33 @@ const config: Config = {
         },
         {
           type: 'doc',
-          docId: 'glossary',
+          docId: 'glossary/README',
           position: 'left',
           label: 'Глоссарий',
         },
         {
           type: 'doc',
-          docId: 'faq',
+          docId: 'organizations/README',
           position: 'left',
-          label: 'FAQ',
+          label: 'Организации',
+        },
+        {
+          type: 'doc',
+          docId: 'information-systems/README',
+          position: 'left',
+          label: 'ИС',
+        },
+        {
+          type: 'doc',
+          docId: 'data-sources/README',
+          position: 'left',
+          label: 'Источники данных',
+        },
+        {
+          type: 'doc',
+          docId: 'howto/README',
+          position: 'left',
+          label: 'How-to',
         },
         {
           href: 'https://github.com/infoculture/opengovfinancesbook',
@@ -97,7 +115,10 @@ const config: Config = {
           items: [
             {label: 'Введение', to: '/intro'},
             {label: 'Глоссарий', to: '/glossary'},
-            {label: 'FAQ', to: '/faq'},
+            {label: 'Организации', to: '/organizations'},
+            {label: 'Информационные системы', to: '/information-systems'},
+            {label: 'Источники данных', to: '/data-sources'},
+            {label: 'How-to', to: '/howto'},
           ],
         },
         {
