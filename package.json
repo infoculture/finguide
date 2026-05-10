@@ -1,25 +1,24 @@
 {
   "name": "opengovfinancesbook",
   "version": "1.0.0",
-  "description": "Wiki по открытым государственным финансам на Docusaurus",
+  "description": "Книга по открытым государственным финансам России на Docusaurus",
   "scripts": {
     "start": "docusaurus start",
     "build": "docusaurus build",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
-    "kb:normalize": "node scripts/kb-normalize.mjs",
-    "docs:check-metadata": "node scripts/validate-doc-metadata.mjs",
-    "docs:check-links": "node scripts/check-doc-links.mjs",
-    "docs:check": "npm run docs:check-metadata && npm run docs:check-links",
-    "docs:refresh-generated": "node scripts/refresh-generated-content.mjs",
-    "docs:scaffold-priority": "node scripts/scaffold-priority-content.mjs"
+    "deploy": "docusaurus deploy",
+    "swizzle": "docusaurus swizzle",
+    "write-translations": "docusaurus write-translations",
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "typecheck": "tsc"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/infoculture/opengovfinancesbook.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["opengov", "finance", "russia", "wiki", "docusaurus"],
+  "author": "Infoculture",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/infoculture/opengovfinancesbook/issues"
@@ -39,5 +38,20 @@
     "@docusaurus/module-type-aliases": "^3.10.1",
     "@docusaurus/tsconfig": "^3.10.1",
     "typescript": "^6.0.3"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

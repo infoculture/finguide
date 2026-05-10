@@ -1,5 +1,4 @@
 ---
-id: "opendata-datatypes-municipalnye-byudzhety"
 title: "Муниципальные бюджеты"
 category: "data-sources"
 tags: [data-sources, knowledge-base]

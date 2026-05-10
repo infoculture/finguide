@@ -1,5 +1,4 @@
 ---
-id: "opendata-datatypes-spendingobligations"
 title: "Расходные обязательства"
 category: "data-sources"
 tags: [data-sources, knowledge-base]

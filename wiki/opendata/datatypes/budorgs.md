@@ -1,5 +1,4 @@
 ---
-id: "opendata-datatypes-budorgs"
 title: "Бюджеты организаций"
 category: "data-sources"
 tags: [data-sources, knowledge-base]

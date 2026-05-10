@@ -1,5 +1,4 @@
 ---
-id: "opendata-datatypes-otchety-ob-ispolnenii-byudzhetov"
 title: "Исполнение бюджетов"
 category: "data-sources"
 tags: [data-sources, knowledge-base]

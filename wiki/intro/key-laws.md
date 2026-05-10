@@ -1,14 +1,4 @@
 ---
-id: "intro-key-laws"
-title: "Ключевые нормативные акты"
-category: "intro"
-tags: [intro, knowledge-base]
-last_updated: "2026-05-10"
-source_url: ""
----
-
----
-id: intro-key-laws
 title: Ключевые нормативные акты
 category: intro
 tags: [intro, legal]

@@ -1,5 +1,4 @@
 ---
-id: "opendata-datatypes-regionalnye-byudzhety"
 title: "Региональные бюджеты"
 category: "data-sources"
 tags: [data-sources, knowledge-base]

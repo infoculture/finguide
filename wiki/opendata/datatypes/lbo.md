@@ -1,5 +1,4 @@
 ---
-id: "opendata-datatypes-lbo"
 title: "Лимиты бюджетных обязательств"
 category: "data-sources"
 tags: [data-sources, knowledge-base]

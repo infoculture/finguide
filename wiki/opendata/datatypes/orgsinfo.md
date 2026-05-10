@@ -1,5 +1,4 @@
 ---
-id: "opendata-datatypes-orgsinfo"
 title: "Сведения о государственных и муниципальных организациях"
 category: "data-sources"
 tags: [data-sources, knowledge-base]

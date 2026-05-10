@@ -1,5 +1,4 @@
 ---
-id: "opendata-datatypes-budgetrosp"
 title: "Бюджетная роспись"
 category: "data-sources"
 tags: [data-sources, knowledge-base]

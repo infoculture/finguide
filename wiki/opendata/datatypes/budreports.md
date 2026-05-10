@@ -1,5 +1,4 @@
 ---
-id: "opendata-datatypes-budreports"
 title: "Федеральные бюджеты"
 category: "data-sources"
 tags: [data-sources, knowledge-base]

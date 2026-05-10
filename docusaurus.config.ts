@@ -1,17 +1,27 @@
 import type {Config} from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic';
 import {themes as prismThemes} from 'prism-react-renderer';
 
 const config: Config = {
   title: 'Открытые государственные финансы',
-  tagline: 'Wiki по открытым данным о государственных финансах',
+  tagline: 'Книга по открытым данным о государственных финансах России',
+  favicon: 'img/favicon.ico',
+
   future: {
     v4: true,
   },
+
   url: 'https://infoculture.github.io',
   baseUrl: '/opengovfinancesbook/',
   organizationName: 'infoculture',
   projectName: 'opengovfinancesbook',
+  trailingSlash: false,
+
   onBrokenLinks: 'warn',
+  onBrokenAnchors: 'warn',
+
+  staticDirectories: ['static'],
+
   markdown: {
     format: 'md',
     hooks: {
@@ -19,10 +29,12 @@ const config: Config = {
       onBrokenMarkdownImages: 'warn',
     },
   },
+
   i18n: {
     defaultLocale: 'ru',
     locales: ['ru'],
   },
+
   presets: [
     [
       'classic',
@@ -32,17 +44,23 @@ const config: Config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
           numberPrefixParser: false,
-          exclude: ['**/SUMMARY.gitbook.md'],
+          editUrl:
+            'https://github.com/infoculture/opengovfinancesbook/edit/master/',
         },
         blog: false,
         pages: false,
         theme: {
           customCss: './src/css/custom.css',
         },
-      },
+      } satisfies Preset.Options,
     ],
   ],
+
   themeConfig: {
+    colorMode: {
+      defaultMode: 'light',
+      respectPrefersColorScheme: true,
+    },
     navbar: {
       title: 'Открытые госфинансы',
       items: [
@@ -50,7 +68,19 @@ const config: Config = {
           type: 'doc',
           docId: 'readme',
           position: 'left',
-          label: 'Wiki',
+          label: 'Книга',
+        },
+        {
+          type: 'doc',
+          docId: 'glossary',
+          position: 'left',
+          label: 'Глоссарий',
+        },
+        {
+          type: 'doc',
+          docId: 'faq',
+          position: 'left',
+          label: 'FAQ',
         },
         {
           href: 'https://github.com/infoculture/opengovfinancesbook',
@@ -59,11 +89,39 @@ const config: Config = {
         },
       ],
     },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'Содержание',
+          items: [
+            {label: 'Введение', to: '/intro'},
+            {label: 'Глоссарий', to: '/glossary'},
+            {label: 'FAQ', to: '/faq'},
+          ],
+        },
+        {
+          title: 'Сообщество',
+          items: [
+            {
+              label: 'Infoculture',
+              href: 'https://www.infoculture.ru/',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/infoculture/opengovfinancesbook',
+            },
+          ],
+        },
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} Infoculture. Лицензия MIT.`,
+    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+      additionalLanguages: ['python', 'bash', 'json', 'yaml', 'sql'],
     },
-  },
+  } satisfies Preset.ThemeConfig,
 };
 
 export default config;

@@ -1,5 +1,4 @@
 ---
-id: "opendata-readme"
 title: "Открытые данные"
 category: "data-sources"
 tags: [data-sources, knowledge-base]

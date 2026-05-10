@@ -1,13 +1,6 @@
 ---
-id: "readme"
-title: "Государственные финансы"
-category: "intro"
-tags: [intro, knowledge-base]
-last_updated: "2026-05-10"
-source_url: ""
----
-
----
+id: readme
+title: Государственные финансы
 description: >-
   Книга об устройстве государственных финансов в России и публикации открытых
   финансовых данных.

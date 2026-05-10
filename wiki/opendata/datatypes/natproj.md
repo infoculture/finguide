@@ -1,5 +1,4 @@
 ---
-id: "opendata-datatypes-natproj"
 title: "Национальные проекты"
 category: "data-sources"
 tags: [data-sources, knowledge-base]
