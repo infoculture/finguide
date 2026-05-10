@@ -1,0 +1,37 @@
+{
+  "name": "opengovfinancesbook",
+  "version": "1.0.0",
+  "description": "Wiki по открытым государственным финансам на Docusaurus",
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve",
+    "clear": "docusaurus clear"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infoculture/opengovfinancesbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infoculture/opengovfinancesbook/issues"
+  },
+  "homepage": "https://github.com/infoculture/opengovfinancesbook#readme",
+  "dependencies": {
+    "@docusaurus/core": "^3.10.1",
+    "@docusaurus/faster": "^3.10.1",
+    "@docusaurus/preset-classic": "^3.10.1",
+    "@mdx-js/react": "^3.1.1",
+    "clsx": "^2.1.1",
+    "prism-react-renderer": "^2.4.1",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  },
+  "devDependencies": {
+    "@docusaurus/module-type-aliases": "^3.10.1",
+    "@docusaurus/tsconfig": "^3.10.1",
+    "typescript": "^6.0.3"
+  }
+}
