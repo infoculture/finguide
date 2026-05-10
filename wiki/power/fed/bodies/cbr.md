@@ -1,5 +1,10 @@
 ---
-description: Центральный Банк Российской Федерации (Банк России)
+id: "power-fed-bodies-cbr"
+title: "Банк России"
+category: "organizations"
+tags: [organizations, knowledge-base]
+last_updated: "2026-05-10"
+source_url: ""
 ---
 
 # Банк России
@@ -120,6 +125,3 @@ description: Центральный Банк Российской Федерац
 
 1. [Конституция Российской Федерации](http://constitution.kremlin.ru)
 2. [Федеральный закон "О Центральном банке Российской Федерации \(Банке России\)" от 10.07.2002 N 86-ФЗ](http://www.consultant.ru/document/cons_doc_LAW_37570/)
-
-
-

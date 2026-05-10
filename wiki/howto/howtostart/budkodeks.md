@@ -1,4 +1,13 @@
 ---
+id: "howto-howtostart-budkodeks"
+title: "Бюджетный кодекс"
+category: "howto"
+tags: [howto, knowledge-base]
+last_updated: "2026-05-10"
+source_url: ""
+---
+
+---
 description: Бюджетный кодекс Российской Федерации
 ---
 
@@ -32,8 +41,3 @@ description: Бюджетный кодекс Российской Федерац
 2. [Бюджетный кодекс на сайте Минфина России](https://www.minfin.ru/ru/perfomance/budget/bud_codex/)
 3. [Бюджетный кодекс в системе Консультант Плюс ](http://www.consultant.ru/document/cons_doc_LAW_19702/)
 4. [Бюджетный кодекс в системе Гарант](https://base.garant.ru/12112604/)
-
-
-
-
-

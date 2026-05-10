@@ -1,5 +1,10 @@
 ---
-description: Федеральная антимонопольная служба (ФАС России)
+id: "power-fed-bodies-fasgov"
+title: "Федеральная антимонопольная служба"
+category: "organizations"
+tags: [organizations, knowledge-base]
+last_updated: "2026-05-10"
+source_url: ""
 ---
 
 # Федеральная антимонопольная служба
@@ -43,4 +48,3 @@ description: Федеральная антимонопольная служба 
 
 ## Материалы для самостоятельного чтения
 1. [Положение о Федеральной антимонопольной службе](https://base.garant.ru/12136347/)
-

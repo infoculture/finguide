@@ -1,5 +1,10 @@
 ---
-description: Федеральное казначейство (Казначейство России)
+id: "power-fed-bodies-roskazna"
+title: "Федеральное казначейство"
+category: "organizations"
+tags: [organizations, knowledge-base]
+last_updated: "2026-05-10"
+source_url: ""
 ---
 
 # Федеральное казначейство
@@ -60,4 +65,3 @@ description: Федеральное казначейство (Казначейс
 
 1. [Положение о Федеральном казначействе](http://roskazna.ru/o-kaznachejstve/polozhenie-o-federalnom-kaznachejstve/)
 2. [Бюджетный кодекс](../../../howto/howtostart/budkodeks)
-

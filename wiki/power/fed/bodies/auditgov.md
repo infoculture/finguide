@@ -1,5 +1,10 @@
 ---
-description: Счетная палата Российской Федерации
+id: "power-fed-bodies-auditgov"
+title: "Счетная Палата РФ"
+category: "organizations"
+tags: [organizations, knowledge-base]
+last_updated: "2026-05-10"
+source_url: ""
 ---
 
 # Счетная Палата РФ
@@ -110,6 +115,3 @@ description: Счетная палата Российской Федерации
 ## Материалы для самостоятельного чтения
 
 1. [Закон о Счетной палате Российской Федерации](https://www.consultant.ru/document/cons_doc_LAW_144621/)
-
-
-

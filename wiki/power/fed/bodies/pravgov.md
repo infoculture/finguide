@@ -1,5 +1,10 @@
 ---
-description: Правительство Российской Федерации
+id: "power-fed-bodies-pravgov"
+title: "Правительство России"
+category: "organizations"
+tags: [organizations, knowledge-base]
+last_updated: "2026-05-10"
+source_url: ""
 ---
 
 # Правительство России
@@ -79,4 +84,3 @@ description: Правительство Российской Федерации
 1. [Конституция Российской Федерации](http://constitution.kremlin.ru)
 2. [Федеральный конституционный закон о Правительстве Российской Федерации](http://www.consultant.ru/document/cons_doc_LAW_17107/)
 3. [Бюджетный кодекс](../../../howto/howtostart/budkodeks)
-

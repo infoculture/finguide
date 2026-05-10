@@ -1,5 +1,10 @@
 ---
-description: Министерство финансов Российской Федерации
+id: "power-fed-bodies-minfin"
+title: "Минфин России"
+category: "organizations"
+tags: [organizations, knowledge-base]
+last_updated: "2026-05-10"
+source_url: ""
 ---
 
 # Минфин России
@@ -112,4 +117,3 @@ description: Министерство финансов Российской Фе
 
 1. [Положение о Министерстве финансов Российской Федерации](https://www.minfin.ru/ru/document/?id_4=27)
 2. [Бюджетный кодекс](../../../howto/howtostart/budkodeks)
-

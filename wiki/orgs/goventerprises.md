@@ -1,5 +1,10 @@
 ---
-description: Особая форма некоммерческих организаций - государственные корпорации
+id: "orgs-goventerprises"
+title: "Государственные корпорации"
+category: "organizations"
+tags: [organizations, knowledge-base]
+last_updated: "2026-05-10"
+source_url: ""
 ---
 
 # Государственные корпорации
@@ -58,6 +63,3 @@ description: Особая форма некоммерческих организ
 5. [Субсидии полученные госкорпорацией "ВЭБ.РФ"](https://sub.clearspending.ru/receiver/001%D0%AD2285/)
 6. [Субсидии распределяемые госкорпорацией Росатом](https://sub.clearspending.ru/grbs/00100730/)
 7. [Субсидии распределяемые госкорпорацией Роскосмос](https://sub.clearspending.ru/grbs/00100730/)
-
-
-

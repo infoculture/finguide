@@ -1,5 +1,10 @@
 ---
-description: Государственная Дума Федерального Собрания Российской Федерации
+id: "power-fed-bodies-gosduma"
+title: "Государственная Дума"
+category: "organizations"
+tags: [organizations, knowledge-base]
+last_updated: "2026-05-10"
+source_url: ""
 ---
 
 # Государственная Дума
@@ -86,4 +91,3 @@ description: Государственная Дума Федерального С
 1. ​[Конституция Российской Федерации](http://constitution.kremlin.ru/)​
 2. ​[Федеральный конституционный закон о Правительстве Российской Федерации](http://www.consultant.ru/document/cons_doc_LAW_17107/)​
 3. ​[Бюджетный кодекс](https://begtin.gitbook.io/opengovfinances/~/edit/drafts/-LXr5IOTp6sQjaKLlOOJ/howto/howtostart/budkodeks)​
-

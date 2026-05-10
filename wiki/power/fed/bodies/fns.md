@@ -1,5 +1,10 @@
 ---
-description: Федеральная налоговая служба
+id: "power-fed-bodies-fns"
+title: "Федеральная налоговая служба"
+category: "organizations"
+tags: [organizations, knowledge-base]
+last_updated: "2026-05-10"
+source_url: ""
 ---
 
 # Федеральная налоговая служба
@@ -76,7 +81,3 @@ description: Федеральная налоговая служба
 
 1. [Положение о Федеральной налоговой службе ](https://www.nalog.ru/rn77/about_fts/fts/official_data/3909898/)
 2. [Бюджетный кодекс](../../../howto/howtostart/budkodeks)
-
-  
-
-

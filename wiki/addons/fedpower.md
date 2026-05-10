@@ -1,5 +1,10 @@
 ---
-description: Федеральные органы исполнительной и иной власти
+id: "addons-fedpower"
+title: "Федеральные органы власти"
+category: "reference"
+tags: [reference, knowledge-base]
+last_updated: "2026-05-10"
+source_url: ""
 ---
 
 # Федеральные органы власти

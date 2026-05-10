@@ -1,0 +1,29 @@
+---
+id: "intro-key-laws"
+title: "Ключевые нормативные акты"
+category: "intro"
+tags: [intro, knowledge-base]
+last_updated: "2026-05-10"
+source_url: ""
+---
+
+---
+id: intro-key-laws
+title: Ключевые нормативные акты
+category: intro
+tags: [intro, legal]
+last_updated: 2026-05-10
+source_url: ""
+---
+
+# Ключевые нормативные акты
+
+## Базовые акты
+
+- Бюджетный кодекс РФ
+- Федеральный закон 44-ФЗ
+- Федеральный закон 223-ФЗ
+
+## Где читать подробнее
+
+- [Ключевые документы](../howto/howtostart/README.md)

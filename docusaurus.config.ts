@@ -48,7 +48,7 @@ const config: Config = {
       items: [
         {
           type: 'doc',
-          docId: 'README',
+          docId: 'readme',
           position: 'left',
           label: 'Wiki',
         },

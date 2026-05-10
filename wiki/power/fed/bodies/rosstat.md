@@ -1,5 +1,10 @@
 ---
-description: Федеральная служба государственной статистики (Росстат)
+id: "power-fed-bodies-rosstat"
+title: "Федеральная служба государственной статистики"
+category: "organizations"
+tags: [organizations, knowledge-base]
+last_updated: "2026-05-10"
+source_url: ""
 ---
 
 # Федеральная служба государственной статистики
@@ -71,6 +76,3 @@ description: Федеральная служба государственной 
 ## Материалы для самостоятельного чтения
 
 1. [Положение о Федеральной службе государственной статистики ](http://www.consultant.ru/document/cons_doc_LAW_77389/59b3bba89c63bc31edffe3373483d086a0512112/)
-
-
-
