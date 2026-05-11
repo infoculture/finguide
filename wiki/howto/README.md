@@ -1,8 +1,10 @@
 ---
 title: "How-to"
 sidebar_label: "How-to"
+description: >-
+  Практические инструкции: доступ к API и выгрузкам, анализ показателей и автоматизация обработки открытых данных.
 tags: [howto, index]
-last_updated: 2026-05-10
+last_updated: 2026-05-11
 ---
 
 # How-to: инструкции по работе с данными

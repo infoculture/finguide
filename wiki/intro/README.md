@@ -1,8 +1,9 @@
 ---
 title: Введение
+description: "Оглавление раздела «Введение»: цели книги, навигация, карта данных, обзор бюджета и история изменений."
 category: intro
 tags: [intro, knowledge-base]
-last_updated: 2026-05-10
+last_updated: 2026-05-11
 source_url: ""
 ---
 
@@ -12,6 +13,9 @@ source_url: ""
 
 ## Содержание
 
+- [О базе знаний](./about.md)
 - [Как пользоваться базой знаний](./how-to-use.md)
+- [Карта данных и типовые маршруты](./data-map.md)
 - [Обзор бюджетной системы РФ](./russian-budget-overview.md)
 - [Ключевые законы](./key-laws.md)
+- [История изменений](./changelog.md)

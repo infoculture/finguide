@@ -2,7 +2,7 @@
 title: "Гражданские источники"
 sidebar_label: "Гражданские"
 tags: [data-source, civil]
-last_updated: 2026-05-10
+last_updated: 2026-05-11
 ---
 
 # Гражданские и исследовательские источники данных
@@ -13,6 +13,6 @@ last_updated: 2026-05-10
 - [HubOfData](./hubofdata.md)
 - [DataCatalogs.ru](./datacatalogs-ru.md)
 - [OpenNGO.ru](./open-ngo.md)
-- [Code for Russia](./code-for-russia.md)
 - [Президентские гранты](./pgrants.md)
-- [Всемирный банк — данные по России](./world-bank.md)
+
+Международные официальные витрины (Всемирный банк, Статкомитет СНГ и др.) вынесены в раздел [Международные источники](/data-sources/international/).

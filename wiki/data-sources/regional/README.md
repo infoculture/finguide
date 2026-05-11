@@ -9,5 +9,4 @@ last_updated: 2026-05-10
 
 - [Консолидированные бюджеты субъектов РФ](./consolidated-budgets.md)
 - [Региональные порталы «Открытый бюджет»](./regional-portals.md)
-- [data.rcsi.science](./rcsi-datasets.md)
 - [Муниципальные бюджеты](./municipal-budgets.md)

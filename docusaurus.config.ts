@@ -17,15 +17,15 @@ const config: Config = {
   projectName: 'opengovfinancesbook',
   trailingSlash: false,
 
-  onBrokenLinks: 'warn',
-  onBrokenAnchors: 'warn',
+  onBrokenLinks: 'throw',
+  onBrokenAnchors: 'throw',
 
   staticDirectories: ['static'],
 
   markdown: {
     format: 'md',
     hooks: {
-      onBrokenMarkdownLinks: 'warn',
+      onBrokenMarkdownLinks: 'throw',
       onBrokenMarkdownImages: 'warn',
     },
   },
@@ -101,6 +101,38 @@ const config: Config = {
           label: 'How-to',
         },
         {
+          type: 'dropdown',
+          label: 'Разделы',
+          position: 'left',
+          items: [
+            {
+              type: 'doc',
+              docId: 'budget-system/README',
+              label: 'Бюджетная система',
+            },
+            {
+              type: 'doc',
+              docId: 'budget-classification/README',
+              label: 'Бюджетная классификация',
+            },
+            {
+              type: 'doc',
+              docId: 'legal/README',
+              label: 'Нормативная база',
+            },
+            {
+              type: 'doc',
+              docId: 'reporting/README',
+              label: 'Бюджетная отчётность',
+            },
+            {
+              type: 'doc',
+              docId: 'reference/README',
+              label: 'Справочники',
+            },
+          ],
+        },
+        {
           href: 'https://github.com/infoculture/opengovfinancesbook',
           label: 'GitHub',
           position: 'right',
@@ -119,6 +151,11 @@ const config: Config = {
             {label: 'Информационные системы', to: '/information-systems'},
             {label: 'Источники данных', to: '/data-sources'},
             {label: 'How-to', to: '/howto'},
+            {label: 'Бюджетная система', to: '/budget-system'},
+            {label: 'Бюджетная классификация', to: '/budget-classification'},
+            {label: 'Нормативная база', to: '/legal'},
+            {label: 'Бюджетная отчётность', to: '/reporting'},
+            {label: 'Справочники', to: '/reference'},
           ],
         },
         {
