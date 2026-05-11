@@ -19,6 +19,7 @@ const sidebars: SidebarsConfig = {
         'intro/russian-budget-overview',
         'intro/key-laws',
         'intro/changelog',
+        'intro/wiki-filling-plan',
       ],
     },
     {

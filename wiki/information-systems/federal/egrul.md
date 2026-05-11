@@ -57,7 +57,7 @@ operator_type: federal_body
 - [Открытые данные bus.gov.ru](/data-sources/federal/bus-opendata) — сведения об учреждениях и отчётность в контуре казначейства; часто дополняют выписку ЕГРЮЛ для госсектора (не подменяют регистрационный реестр).
 - [HubOfData](/data-sources/civil/hubofdata) — каталог, где агрегируются в том числе наборы ФНС; удобная точка входа для поиска опубликованных выгрузок и производных реестров.
 
-Для терминов смежного контура см., например: [/glossary/grbs](/glossary/grbs) (роль организации как распорядителя/участника бюджета), [/glossary/pbs](/glossary/pbs) (получатель бюджетных средств), [/glossary/institution-types](/glossary/institution-types) (типы организаций в публичном секторе).
+Для терминов смежного контура см., например: [/glossary/grbs](/glossary/grbs) (роль организации как распорядителя/участника бюджета), [/glossary/pbs](/glossary/pbs) (получатель бюджетных средств), [/glossary/institution-types](/glossary/institution-types) (типы организаций в публичном секторе), [/glossary/gosudarstvennye-nko](/glossary/gosudarstvennye-nko) (НКО с публичным учредителем в аналитике открытых данных).
 
 ## Связанные информационные системы
 

@@ -35,6 +35,7 @@ official_urls:
 - [/data-sources/federal/govtasks](/data-sources/federal/govtasks) — **реестр госзаданий** и карточки учреждений на **bus.gov.ru**.
 - [/data-sources/federal/bus-opendata](/data-sources/federal/bus-opendata) — **машиночитаемые** выгрузки по учреждениям и заданиям.
 - [/data-sources/federal/subsidy](/data-sources/federal/subsidy) — **соглашения** о субсидиях НКО и учреждениям; тип получателя читают вместе с **7-ФЗ** и **[ст. 78–78.1 БК РФ](/legal/budget-code)**.
+- Учреждённые публичным сектором **НКО** (например, АНО или фонд) по **7-ФЗ** **могут** не совпадать с кругом **организаций бюджетной сферы** в смысле **ФЗ от 06.12.2011 № 402-ФЗ** «О бухгалтерском учёте» на дату анализа: для **закупок** ориентируйтесь на статус **заказчика** по **[44-ФЗ](/legal/44fz)** / **[223-ФЗ](/legal/223-fz)** и данные **[ЕИС](/information-systems/federal/zakupki)**, а не только на ОПФ НКО; см. **[государственные и подведомственные НКО](/glossary/gosudarstvennye-nko)**.
 
 ## Связанные страницы wiki
 
@@ -42,6 +43,7 @@ official_urls:
 - [/legal/budget-code](/legal/budget-code) — **субсидии** и **госзадание** в бюджетной логике.
 - [/legal/pp640-state-assignment](/legal/pp640-state-assignment) — **ПП № 640** о формировании задания для **федеральных** учреждений.
 - [/glossary/institution-types](/glossary/institution-types) — **КУ / БУ / АУ** в данных.
+- [/glossary/gosudarstvennye-nko](/glossary/gosudarstvennye-nko) — **НКО** с публичным учредителем или устойчивым бюджетным финансированием вне типового контура учреждения; связка с данными и закупками.
 
 ## Официальные источники текста
 

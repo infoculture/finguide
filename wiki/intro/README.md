@@ -19,3 +19,4 @@ source_url: ""
 - [Обзор бюджетной системы РФ](./russian-budget-overview.md)
 - [Ключевые законы](./key-laws.md)
 - [История изменений](./changelog.md)
+- [План наполнения wiki](./wiki-filling-plan.md)

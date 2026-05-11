@@ -83,11 +83,24 @@ npm start
 
 ## Деплой
 
-По умолчанию настроен деплой на GitHub Pages с baseUrl `/opengovfinancesbook/`. Чтобы опубликовать обновления:
+По умолчанию настроен деплой на GitHub Pages с baseUrl `/opengovfinancesbook/`. Публичный адрес: [https://infoculture.github.io/opengovfinancesbook/](https://infoculture.github.io/opengovfinancesbook/).
+
+### Настройка репозитория на GitHub
+
+1. **Settings → Pages** (раздел *Build and deployment*).
+2. Источник: **Deploy from a branch**.
+3. Ветка **`gh-pages`**, папка **`/ (root)`** (так работает `docusaurus deploy`).
+
+Ветка **`gh-pages`** в этом репозитории уже создана и содержит `.nojekyll` (без хотя бы одного отслеживаемого файла команда `npm run deploy` у Docusaurus может упасть на шаге `git rm -rf .`).
+
+### Публикация обновлений с машины
 
 ```bash
+npm run build   # убедиться, что сборка проходит
 GIT_USER=<ваш_github_логин> npm run deploy
 ```
+
+Если Git запрашивает пароль при HTTPS, для аккаунта с 2FA используйте **Personal Access Token** (переменная `GIT_PASS` вместе с `GIT_USER`, см. [документацию Docusaurus](https://docusaurus.io/docs/deployment#deploying-to-github-pages)) или деплой по SSH: `USE_SSH=true GIT_USER=<логин> npm run deploy` при настроенном ключе и актуальных записях `github.com` в `~/.ssh/known_hosts`.
 
 ## Лицензия
 

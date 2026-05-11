@@ -55,9 +55,12 @@ last_updated: 2026-05-11
 
 ## Учреждения, госпрограммы и внешний контроль
 
+- [Мониторинг образования: организации ВО (monitoring.miccedu.ru)](./programs-orgs/miccedu-monitoring-vpo.md)
+- [ГИС «Наука»: НИОКТР, РИД и связь с бюджетным финансированием](./programs-orgs/gisnauka-niokr-rid-budget.md)
 - [Открытые данные bus.gov.ru](./programs-orgs/bus-opendata.md)
 - [programs.economy.gov.ru — веб-клиент АИС ГП](./programs-orgs/programs-economy-ais-gp.md)
 - [Данные ГАС «Управление»](./programs-orgs/gasu-programs.md)
+- [ГАС «Управление» — реестр документов стратегического планирования](./programs-orgs/gasu-stratdocuments.md)
 - [Перечень объектов капитального строительства (PDF, government.ru)](./programs-orgs/perechen-obektov-kapitalnogo-stroitelstva.md)
 - [Счётная палата: открытые данные и материалы аудита](./programs-orgs/accounts-chamber-opendata.md)
 

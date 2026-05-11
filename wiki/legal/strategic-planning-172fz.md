@@ -40,6 +40,7 @@ official_urls:
 - [/data-sources/federal/fcp](/data-sources/federal/fcp) — **госпрограммы**, паспорта и архив ФЦП; смысловая связка с **172-ФЗ** и **[БК РФ](/legal/budget-code)**.
 - [/data-sources/federal/budget-gov-ru-datasets](/data-sources/federal/budget-gov-ru-datasets) — **машиночитаемые** срезы портала **budget.gov.ru**, где программные показатели стыкуются с бюджетными.
 - [/information-systems/federal/programs-gov](/information-systems/federal/programs-gov) — **официальный реестр** паспортов и карточек программ.
+- [/data-sources/federal/gasu-stratdocuments](/data-sources/federal/gasu-stratdocuments) — **реестр документов стратегического планирования** (федеральный, региональный, муниципальный уровни) на портале **ГАС «Управление»**; дополняет паспорта и открытые наборы **текстовой** линией публикаций.
 
 ## Связанные страницы wiki
 
