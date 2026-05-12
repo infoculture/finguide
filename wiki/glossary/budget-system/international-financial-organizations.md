@@ -1,12 +1,23 @@
 ---
-title: "Международные финансовые организации"
-sidebar_label: "Международные финансовые организации"
-tags: [glossary, budget]
+title: Международные финансовые организации
+sidebar_label: Международные финансовые организации
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-last_updated: 2026-05-11
-source_url: "https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/"
-abbreviations: ["МФО"]
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
+abbreviations:
+  - МФО
 slug: /glossary/international-financial-organizations
+description: >-
+  международные финансовые организации (МФО) — это межгосударственные институты,
+  специализирующиеся на кредитовании и иных финансовых операциях по уставам,
+  утверждённым странами-участниками. В российском контексте госдолга их
+  связывают с нефинансовыми кредитами, ПГВЗ и двусторонними/многосторонними
+  внешними заимствова...
+content_type: concept
+entity_type: glossary
 ---
 
 # Международные финансовые организации

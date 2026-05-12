@@ -1,12 +1,23 @@
 ---
-title: "Сводная бюджетная роспись"
-sidebar_label: "Сводная бюджетная роспись"
-tags: [glossary, budget]
+title: Сводная бюджетная роспись
+sidebar_label: Сводная бюджетная роспись
+tags:
+  - glossary
+  - budget
 glossary_kind: process
-abbreviations: ["СБР"]
-last_updated: 2026-05-11
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+abbreviations:
+  - СБР
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/summary-budget-schedule
+description: >-
+  сводная бюджетная роспись — документ финансового органа (или органа управления
+  ГВФ), которым организуют исполнение соответствующего бюджета по расходам и
+  источникам финансирования дефицита. Для аналитика открытых данных это мост
+  между законом о бюджете и ведомственными бюджетными росписями и кассовыми
+  сводами.
+content_type: concept
+entity_type: glossary
 ---
 
 # Сводная бюджетная роспись

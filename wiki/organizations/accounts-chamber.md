@@ -1,13 +1,27 @@
 ---
-title: "Счётная палата РФ"
-sidebar_label: "СП РФ"
-tags: [organizations, federal, oversight]
-source_url: https://ach.gov.ru/
-last_updated: 2026-05-11
+title: Счётная палата РФ
+sidebar_label: СП РФ
+tags:
+  - organizations
+  - federal
+  - oversight
+source_url: 'https://ach.gov.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 org_kind: state_audit
-budget_roles: ["external_audit"]
-aliases: ["Счётная палата", "СП РФ"]
-reports_to: "Федеральное Собрание РФ"
+budget_roles:
+  - external_audit
+aliases:
+  - Счётная палата
+  - СП РФ
+reports_to: Федеральное Собрание РФ
+description: >-
+  высший орган внешнего государственного аудита — для аналитики открытых
+  финансов это источник заключений, планов проверок и тематических материалов,
+  которые нужно сопоставлять с первичной бюджетной отчётностью (казначейство,
+  витрины исполнения), а не заменять ею. | Признак | Значение | | :--- | :--- |
+  | Краткое имя |...
+content_type: organization
+entity_type: organization
 ---
 
 # Счётная палата РФ

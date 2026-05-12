@@ -1,13 +1,21 @@
 ---
-title: "ГИС «Торги» (torgi.gov.ru)"
-sidebar_label: "torgi.gov.ru"
-tags: [information-system, federal, budget]
-source_url: https://torgi.gov.ru/
-last_updated: 2026-05-11
+title: ГИС «Торги» (torgi.gov.ru)
+sidebar_label: torgi.gov.ru
+tags:
+  - information-system
+  - federal
+  - budget
+source_url: 'https://torgi.gov.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 system_kind: public_portal
 access: open
 operator_type: federal_body
-primary_topics: ["state_property", "budget_execution"]
+primary_topics:
+  - state_property
+  - budget_execution
+content_type: reference
+entity_type: information-system
+description: '# ГИС «Торги» (torgi.gov.ru)'
 ---
 
 # ГИС «Торги» (torgi.gov.ru)

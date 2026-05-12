@@ -1,13 +1,29 @@
 ---
-title: "Федеральное казначейство"
-sidebar_label: "Казначейство России"
-tags: [organizations, federal, budget, procurement]
-source_url: https://roskazna.gov.ru/
-last_updated: 2026-05-10
+title: Федеральное казначейство
+sidebar_label: Казначейство России
+tags:
+  - organizations
+  - federal
+  - budget
+  - procurement
+source_url: 'https://roskazna.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 org_kind: executive_service
-budget_roles: ["budget_execution", "procurement_oversight"]
-aliases: ["Росказна", "Казначейство России"]
-reports_to: "Правительство РФ"
+budget_roles:
+  - budget_execution
+  - procurement_oversight
+aliases:
+  - Росказна
+  - Казначейство России
+reports_to: Правительство РФ
+description: >-
+  оператор казначейского исполнения бюджетов и ключевых федеральных ИС — для
+  открытых финансов это главный слой кассового факта, лицевых счетов и
+  регламентированной отчётности об исполнении рядом с плановыми срезами
+  «Электронного бюджета», плюс оператор ЕИС, bus.gov.ru и ГАСУ. | Признак |
+  Значение | | :--- | :--- | | ...
+content_type: organization
+entity_type: organization
 ---
 
 # Федеральное казначейство

@@ -1,14 +1,25 @@
 ---
-title: "Отчётность об исполнении государственного (муниципального) задания"
-sidebar_label: "Государственное задание"
-tags: [reporting, institution, assignment]
-last_updated: 2026-05-10
+title: Отчётность об исполнении государственного (муниципального) задания
+sidebar_label: Государственное задание
+tags:
+  - reporting
+  - institution
+  - assignment
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /reporting/state-assignment-reporting
 jurisdiction: mixed
 periodicity: annual
 execution_basis: mixed
-primary_breakdown: "Услуги и работы, объёмы, качество, финансовое обеспечение задания"
-operator_hint: "Заказчик задания (орган власти); учреждение — исполнитель; публикации на bus.gov.ru и в открытых данных"
+primary_breakdown: 'Услуги и работы, объёмы, качество, финансовое обеспечение задания'
+operator_hint: >-
+  Заказчик задания (орган власти); учреждение — исполнитель; публикации на
+  bus.gov.ru и в открытых данных
+description: >-
+  это отчётность о выполнении поручения государства учреждению по услугам
+  гражданам и работам; она дополняет План ФХД, но измеряет прежде всего
+  результат и качество, а не только кассу.
+content_type: reporting
+entity_type: reporting-form
 ---
 
 # Отчётность об исполнении государственного (муниципального) задания

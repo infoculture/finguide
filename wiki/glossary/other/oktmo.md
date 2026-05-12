@@ -1,13 +1,25 @@
 ---
-title: "ОКТМО — Общероссийский классификатор территорий муниципальных образований"
-sidebar_label: "ОКТМО"
-tags: [glossary, budget]
+title: ОКТМО — Общероссийский классификатор территорий муниципальных образований
+sidebar_label: ОКТМО
+tags:
+  - glossary
+  - budget
 glossary_kind: classification
-abbreviations: ["ОКТМО", "ОКАТО"]
-last_updated: 2026-05-10
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_89167/"
+abbreviations:
+  - ОКТМО
+  - ОКАТО
+last_updated: 2026-05-10T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_89167/'
 slug: /glossary/oktmo
 sidebar_position: 4
+description: >-
+  ОКТМО — действующий классификатор кодов муниципальных образований и населённых
+  пунктов, который в открытых бюджетных и статистических наборах задаёт
+  территориальную привязку строк (местный бюджет, консолидация субъекта,
+  региональные выгрузки). Его часто путают со старым ОКАТО; при склейке таблиц
+  разных лет без перек...
+content_type: concept
+entity_type: glossary
 ---
 
 # ОКТМО — Общероссийский классификатор территорий муниципальных образований

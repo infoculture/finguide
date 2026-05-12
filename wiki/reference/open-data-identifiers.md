@@ -1,8 +1,11 @@
 ---
-title: "Идентификаторы в открытых наборах"
-sidebar_label: "Идентификаторы в наборах"
-tags: [reference]
-last_updated: 2026-05-11
+title: Идентификаторы в открытых наборах
+sidebar_label: Идентификаторы в наборах
+tags:
+  - reference
+last_updated: 2026-05-11T00:00:00.000Z
+content_type: reference
+description: '# Идентификаторы в открытых наборах'
 ---
 
 # Идентификаторы в открытых наборах

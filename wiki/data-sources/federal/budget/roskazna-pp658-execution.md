@@ -1,19 +1,40 @@
 ---
-title: "Казначейство: исполнение постановления Правительства РФ от 08.06.2018 № 658 (раздел портала)"
-sidebar_label: "Казначейство: исполнение ПП № 658"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: >-
+  Казначейство: исполнение постановления Правительства РФ от 08.06.2018 № 658
+  (раздел портала)
+sidebar_label: 'Казначейство: исполнение ПП № 658'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-pp658-execution
-source_url: "https://roskazna.gov.ru/gis/ispolnenie-pp-rf-658/"
+source_url: 'https://roskazna.gov.ru/gis/ispolnenie-pp-rf-658/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "xls", "xlsx", "pdf"]
+formats:
+  - html
+  - xls
+  - xlsx
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  специализированный вход на `roskazna.gov.ru` для тематики ПП № 658; технически
+  это не тот же URL-префикс, что у подразделов `/ispolnenie-byudzhetov/…`, но
+  пункт фигурирует в навигации раздела об исполнении бюджетов.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/roskazna-federal-budget-execution
+  - /information-systems/federal/giis-eb
+  - /glossary/treasury-execution
 ---
-
-# Казначейство: исполнение постановления Правительства РФ от 08.06.2018 № 658 (раздел портала)
 
 | Признак | Значение |
 | :--- | :--- |

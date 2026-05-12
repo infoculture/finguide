@@ -1,19 +1,39 @@
 ---
-title: "Налоговая статистика ФНС"
-sidebar_label: "Налоговая статистика ФНС"
-tags: [data-source, federal, tax, statistics]
-source_url: https://www.nalog.gov.ru/rn77/related_activities/statistics_and_analytics/
-last_updated: 2026-05-11
+title: Налоговая статистика ФНС
+sidebar_label: Налоговая статистика ФНС
+tags:
+  - data-source
+  - federal
+  - tax
+  - statistics
+source_url: 'https://www.nalog.gov.ru/rn77/related_activities/statistics_and_analytics/'
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/nalog-statistics
 data_source_kind: files
 jurisdiction: federal
 access: open
-formats: ["xls", "xlsx", "html"]
+formats:
+  - xls
+  - xlsx
+  - html
 status: current
-related_information_system: "/information-systems/federal/fnssite"
+related_information_system: /information-systems/federal/fnssite
+description: >-
+  готовые таблицы налоговой и смежной статистической отчётности (1-НМ, 1-НДС,
+  7-НП и др.) — основной публичный способ оценить собираемость, базы и
+  задолженность по правилам ФНС. Для анализа кассового исполнения бюджета по КБК
+  это вспомогательный слой: его сверяют с казначейскими и бюджетными контурами,
+  не отождествляя...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/fnssite
+  - /organizations/fns
+  - /data-sources/federal/nalog-regstats
+  - /data-sources/federal/roskazna-reports
+  - /reporting/tax-and-customs-revenue-statistics
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
 ---
-
-# Налоговая статистика ФНС
 
 | Признак | Значение |
 | :--- | :--- |

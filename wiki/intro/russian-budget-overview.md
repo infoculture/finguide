@@ -2,11 +2,15 @@
 title: Общее устройство бюджетной системы РФ
 sidebar_label: Обзор бюджета
 description: >-
-  Сжатая схема уровней бюджетов, ГВФ и карты ссылок на раздел «Бюджетная система» и глоссарий.
+  Сжатая схема уровней бюджетов, ГВФ и карты ссылок на раздел «Бюджетная
+  система» и глоссарий.
 category: intro
-tags: [intro, budget-system]
-last_updated: 2026-05-11
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+tags:
+  - intro
+  - budget-system
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
+content_type: reference
 ---
 
 # Общее устройство бюджетной системы РФ

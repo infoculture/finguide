@@ -1,13 +1,24 @@
 ---
-title: "ПБС — Получатель бюджетных средств"
-sidebar_label: "ПБС"
-tags: [glossary, budget]
+title: ПБС — Получатель бюджетных средств
+sidebar_label: ПБС
+tags:
+  - glossary
+  - budget
 glossary_kind: organization
-abbreviations: ["ПБС"]
-last_updated: 2026-05-10
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+abbreviations:
+  - ПБС
+last_updated: 2026-05-10T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/pbs
 sidebar_position: 5
+description: >-
+  это роль участника бюджетного процесса, которому по правилам БК РФ можно
+  принимать и исполнять бюджетные обязательства от имени публично-правового
+  образования — органы власти, органы управления государственным внебюджетным
+  фондом, органы МСУ, органы местной администрации, а также казённое учреждение,
+  находящееся в в...
+content_type: concept
+entity_type: glossary
 ---
 
 # ПБС — Получатель бюджетных средств

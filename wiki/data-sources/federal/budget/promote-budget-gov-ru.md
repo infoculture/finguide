@@ -1,16 +1,37 @@
 ---
-title: "Единая площадка мер финансовой государственной поддержки (promote.budget.gov.ru)"
-sidebar_label: "Площадка мер финподдержки (promote)"
-tags: [data-source, federal, subsidies]
-last_updated: 2026-05-11
+title: >-
+  Единая площадка мер финансовой государственной поддержки
+  (promote.budget.gov.ru)
+sidebar_label: Площадка мер финподдержки (promote)
+tags:
+  - data-source
+  - federal
+  - subsidies
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/promote-budget-gov-ru
-source_url: "https://promote.budget.gov.ru/"
+source_url: 'https://promote.budget.gov.ru/'
 data_source_kind: ui_only
 jurisdiction: federal
 access: open
-formats: ["html", "pdf"]
+formats:
+  - html
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/giis-eb"
+related_information_system: /information-systems/federal/giis-eb
+description: >-
+  официальная точка входа для заявителей по отборам на меры финансовой поддержки
+  из бюджета: условия, календарь и подача заявок в электронном виде. Для
+  машиночитаемого учёта уже заключённых соглашений и сумм по КБК ориентируйтесь
+  на реестр соглашений и наборы budget.gov.ru, а не на HTML площадки отбора.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/subsidy
+  - /glossary/subsidies
+  - /howto/analysis/subsidy-tracking
+  - /budget-system/federal-budget
 ---
 
 # Единая площадка мер финансовой государственной поддержки (promote.budget.gov.ru)

@@ -1,13 +1,25 @@
 ---
-title: "ОГРН / ОГРНИП — основной государственный регистрационный номер"
-sidebar_label: "ОГРН / ОГРНИП"
-tags: [glossary, budget]
+title: ОГРН / ОГРНИП — основной государственный регистрационный номер
+sidebar_label: ОГРН / ОГРНИП
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-abbreviations: ["ОГРН", "ОГРНИП"]
-last_updated: 2026-05-10
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_5142/"
+abbreviations:
+  - ОГРН
+  - ОГРНИП
+last_updated: 2026-05-10T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_5142/'
 slug: /glossary/ogrn
 sidebar_position: 5
+description: >-
+  ОГРН (для юридических лиц) и ОГРНИП (для индивидуальных предпринимателей) —
+  номера государственной регистрации в ЕГРЮЛ и ЕГРИП. В открытых данных они
+  дополняют ИНН при сопоставлении контрагентов: одна организация имеет один
+  ОГРН, а ИНН используется в налоговом контуре; для надёжной склейки реестров
+  разумно проверять...
+content_type: concept
+entity_type: glossary
 ---
 
 # ОГРН / ОГРНИП — основной государственный регистрационный номер

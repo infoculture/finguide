@@ -1,13 +1,22 @@
 ---
-title: "Портал «Нормативные правовые акты в Российской Федерации» (pravo.minjust.ru)"
-sidebar_label: "НПА Минюста (pravo.minjust.ru)"
-tags: [information-system, federal, budget, legal]
-source_url: "https://pravo.minjust.ru/"
-last_updated: 2026-05-10
+title: Портал «Нормативные правовые акты в Российской Федерации» (pravo.minjust.ru)
+sidebar_label: НПА Минюста (pravo.minjust.ru)
+tags:
+  - information-system
+  - federal
+  - budget
+  - legal
+source_url: 'https://pravo.minjust.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: public_portal
 access: open
 operator_type: federal_body
-primary_topics: ["budget", "legal"]
+primary_topics:
+  - budget
+  - legal
+content_type: reference
+entity_type: information-system
+description: '# Портал «Нормативные правовые акты в Российской Федерации» (pravo.minjust.ru)'
 ---
 
 # Портал «Нормативные правовые акты в Российской Федерации» (pravo.minjust.ru)

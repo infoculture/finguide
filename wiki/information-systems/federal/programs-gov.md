@@ -1,13 +1,21 @@
 ---
-title: "programs.gov.ru — Государственные программы РФ"
-sidebar_label: "programs.gov.ru"
-tags: [information-system, federal, budget]
-source_url: https://programs.gov.ru/
-last_updated: 2026-05-11
+title: programs.gov.ru — Государственные программы РФ
+sidebar_label: programs.gov.ru
+tags:
+  - information-system
+  - federal
+  - budget
+source_url: 'https://programs.gov.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 system_kind: public_portal
 access: open
-primary_topics: ["budget", "strategic_planning"]
+primary_topics:
+  - budget
+  - strategic_planning
 operator_type: federal_body
+content_type: reference
+entity_type: information-system
+description: '# programs.gov.ru — Государственные программы РФ'
 ---
 
 # programs.gov.ru — Государственные программы РФ

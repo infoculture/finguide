@@ -1,13 +1,22 @@
 ---
-title: "Аналитический портал ФНС России"
-sidebar_label: "analytic.nalog.gov.ru"
-tags: [information-system, federal, tax, statistics]
-source_url: https://analytic.nalog.gov.ru/
-last_updated: 2026-05-10
+title: Аналитический портал ФНС России
+sidebar_label: analytic.nalog.gov.ru
+tags:
+  - information-system
+  - federal
+  - tax
+  - statistics
+source_url: 'https://analytic.nalog.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: public_portal
 access: open
 operator_type: federal_body
-primary_topics: ["tax", "statistics"]
+primary_topics:
+  - tax
+  - statistics
+content_type: reference
+entity_type: information-system
+description: '# Аналитический портал ФНС России'
 ---
 
 # Аналитический портал ФНС России

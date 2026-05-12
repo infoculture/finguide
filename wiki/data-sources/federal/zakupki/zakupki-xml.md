@@ -1,16 +1,34 @@
 ---
-title: "XML-выгрузки ЕИС Закупки"
-sidebar_label: "XML-выгрузки ЕИС Закупки"
-tags: [data-source, federal, procurement]
-last_updated: 2026-05-11
+title: XML-выгрузки ЕИС Закупки
+sidebar_label: XML-выгрузки ЕИС Закупки
+tags:
+  - data-source
+  - federal
+  - procurement
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/zakupki-xml
-source_url: "https://zakupki.gov.ru/epz/main/public/document/view.html"
+source_url: 'https://zakupki.gov.ru/epz/main/public/document/view.html'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["xml", "zip"]
+formats:
+  - xml
+  - zip
 status: current
-related_information_system: "/information-systems/federal/zakupki"
+related_information_system: /information-systems/federal/zakupki
+description: >-
+  сырой контрактный след закупок — извещения, протоколы, контракты,
+  планы-графики, реестровые сущности — в виде XML, чтобы построить собственный
+  регистр контрактов и связать заказчиков и поставщиков по ИНН/ОГРН с ЕГРЮЛ и
+  бюджетными контурами.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/zakupki
+  - /data-sources/federal/procurement
+  - /information-systems/federal/egrul
+  - /glossary/procurement-44fz
+  - /data-sources/federal/minfin-purchases-monitoring
 ---
 
 # XML-выгрузки ЕИС Закупки

@@ -1,13 +1,24 @@
 ---
-title: "Учёт и отчётность учреждений (бюджетный учёт и СФО госфинансов)"
-sidebar_label: "Учёт учреждений"
-tags: [glossary, classification]
+title: Учёт и отчётность учреждений (бюджетный учёт и СФО госфинансов)
+sidebar_label: Учёт учреждений
+tags:
+  - glossary
+  - classification
 glossary_kind: concept
-abbreviations: ["СФО"]
-last_updated: 2026-05-10
-source_url: https://minfin.gov.ru/ru/perfomance/accounting/publicsector/
+abbreviations:
+  - СФО
+last_updated: 2026-05-10T00:00:00.000Z
+source_url: 'https://minfin.gov.ru/ru/perfomance/accounting/publicsector/'
 slug: /glossary/institution-accounting
 sidebar_position: 11
+description: >-
+  бюджетный учёт и бухгалтерская отчётность государственных и муниципальных
+  учреждений ведутся по инструкциям Минфина России (отдельно для казённых,
+  бюджетных и автономных организаций). Стандарты финансовой отчётности
+  государственных финансов (СФО госфинансов) задают концепцию и форматы
+  отчётности организаций государс...
+content_type: concept
+entity_type: glossary
 ---
 
 # Учёт и отчётность учреждений (бюджетный учёт и СФО госфинансов)

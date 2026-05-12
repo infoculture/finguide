@@ -1,19 +1,39 @@
 ---
-title: "Казначейство: размещение средств единого казначейского счета (отчёты о финансовых операциях)"
-sidebar_label: "Казначейство: размещение средств ЕКС"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: >-
+  Казначейство: размещение средств единого казначейского счета (отчёты о
+  финансовых операциях)
+sidebar_label: 'Казначейство: размещение средств ЕКС'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-finops-treasury-account-placements
-source_url: "https://roskazna.gov.ru/finansovye-operacii/razmeshchenie-sredstv-edinogo-kaznachejskogo-scheta"
+source_url: >-
+  https://roskazna.gov.ru/finansovye-operacii/razmeshchenie-sredstv-edinogo-kaznachejskogo-scheta
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "docx", "xml"]
+formats:
+  - html
+  - docx
+  - xml
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  официальная витрина Казначейства по размещению средств ЕКС (репо, депозиты,
+  счета, производные и др. — по оглавлению сайта); для агрегатов исполнения
+  бюджета по КБК используйте отчёты раздела «Исполнение бюджетов».
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-finops-treasury-account-fundraising
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/roskazna-federal-budget-execution
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
 ---
-
-# Казначейство: размещение средств единого казначейского счета (отчёты о финансовых операциях)
 
 | Признак | Значение |
 | :--- | :--- |

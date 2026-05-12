@@ -1,11 +1,21 @@
 ---
-title: "Государственные внешние заимствования"
-sidebar_label: "Государственные внешние заимствования"
-tags: [glossary, budget]
+title: Государственные внешние заимствования
+sidebar_label: Государственные внешние заимствования
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-last_updated: 2026-05-11
-source_url: "https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/"
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
 slug: /glossary/state-external-borrowings
+description: >-
+  государственные внешние заимствования — это привлечение средств в иностранной
+  валюте для покрытия дефицита федерального бюджета и погашения ранее принятых
+  долговых обязательств Российской Федерации. В открытых финансах их связывают с
+  Программой госвнешних заимствований, отчётностью о долге и параметрами закона
+  о фед...
+content_type: concept
+entity_type: glossary
 ---
 
 # Государственные внешние заимствования

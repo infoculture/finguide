@@ -1,12 +1,22 @@
 ---
-title: "Расходные обязательства публичного сектора"
-sidebar_label: "Расходные обязательства"
-tags: [glossary, budget]
+title: Расходные обязательства публичного сектора
+sidebar_label: Расходные обязательства
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-last_updated: 2026-05-10
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+last_updated: 2026-05-10T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/expenditure-commitments
 sidebar_position: 10
+description: >-
+  расходные обязательства — меры, реализуемые публично-правовыми образованиями
+  Российской Федерации и предусматривающие расходы бюджетов бюджетной системы РФ
+  либо расходы юридических лиц, созданных публично-правовыми образованиями (ст.
+  6 БК РФ, понятие в актуальной редакции). Для аналитики открытых данных термин
+  связы...
+content_type: concept
+entity_type: glossary
 ---
 
 # Расходные обязательства публичного сектора

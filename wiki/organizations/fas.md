@@ -1,12 +1,27 @@
 ---
-title: "Федеральная антимонопольная служба"
-sidebar_label: "ФАС России"
-tags: [organizations, federal, procurement, oversight]
-source_url: https://fas.gov.ru/
-last_updated: 2026-05-10
+title: Федеральная антимонопольная служба
+sidebar_label: ФАС России
+tags:
+  - organizations
+  - federal
+  - procurement
+  - oversight
+source_url: 'https://fas.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 org_kind: executive_service
-budget_roles: ["procurement_oversight"]
-aliases: ["ФАС", "ФАС России"]
+budget_roles:
+  - procurement_oversight
+aliases:
+  - ФАС
+  - ФАС России
+description: >-
+  ФАС России — федеральный орган исполнительной власти, через который в открытых
+  данных чаще всего проходят контроль закупок, жалобы по 44-ФЗ и 223-ФЗ, реестр
+  недобросовестных поставщиков (РНП) и сведения о естественных монополиях. Для
+  связки с бюджетом и контрактами эти потоки нужно сопоставлять с ЕИС и
+  классификатор...
+content_type: organization
+entity_type: organization
 ---
 
 # Федеральная антимонопольная служба

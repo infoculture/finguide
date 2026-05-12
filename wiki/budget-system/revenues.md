@@ -1,8 +1,23 @@
 ---
-title: "Классификация доходов"
-sidebar_label: "Классификация доходов"
-tags: [budget-system]
-last_updated: 2026-05-11
+title: Классификация доходов
+sidebar_label: Классификация доходов
+tags:
+  - budget-system
+last_updated: 2026-05-12T00:00:00.000Z
+content_type: concept
+related_pages:
+  - /budget-system
+  - /budget-system/federal-budget
+  - /budget-system/expenditures
+  - /budget-classification/overview
+  - /budget-classification/income-codes
+  - /glossary/kbk
+  - /glossary/budget-revenues-expenditures
+  - /information-systems/federal/giis-eb
+description: >-
+  Доходы бюджета в смысле БК РФ — поступления в кассу бюджета, не отнесённые к
+  источникам финансирования дефицита; в открытых данных их отличают по типу КБК
+  от расходов и ИФД (см. доходы и расходы бюджета).
 ---
 
 # Классификация доходов

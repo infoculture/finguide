@@ -22,6 +22,8 @@ draft: true
 | `tags` | да | `[legal, procurement]` — вторая метка по теме (`budget`, `procurement`, `open-data`, `accounting`, …) |
 | `last_updated` | да | `2026-05-11` |
 | `slug` | да для новых карточек | `/legal/<slug>` — тот же `<slug>`, что имя файла |
+| `content_type` | да | `legal` |
+| `entity_type` | да | `legal-document` |
 | `doc_kind` | рекомендуется | `constitution` \| `federal_law` \| `government_decree` \| `ministry_order` \| `instruction` \| `overview` |
 | `source_url` | по возможности | одна основная ссылка на актуальную редакцию (Консультант, Гарант, pravo.gov.ru) |
 | `official_urls` | при нескольких входах | список зеркал официального текста (YAML-массив строк) |
@@ -35,6 +37,8 @@ description: >-
 tags: [legal, <тема>]
 last_updated: YYYY-MM-DD
 slug: /legal/<slug>
+content_type: legal
+entity_type: legal-document
 doc_kind: federal_law
 # source_url: "https://..."
 # official_urls:

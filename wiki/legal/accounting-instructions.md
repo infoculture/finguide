@@ -1,15 +1,23 @@
 ---
-title: "Инструкции Минфина России по бюджетному учёту (157н, 162н, 174н, 183н и смежные акты)"
-sidebar_label: "Инструкции по бюджетному учёту"
+title: >-
+  Инструкции Минфина России по бюджетному учёту (157н, 162н, 174н, 183н и
+  смежные акты)
+sidebar_label: Инструкции по бюджетному учёту
 description: >-
-  Подзаконные акты Минфина России, которые задают единый план счетов бюджетного учёта и порядок его применения у казённых, бюджетных и автономных учреждений; связь с КОСГУ, открытыми наборами и отчётностью учреждений.
-tags: [legal, accounting]
-last_updated: 2026-05-11
+  Подзаконные акты Минфина России, которые задают единый план счетов бюджетного
+  учёта и порядок его применения у казённых, бюджетных и автономных учреждений;
+  связь с КОСГУ, открытыми наборами и отчётностью учреждений.
+tags:
+  - legal
+  - accounting
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /legal/accounting-instructions
 doc_kind: instruction
-source_url: "https://minfin.gov.ru/ru/perfomance/accounting/publicsector/"
+source_url: 'https://minfin.gov.ru/ru/perfomance/accounting/publicsector/'
 official_urls:
-  - "https://pravo.gov.ru/"
+  - 'https://pravo.gov.ru/'
+content_type: legal
+entity_type: legal-document
 ---
 
 # Инструкции Минфина России по бюджетному учёту (157н, 162н, 174н, 183н и смежные акты)

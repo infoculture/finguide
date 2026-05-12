@@ -1,19 +1,36 @@
 ---
-title: "Минфин: краткая информация об исполнении федерального бюджета"
-sidebar_label: "Минфин: исполнение ФБ (fedbud/execute)"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: 'Минфин: краткая информация об исполнении федерального бюджета'
+sidebar_label: 'Минфин: исполнение ФБ (fedbud/execute)'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/minfin-fedbud-execute
-source_url: "https://minfin.gov.ru/ru/statistics/fedbud/execute/"
+source_url: 'https://minfin.gov.ru/ru/statistics/fedbud/execute/'
 data_source_kind: files
 jurisdiction: federal
 access: open
-formats: ["xlsx"]
+formats:
+  - xlsx
 status: current
-related_information_system: "/information-systems/federal/minfinsite"
+related_information_system: /information-systems/federal/minfinsite
+description: >-
+  официальные агрегированные таблицы исполнения федерального бюджета от Минфина
+  (в выражении млрд руб.) — удобная макро-точка входа для обзора динамики
+  доходов и расходов; для регламентированной отчётности по формам, КБК и
+  кассового контура используйте Казначейство и ГИИС «Электронный бюджет».
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/minfinsite
+  - /organizations/minfin
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/roskazna-federal-budget-execution
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /budget-system/federal-budget
 ---
-
-# Минфин: краткая информация об исполнении федерального бюджета
 
 | Признак | Значение |
 | :--- | :--- |

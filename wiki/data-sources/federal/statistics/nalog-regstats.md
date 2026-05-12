@@ -1,19 +1,39 @@
 ---
-title: "Статистика государственной регистрации ЮЛ и ИП (ФНС)"
-sidebar_label: "Статистика госрегистрации ФНС"
-tags: [data-source, federal, statistics, organizations]
-source_url: https://www.nalog.gov.ru/rn77/related_activities/statistics_and_analytics/regstats/
-last_updated: 2026-05-11
+title: Статистика государственной регистрации ЮЛ и ИП (ФНС)
+sidebar_label: Статистика госрегистрации ФНС
+tags:
+  - data-source
+  - federal
+  - statistics
+  - organizations
+source_url: >-
+  https://www.nalog.gov.ru/rn77/related_activities/statistics_and_analytics/regstats/
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/nalog-regstats
 data_source_kind: files
 jurisdiction: federal
 access: open
-formats: ["html", "xlsx", "docx"]
+formats:
+  - html
+  - xlsx
+  - docx
 status: current
-related_information_system: "/information-systems/federal/fnssite"
+related_information_system: /information-systems/federal/fnssite
+description: >-
+  официальные годовые своды по регистрационной деятельности (формы 1-ЮР, 1-ИП) и
+  тематические файлы по гендерному составу новых ИП/ЮЛ — для анализа динамики
+  бизнеса, сопоставления с макро- и региональными рядами и контекста закупок и
+  контрагентов, без подмены микроданных реестра ЕГРЮЛ/ЕГРИП.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/fnssite
+  - /organizations/fns
+  - /information-systems/federal/egrul
+  - /data-sources/federal/nalog-statistics
+  - /data-sources/federal/rosstat-opendata
+  - /data-sources/federal/procurement
 ---
-
-# Статистика государственной регистрации ЮЛ и ИП (ФНС)
 
 | Признак | Значение |
 | :--- | :--- |

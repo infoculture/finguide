@@ -11,13 +11,27 @@
     "swizzle": "docusaurus swizzle",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "lint:frontmatter": "node scripts/frontmatter-lint.mjs",
+    "lint:howto": "node scripts/howto-structure-lint.mjs",
+    "lint:qa": "node scripts/validate-qa-jsonl.mjs",
+    "qa:retrieval": "node scripts/qa-retrieval-regression.mjs",
+    "lint:corpus": "node scripts/corpus-markdown-lint.mjs",
+    "lint:related-pages": "node scripts/validate-related-pages.mjs",
+    "export:knowledge": "node scripts/export-knowledge-index.mjs",
+    "presubmit": "npm run lint:frontmatter && npm run lint:howto && npm run export:knowledge -- --check && npm run lint:qa && npm run qa:retrieval && npm run lint:related-pages && npm run lint:corpus && npm run typecheck && npm run build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/infoculture/opengovfinancesbook.git"
   },
-  "keywords": ["opengov", "finance", "russia", "wiki", "docusaurus"],
+  "keywords": [
+    "opengov",
+    "finance",
+    "russia",
+    "wiki",
+    "docusaurus"
+  ],
   "author": "Infoculture",
   "license": "MIT",
   "bugs": {
@@ -28,6 +42,7 @@
     "@docusaurus/core": "^3.10.1",
     "@docusaurus/faster": "^3.10.1",
     "@docusaurus/preset-classic": "^3.10.1",
+    "@docusaurus/theme-mermaid": "^3.10.1",
     "@mdx-js/react": "^3.1.1",
     "clsx": "^2.1.1",
     "prism-react-renderer": "^2.4.1",
@@ -37,6 +52,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.10.1",
     "@docusaurus/tsconfig": "^3.10.1",
+    "gray-matter": "^4.0.3",
     "typescript": "^6.0.3"
   },
   "engines": {

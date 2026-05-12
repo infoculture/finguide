@@ -1,13 +1,22 @@
 ---
-title: "Официальный интернет-портал правовой информации (pravo.gov.ru)"
-sidebar_label: "pravo.gov.ru (ОИППИ)"
-tags: [information-system, federal, budget, legal]
-source_url: "https://pravo.gov.ru/"
-last_updated: 2026-05-10
+title: Официальный интернет-портал правовой информации (pravo.gov.ru)
+sidebar_label: pravo.gov.ru (ОИППИ)
+tags:
+  - information-system
+  - federal
+  - budget
+  - legal
+source_url: 'https://pravo.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: public_portal
 access: open
 operator_type: federal_body
-primary_topics: ["budget", "legal"]
+primary_topics:
+  - budget
+  - legal
+content_type: reference
+entity_type: information-system
+description: '# Официальный интернет-портал правовой информации (pravo.gov.ru)'
 ---
 
 # Официальный интернет-портал правовой информации (pravo.gov.ru)

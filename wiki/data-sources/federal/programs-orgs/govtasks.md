@@ -1,19 +1,40 @@
 ---
-title: "Государственные (муниципальные) задания — реестр и данные"
-sidebar_label: "Госзадания (bus.gov.ru)"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: Государственные (муниципальные) задания — реестр и данные
+sidebar_label: Госзадания (bus.gov.ru)
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/govtasks
-source_url: "https://bus.gov.ru/pub/register-public-tasks"
+source_url: 'https://bus.gov.ru/pub/register-public-tasks'
 data_source_kind: mixed
 jurisdiction: multilevel
 access: open
-formats: ["html", "csv", "json", "xml"]
+formats:
+  - html
+  - csv
+  - json
+  - xml
 status: current
-related_information_system: "/information-systems/federal/bus-gov"
+related_information_system: /information-systems/federal/bus-gov
+description: >-
+  государственное (муниципальное) задание — поручение учредителя бюджетному или
+  автономному учреждению на объёмы и качество услуг (работ) при финансовом
+  обеспечении из бюджета; в открытых финансовых данных его ищут по коду задания,
+  исполнителю (ИНН/ОГРН) и связке с субсидией и планом ФХД. Официальная
+  публикация реестр...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /glossary/state-assignment
+  - /data-sources/federal/bus-opendata
+  - /information-systems/federal/bus-gov
+  - /data-sources/federal/subsidy
+  - /glossary/institution-types
+  - /budget-system/orgtypes-overview
 ---
-
-# Государственные (муниципальные) задания — реестр и данные
 
 | Признак | Значение |
 | :--- | :--- |

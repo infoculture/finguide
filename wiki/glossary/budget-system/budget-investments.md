@@ -1,11 +1,21 @@
 ---
-title: "Бюджетные инвестиции"
-sidebar_label: "Бюджетные инвестиции"
-tags: [glossary, budget]
+title: Бюджетные инвестиции
+sidebar_label: Бюджетные инвестиции
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-last_updated: 2026-05-11
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/budget-investments
+description: >-
+  бюджетные инвестиции — это средства бюджета, направляемые на создание или
+  увеличение стоимости государственного или муниципального имущества за счёт
+  этого бюджета. В открытых данных термин встречается в реестре соглашений рядом
+  с межбюджетными трансфертами и бюджетным кредитом; тип соглашения нужно читать
+  по полям к...
+content_type: concept
+entity_type: glossary
 ---
 
 # Бюджетные инвестиции

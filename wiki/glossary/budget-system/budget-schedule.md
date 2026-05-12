@@ -1,12 +1,23 @@
 ---
-title: "Бюджетная роспись"
-sidebar_label: "Бюджетная роспись"
-tags: [glossary, budget]
+title: Бюджетная роспись
+sidebar_label: Бюджетная роспись
+tags:
+  - glossary
+  - budget
 glossary_kind: process
-abbreviations: ["БР"]
-last_updated: 2026-05-11
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+abbreviations:
+  - БР
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/budget-schedule
+description: >-
+  бюджетная роспись — документ главного распорядителя бюджетных средств или
+  главного администратора источников финансирования дефицита, которым ведомство
+  раскладывает утверждённые бюджетные ассигнования (и связанные с ИФД операции)
+  по подведомственной цепочке. В открытых данных это чаще встречается как
+  плановые таблиц...
+content_type: concept
+entity_type: glossary
 ---
 
 # Бюджетная роспись

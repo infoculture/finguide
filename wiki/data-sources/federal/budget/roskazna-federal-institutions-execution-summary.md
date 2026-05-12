@@ -1,19 +1,41 @@
 ---
-title: "Казначейство: сводная информация по федеральным бюджетным и автономным учреждениям"
-sidebar_label: "Казначейство: свод по ФБУ/ФГУ"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: >-
+  Казначейство: сводная информация по федеральным бюджетным и автономным
+  учреждениям
+sidebar_label: 'Казначейство: свод по ФБУ/ФГУ'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-federal-institutions-execution-summary
-source_url: "https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-federalnym-byudzhetnym-i-avtonomnym-uchrezhdeniyam/"
+source_url: >-
+  https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-federalnym-byudzhetnym-i-avtonomnym-uchrezhdeniyam/
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "xls", "xlsx", "pdf"]
+formats:
+  - html
+  - xls
+  - xlsx
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  свод по учреждениям федерального уровня на портале Казначейства; для
+  микро-открытых данных учреждений (ФХД, планы закупок и т.д.) используйте
+  bus.gov.ru — иной контур и гранулярность.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /information-systems/federal/bus-gov
+  - /glossary/institution-types
+  - /data-sources/federal/roskazna-federal-budget-execution
 ---
-
-# Казначейство: сводная информация по федеральным бюджетным и автономным учреждениям
 
 | Признак | Значение |
 | :--- | :--- |

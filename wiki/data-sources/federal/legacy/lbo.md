@@ -1,16 +1,35 @@
 ---
-title: "Лимиты бюджетных обязательств (открытые данные ГИИС «Электронный бюджет»)"
-sidebar_label: "ЛБО (открытые данные)"
-tags: [data-source, federal, budget]
-last_updated: 2026-05-10
+title: Лимиты бюджетных обязательств (открытые данные ГИИС «Электронный бюджет»)
+sidebar_label: ЛБО (открытые данные)
+tags:
+  - data-source
+  - federal
+  - budget
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/lbo
-source_url: "https://budget.gov.ru/"
+source_url: 'https://budget.gov.ru/'
 data_source_kind: mixed
 jurisdiction: multilevel
 access: open
-formats: ["csv", "json"]
+formats:
+  - csv
+  - json
 status: current
-related_information_system: "/information-systems/federal/giis-eb"
+related_information_system: /information-systems/federal/giis-eb
+description: >-
+  карточка закрепляет где в публичном каталоге `budget.gov.ru` искать выгрузки,
+  явно помеченные лимитами бюджетных обязательств, и как не перепутать их с
+  федеральной росписью, отчётами об обязательствах и расходными обязательствами
+  ст. 6 БК РФ. Определение термина — в глоссарии ЛБО.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /glossary/lbo
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/spendingobligations
+  - /budget-system/federal-budget
 ---
 
 # Лимиты бюджетных обязательств (открытые данные ГИИС «Электронный бюджет»)

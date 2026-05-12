@@ -1,16 +1,27 @@
 ---
-title: "Clearspending.ru — открытые данные закупок"
-sidebar_label: "Clearspending.ru"
-tags: [data-source, civil, procurement]
-last_updated: 2026-05-11
+title: Clearspending.ru — открытые данные закупок
+sidebar_label: Clearspending.ru
+tags:
+  - data-source
+  - civil
+  - procurement
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /data-sources/civil/clearspending
-source_url: "https://clearspending.ru/"
+source_url: 'https://clearspending.ru/'
 data_source_kind: mixed
 jurisdiction: civil
 access: open
-formats: ["json", "html"]
+formats:
+  - json
+  - html
 status: current
-related_information_system: "/information-systems/civil/clearspending"
+related_information_system: /information-systems/civil/clearspending
+description: >-
+  нормализованный контрактный след и поиск по контрактам, извещениям, заказчикам
+  и поставщикам без сборки сырых XML-архивов ЕИС; удобная отправная точка для
+  мониторинга и скриптов, если юридически значимая копия документа не нужна.
+content_type: data_source
+entity_type: data-source
 ---
 
 # Clearspending.ru — открытые данные закупок

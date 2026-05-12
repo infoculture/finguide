@@ -1,19 +1,45 @@
 ---
-title: "Казначейство: консолидированные бюджеты субъектов РФ и бюджетов территориальных государственных внебюджетных фондов"
-sidebar_label: "Казначейство: конс. субъектов"
-tags: [data-source, federal, budget, reporting, regional]
-last_updated: 2026-05-11
+title: >-
+  Казначейство: консолидированные бюджеты субъектов РФ и бюджетов
+  территориальных государственных внебюджетных фондов
+sidebar_label: 'Казначейство: конс. субъектов'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+  - regional
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-consolidated-subjects-execution
-source_url: "https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov-rossijskoj-federacii/"
+source_url: >-
+  https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov-rossijskoj-federacii/
 data_source_kind: mixed
 jurisdiction: multilevel
 access: open
-formats: ["html", "xls", "xlsx", "pdf"]
+formats:
+  - html
+  - xls
+  - xlsx
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  федеральный вход к регламентированной отчётности по исполнению
+  консолидированных бюджетов субъектов (и связанным территориальным ГВФ) на
+  портале Казначейства; для обзорных сводов Минфина по субъектам см.
+  subbud/execute и региональную витрину консолидированных бюджетов.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/minfin-subbud-execute
+  - /data-sources/regional/consolidated-budgets
+  - /data-sources/federal/regionalnye-byudzhety
+  - /budget-system/regional-budgets
+  - /glossary/consolidated-budget
 ---
-
-# Казначейство: консолидированные бюджеты субъектов РФ и бюджетов территориальных государственных внебюджетных фондов
 
 | Признак | Значение |
 | :--- | :--- |

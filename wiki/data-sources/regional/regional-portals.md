@@ -1,16 +1,31 @@
 ---
-title: "Региональные порталы «Открытый бюджет»"
-sidebar_label: "Региональные порталы «Открытый бюджет»"
-tags: [data-source, regional, budget]
-last_updated: 2026-05-11
+title: Региональные порталы «Открытый бюджет»
+sidebar_label: Региональные порталы «Открытый бюджет»
+tags:
+  - data-source
+  - regional
+  - budget
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /data-sources/regional/regional-portals
-source_url: "https://budget.gov.ru/"
+source_url: 'https://budget.gov.ru/'
 data_source_kind: mixed
 jurisdiction: regional
 access: open
-formats: ["html", "xlsx", "csv", "pdf"]
+formats:
+  - html
+  - xlsx
+  - csv
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/giis-eb"
+related_information_system: /information-systems/federal/giis-eb
+description: >-
+  это совокупность официальных региональных сайтов с материалами открытости
+  бюджета (показатели, законы о бюджете, исполнение, иногда «бюджет для
+  граждан»). Карточка задаёт как искать вход с федерального портала и чем
+  дополнять выгрузку федеральными наборами `budget.gov.ru`, не подменяя
+  региональный сайт.
+content_type: data_source
+entity_type: data-source
 ---
 
 # Региональные порталы «Открытый бюджет»

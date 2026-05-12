@@ -1,19 +1,35 @@
 ---
-title: "programs.economy.gov.ru — веб-клиент АИС ГП (госпрограммы РФ)"
-sidebar_label: "programs.economy.gov.ru (АИС ГП)"
-tags: [data-source, federal, budget, programs]
-last_updated: 2026-05-11
+title: programs.economy.gov.ru — веб-клиент АИС ГП (госпрограммы РФ)
+sidebar_label: programs.economy.gov.ru (АИС ГП)
+tags:
+  - data-source
+  - federal
+  - budget
+  - programs
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/programs-economy-ais-gp
-source_url: "https://programs.economy.gov.ru/"
+source_url: 'https://programs.economy.gov.ru/'
 data_source_kind: ui_only
 jurisdiction: federal
 access: restricted
-formats: ["html"]
+formats:
+  - html
 status: current
-related_information_system: "/information-systems/federal/programs-gov"
+related_information_system: /information-systems/federal/programs-gov
+description: >-
+  точка входа в служебный/деловой контур той же предметной области, что и
+  публичный programs.gov.ru. Для аналитики открытых данных без доступа к
+  кабинетам начинайте с открытых данных портала госпрограмм и обзора
+  госпрограммы и ФЦП; этот URL полезен как канонический адрес веб-клиента АИС ГП
+  и для понимания границы межд...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/programs-gov
+  - /data-sources/federal/fcp
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /reporting/state-program-reporting
 ---
-
-# programs.economy.gov.ru — веб-клиент АИС ГП (госпрограммы РФ)
 
 | Признак | Значение |
 | :--- | :--- |

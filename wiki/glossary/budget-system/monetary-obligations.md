@@ -1,11 +1,21 @@
 ---
-title: "Денежные обязательства"
-sidebar_label: "Денежные обязательства"
-tags: [glossary, budget]
+title: Денежные обязательства
+sidebar_label: Денежные обязательства
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-last_updated: 2026-05-11
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/monetary-obligations
+description: >-
+  денежные обязательства в ст. 6 БК РФ — это обязанность получателя бюджетных
+  средств уплатить из средств бюджета определённые суммы контрагенту (бюджету,
+  физическому или юридическому лицу) при наступлении условий сделки или акта.
+  Они шире по смыслу, чем только «оплата поставщику»: важны для связки
+  бюджетного учёта с ...
+content_type: concept
+entity_type: glossary
 ---
 
 # Денежные обязательства

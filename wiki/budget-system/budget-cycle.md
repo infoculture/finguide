@@ -1,8 +1,25 @@
 ---
-title: "Бюджетный цикл"
-sidebar_label: "Бюджетный цикл"
-tags: [budget-system]
-last_updated: 2026-05-11
+title: Бюджетный цикл
+sidebar_label: Бюджетный цикл
+tags:
+  - budget-system
+last_updated: 2026-05-12T00:00:00.000Z
+content_type: concept
+description: >-
+  1. Составление проектов бюджетов и документов бюджетного планирования (в т.ч.
+  на финансовый год и плановый период), согласование параметров между органами
+  власти и ведомствами. 2. Рассмотрение проектов в представительных органах и
+  органах исполнительной власти (процедуры и сроки зависят от уровня бюджета).
+  3. Утверж...
+related_pages:
+  - /budget-system
+  - /budget-system/structure
+  - /budget-system/federal-budget
+  - /glossary/budget-process
+  - /legal/budget-code
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /intro/russian-budget-overview
 ---
 
 # Бюджетный цикл

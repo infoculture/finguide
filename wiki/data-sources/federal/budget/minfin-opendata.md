@@ -1,16 +1,35 @@
 ---
-title: "Открытые данные Минфина России"
-sidebar_label: "Открытые данные Минфина"
-tags: [data-source, federal, budget]
-last_updated: 2026-05-11
+title: Открытые данные Минфина России
+sidebar_label: Открытые данные Минфина
+tags:
+  - data-source
+  - federal
+  - budget
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/minfin-opendata
-source_url: "https://minfin.gov.ru/ru/opendata/"
+source_url: 'https://minfin.gov.ru/ru/opendata/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["csv", "xml"]
+formats:
+  - csv
+  - xml
 status: current
-related_information_system: "/information-systems/federal/minfinsite"
+related_information_system: /information-systems/federal/minfinsite
+description: >-
+  официальный реестр датасетов Минфина с машиночитаемыми выгрузками по КБК и
+  смежным темам, бюджетной росписи, госдолгу, ФНБ/резервным фондам, сводам
+  исполнения и показателям регионов — удобен для согласования кодов и плановых
+  рядов с ГИИС «Электронный бюджет» и отчётностью Федерального казначейства.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/minfinsite
+  - /organizations/minfin
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/roskazna-reports
+  - /glossary/kbk
+  - /budget-system/federal-budget
 ---
 
 # Открытые данные Минфина России

@@ -1,13 +1,22 @@
 ---
-title: "Архивный портал федеральных целевых программ (Система ФЦП)"
-sidebar_label: "Система ФЦП (архив)"
-tags: [information-system, federal, budget, programs]
-source_url: https://fcp.economy.gov.ru/
-last_updated: 2026-05-10
+title: Архивный портал федеральных целевых программ (Система ФЦП)
+sidebar_label: Система ФЦП (архив)
+tags:
+  - information-system
+  - federal
+  - budget
+  - programs
+source_url: 'https://fcp.economy.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: public_portal
 access: open
 operator_type: federal_body
-primary_topics: ["budget", "programs"]
+primary_topics:
+  - budget
+  - programs
+content_type: reference
+entity_type: information-system
+description: '# Архивный портал федеральных целевых программ (Система ФЦП)'
 ---
 
 # Архивный портал федеральных целевых программ (Система ФЦП)

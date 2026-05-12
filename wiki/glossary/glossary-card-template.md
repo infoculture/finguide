@@ -19,6 +19,8 @@ draft: true
 | `tags` | да | `[glossary, classification]` — вторая метка: тема (`budget`, `classification`, `procurement`, `transfers`, …) |
 | `last_updated` | да | `2026-05-10` |
 | `slug` | да для новых карточек | `/glossary/<slug>` — тот же `<slug>`, что имя файла |
+| `content_type` | да | `concept` (по умолчанию для терминов) |
+| `entity_type` | да | `glossary` |
 | `glossary_kind` | рекомендуется | `concept` \| `classification` \| `law` \| `process` \| `organization` |
 | `source_url` | по возможности | прямая ссылка на НПА или страницу Минфина |
 | `abbreviations` | при наличии | `["КБК"]` |
@@ -30,6 +32,8 @@ sidebar_label: "<Короткая подпись>"
 tags: [glossary, <тема>]
 last_updated: YYYY-MM-DD
 slug: /glossary/<slug>
+content_type: concept
+entity_type: glossary
 glossary_kind: concept
 # source_url: "https://..."
 # abbreviations: ["<АББР>"]

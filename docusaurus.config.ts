@@ -22,8 +22,11 @@ const config: Config = {
 
   staticDirectories: ['static'],
 
+  themes: ['@docusaurus/theme-mermaid'],
+
   markdown: {
     format: 'md',
+    mermaid: true,
     hooks: {
       onBrokenMarkdownLinks: 'throw',
       onBrokenMarkdownImages: 'warn',
@@ -44,6 +47,7 @@ const config: Config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
           numberPrefixParser: false,
+          breadcrumbs: true,
           editUrl:
             'https://github.com/infoculture/opengovfinancesbook/edit/master/',
         },
@@ -57,6 +61,9 @@ const config: Config = {
   ],
 
   themeConfig: {
+    mermaid: {
+      theme: {light: 'neutral', dark: 'dark'},
+    },
     colorMode: {
       defaultMode: 'light',
       respectPrefersColorScheme: true,

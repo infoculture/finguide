@@ -1,18 +1,39 @@
 ---
-title: "Таможенная статистика и открытые данные ФТС России"
-sidebar_label: "ФТС: статистика и ОД"
-tags: [data-source, federal, tax, statistics, open_data]
-last_updated: 2026-05-11
+title: Таможенная статистика и открытые данные ФТС России
+sidebar_label: 'ФТС: статистика и ОД'
+tags:
+  - data-source
+  - federal
+  - tax
+  - statistics
+  - open_data
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/fts-customs-statistics
-source_url: "https://customs.gov.ru/"
+source_url: 'https://customs.gov.ru/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "csv", "xlsx", "pdf", "xml"]
+formats:
+  - html
+  - csv
+  - xlsx
+  - pdf
+  - xml
 status: current
+description: >-
+  официальные своды по таможенным поступлениям и внешней торговле — для
+  сопоставления с доходной частью бюджета и казначейским исполнением. Предмет
+  учёта не совпадает с формами ФНС и строками бюджета по КБК без методики.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /organizations/fts
+  - /data-sources/federal/nalog-statistics
+  - /data-sources/federal/rosstat-external-trade
+  - /reporting/tax-and-customs-revenue-statistics
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/minfin-opendata
 ---
-
-# Таможенная статистика и открытые данные ФТС России
 
 | Признак | Значение |
 | :--- | :--- |

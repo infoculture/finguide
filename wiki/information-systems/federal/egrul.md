@@ -1,13 +1,21 @@
 ---
-title: "ЕГРЮЛ и ЕГРИП — единые государственные реестры"
-sidebar_label: "ЕГРЮЛ / ЕГРИП"
-tags: [information-system, federal, tax]
-source_url: https://egrul.nalog.ru/
-last_updated: 2026-05-11
+title: ЕГРЮЛ и ЕГРИП — единые государственные реестры
+sidebar_label: ЕГРЮЛ / ЕГРИП
+tags:
+  - information-system
+  - federal
+  - tax
+source_url: 'https://egrul.nalog.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 system_kind: registry
 access: mixed
-primary_topics: ["organizations", "procurement"]
+primary_topics:
+  - organizations
+  - procurement
 operator_type: federal_body
+content_type: reference
+entity_type: information-system
+description: '# ЕГРЮЛ и ЕГРИП — единые государственные реестры'
 ---
 
 # ЕГРЮЛ и ЕГРИП — единые государственные реестры

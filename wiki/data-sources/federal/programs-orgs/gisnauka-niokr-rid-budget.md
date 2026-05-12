@@ -1,19 +1,40 @@
 ---
-title: "ГИС «Наука»: открытые данные НИОКТР, РИД и связь с бюджетным финансированием"
-sidebar_label: "ГИС «Наука» (НИОКТР, РИД, бюджет)"
-tags: [data-source, federal, budget, programs]
-last_updated: 2026-05-11
+title: 'ГИС «Наука»: открытые данные НИОКТР, РИД и связь с бюджетным финансированием'
+sidebar_label: 'ГИС «Наука» (НИОКТР, РИД, бюджет)'
+tags:
+  - data-source
+  - federal
+  - budget
+  - programs
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/gisnauka-niokr-rid-budget
-source_url: "https://gisnauka.ru/"
+source_url: 'https://gisnauka.ru/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "csv", "json", "xlsx", "xml"]
+formats:
+  - html
+  - csv
+  - json
+  - xlsx
+  - xml
 status: current
-related_information_system: "/information-systems/federal/gisnauka"
+related_information_system: /information-systems/federal/gisnauka
+description: >-
+  источник для стыковки записей о научных работах и РИД с бюджетным
+  финансированием, когда в паспорте набора, в выгрузках с портала или в ответах
+  поискового API явно приведены ИНН, номера соглашений, коды программ или иные
+  ключи, позволяющие соединить учёт науки с ГИИС «Электронный бюджет» и реестром
+  соглашений.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/gisnauka
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/subsidy
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/gasu-programs
 ---
-
-# ГИС «Наука»: открытые данные НИОКТР, РИД и связь с бюджетным финансированием
 
 | Признак | Значение |
 | :--- | :--- |

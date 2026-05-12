@@ -1,8 +1,25 @@
 ---
-title: "Федеральный бюджет"
-sidebar_label: "Федеральный бюджет"
-tags: [budget-system]
-last_updated: 2026-05-11
+title: Федеральный бюджет
+sidebar_label: Федеральный бюджет
+tags:
+  - budget-system
+last_updated: 2026-05-12T00:00:00.000Z
+content_type: concept
+description: >-
+  - Доходы — налоговые, неналоговые, безвозмездные поступления; классификация и
+  типовые ошибки при сводах — в обзоре классификации доходов. - Расходы — по
+  разделам, ГРБС, КВР и иным разрезам росписи; подробнее — классификация
+  расходов. - Источники финансирования дефицита — заимствования, остатки,
+  резервы и иные виды п...
+related_pages:
+  - /budget-system
+  - /budget-system/budget-cycle
+  - /budget-system/structure
+  - /budget-system/extrabudgetary-funds
+  - /budget-system/revenues
+  - /budget-system/expenditures
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/budget-gov-ru-datasets
 ---
 
 # Федеральный бюджет

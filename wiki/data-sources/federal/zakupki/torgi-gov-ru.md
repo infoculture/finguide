@@ -1,16 +1,35 @@
 ---
-title: "ГИС «Торги»: публикации и машиночитаемый доступ"
-sidebar_label: "ГИС «Торги»"
-tags: [data-source, federal, state_property, open_data]
-last_updated: 2026-05-11
+title: 'ГИС «Торги»: публикации и машиночитаемый доступ'
+sidebar_label: ГИС «Торги»
+tags:
+  - data-source
+  - federal
+  - state_property
+  - open_data
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/torgi-gov-ru
-source_url: "https://torgi.gov.ru/"
+source_url: 'https://torgi.gov.ru/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "json", "xml"]
+formats:
+  - html
+  - json
+  - xml
 status: current
-related_information_system: "/information-systems/federal/torgi-gov-ru"
+related_information_system: /information-systems/federal/torgi-gov-ru
+description: >-
+  официальный след торгов имуществом — извещения, предмет лота, цены,
+  организатор, протоколы и итоги; для анализа нестандартных доходов бюджета и
+  сделок с активами государства. Не закупки по 44-ФЗ / 223-ФЗ (это ЕИС).
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/torgi-gov-ru
+  - /data-sources/federal/procurement
+  - /glossary/procurement-44fz
+  - /data-sources/federal/zakupki-xml
+  - /information-systems/federal/zakupki
 ---
 
 # ГИС «Торги»: публикации и машиночитаемый доступ

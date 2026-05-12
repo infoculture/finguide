@@ -1,13 +1,50 @@
 ---
-title: "Федеральные информационные системы"
-sidebar_label: "Федеральные"
-tags: [information-system, federal]
-last_updated: 2026-05-11
+title: Федеральные информационные системы
+sidebar_label: Федеральные
+tags:
+  - information-system
+  - federal
+last_updated: 2026-05-12T00:00:00.000Z
+content_type: reference
+description: >-
+  Порталы и ИС федерального уровня: бюджет, казначейство, закупки, налоги,
+  статистика и сквозные каталоги данных; связь с карточками источников.
+related_pages:
+  - /information-systems
+  - /information-systems/federal/giis-eb
+  - /information-systems/federal/roskazna-portal
+  - /information-systems/federal/zakupki
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /organizations/minfin
+  - /intro/data-map
 ---
 
 # Федеральные информационные системы
 
 Информационные системы и официальные порталы федеральных органов власти, публикующие или обрабатывающие данные о государственных финансах. Ниже карточки сгруппированы по типовым **задачам аналитика** (план и исполнение бюджета, программы, закупки, налоги и реестры, статистика, право и контроль, сквозные каталоги данных).
+
+## Для кого
+
+- Аналитикам, которым нужно понять **роль портала** и куда смотреть за выгрузками (часто дублируются в [источниках данных](/data-sources/federal/)).
+- Редакторам: новые карточки — по шаблону `wiki/information-systems/information-system-card-template.md` ([GitHub](https://github.com/infoculture/opengovfinancesbook/blob/master/wiki/information-systems/information-system-card-template.md)); у шаблона `draft: true`, в production на сайте страница не собирается.
+
+## Быстрые входы
+
+| Задача | ИС |
+| --- | --- |
+| План и исполнение, budget.gov.ru | [ГИИС «Электронный бюджет»](./giis-eb.md) |
+| Касса и отчёты | [Портал Федерального казначейства](./roskazna-portal.md) |
+| Документы и открытые данные Минфина | [Сайт Минфина](./minfinsite.md) |
+| Закупки | [ЕИС](./zakupki.md) |
+| Каталог наборов | [data.gov.ru](./data-gov-ru.md) |
+| Сценарий «вопрос → источник» | [Карта данных](/intro/data-map) |
+
+## Типовые вопросы
+
+**ИС или источник данных?** ИС — среда оператора; **наборы и API** описываются в [каталоге федеральных источников](/data-sources/federal/).
+
+**Где связка с организациями?** Например [Минфин](/organizations/minfin) как владелец политики и части витрин.
 
 ## Бюджетный цикл и казначейство
 

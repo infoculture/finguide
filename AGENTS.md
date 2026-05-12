@@ -80,3 +80,11 @@ Slug страницы совпадает с именем файла без `.md`
 8. Файлы **не** считаются карточками нормативного документа: `README.md` (оглавление раздела), `legal-document-card-template.md` (шаблон).
 
 Новую карточку клади в `wiki/legal/`. Добавь документ в `sidebars.ts` в группу «Нормативная база» и при необходимости строку в `wiki/legal/README.md`.
+
+## Метаданные, машинный экспорт и PR (OpenSpec)
+
+1. Для страниц под `wiki/` (кроме `*-template.md`) поддерживайте поля `description`, `last_updated`, `tags` из белого списка [`scripts/tag-allowlist.json`](scripts/tag-allowlist.json), `content_type` (`concept` \| `organization` \| `data_source` \| `howto` \| `legal` \| `reporting` \| `reference`) и при необходимости `entity_type` (`glossary` \| `organization` \| `information-system` \| `data-source` \| `reporting-form` \| `legal-document` \| `howto`).
+2. Для карточек источников и фактологических страниц по возможности заполняйте `source_authority`, `rag_priority`, `related_pages`, `last_verified` — см. [`openspec/specs/corpus-metadata/spec.md`](openspec/specs/corpus-metadata/spec.md).
+3. После крупных правок корпуса выполняйте `npm run export:knowledge` и коммитьте обновлённые [`exports/knowledge-index.jsonl`](exports/knowledge-index.jsonl) и [`exports/knowledge-graph.json`](exports/knowledge-graph.json).
+4. Автоматические проверки в CI: `npm run lint:frontmatter`, `npm run lint:howto`, `npm run export:knowledge -- --check`, `npm run lint:qa`, `npm run lint:related-pages`, `npm run lint:corpus` — см. [`openspec/specs/ci-quality-gates/spec.md`](openspec/specs/ci-quality-gates/spec.md).
+5. Стандартная структура опубликованных страниц в [`wiki/howto/`](wiki/howto/) — в [`openspec/specs/howto-playbook/spec.md`](openspec/specs/howto-playbook/spec.md); для массового выравнивания заголовков можно использовать служебный скрипт `scripts/inject-howto-playbook.mjs`.

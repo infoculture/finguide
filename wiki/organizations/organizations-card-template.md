@@ -20,6 +20,8 @@ Slug страницы совпадает с именем файла без `.md`
 | `sidebar_label` | да | `"Минфин России"` |
 | `tags` | да | `[organizations, federal]` — добавьте тему: `budget`, `tax`, `procurement`, `statistics`, `social`, `oversight`, `monetary`, … |
 | `last_updated` | да | `2026-05-10` |
+| `content_type` | да | `organization` |
+| `entity_type` | да | `organization` |
 | `source_url` | по возможности | канонический URL официального сайта (`https://…`) |
 | `org_kind` | рекомендуется | `executive_ministry` \| `executive_service` \| `government_collegial` \| `legislature` \| `state_audit` \| `central_bank` \| `extrabudgetary_fund` \| `other` |
 | `budget_roles` | рекомендуется | YAML-массив ярлыков роли в данных: `budget_preparation`, `budget_execution`, `tax_policy`, `tax_administration`, `procurement_oversight`, `statistics`, `monetary_policy`, `financial_markets`, `social_insurance`, `health_finance`, `external_audit`, `legislation`, … |
@@ -43,6 +45,8 @@ title: "<Полный официальный заголовок>"
 sidebar_label: "<Короткая подпись в сайдбаре>"
 tags: [organizations, federal, <тема>]
 last_updated: YYYY-MM-DD
+content_type: organization
+entity_type: organization
 source_url: "https://..."
 org_kind: executive_service
 budget_roles: ["tax_administration", "statistics"]

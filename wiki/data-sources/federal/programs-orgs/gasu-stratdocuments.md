@@ -1,19 +1,35 @@
 ---
-title: "ГАС «Управление» — реестр документов стратегического планирования"
-sidebar_label: "ГАСУ — документы стратегпланирования"
-tags: [data-source, federal, budget]
-last_updated: 2026-05-11
+title: ГАС «Управление» — реестр документов стратегического планирования
+sidebar_label: ГАСУ — документы стратегпланирования
+tags:
+  - data-source
+  - federal
+  - budget
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/gasu-stratdocuments
-source_url: "https://gasu.gov.ru/stratdocuments"
+source_url: 'https://gasu.gov.ru/stratdocuments'
 data_source_kind: portal
 jurisdiction: multilevel
 access: open
-formats: ["html", "pdf"]
+formats:
+  - html
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/gasu"
+related_information_system: /information-systems/federal/gasu
+description: >-
+  официальный реестр и выдача текстов стратегических документов всех уровней
+  власти на портале ГАСУ — точка входа, когда нужны сами документы (утверждённые
+  редакции, сопутствующие материалы), а не машиночитаемые ряды мониторинга из
+  открытых данных ГАСУ или паспорта в модели programs.gov.ru.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/gasu
+  - /legal/strategic-planning-172fz
+  - /data-sources/federal/gasu-programs
+  - /data-sources/federal/fcp
+  - /glossary/gov-programs
 ---
-
-# ГАС «Управление» — реестр документов стратегического планирования
 
 | Признак | Значение |
 | :--- | :--- |

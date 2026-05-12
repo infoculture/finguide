@@ -1,9 +1,18 @@
 ---
-title: "АИС «Налог-3»"
-sidebar_label: "АИС «Налог-3»"
-tags: [information-system, federal]
-source_url: https://www.nalog.gov.ru/rn77/about_fts/gos_inf/aisnalog3/
-last_updated: 2026-05-10
+title: АИС «Налог-3»
+sidebar_label: АИС «Налог-3»
+tags:
+  - information-system
+  - federal
+source_url: 'https://www.nalog.gov.ru/rn77/about_fts/gos_inf/aisnalog3/'
+last_updated: 2026-05-10T00:00:00.000Z
+content_type: reference
+entity_type: information-system
+description: >-
+  Автоматизированная информационная система Федеральной налоговой службы
+  Российской Федерации. По официальному описанию ФНС, АИС «Налог-3» является
+  единой информационной системой, обеспечивающей автоматизацию деятельности ФНС
+  по всем выполняемым функциям.
 ---
 
 # АИС «Налог-3»

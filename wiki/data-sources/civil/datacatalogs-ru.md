@@ -1,16 +1,26 @@
 ---
-title: "DataCatalogs.ru — реестр каталогов открытых данных"
-sidebar_label: "DataCatalogs.ru"
-tags: [data-source, civil, open_data]
-last_updated: 2026-05-11
+title: DataCatalogs.ru — реестр каталогов открытых данных
+sidebar_label: DataCatalogs.ru
+tags:
+  - data-source
+  - civil
+  - open_data
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /data-sources/civil/datacatalogs-ru
-source_url: "https://datacatalogs.ru/"
+source_url: 'https://datacatalogs.ru/'
 data_source_kind: ui_only
 jurisdiction: civil
 access: open
-formats: ["html"]
+formats:
+  - html
 status: current
-related_information_system: "/information-systems/civil/datacatalogs-ru"
+related_information_system: /information-systems/civil/datacatalogs-ru
+description: >-
+  навигатор по каталогам ОД — чтобы найти официальный портал ведомства или
+  региона и перейти к первичным наборам; для анализа госфинансов не заменяет
+  data.gov.ru, бюджетных выгрузок и закупок.
+content_type: data_source
+entity_type: data-source
 ---
 
 # DataCatalogs.ru — реестр каталогов открытых данных

@@ -1,19 +1,39 @@
 ---
-title: "Счётная палата РФ: открытые данные и материалы внешнего аудита"
-sidebar_label: "Счётная палата (ОД и аудит)"
-tags: [data-source, federal, budget, control, open_data]
-last_updated: 2026-05-11
+title: 'Счётная палата РФ: открытые данные и материалы внешнего аудита'
+sidebar_label: Счётная палата (ОД и аудит)
+tags:
+  - data-source
+  - federal
+  - budget
+  - control
+  - open_data
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/accounts-chamber-opendata
-source_url: "https://ach.gov.ru/"
+source_url: 'https://ach.gov.ru/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "csv", "xlsx", "pdf"]
+formats:
+  - html
+  - csv
+  - xlsx
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/egsfk"
+related_information_system: /information-systems/federal/egsfk
+description: >-
+  публичные результаты контроля и открытые наборы Счётной палаты — для
+  сопоставления выводов аудита с планом и исполнением бюджета из ГИИС и
+  Казначейства. Это не первичная бюджетная отчётность.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /organizations/accounts-chamber
+  - /information-systems/federal/egsfk
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/giis-eb
 ---
-
-# Счётная палата РФ: открытые данные и материалы внешнего аудита
 
 | Признак | Значение |
 | :--- | :--- |

@@ -1,12 +1,29 @@
 ---
-title: "Банк России"
-sidebar_label: "ЦБ РФ / Bank of Russia"
-tags: [organizations, federal, monetary, statistics]
-source_url: "https://cbr.ru/"
-last_updated: 2026-05-10
+title: Банк России
+sidebar_label: ЦБ РФ / Bank of Russia
+tags:
+  - organizations
+  - federal
+  - monetary
+  - statistics
+source_url: 'https://cbr.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 org_kind: central_bank
-budget_roles: ["monetary_policy", "financial_markets", "statistics"]
-aliases: ["ЦБ РФ", "Bank of Russia"]
+budget_roles:
+  - monetary_policy
+  - financial_markets
+  - statistics
+aliases:
+  - ЦБ РФ
+  - Bank of Russia
+description: >-
+  Центральный банк Российской Федерации — эмитент рублёвой наличности и ключевой
+  регулятор денежно-кредитной сферы и финансовых рынков; для открытых
+  госфинансов и данных это прежде всего источник денежной, банковской и
+  внешнеэкономической статистики, ставок и справочников, а не учёт исполнения
+  федерального бюджета по ...
+content_type: organization
+entity_type: organization
 ---
 
 # Банк России

@@ -1,16 +1,36 @@
 ---
-title: "Витрины данных Казначейства (datamarts)"
-sidebar_label: "Витрины данных Казначейства (datamarts)"
-tags: [data-source, federal, budget, procurement]
-last_updated: 2026-05-10
+title: Витрины данных Казначейства (datamarts)
+sidebar_label: Витрины данных Казначейства (datamarts)
+tags:
+  - data-source
+  - federal
+  - budget
+  - procurement
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-datamarts
-source_url: "https://datamarts.roskazna.ru/"
+source_url: 'https://datamarts.roskazna.ru/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["csv", "xlsx", "html"]
+formats:
+  - csv
+  - xlsx
+  - html
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  агрегированные исторические срезы по доходам и расходам бюджетного исполнения,
+  закупкам и госпрограммам — удобны для обзорной аналитики и сверки с
+  регламентированными отчётами Казначейства и наборами ГИИС «Электронный
+  бюджет».
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/giis-eb
 ---
 
 # Витрины данных Казначейства (datamarts)

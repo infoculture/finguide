@@ -1,16 +1,42 @@
 ---
-title: "Отчёты об исполнении бюджетов (обзор и точки входа)"
-sidebar_label: "Исполнение бюджетов (обзор)"
-tags: [data-source, federal, budget, reporting, multilevel]
-last_updated: 2026-05-11
+title: Отчёты об исполнении бюджетов (обзор и точки входа)
+sidebar_label: Исполнение бюджетов (обзор)
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+  - multilevel
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
-source_url: "https://roskazna.gov.ru/ispolnenie-byudzhetov/"
+source_url: 'https://roskazna.gov.ru/ispolnenie-byudzhetov/'
 data_source_kind: mixed
 jurisdiction: multilevel
 access: open
-formats: ["html", "xls", "xlsx", "pdf", "csv", "json"]
+formats:
+  - html
+  - xls
+  - xlsx
+  - pdf
+  - csv
+  - json
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  если закон о бюджете и роспись отражают план и лимиты, то отчёты об исполнении
+  фиксируют факт доходов, расходов и связанных показателей в регламентированных
+  формах и открытых выгрузках. Эта карточка задаёт смысл термина и лестницу
+  источников; детальный разбор файлов и форм федерального контура — в отчётах
+  Казначейства.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/regionalnye-byudzhety
+  - /data-sources/federal/municipalnye-byudzhety
+  - /glossary/treasury-execution
 ---
 
 # Отчёты об исполнении бюджетов (обзор и точки входа)

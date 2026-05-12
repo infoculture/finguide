@@ -1,13 +1,31 @@
 ---
-title: "Федеральная таможенная служба"
-sidebar_label: "ФТС России"
-tags: [organizations, federal, tax, budget, statistics]
-source_url: "https://customs.gov.ru/"
-last_updated: 2026-05-11
+title: Федеральная таможенная служба
+sidebar_label: ФТС России
+tags:
+  - organizations
+  - federal
+  - tax
+  - budget
+  - statistics
+source_url: 'https://customs.gov.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 org_kind: executive_service
-budget_roles: ["tax_administration", "statistics"]
-aliases: ["ФТС", "ФТС России", "таможня"]
-reports_to: "Минфин России"
+budget_roles:
+  - tax_administration
+  - statistics
+aliases:
+  - ФТС
+  - ФТС России
+  - таможня
+reports_to: Минфин России
+description: >-
+  ФТС России — федеральный орган исполнительной власти, который администрирует
+  таможенные платежи (пошлины, налоги при импорте и др. в пределах компетенции),
+  ведёт таможенный контроль и публикует статистику внешней торговли и открытые
+  данные на официальном портале. Для анализа госфинансов это вторая крупная
+  опора адми...
+content_type: organization
+entity_type: organization
 ---
 
 # Федеральная таможенная служба

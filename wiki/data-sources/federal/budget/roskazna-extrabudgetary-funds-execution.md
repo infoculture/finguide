@@ -1,19 +1,40 @@
 ---
-title: "Казначейство: бюджеты государственных внебюджетных фондов (подраздел портала)"
-sidebar_label: "Казначейство: бюджеты ГВФ"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: 'Казначейство: бюджеты государственных внебюджетных фондов (подраздел портала)'
+sidebar_label: 'Казначейство: бюджеты ГВФ'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-extrabudgetary-funds-execution
-source_url: "https://roskazna.gov.ru/ispolnenie-byudzhetov/byudzhety-gosudarstvennyh-vnebyudzhetnyh-fondov/"
+source_url: >-
+  https://roskazna.gov.ru/ispolnenie-byudzhetov/byudzhety-gosudarstvennyh-vnebyudzhetnyh-fondov/
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "xls", "xlsx", "pdf"]
+formats:
+  - html
+  - xls
+  - xlsx
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  отдельный подраздел «Исполнение бюджетов» про бюджеты ГВФ; не смешивать с
+  консолидированным бюджетом РФ и ГВФ и с макро-исполнением только ГВФ на сайте
+  Минфина без сверки методики.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/minfin-outbud-execute
+  - /data-sources/federal/roskazna-consolidated-rf-and-ebf-execution
+  - /budget-system/extrabudgetary-funds
+  - /glossary/extrabudgetary-funds
 ---
-
-# Казначейство: бюджеты государственных внебюджетных фондов (подраздел портала)
 
 | Признак | Значение |
 | :--- | :--- |

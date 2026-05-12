@@ -1,12 +1,25 @@
 ---
-title: "КВР 630 и 631–634 — субсидии некоммерческим организациям в отчётности об исполнении"
-sidebar_label: "КВР 630 и 631–634 (НКО)"
-tags: [glossary, classification]
+title: >-
+  КВР 630 и 631–634 — субсидии некоммерческим организациям в отчётности об
+  исполнении
+sidebar_label: КВР 630 и 631–634 (НКО)
+tags:
+  - glossary
+  - classification
 glossary_kind: classification
-source_url: "https://minfin.gov.ru/ru/perfomance/budget/classandaccounting/"
-abbreviations: ["КВР"]
-last_updated: 2026-05-11
+source_url: 'https://minfin.gov.ru/ru/perfomance/budget/classandaccounting/'
+abbreviations:
+  - КВР
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /glossary/kvr-630-nko-subsidies
+description: >-
+  трёхзначные коды в конце расходного КБК (КВР), которыми в сводной отчётности
+  об исполнении федерального и консолидированных бюджетов субъектов группируют
+  субсидии (и близкие по учёту выплаты) некоммерческим организациям вне контура
+  типовых государственных и муниципальных учреждений. Код 630 использовали как
+  единый а...
+content_type: concept
+entity_type: glossary
 ---
 
 # КВР 630 и 631–634 — субсидии некоммерческим организациям в отчётности об исполнении

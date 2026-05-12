@@ -1,13 +1,22 @@
 ---
-title: "Сайт ФНС России — статистика и данные"
-sidebar_label: "nalog.gov.ru"
-tags: [information-system, federal, tax, open_data]
-source_url: https://www.nalog.gov.ru/
-last_updated: 2026-05-11
+title: Сайт ФНС России — статистика и данные
+sidebar_label: nalog.gov.ru
+tags:
+  - information-system
+  - federal
+  - tax
+  - open_data
+source_url: 'https://www.nalog.gov.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 system_kind: public_portal
 access: mixed
 operator_type: federal_body
-primary_topics: ["tax", "open_data"]
+primary_topics:
+  - tax
+  - open_data
+content_type: reference
+entity_type: information-system
+description: '# Сайт ФНС России — статистика и данные'
 ---
 
 # Сайт ФНС России — статистика и данные

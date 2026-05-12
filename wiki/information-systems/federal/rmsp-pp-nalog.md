@@ -1,13 +1,23 @@
 ---
-title: "Единый реестр субъектов МСП — получателей поддержки (rmsp-pp.nalog.ru)"
-sidebar_label: "Реестр поддержки МСП (ФНС)"
-tags: [information-system, federal, tax, open_data]
-source_url: https://rmsp-pp.nalog.ru/
-last_updated: 2026-05-11
+title: Единый реестр субъектов МСП — получателей поддержки (rmsp-pp.nalog.ru)
+sidebar_label: Реестр поддержки МСП (ФНС)
+tags:
+  - information-system
+  - federal
+  - tax
+  - open_data
+source_url: 'https://rmsp-pp.nalog.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 system_kind: registry
 access: mixed
 operator_type: federal_body
-primary_topics: ["subsidies", "organizations", "open_data"]
+primary_topics:
+  - subsidies
+  - organizations
+  - open_data
+content_type: reference
+entity_type: information-system
+description: '# Единый реестр субъектов МСП — получателей поддержки (rmsp-pp.nalog.ru)'
 ---
 
 # Единый реестр субъектов МСП — получателей поддержки (rmsp-pp.nalog.ru)

@@ -1,13 +1,24 @@
 ---
-title: "ЛБО — Лимиты бюджетных обязательств"
-sidebar_label: "ЛБО"
-tags: [glossary, planning]
+title: ЛБО — Лимиты бюджетных обязательств
+sidebar_label: ЛБО
+tags:
+  - glossary
+  - planning
 glossary_kind: concept
-abbreviations: ["ЛБО"]
-last_updated: 2026-05-10
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+abbreviations:
+  - ЛБО
+last_updated: 2026-05-10T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/lbo
 sidebar_position: 8
+description: >-
+  это доведённый «потолок прав» в рублях для распорядителя или получателя
+  бюджетных средств: сколько можно принять и исполнить бюджетных обязательств в
+  текущем году и плановом периоде. Для открытых данных термин важен как связка
+  между утверждённым бюджетом, ведомственным планированием (ГРБС) и фактическим
+  исполнением ...
+content_type: concept
+entity_type: glossary
 ---
 
 # ЛБО — Лимиты бюджетных обязательств

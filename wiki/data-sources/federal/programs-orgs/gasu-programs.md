@@ -1,19 +1,37 @@
 ---
-title: "Данные ГАС «Управление» — госпрограммы и нацпроекты"
-sidebar_label: "ГАСУ — открытые данные по программам"
-tags: [data-source, federal, budget]
-last_updated: 2026-05-11
+title: Данные ГАС «Управление» — госпрограммы и нацпроекты
+sidebar_label: ГАСУ — открытые данные по программам
+tags:
+  - data-source
+  - federal
+  - budget
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/gasu-programs
-source_url: "https://gasu.gov.ru/opendata"
+source_url: 'https://gasu.gov.ru/opendata'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["csv", "json"]
+formats:
+  - csv
+  - json
 status: current
-related_information_system: "/information-systems/federal/gasu"
+related_information_system: /information-systems/federal/gasu
+description: >-
+  открытые наборы по целевым показателям, план/факт и кассовому исполнению в
+  программной логике ГАСУ — точка входа для сопоставления мониторинга программ с
+  наборами ГИИС «Электронный бюджет» и отчётностью казначейства по согласованным
+  ключам (период, показатель, программный разрез), без ожидания построчного
+  совпадения...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/gasu
+  - /data-sources/federal/roskazna-datamarts
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/fcp
+  - /reporting/state-program-reporting
+  - /glossary/gov-programs
 ---
-
-# Данные ГАС «Управление» — госпрограммы и нацпроекты
 
 | Признак | Значение |
 | :--- | :--- |

@@ -1,11 +1,16 @@
 ---
-title: "Государственные и муниципальные учреждения"
-category: "organizations"
-tags: [organizations, knowledge-base]
-last_updated: "2026-05-10"
-source_url: ""
+title: Государственные и муниципальные учреждения
+category: organizations
+tags:
+  - organizations
+  - knowledge-base
+last_updated: '2026-05-10'
+source_url: ''
 slug: /glossary/public-bodies
 sidebar_position: 1
+content_type: concept
+entity_type: glossary
+description: '# Государственные и муниципальные учреждения'
 ---
 
 # Государственные и муниципальные учреждения

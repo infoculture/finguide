@@ -1,13 +1,35 @@
 ---
-title: "Министерство финансов РФ"
-sidebar_label: "Минфин России"
-tags: [organizations, federal, budget, tax]
-source_url: https://minfin.gov.ru/
-last_updated: 2026-05-10
+title: Министерство финансов РФ
+sidebar_label: Минфин России
+tags:
+  - organizations
+  - federal
+  - budget
+  - tax
+source_url: 'https://minfin.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 org_kind: executive_ministry
-budget_roles: ["budget_preparation", "budget_execution", "tax_policy"]
-aliases: ["Минфин", "Минфин России", "Minfin"]
-reports_to: "Правительство РФ"
+budget_roles:
+  - budget_preparation
+  - budget_execution
+  - tax_policy
+aliases:
+  - Минфин
+  - Минфин России
+  - Minfin
+reports_to: Правительство РФ
+description: >-
+  Ведомство, задающее бюджетно-налоговый контур и классификацию для открытых
+  финансовых данных: от проекта федерального бюджета и КБК до публичных наборов
+  на сайте и роли в ГИИС «Электронный бюджет»; кассовое исполнение ведёт
+  Федеральное казначейство.
+content_type: organization
+entity_type: organization
+related_pages:
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/minfin-opendata
+  - /organizations/federal-treasury
+  - /legal/budget-code
 ---
 
 # Министерство финансов РФ

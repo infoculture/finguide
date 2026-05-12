@@ -1,19 +1,40 @@
 ---
-title: "Казначейство: размещение средств Фонда пенсионного и социального страхования РФ (отчёты о финансовых операциях)"
-sidebar_label: "Казначейство: размещение средств Фонда ПФР и соцстраха"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: >-
+  Казначейство: размещение средств Фонда пенсионного и социального страхования
+  РФ (отчёты о финансовых операциях)
+sidebar_label: 'Казначейство: размещение средств Фонда ПФР и соцстраха'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-finops-pension-social-fund-placements
-source_url: "https://roskazna.gov.ru/finansovye-operacii/razmeschenie-sredstv-fonda-pensionnogo-i-socialnogo-strahovaniya-rossiyskoy-federacii"
+source_url: >-
+  https://roskazna.gov.ru/finansovye-operacii/razmeschenie-sredstv-fonda-pensionnogo-i-socialnogo-strahovaniya-rossiyskoy-federacii
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "docx", "xml"]
+formats:
+  - html
+  - docx
+  - xml
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  отчётные материалы по размещению средств фонда в логике раздела «Финансовые
+  операции»; для исполнения бюджетов ГВФ в формах казначейства см. отдельный
+  подраздел исполнения и Минфин outbud/execute.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-extrabudgetary-funds-execution
+  - /data-sources/federal/minfin-outbud-execute
+  - /organizations/sfr
+  - /data-sources/federal/roskazna-reports
+  - /budget-system/extrabudgetary-funds
 ---
-
-# Казначейство: размещение средств Фонда пенсионного и социального страхования РФ (отчёты о финансовых операциях)
 
 | Признак | Значение |
 | :--- | :--- |

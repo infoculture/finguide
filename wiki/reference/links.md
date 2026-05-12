@@ -1,8 +1,12 @@
 ---
-title: "Полезные ссылки"
-sidebar_label: "Ссылки"
-tags: [reference, links]
-last_updated: 2026-05-11
+title: Полезные ссылки
+sidebar_label: Ссылки
+tags:
+  - reference
+  - links
+last_updated: 2026-05-11T00:00:00.000Z
+content_type: reference
+description: 'Для планов, росписи, открытых бюджетных данных и связанных витрин:'
 ---
 
 # Полезные ссылки

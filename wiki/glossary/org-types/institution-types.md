@@ -1,13 +1,26 @@
 ---
-title: "КУ / БУ / АУ — Типы государственных и муниципальных учреждений"
-sidebar_label: "КУ / БУ / АУ"
-tags: [glossary, orgs]
+title: КУ / БУ / АУ — Типы государственных и муниципальных учреждений
+sidebar_label: КУ / БУ / АУ
+tags:
+  - glossary
+  - orgs
 glossary_kind: concept
-abbreviations: ["КУ", "БУ", "АУ"]
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
-last_updated: 2026-05-10
+abbreviations:
+  - КУ
+  - БУ
+  - АУ
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/institution-types
 sidebar_position: 1
+description: >-
+  три юридических режима государственных и муниципальных учреждений
+  (некоммерческих организаций), различающихся полномочиями по имуществу,
+  источниками финансирования и формами бюджетного планирования. Для работы с
+  открытыми финансовыми данными это задаёт, ожидать ли прежде всего бюджетную
+  смету и оплату через казначей...
+content_type: concept
+entity_type: glossary
 ---
 
 # КУ / БУ / АУ — Типы государственных и муниципальных учреждений

@@ -1,11 +1,21 @@
 ---
-title: "Единый счёт бюджета"
-sidebar_label: "Единый счёт бюджета"
-tags: [glossary, budget]
+title: Единый счёт бюджета
+sidebar_label: Единый счёт бюджета
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-last_updated: 2026-05-11
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/unified-budget-account
+description: >-
+  единый счёт бюджета — это счёт (для федерального бюджета и бюджетов
+  федеральных ГВФ — совокупность счетов) в Банке России, на котором учитываются
+  средства бюджета и через который проходят кассовые поступления и выплаты. Для
+  аналитика открытых данных термин объясняет, почему кассовое исполнение
+  привязано к единой кас...
+content_type: concept
+entity_type: glossary
 ---
 
 # Единый счёт бюджета

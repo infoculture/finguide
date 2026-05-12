@@ -1,12 +1,27 @@
 ---
-title: "Совет Федерации Федерального Собрания Российской Федерации"
-sidebar_label: "Совет Федерации"
-tags: [organizations, federal, budget]
-source_url: "https://council.gov.ru/"
-last_updated: 2026-05-10
+title: Совет Федерации Федерального Собрания Российской Федерации
+sidebar_label: Совет Федерации
+tags:
+  - organizations
+  - federal
+  - budget
+source_url: 'https://council.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 org_kind: legislature
-budget_roles: ["legislation"]
-aliases: ["Совет Федерации", "СФ ФС РФ", "Совфед"]
+budget_roles:
+  - legislation
+aliases:
+  - Совет Федерации
+  - СФ ФС РФ
+  - Совфед
+description: >-
+  верхняя палата Федерального Собрания — для открытых госфинансов это
+  завершающий законодательный этап по ряду федеральных законов, включая
+  федеральный бюджет: решения палаты, повестка и архив материалов — прежде всего
+  на официальном сайте Совета Федерации; идентификатор и хронология
+  законопроекта часто продолжают отс...
+content_type: organization
+entity_type: organization
 ---
 
 # Совет Федерации Федерального Собрания Российской Федерации

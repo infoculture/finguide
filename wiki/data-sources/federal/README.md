@@ -1,9 +1,23 @@
 ---
-title: "Федеральные источники"
-sidebar_label: "Федеральные источники"
+title: Федеральные источники
+sidebar_label: Федеральные источники
 sidebar_position: 0
-tags: [data-source, federal]
-last_updated: 2026-05-11
+tags:
+  - data-source
+  - federal
+last_updated: 2026-05-12T00:00:00.000Z
+content_type: reference
+description: >-
+  Открытые данные федеральных органов и операторов ГИС: каталог data.gov.ru,
+  бюджетные выгрузки, закупки, учреждения и статистика по единым шаблонам карточек.
+related_pages:
+  - /data-sources
+  - /data-sources/regional
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/roskazna-reports
+  - /information-systems/federal/giis-eb
+  - /intro/data-map
 ---
 
 # Федеральные источники данных
@@ -12,9 +26,33 @@ last_updated: 2026-05-11
 
 Карточки сгруппированы по подпапкам в репозитории (`catalog/`, `budget/`, `zakupki/`, `programs-orgs/`, `statistics/`, `legacy/`); публичные URL вида `/data-sources/federal/<slug>` сохранены через поле `slug` в frontmatter.
 
+## Для кого
+
+- Аналитикам федерального контура: план, исполнение, закупки, учреждения, налоговая и макростатистика.
+- Разработчикам пайплайнов, которым важны **стабильные идентификаторы** (КБК, ИНН, период) и границы каждой витрины.
+
+## Быстрые входы
+
+| Задача | Карточка |
+| --- | --- |
+| Сшить роспись и исполнение с КБК | [Наборы ГИИС «Электронный бюджет»](./budget/budget-gov-ru-datasets.md), [открытые данные Минфина](./budget/minfin-opendata.md) |
+| Касса и отчёты об исполнении | [Отчёты Казначейства](./budget/roskazna-reports.md), [витрины datamarts](./budget/roskazna-datamarts.md) |
+| Закупки и контракты | [ЕИС](./zakupki/procurement.md), [XML ЕИС](./zakupki/zakupki-xml.md) |
+| Субнациональный контур | [Региональные источники](/data-sources/regional/) |
+| Сценарий без названия набора | [Карта данных](/intro/data-map) |
+
+## Типовые вопросы
+
+**Почему так много карточек Росказначейства?** Разные срезы одного портала вынесены отдельно, чтобы в карточке были чёткие URL и ограничения.
+
+**Где оператор системы, а не только файлы?** См. раздел [Информационные системы](/information-systems/federal/) (например [ГИИС «Электронный бюджет»](/information-systems/federal/giis-eb)).
+
 ## Федеральный каталог открытых данных
 
 - [Портал data.gov.ru](./catalog/data-gov-ru.md)
+- [e-disclosure.ru — раскрытие эмитентов (Интерфакс)](./catalog/e-disclosure-ru.md)
+- [ПАО «Газпром»: раскрытие для инвесторов](./catalog/gazprom-investor-disclosure.md)
+- [РЖД: корпоративное раскрытие (company.rzd.ru)](./catalog/rzd-holding-disclosure.md)
 
 ## Бюджетные данные
 

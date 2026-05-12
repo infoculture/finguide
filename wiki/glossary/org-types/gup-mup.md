@@ -1,13 +1,25 @@
 ---
-title: "ГУП / МУП — Унитарные предприятия"
-sidebar_label: "ГУП / МУП"
-tags: [glossary, orgs]
+title: ГУП / МУП — Унитарные предприятия
+sidebar_label: ГУП / МУП
+tags:
+  - glossary
+  - orgs
 glossary_kind: organization
-abbreviations: ["ГУП", "МУП"]
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_39768/"
-last_updated: 2026-05-10
+abbreviations:
+  - ГУП
+  - МУП
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_39768/'
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/gup-mup
 sidebar_position: 2
+description: >-
+  государственные и муниципальные унитарные предприятия — коммерческие
+  организации, имущество которых принадлежит Российской Федерации, субъекту РФ
+  или муниципальному образованию на праве оперативного управления (казённое
+  предприятие) или хозяйственного ведения. В открытых финансовых данных они чаще
+  всего всплывают ка...
+content_type: concept
+entity_type: glossary
 ---
 
 # ГУП / МУП — Унитарные предприятия

@@ -1,19 +1,41 @@
 ---
-title: "Казначейство: статистика государственных финансов РФ (подраздел портала)"
-sidebar_label: "Казначейство: стат. госфинансов"
-tags: [data-source, federal, budget, reporting, statistics]
-last_updated: 2026-05-11
+title: 'Казначейство: статистика государственных финансов РФ (подраздел портала)'
+sidebar_label: 'Казначейство: стат. госфинансов'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+  - statistics
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-state-finances-statistics
-source_url: "https://roskazna.gov.ru/ispolnenie-byudzhetov/statistika-gosudarstvennyh-finansov-rf/"
+source_url: >-
+  https://roskazna.gov.ru/ispolnenie-byudzhetov/statistika-gosudarstvennyh-finansov-rf/
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "xls", "xlsx", "pdf"]
+formats:
+  - html
+  - xls
+  - xlsx
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  официальные материалы Казначейства в блоке «Статистика государственных
+  финансов РФ»; для статистического наблюдения Росстата и макро-сводов Минфина
+  используйте ЕМИСС/Росстат и смежные витрины Минфина — это другие операторы и
+  методики.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/minfin-fedbud-execute
+  - /data-sources/federal/rosstat-opendata
+  - /glossary/treasury-execution
 ---
-
-# Казначейство: статистика государственных финансов РФ (подраздел портала)
 
 | Признак | Значение |
 | :--- | :--- |

@@ -1,13 +1,25 @@
 ---
-title: "АИС «Финансы»"
-sidebar_label: "АИС «Финансы»"
-tags: [information-system, federal, budget]
-source_url: https://minfin.gov.ru/ru/ismf/ais/
-last_updated: 2026-05-10
+title: АИС «Финансы»
+sidebar_label: АИС «Финансы»
+tags:
+  - information-system
+  - federal
+  - budget
+source_url: 'https://minfin.gov.ru/ru/ismf/ais/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: government_is
 access: restricted
 operator_type: federal_body
-primary_topics: ["budget", "budget_execution"]
+primary_topics:
+  - budget
+  - budget_execution
+content_type: reference
+entity_type: information-system
+description: >-
+  Федеральная государственная информационная система Минфина России для
+  автоматизации функций министерства в сфере управления общественными финансами:
+  бюджетное планирование и исполнение, ведение финансовых показателей,
+  подготовка отчётности и межведомственный обмен.
 ---
 
 # АИС «Финансы»

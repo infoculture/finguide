@@ -1,12 +1,22 @@
 ---
-title: "Государственные программы РФ"
-sidebar_label: "Государственные программы РФ"
-tags: [glossary, programs]
+title: Государственные программы РФ
+sidebar_label: Государственные программы РФ
+tags:
+  - glossary
+  - programs
 glossary_kind: concept
-source_url: "https://programs.gov.ru/"
-last_updated: 2026-05-10
+source_url: 'https://programs.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/gov-programs
 sidebar_position: 1
+description: >-
+  Государственные программы Российской Федерации — ключевой документ
+  стратегического планирования на федеральном уровне: цели, задачи,
+  подпрограммы, показатели и объёмы бюджетного финансирования по годам,
+  закреплённые в паспорте программы и реестре на programs.gov.ru. Для открытых
+  финансовых данных термин связывает пл...
+content_type: concept
+entity_type: glossary
 ---
 
 # Государственные программы РФ

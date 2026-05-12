@@ -1,8 +1,13 @@
 ---
-title: "Открытые данные bus.gov.ru"
-sidebar_label: "Открытые данные bus.gov.ru"
-tags: [howto, access]
-last_updated: 2026-05-10
+title: Открытые данные bus.gov.ru
+sidebar_label: Открытые данные bus.gov.ru
+tags:
+  - howto
+  - access
+last_updated: 2026-05-10T00:00:00.000Z
+content_type: howto
+entity_type: howto
+description: '# Открытые данные bus.gov.ru'
 ---
 
 # Открытые данные bus.gov.ru
@@ -25,6 +30,19 @@ import requests
 # r.raise_for_status()
 # data = r.json()
 ```
+
+## Входные данные
+
+- Конкретные файлы, URL, коды периодов и реквизиты перечислены в разделах ниже; зафиксируйте дату выгрузки для воспроизводимости.
+
+## Инструменты
+
+- Браузер и/или среда из разделов ниже (Python, Excel, SQL, CLI) — в зависимости от выбранного пути.
+
+## Проверка результата
+
+Сверьте итоги с официальной отчётностью, контрольными суммами или sanity-check из текста выше.
+
 
 ## Подводные камни
 

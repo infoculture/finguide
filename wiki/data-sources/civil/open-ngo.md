@@ -1,16 +1,31 @@
 ---
-title: "OpenNGO.ru — финансирование НКО"
-sidebar_label: "OpenNGO.ru — финансирование НКО"
-tags: [data-source, civil, subsidies, grants]
-last_updated: 2026-05-11
+title: OpenNGO.ru — финансирование НКО
+sidebar_label: OpenNGO.ru — финансирование НКО
+tags:
+  - data-source
+  - civil
+  - subsidies
+  - grants
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /data-sources/civil/open-ngo
-source_url: "https://openngo.ru/"
+source_url: 'https://openngo.ru/'
 data_source_kind: mixed
 jurisdiction: civil
 access: open
-formats: ["html", "json", "zip"]
+formats:
+  - html
+  - json
+  - zip
 status: current
-related_information_system: "/information-systems/civil/open-ngo"
+related_information_system: /information-systems/civil/open-ngo
+description: >-
+  одна точка входа в интерфейсе, чтобы по ИНН или названию НКО увидеть рядом
+  бюджетную поддержку, конкурсные гранты (в т. ч. контур ФПГ) и контракты;
+  машиночитаемый канал на openngo.ru/opendata/ даёт прежде всего агрегированные
+  профили организаций (JSON Lines в ZIP и JSON API), со схемой полей и условиями
+  — у оператора.
+content_type: data_source
+entity_type: data-source
 ---
 
 # OpenNGO.ru — финансирование НКО

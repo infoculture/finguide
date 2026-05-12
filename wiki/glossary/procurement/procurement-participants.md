@@ -1,12 +1,22 @@
 ---
-title: "Закупки: заказчик, участник, контракт и процедура"
-sidebar_label: "Роли в закупках"
-tags: [glossary, procurement]
+title: 'Закупки: заказчик, участник, контракт и процедура'
+sidebar_label: Роли в закупках
+tags:
+  - glossary
+  - procurement
 glossary_kind: concept
-last_updated: 2026-05-10
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_144624/"
+last_updated: 2026-05-10T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_144624/'
 slug: /glossary/procurement-participants
 sidebar_position: 5
+description: >-
+  в ЕИС и выгрузках по 44-ФЗ и 223-ФЗ повторяются несколько ролей и объектов:
+  кто обязан закупать (заказчик), кто подаёт заявки (участник), что считается
+  результатом отбора (контракт / договор), как организован отбор (процедура /
+  способ закупки). Карточка задаёт словарь для склейки таблиц, не заменяя текст
+  законов.
+content_type: concept
+entity_type: glossary
 ---
 
 # Закупки: заказчик, участник, контракт и процедура

@@ -1,16 +1,33 @@
 ---
-title: "Минфин: мониторинг закупок (отчёты)"
-sidebar_label: "Минфин: мониторинг закупок"
-tags: [data-source, federal, procurement]
-last_updated: 2026-05-11
+title: 'Минфин: мониторинг закупок (отчёты)'
+sidebar_label: 'Минфин: мониторинг закупок'
+tags:
+  - data-source
+  - federal
+  - procurement
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/minfin-purchases-monitoring
-source_url: "https://minfin.gov.ru/ru/perfomance/contracts/purchases/"
+source_url: 'https://minfin.gov.ru/ru/perfomance/contracts/purchases/'
 data_source_kind: files
 jurisdiction: federal
 access: open
-formats: ["pdf"]
+formats:
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/minfinsite"
+related_information_system: /information-systems/federal/minfinsite
+description: >-
+  официальные сводные отчёты Минфина по мониторингу сферы закупок (ежеквартально
+  и сводный годовой аналитический отчёт) — источник агрегированной методологии и
+  выводов ведомства; для построчного контура закупок, извещений и контрактов
+  используйте ЕИС и XML-выгрузки.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/minfinsite
+  - /organizations/minfin
+  - /data-sources/federal/procurement
+  - /data-sources/federal/zakupki-xml
+  - /glossary/procurement-44fz
 ---
 
 # Минфин: мониторинг закупок (отчёты)

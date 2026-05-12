@@ -1,15 +1,21 @@
 ---
-title: "Постановление Правительства РФ от 26 июня 1995 г. № 594 (вопросы федеральных целевых программ — исторический порядок)"
-sidebar_label: "ПП № 594 (ФЦП, история)"
+title: >-
+  Постановление Правительства РФ от 26 июня 1995 г. № 594 (вопросы федеральных
+  целевых программ — исторический порядок)
+sidebar_label: 'ПП № 594 (ФЦП, история)'
 description: >-
-  Постановление № 594 с порядком разработки и реализации ФЦП в исторической модели;
-  полезно для архива ФЦП и методологии на programs.gov.ru.
-tags: [legal, budget]
-last_updated: 2026-05-11
+  Постановление № 594 с порядком разработки и реализации ФЦП в исторической
+  модели; полезно для архива ФЦП и методологии на programs.gov.ru.
+tags:
+  - legal
+  - budget
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /legal/government-594-fcp
 doc_kind: government_decree
 official_urls:
-  - https://publication.pravo.gov.ru/
+  - 'https://publication.pravo.gov.ru/'
+content_type: legal
+entity_type: legal-document
 ---
 
 # Постановление № 594 и федеральные целевые программы

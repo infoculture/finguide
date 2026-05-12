@@ -1,13 +1,22 @@
 ---
-title: "Платформа поставки данных ФНС России"
-sidebar_label: "ППД ФНС (vpd.nalog.gov.ru)"
-tags: [information-system, federal, tax, open_data]
-source_url: https://vpd.nalog.gov.ru/
-last_updated: 2026-05-10
+title: Платформа поставки данных ФНС России
+sidebar_label: ППД ФНС (vpd.nalog.gov.ru)
+tags:
+  - information-system
+  - federal
+  - tax
+  - open_data
+source_url: 'https://vpd.nalog.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: public_portal
 access: mixed
 operator_type: federal_body
-primary_topics: ["tax", "open_data"]
+primary_topics:
+  - tax
+  - open_data
+content_type: reference
+entity_type: information-system
+description: '# Платформа поставки данных ФНС России'
 ---
 
 # Платформа поставки данных ФНС России

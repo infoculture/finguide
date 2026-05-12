@@ -1,19 +1,43 @@
 ---
-title: "Казначейство: сводная информация по бюджетным и автономным учреждениям субъектов РФ (местных бюджетов)"
-sidebar_label: "Казначейство: свод по учр. субъектов"
-tags: [data-source, federal, budget, reporting, regional]
-last_updated: 2026-05-11
+title: >-
+  Казначейство: сводная информация по бюджетным и автономным учреждениям
+  субъектов РФ (местных бюджетов)
+sidebar_label: 'Казначейство: свод по учр. субъектов'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+  - regional
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-regional-institutions-execution-summary
-source_url: "https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/"
+source_url: >-
+  https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/
 data_source_kind: mixed
 jurisdiction: multilevel
 access: open
-formats: ["html", "xls", "xlsx", "pdf"]
+formats:
+  - html
+  - xls
+  - xlsx
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  федеральная витрина свода по региональным и местным учреждениям; для
+  федеральных учреждений — отдельный подраздел; для микроданных учреждений —
+  bus.gov.ru.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/roskazna-federal-institutions-execution-summary
+  - /information-systems/federal/bus-gov
+  - /budget-system/regional-budgets
+  - /budget-system/municipal-budgets
 ---
-
-# Казначейство: сводная информация по бюджетным и автономным учреждениям субъектов РФ (местных бюджетов)
 
 | Признак | Значение |
 | :--- | :--- |

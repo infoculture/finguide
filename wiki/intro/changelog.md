@@ -1,15 +1,30 @@
 ---
-title: "История изменений"
-sidebar_label: "История изменений"
+title: История изменений
+sidebar_label: История изменений
 description: >-
-  Хроника структурных и содержательных обновлений базы знаний и миграции на Docusaurus.
-tags: [intro, changelog]
-last_updated: 2026-05-11
+  Хроника структурных и содержательных обновлений базы знаний и миграции на
+  Docusaurus.
+tags:
+  - intro
+  - changelog
+last_updated: 2026-05-12T00:00:00.000Z
+content_type: reference
 ---
 
 # История изменений
 
 История структурных и содержательных обновлений базы знаний.
+
+## 2026-05-12
+
+- Введение: страницы [Быстрый старт](/intro/getting-started) и [использование корпуса в RAG и ассистентах](/intro/rag-guide) (навигация по разделам, метаданные, экспорт и цитирование URL).
+- Источники данных: карточки корпоративного раскрытия — [Интерфакс: единый интерфейс раскрытия информации (e-disclosure.ru)](/data-sources/federal/e-disclosure-ru), [раскрытие для инвесторов «Газпрома»](/data-sources/federal/gazprom-investor-disclosure), [раскрытие РЖД](/data-sources/federal/rzd-holding-disclosure).
+- Источники данных: международные витрины — [IMF Government Finance Statistics (GFS)](/data-sources/international/imf-gfs), [OECD Fiscal data](/data-sources/international/oecd-fiscal-data), [UN Data](/data-sources/international/un-data).
+- Источники данных: региональные — методическая страница [как искать региональные данные о бюджетах и госфинансах](/data-sources/regional/how-to-find-regional-data).
+- Отчётность: обзор [отчётности организаций с государственным участием](/reporting/state-sector-overview) (связка с раскрытием, закупками и бюджетным контуром).
+- Справочники: [поиск по кодам ОКТМО, КБК и КОСГУ](/reference/classification-codes-index) и заметка [о полнотекстовом поиске (DocSearch)](/reference/docsearch-setup).
+- План наполнения [wiki](/intro/wiki-filling-plan) обновлён под направления по госкорпорациям, регионам и качеству навигации.
+- Для разработчиков пайплайнов и ИИ: в корне репозитория `KNOWLEDGE.md` и `llms.txt`, каталог `exports/` с `knowledge-index.jsonl` и `knowledge-graph.json` (генерация `npm run export:knowledge`); спецификации и проверки качества корпуса в `openspec/`, CI в `.github/workflows/` (включая проверки ссылок).
 
 ## 2026-05-11
 

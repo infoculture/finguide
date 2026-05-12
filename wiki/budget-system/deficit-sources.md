@@ -1,8 +1,22 @@
 ---
-title: "Источники финансирования дефицита"
-sidebar_label: "Источники финансирования дефицита"
-tags: [budget-system]
-last_updated: 2026-05-11
+title: Источники финансирования дефицита
+sidebar_label: Источники финансирования дефицита
+tags:
+  - budget-system
+last_updated: 2026-05-12T00:00:00.000Z
+content_type: concept
+description: >-
+  Источники финансирования дефицита бюджета по БК РФ и КБК: заимствования,
+  остатки, резервы и иные виды; отличие от доходов и связь с государственным долгом.
+related_pages:
+  - /budget-system
+  - /budget-system/debt
+  - /budget-system/federal-budget
+  - /glossary/deficit-financing
+  - /glossary/kbk
+  - /glossary/nwf
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/giis-eb
 ---
 
 # Источники финансирования дефицита

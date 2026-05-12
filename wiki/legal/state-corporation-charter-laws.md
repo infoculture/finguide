@@ -1,15 +1,19 @@
 ---
-title: "Индивидуальные федеральные законы о государственных корпорациях (обзор)"
-sidebar_label: "Законы о ГК (обзор)"
+title: Индивидуальные федеральные законы о государственных корпорациях (обзор)
+sidebar_label: Законы о ГК (обзор)
 description: >-
   Перечень типовых индивидуальных законов о каждой государственной корпорации;
   связка с 223-ФЗ, ЕГРЮЛ и открытыми данными закупок.
-tags: [legal, procurement]
-last_updated: 2026-05-11
+tags:
+  - legal
+  - procurement
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /legal/state-corporation-charter-laws
 doc_kind: overview
 official_urls:
-  - https://publication.pravo.gov.ru/
+  - 'https://publication.pravo.gov.ru/'
+content_type: legal
+entity_type: legal-document
 ---
 
 # Индивидуальные законы о государственных корпорациях

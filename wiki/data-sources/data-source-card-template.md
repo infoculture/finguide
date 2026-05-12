@@ -25,6 +25,8 @@ draft: true
 | `tags` | да | Первая метка: `data-source`; далее `federal` \| `regional` \| `international` \| `civil` и при необходимости тема (`budget`, `procurement`, `subsidies`, `tax`, …) |
 | `last_updated` | да | `2026-05-10` |
 | `slug` | да для новых карточек | `/data-sources/<подраздел>/<slug>` — тот же `<slug>`, что имя файла (для `federal` путь в файловой системе может быть `federal/<группа>/<slug>.md`, в `slug` — всё равно `/data-sources/federal/<slug>`) |
+| `content_type` | да | `data_source` |
+| `entity_type` | да | `data-source` |
 | `source_url` | по возможности | Канонический URL витрины, каталога наборов или главной страницы источника |
 | `data_source_kind` | рекомендуется | `portal` — веб-витрина; `api` — программный интерфейс; `files` — файловые наборы по ссылкам; `ftp` — FTP/SFTP; `mixed` — несколько каналов; `ui_only` — только интерфейс без стабильных выгрузок |
 | `jurisdiction` | рекомендуется | `federal` \| `regional` \| `municipal` \| `civil` \| `multilevel` |
@@ -40,6 +42,8 @@ sidebar_label: "<Короткая подпись>"
 tags: [data-source, federal]
 last_updated: YYYY-MM-DD
 slug: /data-sources/<подраздел>/<slug>
+content_type: data_source
+entity_type: data-source
 source_url: "https://..."
 data_source_kind: mixed
 jurisdiction: federal

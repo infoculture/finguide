@@ -1,13 +1,21 @@
 ---
-title: "HubOfData — каталог датасетов по госфинансам"
-sidebar_label: "HubOfData"
-tags: [information-system, civil, budget]
-source_url: https://hubofdata.ru/
-last_updated: 2026-05-10
+title: HubOfData — каталог датасетов по госфинансам
+sidebar_label: HubOfData
+tags:
+  - information-system
+  - civil
+  - budget
+source_url: 'https://hubofdata.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: civil_aggregator
 access: open
 operator_type: ngo
-primary_topics: ["open_data", "budget"]
+primary_topics:
+  - open_data
+  - budget
+content_type: reference
+entity_type: information-system
+description: '# HubOfData — каталог датасетов по госфинансам'
 ---
 
 # HubOfData — каталог датасетов по госфинансам

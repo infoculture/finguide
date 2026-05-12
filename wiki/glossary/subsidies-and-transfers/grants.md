@@ -1,12 +1,22 @@
 ---
-title: "Гранты"
-sidebar_label: "Гранты"
-tags: [glossary, transfers]
+title: Гранты
+sidebar_label: Гранты
+tags:
+  - glossary
+  - transfers
 glossary_kind: concept
-source_url: "https://президентскиегранты.рф/"
-last_updated: 2026-05-10
+source_url: 'https://президентскиегранты.рф/'
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/grants
 sidebar_position: 2
+description: >-
+  гранты в российской практике чаще всего означают конкурсную безвозмездную
+  поддержку проектов (НКО, наука, культура и др.) через специализированных
+  операторов и отдельные правовые режимы. Для открытых финансовых данных важно
+  отличать такой контур от субсидий по ст. 78 и 78.1 БК РФ с соглашениями в ГИИС
+  «Электронный б...
+content_type: concept
+entity_type: glossary
 ---
 
 # Гранты

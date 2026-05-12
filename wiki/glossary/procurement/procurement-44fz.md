@@ -1,12 +1,22 @@
 ---
-title: "44-ФЗ — Контрактная система в сфере закупок"
-sidebar_label: "44-ФЗ"
-tags: [glossary, procurement]
+title: 44-ФЗ — Контрактная система в сфере закупок
+sidebar_label: 44-ФЗ
+tags:
+  - glossary
+  - procurement
 glossary_kind: law
-source_url: https://www.consultant.ru/document/cons_doc_LAW_144624/
-last_updated: 2026-05-10
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_144624/'
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/procurement-44fz
 sidebar_position: 1
+description: >-
+  44-ФЗ устанавливает правила контрактной системы для закупок за счёт средств
+  бюджетов бюджетной системы РФ и связанных источников в интересах
+  государственных и муниципальных нужд. Для аналитики открытых финансов это
+  главный ориентир: когда закупка попадает под этот закон, её полный цикл — от
+  плана до контракта — как ...
+content_type: concept
+entity_type: glossary
 ---
 
 # 44-ФЗ — Контрактная система в сфере закупок

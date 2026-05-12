@@ -1,12 +1,22 @@
 ---
-title: "Иные учреждённые государством организации"
-sidebar_label: "Иные орг. госсектора"
-tags: [glossary, orgs]
+title: Иные учреждённые государством организации
+sidebar_label: Иные орг. госсектора
+tags:
+  - glossary
+  - orgs
 glossary_kind: organization
-last_updated: 2026-05-11
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/other-orgs
 sidebar_position: 2
+description: >-
+  разнородные юридические лица, которые создаёт публичный сектор для
+  специализированных функций и которые не сводятся к типовым контурам
+  государственных и муниципальных учреждений, унитарных предприятий и
+  госкорпораций / ППК. Для НКО с доминирующим участием государства в аналитике
+  см. отдельный термин государственные ...
+content_type: concept
+entity_type: glossary
 ---
 
 # Иные учреждённые государством организации

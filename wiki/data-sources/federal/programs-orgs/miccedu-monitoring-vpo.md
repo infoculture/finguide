@@ -1,18 +1,37 @@
 ---
-title: "Мониторинг в сфере образования: показатели организаций высшего образования (miccedu.ru)"
-sidebar_label: "Мониторинг ВО (miccedu.ru)"
-tags: [data-source, federal, budget]
-last_updated: 2026-05-11
+title: >-
+  Мониторинг в сфере образования: показатели организаций высшего образования
+  (miccedu.ru)
+sidebar_label: Мониторинг ВО (miccedu.ru)
+tags:
+  - data-source
+  - federal
+  - budget
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/miccedu-monitoring-vpo
-source_url: "https://monitoring.miccedu.ru/?m=vpo"
+source_url: 'https://monitoring.miccedu.ru/?m=vpo'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "xlsx"]
+formats:
+  - html
+  - xlsx
 status: current
+description: >-
+  публичный мониторинг по организациям высшего образования, где наряду с
+  контингентом, направлениями подготовки и показателями деятельности
+  раскрываются финансовые сведения (в том числе доходы/расходы и смежные
+  показатели по методике мониторинга) — удобный отраслевой срез для
+  сопоставления вузов и регионов, дополняющи...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /data-sources/federal/bus-opendata
+  - /glossary/institution-types
+  - /data-sources/federal/rosstat-opendata
+  - /budget-system/orgtypes-overview
+  - /data-sources/federal/data-gov-ru
 ---
-
-# Мониторинг в сфере образования: показатели организаций высшего образования (miccedu.ru)
 
 | Признак | Значение |
 | :--- | :--- |

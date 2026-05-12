@@ -1,13 +1,26 @@
 ---
-title: "ЕИС в сфере закупок"
-sidebar_label: "ЕИС Закупки"
-tags: [information-system, federal, procurement]
-source_url: https://zakupki.gov.ru/epz/main/public/home.html
-last_updated: 2026-05-10
+title: ЕИС в сфере закупок
+sidebar_label: ЕИС Закупки
+tags:
+  - information-system
+  - federal
+  - procurement
+source_url: 'https://zakupki.gov.ru/epz/main/public/home.html'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: public_portal
 access: open
 operator_type: federal_body
-primary_topics: ["procurement", "budget_execution"]
+primary_topics:
+  - procurement
+  - budget_execution
+content_type: reference
+entity_type: information-system
+description: >-
+  Единая информационная система в сфере закупок (ЕИС) — федеральная публичная
+  среда размещения и раскрытия сведений о закупках, для которых законом
+  предусмотрена публикация в единой системе: прежде всего по 44-ФЗ (контрактная
+  система для государственных и муниципальных заказчиков) и по 223-ФЗ (закупки
+  отдельных катего...
 ---
 
 # ЕИС в сфере закупок

@@ -1,16 +1,39 @@
 ---
-title: "Минфин: краткая информация об исполнении бюджетов государственных внебюджетных фондов"
-sidebar_label: "Минфин: исполнение бюджетов ГВФ (outbud/execute)"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: >-
+  Минфин: краткая информация об исполнении бюджетов государственных внебюджетных
+  фондов
+sidebar_label: 'Минфин: исполнение бюджетов ГВФ (outbud/execute)'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/minfin-outbud-execute
-source_url: "https://minfin.gov.ru/ru/statistics/outbud/execute/"
+source_url: 'https://minfin.gov.ru/ru/statistics/outbud/execute/'
 data_source_kind: files
 jurisdiction: federal
 access: open
-formats: ["xlsx"]
+formats:
+  - xlsx
 status: current
-related_information_system: "/information-systems/federal/minfinsite"
+related_information_system: /information-systems/federal/minfinsite
+description: >-
+  официальные агрегированные таблицы исполнения бюджетов ГВФ от Минфина —
+  удобная макро-точка входа для динамики доходов и расходов фондов отдельно от
+  федерального бюджета; для регламентированной отчётности, разреза по КБК и
+  плановому контуру используйте отчётность по бюджетам ГВФ, ГИИС «Электронный
+  бюджет» и материал...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/minfinsite
+  - /organizations/minfin
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/minfin-fedbud-execute
+  - /budget-system/extrabudgetary-funds
+  - /data-sources/federal/roskazna-extrabudgetary-funds-execution
+  - /glossary/extrabudgetary-funds
 ---
 
 # Минфин: краткая информация об исполнении бюджетов государственных внебюджетных фондов

@@ -1,13 +1,22 @@
 ---
-title: "Федеральный портал открытых данных (data.gov.ru)"
-sidebar_label: "data.gov.ru"
-tags: [information-system, federal, budget, open_data]
-source_url: https://data.gov.ru/
-last_updated: 2026-05-11
+title: Федеральный портал открытых данных (data.gov.ru)
+sidebar_label: data.gov.ru
+tags:
+  - information-system
+  - federal
+  - budget
+  - open_data
+source_url: 'https://data.gov.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 system_kind: public_portal
 access: open
 operator_type: federal_body
-primary_topics: ["open_data", "budget"]
+primary_topics:
+  - open_data
+  - budget
+content_type: reference
+entity_type: information-system
+description: '# Федеральный портал открытых данных (data.gov.ru)'
 ---
 
 # Федеральный портал открытых данных (data.gov.ru)

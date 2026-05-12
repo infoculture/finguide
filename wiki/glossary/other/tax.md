@@ -1,11 +1,22 @@
 ---
-title: "Налог (определение НК РФ)"
-sidebar_label: "Налог"
-tags: [glossary, budget]
+title: Налог (определение НК РФ)
+sidebar_label: Налог
+tags:
+  - glossary
+  - budget
 glossary_kind: law
-source_url: http://www.consultant.ru/document/Cons_doc_LAW_19671/fd3039f558e14477ce752eb9789b02a023fbc006/
-last_updated: 2026-05-11
+source_url: >-
+  http://www.consultant.ru/document/Cons_doc_LAW_19671/fd3039f558e14477ce752eb9789b02a023fbc006/
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /glossary/tax
+description: >-
+  в НК РФ налог — это обязательный безвозмездный платёж в бюджетную систему,
+  который закон связывает с наличием у плательщика объекта налогообложения. Для
+  аналитики открытых финансов это базовая категория: налоговые поступления в
+  отчётах исполнения бюджета и в КБК соотносятся с администрированием налогов,
+  но не совпад...
+content_type: concept
+entity_type: glossary
 ---
 
 # Налог (определение НК РФ)

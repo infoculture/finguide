@@ -1,11 +1,21 @@
 ---
-title: "Бюджет"
-sidebar_label: "Бюджет"
-tags: [glossary, budget]
+title: Бюджет
+sidebar_label: Бюджет
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-last_updated: 2026-05-11
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/budget
+description: >-
+  в БК РФ бюджет — это не только «цифры в законе», а форма образования и
+  расходования денежных средств, предназначенных для финансового обеспечения
+  задач и функций государства и местного самоуправления. Для открытых данных
+  важно связывать каждую строку с конкретным бюджетом (федеральный, субъекта,
+  местный, бюджет ГВФ)...
+content_type: concept
+entity_type: glossary
 ---
 
 # Бюджет

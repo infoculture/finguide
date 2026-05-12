@@ -1,17 +1,22 @@
 ---
-title: "Таможенный кодекс Евразийского экономического союза"
-sidebar_label: "ТК ЕАЭС"
+title: Таможенный кодекс Евразийского экономического союза
+sidebar_label: ТК ЕАЭС
 description: >-
-  Международный кодекс ЕАЭС о таможенном регулировании: процедуры, платежи и статистика внешней торговли;
-  верхний уровень норм рядом с российским законом о таможенном регулировании.
-tags: [legal, budget]
-last_updated: 2026-05-11
+  Международный кодекс ЕАЭС о таможенном регулировании: процедуры, платежи и
+  статистика внешней торговли; верхний уровень норм рядом с российским законом о
+  таможенном регулировании.
+tags:
+  - legal
+  - budget
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /legal/customs-code-eaeu
 doc_kind: overview
-source_url: https://docs.eaeunion.org/
+source_url: 'https://docs.eaeunion.org/'
 official_urls:
-  - https://docs.eaeunion.org/
-  - https://publication.pravo.gov.ru/
+  - 'https://docs.eaeunion.org/'
+  - 'https://publication.pravo.gov.ru/'
+content_type: legal
+entity_type: legal-document
 ---
 
 # Таможенный кодекс Евразийского экономического союза

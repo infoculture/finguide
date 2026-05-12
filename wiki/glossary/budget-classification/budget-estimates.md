@@ -1,12 +1,22 @@
 ---
-title: "Бюджетная смета казённого учреждения"
-sidebar_label: "Бюджетная смета"
-tags: [glossary, planning]
+title: Бюджетная смета казённого учреждения
+sidebar_label: Бюджетная смета
+tags:
+  - glossary
+  - planning
 glossary_kind: concept
-last_updated: 2026-05-10
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+last_updated: 2026-05-10T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/budget-estimates
 sidebar_position: 7
+description: >-
+  это плановый документ казённого учреждения (КУ) на год и плановый период, в
+  котором закрепляются предельные объёмы средств на расходы и (или) ожидаемые
+  доходы и источники финансирования дефицита. Для аналитики открытых финансов
+  важна как «мост» между доведёнными ЛБО и фактическим казначейским исполнением:
+  по ней про...
+content_type: concept
+entity_type: glossary
 ---
 
 # Бюджетная смета казённого учреждения

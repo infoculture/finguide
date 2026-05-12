@@ -1,13 +1,23 @@
 ---
-title: "ГИС «Наука» (gisnauka.ru)"
-sidebar_label: "ГИС «Наука»"
-tags: [information-system, federal, budget, programs]
-source_url: "https://gisnauka.ru/"
-last_updated: 2026-05-11
+title: ГИС «Наука» (gisnauka.ru)
+sidebar_label: ГИС «Наука»
+tags:
+  - information-system
+  - federal
+  - budget
+  - programs
+source_url: 'https://gisnauka.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 system_kind: government_is
 access: mixed
 operator_type: federal_body
-primary_topics: ["budget", "programs", "subsidies"]
+primary_topics:
+  - budget
+  - programs
+  - subsidies
+content_type: reference
+entity_type: information-system
+description: '# ГИС «Наука» (gisnauka.ru)'
 ---
 
 # ГИС «Наука» (gisnauka.ru)

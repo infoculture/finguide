@@ -1,16 +1,39 @@
 ---
-title: "Росстат: статистика внешней торговли"
-sidebar_label: "Росстат: внешняя торговля"
-tags: [data-source, federal, statistics, open_data]
-last_updated: 2026-05-11
+title: 'Росстат: статистика внешней торговли'
+sidebar_label: 'Росстат: внешняя торговля'
+tags:
+  - data-source
+  - federal
+  - statistics
+  - open_data
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/rosstat-external-trade
-source_url: "https://rosstat.gov.ru/statistics/vneshnyaya_torgovlya"
+source_url: 'https://rosstat.gov.ru/statistics/vneshnyaya_torgovlya'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "xlsx", "xls", "pdf", "csv"]
+formats:
+  - html
+  - xlsx
+  - xls
+  - pdf
+  - csv
 status: current
-related_information_system: "/information-systems/federal/emiss"
+related_information_system: /information-systems/federal/emiss
+description: >-
+  тематическая витрина Росстата по внешней торговле — сводные таблицы,
+  методология и файловые выгрузки для макроанализа и сопоставления с платёжным
+  балансом и бюджетными агрегатами. Это не оперативные таможенные регистры ФТС и
+  не замена им без сверки определений.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/emiss
+  - /organizations/rosstat
+  - /data-sources/federal/fts-customs-statistics
+  - /data-sources/federal/rosstat-opendata
+  - /organizations/fts
+  - /data-sources/federal/minfin-opendata
 ---
 
 # Росстат: статистика внешней торговли

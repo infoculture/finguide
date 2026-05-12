@@ -1,16 +1,33 @@
 ---
-title: "Консолидированные бюджеты субъектов РФ"
-sidebar_label: "Консолидированные бюджеты субъектов РФ"
-tags: [data-source, regional, budget, reporting]
-last_updated: 2026-05-11
+title: Консолидированные бюджеты субъектов РФ
+sidebar_label: Консолидированные бюджеты субъектов РФ
+tags:
+  - data-source
+  - regional
+  - budget
+  - reporting
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /data-sources/regional/consolidated-budgets
-source_url: "https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov/"
+source_url: >-
+  https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov/
 data_source_kind: mixed
 jurisdiction: regional
 access: open
-formats: ["html", "xls", "xlsx", "pdf"]
+formats:
+  - html
+  - xls
+  - xlsx
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  единая витрина Федерального казначейства для скачивания исполнения
+  консолидированных бюджетов субъектов РФ (в первую очередь форма 0503317) —
+  удобный вход для межрегиональных сравнений и построения рядов по КБК на
+  методике казначейской отчётности, без обхода только федерального контура
+  «Исполнение бюджетов».
+content_type: data_source
+entity_type: data-source
 ---
 
 # Консолидированные бюджеты субъектов РФ

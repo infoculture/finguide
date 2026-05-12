@@ -1,15 +1,37 @@
 ---
-title: "Всемирный банк — данные по России"
-sidebar_label: "Всемирный банк (Россия)"
-tags: [data-source, international, statistics, macro]
-source_url: https://data.worldbank.org/country/russian-federation
-last_updated: 2026-05-11
+title: Всемирный банк — данные по России
+sidebar_label: Всемирный банк (Россия)
+tags:
+  - data-source
+  - international
+  - statistics
+  - macro
+source_url: 'https://data.worldbank.org/country/russian-federation'
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /data-sources/international/world-bank
 data_source_kind: mixed
 jurisdiction: multilevel
 access: open
-formats: ["csv", "json", "xml", "html"]
+formats:
+  - csv
+  - json
+  - xml
+  - html
 status: current
+description: >-
+  макроэкономика, фискальные и социальные индикаторы в едином формате для
+  межстрановых сравнений и длинных рядов. Для учёта исполнения бюджета РФ по КБК
+  это не замена федеральным открытым контурам, но удобный слой для налоговой
+  нагрузки, долга, ВВП, бедности и связанных показателей в методике WB.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /data-sources/international
+  - /data-sources/international/imf-gfs
+  - /data-sources/international/oecd-fiscal-data
+  - /data-sources/international/un-data
+  - /data-sources/international/cisstat-datahub
+  - /data-sources/international/cisstat-datahub
 ---
 
 # Всемирный банк — данные по России

@@ -1,11 +1,21 @@
 ---
-title: "Инвестиционный климат"
-sidebar_label: "Инвестиционный климат"
-tags: [glossary, budget]
+title: Инвестиционный климат
+sidebar_label: Инвестиционный климат
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-last_updated: 2026-05-11
-source_url: "https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/"
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
 slug: /glossary/investment-climate
+description: >-
+  в глоссарии Минфина по госдолгу инвестиционный климат — это совокупность
+  экономических, денежно-кредитных, финансовых и иных условий работы
+  предприятий, влияющих на результаты инвестирования финансовых ресурсов. В
+  открытых данных госфинансов термин не имеет единого машиночитаемого кода; его
+  связывают с макропоказате...
+content_type: concept
+entity_type: glossary
 ---
 
 # Инвестиционный климат

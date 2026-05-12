@@ -1,13 +1,25 @@
 ---
-title: "Госкорпорации и публично-правовые компании"
-sidebar_label: "Госкорпорации и ППК"
-tags: [glossary, orgs]
+title: Госкорпорации и публично-правовые компании
+sidebar_label: Госкорпорации и ППК
+tags:
+  - glossary
+  - orgs
 glossary_kind: organization
-abbreviations: ["ГК", "ППК"]
-source_url: https://rulaws.ru/laws/Federalnyy-zakon-ot-03.07.2016-N-236-FZ/
-last_updated: 2026-05-10
+abbreviations:
+  - ГК
+  - ППК
+source_url: 'https://rulaws.ru/laws/Federalnyy-zakon-ot-03.07.2016-N-236-FZ/'
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/state-corporations
 sidebar_position: 3
+description: >-
+  государственные корпорации (ГК) и публично-правовые компании (ППК) — особые
+  некоммерческие организации, создаваемые федеральными законами (и в случае ППК
+  — в порядке, заданном 236-ФЗ) для выполнения публичных функций и крупных
+  государственных задач. Для открытых финансовых данных важны как режим закупок
+  (чаще 223-ФЗ...
+content_type: concept
+entity_type: glossary
 ---
 
 # Госкорпорации и публично-правовые компании

@@ -1,16 +1,39 @@
 ---
-title: "Муниципальные бюджеты (сайты муниципальных образований)"
-sidebar_label: "Муниципальные бюджеты (сайты МО)"
-tags: [data-source, federal, budget, municipal]
-last_updated: "2026-05-10"
+title: Муниципальные бюджеты (сайты муниципальных образований)
+sidebar_label: Муниципальные бюджеты (сайты МО)
+tags:
+  - data-source
+  - federal
+  - budget
+  - municipal
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/municipalnye-byudzhety
-source_url: ""
+source_url: ''
 data_source_kind: ui_only
 jurisdiction: municipal
 access: open
-formats: ["html", "pdf", "doc", "docx", "xlsx"]
+formats:
+  - html
+  - pdf
+  - doc
+  - docx
+  - xlsx
 status: current
-related_information_system: "/information-systems/federal/giis-eb"
+related_information_system: /information-systems/federal/giis-eb
+description: >-
+  ориентиры для ручного поиска полного пакета местных бюджетных материалов,
+  когда их недостаточно или неудобно брать только с единого портала
+  «Электронного бюджета»; полезно для сверки формулировок и PDF с ОКТМО и
+  записями реестров.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /budget-system/municipal-budgets
+  - /data-sources/regional/municipal-budgets
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /glossary/oktmo
 ---
 
 # Муниципальные бюджеты (сайты муниципальных образований)

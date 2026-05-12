@@ -1,12 +1,22 @@
 ---
-title: "Соглашения о субсидиях и НПА о предоставлении"
-sidebar_label: "Соглашения о субсидиях"
-tags: [glossary, transfers]
+title: Соглашения о субсидиях и НПА о предоставлении
+sidebar_label: Соглашения о субсидиях
+tags:
+  - glossary
+  - transfers
 glossary_kind: law
-source_url: "https://budget.gov.ru/"
-last_updated: 2026-05-10
+source_url: 'https://budget.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/npa-subsidy
 sidebar_position: 4
+description: >-
+  соглашение о субсидии — это договор между бюджетом (распорядителем) и
+  получателем, где зафиксированы цель, сумма, сроки и отчётность по
+  безвозмездной поддержке из бюджета. В федеральных открытых реестрах к тому же
+  контуру относят и нормативные правовые акты (НПА) о предоставлении средств из
+  федерального бюджета; без...
+content_type: concept
+entity_type: glossary
 ---
 
 # Соглашения о субсидиях и НПА о предоставлении

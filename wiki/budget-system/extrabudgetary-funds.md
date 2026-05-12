@@ -1,8 +1,23 @@
 ---
-title: "Государственные внебюджетные фонды"
-sidebar_label: "Государственные внебюджетные фонды"
-tags: [budget-system]
-last_updated: 2026-05-11
+title: Государственные внебюджетные фонды
+sidebar_label: Государственные внебюджетные фонды
+tags:
+  - budget-system
+last_updated: 2026-05-12T00:00:00.000Z
+content_type: concept
+description: >-
+  ГВФ в составе бюджетной системы РФ: отдельные бюджеты СФР, ФФОМС и ТФОМС;
+  отличие от федерального бюджета в данных и отчётности.
+related_pages:
+  - /budget-system
+  - /budget-system/structure
+  - /budget-system/federal-budget
+  - /glossary/extrabudgetary-funds
+  - /glossary/budget-levels
+  - /organizations/sfr
+  - /organizations/ffoms
+  - /reporting/extrabudgetary-funds-reporting
+  - /information-systems/federal/giis-eb
 ---
 
 # Государственные внебюджетные фонды

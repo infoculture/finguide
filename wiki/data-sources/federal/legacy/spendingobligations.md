@@ -1,19 +1,37 @@
 ---
-title: "Расходные обязательства (открытые данные и смежные наборы)"
-sidebar_label: "Расходные обязательства"
-tags: [data-source, federal, budget]
-last_updated: 2026-05-10
+title: Расходные обязательства (открытые данные и смежные наборы)
+sidebar_label: Расходные обязательства
+tags:
+  - data-source
+  - federal
+  - budget
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/spendingobligations
-source_url: "https://budget.gov.ru/"
+source_url: 'https://budget.gov.ru/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["csv", "json", "xlsx"]
+formats:
+  - csv
+  - json
+  - xlsx
 status: current
-related_information_system: "/information-systems/federal/giis-eb"
+related_information_system: /information-systems/federal/giis-eb
+description: >-
+  расходные обязательства в смысле ст. 6 БК РФ (глоссарий) — это правовая
+  категория, а не одна строка в едином CSV. Карточка фиксирует, какие открытые
+  наборы дают опорные ряды для анализа (план, лимиты, соглашения, касса) и чем
+  они не заменяют полный учёт обязательств.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /glossary/expenditure-commitments
+  - /glossary/budget-obligations
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/lbo
+  - /data-sources/federal/subsidy
+  - /information-systems/federal/giis-eb
 ---
-
-# Расходные обязательства (открытые данные и смежные наборы)
 
 | Признак | Значение |
 | :--- | :--- |

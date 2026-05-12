@@ -1,16 +1,36 @@
 ---
-title: "Сведения о закупках и контрактах (ЕИС)"
-sidebar_label: "Закупки и контракты (ЕИС)"
-tags: [data-source, federal, procurement]
-last_updated: 2026-05-11
+title: Сведения о закупках и контрактах (ЕИС)
+sidebar_label: Закупки и контракты (ЕИС)
+tags:
+  - data-source
+  - federal
+  - procurement
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/procurement
-source_url: "https://zakupki.gov.ru/"
+source_url: 'https://zakupki.gov.ru/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["xml", "html", "zip"]
+formats:
+  - xml
+  - html
+  - zip
 status: current
-related_information_system: "/information-systems/federal/zakupki"
+related_information_system: /information-systems/federal/zakupki
+description: >-
+  официальный источник контрактного следа и планов закупок: извещения,
+  протоколы, контракты, планы-графики, реестровые сведения — с идентификаторами
+  сторон (ИНН, ОГРН), ОКПД2, при наличии в схеме — КБК и иные бюджетные
+  реквизиты.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/zakupki
+  - /data-sources/federal/zakupki-xml
+  - /glossary/procurement-44fz
+  - /glossary/procurement-223fz
+  - /information-systems/federal/egrul
+  - /data-sources/federal/nalog-regstats
 ---
 
 # Сведения о закупках и контрактах (ЕИС)

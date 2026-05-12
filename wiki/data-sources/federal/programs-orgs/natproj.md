@@ -1,18 +1,34 @@
 ---
-title: "Портал «Национальные проекты России»"
-sidebar_label: "Национальные проекты (портал)"
-tags: [data-source, federal, programs]
-last_updated: 2026-05-11
+title: Портал «Национальные проекты России»
+sidebar_label: Национальные проекты (портал)
+tags:
+  - data-source
+  - federal
+  - programs
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/natproj
-source_url: "https://национальныепроекты.рф/"
+source_url: 'https://национальныепроекты.рф/'
 data_source_kind: portal
 jurisdiction: federal
 access: open
-formats: ["html"]
+formats:
+  - html
 status: current
+description: >-
+  названия и состав нацпроектов, описательные цели и ориентиры для ручной
+  привязки показателей к тематическим блокам — с портала «Национальные проекты
+  России» и с раздела Правительства РФ (в т.ч. презентация и тематические
+  материалы по каждому проекту). Для рядов план/факт, кассы и индикаторов в
+  машиночитаемом виде оп...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /glossary/national-projects
+  - /data-sources/federal/gasu-programs
+  - /organizations/pravgov
+  - /data-sources/federal/fcp
+  - /data-sources/federal/budget-gov-ru-datasets
 ---
-
-# Портал «Национальные проекты России»
 
 | Признак | Значение |
 | :--- | :--- |

@@ -1,8 +1,11 @@
 ---
-title: "Идентификаторы организаций"
-sidebar_label: "Идентификаторы организаций"
-tags: [reference]
-last_updated: 2026-05-11
+title: Идентификаторы организаций
+sidebar_label: Идентификаторы организаций
+tags:
+  - reference
+last_updated: 2026-05-11T00:00:00.000Z
+content_type: reference
+description: '# Идентификаторы организаций'
 ---
 
 # Идентификаторы организаций

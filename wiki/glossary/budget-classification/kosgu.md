@@ -1,13 +1,24 @@
 ---
-title: "КОСГУ — Классификация операций сектора государственного управления"
-sidebar_label: "КОСГУ"
-tags: [glossary, classification]
+title: КОСГУ — Классификация операций сектора государственного управления
+sidebar_label: КОСГУ
+tags:
+  - glossary
+  - classification
 glossary_kind: classification
-source_url: https://minfin.gov.ru/ru/perfomance/budget/classandaccounting/
-abbreviations: ["КОСГУ"]
-last_updated: 2026-05-10
+source_url: 'https://minfin.gov.ru/ru/perfomance/budget/classandaccounting/'
+abbreviations:
+  - КОСГУ
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/kosgu
 sidebar_position: 3
+description: >-
+  КОСГУ — часть бюджетной классификации, которая кодирует операции организаций
+  сектора государственного управления (бюджетный учёт): доходы, расходы,
+  движение активов и обязательств по экономическому содержанию. В открытых
+  данных и отчётах учреждений КОСГУ чаще встречается рядом с КБК и КВР, но не
+  заменяет их при свод...
+content_type: concept
+entity_type: glossary
 ---
 
 # КОСГУ — Классификация операций сектора государственного управления

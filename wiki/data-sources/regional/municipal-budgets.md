@@ -1,16 +1,30 @@
 ---
-title: "Муниципальные бюджеты (единый портал бюджетной системы)"
-sidebar_label: "Муниципальные бюджеты (портал)"
-tags: [data-source, regional, budget, municipal]
-last_updated: 2026-05-11
+title: Муниципальные бюджеты (единый портал бюджетной системы)
+sidebar_label: Муниципальные бюджеты (портал)
+tags:
+  - data-source
+  - regional
+  - budget
+  - municipal
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /data-sources/regional/municipal-budgets
-source_url: "https://budget.gov.ru/"
+source_url: 'https://budget.gov.ru/'
 data_source_kind: mixed
 jurisdiction: municipal
 access: open
-formats: ["html", "csv", "json"]
+formats:
+  - html
+  - csv
+  - json
 status: current
-related_information_system: "/information-systems/federal/giis-eb"
+related_information_system: /information-systems/federal/giis-eb
+description: >-
+  официальный федеральный вход к сведениям о бюджетах МО в контуре «Электронного
+  бюджета» — удобно для поиска по территории и для машиночитаемых срезов после
+  фильтрации наборов по паспортам; для полноты пакета документов часто
+  приходится дополнять сайтами самих МО.
+content_type: data_source
+entity_type: data-source
 ---
 
 # Муниципальные бюджеты (единый портал бюджетной системы)

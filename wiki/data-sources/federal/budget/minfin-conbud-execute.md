@@ -1,16 +1,37 @@
 ---
-title: "Минфин: краткая информация об исполнении консолидированного бюджета РФ и ГВФ"
-sidebar_label: "Минфин: исполнение консолидированного бюджета РФ (conbud/execute)"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: 'Минфин: краткая информация об исполнении консолидированного бюджета РФ и ГВФ'
+sidebar_label: 'Минфин: исполнение консолидированного бюджета РФ (conbud/execute)'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/minfin-conbud-execute
-source_url: "https://minfin.gov.ru/ru/statistics/conbud/execute/"
+source_url: 'https://minfin.gov.ru/ru/statistics/conbud/execute/'
 data_source_kind: files
 jurisdiction: federal
 access: open
-formats: ["xlsx"]
+formats:
+  - xlsx
 status: current
-related_information_system: "/information-systems/federal/minfinsite"
+related_information_system: /information-systems/federal/minfinsite
+description: >-
+  официальные агрегированные таблицы исполнения сводного федерального контура
+  (консолидированный бюджет РФ и ГВФ) от Минфина — удобная макро-точка входа для
+  сопоставления с федеральным бюджетом и открытыми наборами про исполнение; для
+  регламентированной отчётности по формам, КБК и кассового контура используйте
+  Казначе...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/minfinsite
+  - /organizations/minfin
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/minfin-fedbud-execute
+  - /data-sources/federal/roskazna-consolidated-rf-and-ebf-execution
+  - /glossary/consolidated-budget
+  - /budget-system/extrabudgetary-funds
 ---
 
 # Минфин: краткая информация об исполнении консолидированного бюджета РФ и ГВФ

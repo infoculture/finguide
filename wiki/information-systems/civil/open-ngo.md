@@ -1,13 +1,24 @@
 ---
-title: "OpenNGO.ru — финансирование НКО"
-sidebar_label: "OpenNGO"
-tags: [information-system, civil, grants, ngo]
-source_url: https://openngo.ru/
-last_updated: 2026-05-10
+title: OpenNGO.ru — финансирование НКО
+sidebar_label: OpenNGO
+tags:
+  - information-system
+  - civil
+  - grants
+  - ngo
+source_url: 'https://openngo.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: civil_aggregator
 access: open
-primary_topics: ["grants", "ngo", "procurement", "budget_execution"]
+primary_topics:
+  - grants
+  - ngo
+  - procurement
+  - budget_execution
 operator_type: ngo
+content_type: reference
+entity_type: information-system
+description: '# OpenNGO.ru — финансирование НКО'
 ---
 
 # OpenNGO.ru — финансирование НКО

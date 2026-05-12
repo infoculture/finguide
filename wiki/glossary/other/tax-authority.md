@@ -1,11 +1,21 @@
 ---
-title: "Налоговый орган (определение НК РФ)"
-sidebar_label: "Налоговый орган"
-tags: [glossary, budget]
+title: Налоговый орган (определение НК РФ)
+sidebar_label: Налоговый орган
+tags:
+  - glossary
+  - budget
 glossary_kind: law
-source_url: http://www.consultant.ru/document/Cons_doc_LAW_19671/ab926e3cf25cdf263476d61b6d8226dcb8a5315a/
-last_updated: 2026-05-11
+source_url: >-
+  http://www.consultant.ru/document/Cons_doc_LAW_19671/ab926e3cf25cdf263476d61b6d8226dcb8a5315a/
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /glossary/tax-authority
+description: >-
+  в ст. 9 НК РФ налоговыми органами названы ФНС России и её территориальные
+  органы. Для открытых финансовых данных это оператор налоговой статистики,
+  открытых данных и части сервисов вокруг ЕГРЮЛ; операционный контур «Налог-3» в
+  публичный API не выгружается.
+content_type: concept
+entity_type: glossary
 ---
 
 # Налоговый орган (определение НК РФ)

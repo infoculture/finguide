@@ -1,8 +1,25 @@
 ---
-title: "Местные бюджеты"
-sidebar_label: "Местные бюджеты"
-tags: [budget-system]
-last_updated: 2026-05-11
+title: Местные бюджеты
+sidebar_label: Местные бюджеты
+tags:
+  - budget-system
+last_updated: 2026-05-12T00:00:00.000Z
+content_type: concept
+related_pages:
+  - /budget-system
+  - /budget-system/regional-budgets
+  - /budget-system/structure
+  - /glossary/budget-levels
+  - /data-sources/federal/municipalnye-byudzhety
+  - /data-sources/regional/municipal-budgets
+  - /reporting/municipal-budget-execution
+  - /information-systems/federal/giis-eb
+description: >-
+  Местные бюджеты — бюджеты на местном уровне бюджетной системы, формируемые в
+  муниципальных образованиях (городских округах, муниципальных районах,
+  городских и сельских поселениях, внутригородских территориях, где они
+  предусмотрены законом). Они утверждаются муниципальными правовыми актами
+  (решениями представительных...
 ---
 
 # Местные бюджеты

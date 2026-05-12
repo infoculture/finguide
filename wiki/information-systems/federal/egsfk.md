@@ -1,13 +1,21 @@
 ---
-title: "ЕГСФК — Единая государственная система финансового контроля"
-sidebar_label: "ЕГСФК"
-tags: [information-system, federal, budget]
-source_url: https://ach.gov.ru/
-last_updated: 2026-05-11
+title: ЕГСФК — Единая государственная система финансового контроля
+sidebar_label: ЕГСФК
+tags:
+  - information-system
+  - federal
+  - budget
+source_url: 'https://ach.gov.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 system_kind: government_is
 access: mixed
-primary_topics: ["budget_execution", "control"]
+primary_topics:
+  - budget_execution
+  - control
 operator_type: federal_body
+content_type: reference
+entity_type: information-system
+description: '# ЕГСФК — Единая государственная система финансового контроля'
 ---
 
 # ЕГСФК — Единая государственная система финансового контроля

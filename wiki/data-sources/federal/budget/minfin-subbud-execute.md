@@ -1,16 +1,40 @@
 ---
-title: "Минфин: краткая информация об исполнении консолидированных бюджетов субъектов РФ"
-sidebar_label: "Минфин: исполнение консолидированных бюджетов субъектов (subbud/execute)"
-tags: [data-source, federal, budget, reporting, regional]
-last_updated: 2026-05-11
+title: >-
+  Минфин: краткая информация об исполнении консолидированных бюджетов субъектов
+  РФ
+sidebar_label: 'Минфин: исполнение консолидированных бюджетов субъектов (subbud/execute)'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+  - regional
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/minfin-subbud-execute
-source_url: "https://minfin.gov.ru/ru/statistics/subbud/execute/"
+source_url: 'https://minfin.gov.ru/ru/statistics/subbud/execute/'
 data_source_kind: files
 jurisdiction: multilevel
 access: open
-formats: ["xlsx"]
+formats:
+  - xlsx
 status: current
-related_information_system: "/information-systems/federal/minfinsite"
+related_information_system: /information-systems/federal/minfinsite
+description: >-
+  официальные агрегированные таблицы исполнения консолидированных бюджетов
+  субъектов от Минфина — удобная макро-точка входа для сравнения регионов и
+  динамики в одном файле; для регламентированной отчётности по формам, КБК и
+  кассового контура по каждому субъекту используйте консолидированные бюджеты
+  субъектов на сайте ...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/minfinsite
+  - /organizations/minfin
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/regional/consolidated-budgets
+  - /data-sources/federal/regionalnye-byudzhety
+  - /data-sources/federal/roskazna-consolidated-subjects-execution
+  - /budget-system/regional-budgets
 ---
 
 # Минфин: краткая информация об исполнении консолидированных бюджетов субъектов РФ

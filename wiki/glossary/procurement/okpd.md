@@ -1,13 +1,25 @@
 ---
-title: "ОКПД2 — Классификатор продукции"
-sidebar_label: "ОКПД2"
-tags: [glossary, classification]
+title: ОКПД2 — Классификатор продукции
+sidebar_label: ОКПД2
+tags:
+  - glossary
+  - classification
 glossary_kind: classification
-source_url: https://docs.cntd.ru/document/1203710485
-abbreviations: ["ОКПД 2", "ОКПД2"]
-last_updated: 2026-05-10
+source_url: 'https://docs.cntd.ru/document/1203710485'
+abbreviations:
+  - ОКПД 2
+  - ОКПД2
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/okpd
 sidebar_position: 3
+description: >-
+  ОКПД2 — общероссийский иерархический классификатор товаров, работ и услуг
+  (продукции) с привязкой к видам экономической деятельности. В открытых данных
+  он чаще всего нужен, чтобы однозначно описать предмет закупки и строить
+  сопоставимые срезы по рынкам госзаказа, не смешивая разные товары под одним
+  текстовым наимено...
+content_type: concept
+entity_type: glossary
 ---
 
 # ОКПД2 — Классификатор продукции

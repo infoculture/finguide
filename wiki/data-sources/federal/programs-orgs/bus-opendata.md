@@ -1,19 +1,38 @@
 ---
-title: "Открытые данные bus.gov.ru"
-sidebar_label: "Открытые данные bus.gov.ru"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-10
+title: Открытые данные bus.gov.ru
+sidebar_label: Открытые данные bus.gov.ru
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/bus-opendata
-source_url: "https://bus.gov.ru/opendata"
+source_url: 'https://bus.gov.ru/opendata'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["csv", "json", "xml"]
+formats:
+  - csv
+  - json
+  - xml
 status: current
-related_information_system: "/information-systems/federal/bus-gov"
+related_information_system: /information-systems/federal/bus-gov
+description: >-
+  машиночитаемые срезы по планам ФХД, отчётам об их исполнении, государственным
+  (муниципальным) заданиям, бухгалтерской отчётности и смежным сведениям об
+  учреждениях — удобный вход для массовой выгрузки и стыковки с ИНН/ОГРН,
+  субсидиями и закупками.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/bus-gov
+  - /data-sources/federal/govtasks
+  - /data-sources/federal/budorgs
+  - /data-sources/federal/subsidy
+  - /glossary/institution-types
+  - /budget-system/orgtypes-overview
 ---
-
-# Открытые данные bus.gov.ru
 
 | Признак | Значение |
 | :--- | :--- |

@@ -1,13 +1,21 @@
 ---
-title: "Портал Федерального казначейства"
-sidebar_label: "roskazna.gov.ru"
-tags: [information-system, federal, budget]
-source_url: https://roskazna.gov.ru/
-last_updated: 2026-05-11
+title: Портал Федерального казначейства
+sidebar_label: roskazna.gov.ru
+tags:
+  - information-system
+  - federal
+  - budget
+source_url: 'https://roskazna.gov.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 system_kind: public_portal
 access: open
 operator_type: federal_body
-primary_topics: ["budget_execution", "open_data"]
+primary_topics:
+  - budget_execution
+  - open_data
+content_type: reference
+entity_type: information-system
+description: '# Портал Федерального казначейства'
 ---
 
 # Портал Федерального казначейства

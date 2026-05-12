@@ -1,16 +1,31 @@
 ---
-title: "Hub of Data — гражданский каталог датасетов (CKAN)"
-sidebar_label: "Hub of Data"
-tags: [data-source, civil, budget]
-last_updated: 2026-05-11
+title: Hub of Data — гражданский каталог датасетов (CKAN)
+sidebar_label: Hub of Data
+tags:
+  - data-source
+  - civil
+  - budget
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /data-sources/civil/hubofdata
-source_url: "https://hubofdata.ru/"
+source_url: 'https://hubofdata.ru/'
 data_source_kind: mixed
 jurisdiction: civil
 access: open
-formats: ["csv", "json", "xlsx", "zip", "html"]
+formats:
+  - csv
+  - json
+  - xlsx
+  - zip
+  - html
 status: current
-related_information_system: "/information-systems/civil/hubofdata"
+related_information_system: /information-systems/civil/hubofdata
+description: >-
+  единая точка поиска и машинный обход каталога (`package_search`,
+  `package_show`, списки ресурсов) по открытым финансовым и смежным наборам,
+  когда удобнее работать через CKAN, чем собирать ссылки с разных ведомственных
+  порталов.
+content_type: data_source
+entity_type: data-source
 ---
 
 # Hub of Data — гражданский каталог датасетов (CKAN)

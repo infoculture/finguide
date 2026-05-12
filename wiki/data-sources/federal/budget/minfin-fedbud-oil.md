@@ -1,16 +1,35 @@
 ---
-title: "Минфин: дополнительные нефтегазовые доходы федерального бюджета"
-sidebar_label: "Минфин: нефтегазовые доходы (fedbud/oil)"
-tags: [data-source, federal, budget]
-last_updated: 2026-05-11
+title: 'Минфин: дополнительные нефтегазовые доходы федерального бюджета'
+sidebar_label: 'Минфин: нефтегазовые доходы (fedbud/oil)'
+tags:
+  - data-source
+  - federal
+  - budget
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/minfin-fedbud-oil
-source_url: "https://minfin.gov.ru/ru/statistics/fedbud/oil/"
+source_url: 'https://minfin.gov.ru/ru/statistics/fedbud/oil/'
 data_source_kind: files
 jurisdiction: federal
 access: open
-formats: ["xlsx"]
+formats:
+  - xlsx
 status: current
-related_information_system: "/information-systems/federal/minfinsite"
+related_information_system: /information-systems/federal/minfinsite
+description: >-
+  официальная сводка по дополнительным нефтегазовым доходам и их использованию в
+  логике федерального бюджета — точка сопоставления с ФНБ, источниками
+  финансирования дефицита и плановыми параметрами из закона о федеральном
+  бюджете; не заменяет оперативное исполнение по Казначейству.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/minfinsite
+  - /organizations/minfin
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/minfin-fedbud-execute
+  - /data-sources/federal/minfin-fnb-statistics
+  - /glossary/nwf
+  - /budget-system/deficit-sources
 ---
 
 # Минфин: дополнительные нефтегазовые доходы федерального бюджета

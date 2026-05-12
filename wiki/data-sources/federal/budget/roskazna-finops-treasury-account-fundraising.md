@@ -1,19 +1,37 @@
 ---
-title: "Казначейство: привлечение средств на единый казначейский счёт (отчёты о финансовых операциях)"
-sidebar_label: "Казначейство: привлечение средств на ЕКС"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: >-
+  Казначейство: привлечение средств на единый казначейский счёт (отчёты о
+  финансовых операциях)
+sidebar_label: 'Казначейство: привлечение средств на ЕКС'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-finops-treasury-account-fundraising
-source_url: "https://roskazna.gov.ru/finansovye-operacii/privlechenie-sredstv-na-edinyj-kaznachejskij-schet"
+source_url: >-
+  https://roskazna.gov.ru/finansovye-operacii/privlechenie-sredstv-na-edinyj-kaznachejskij-schet
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html"]
+formats:
+  - html
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  витрина привлечения ликвидности на ЕКС (на дату описания карточки на сайте — в
+  т.ч. операции по договорам репо на организованных торгах в подменю); для
+  размещения временно свободных средств ЕКС см. отдельную карточку.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-finops-treasury-account-placements
+  - /data-sources/federal/roskazna-finops-operating-day
+  - /data-sources/federal/roskazna-reports
+  - /glossary/treasury-execution
 ---
-
-# Казначейство: привлечение средств на единый казначейский счёт (отчёты о финансовых операциях)
 
 | Признак | Значение |
 | :--- | :--- |

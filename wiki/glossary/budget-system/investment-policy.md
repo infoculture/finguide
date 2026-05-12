@@ -1,11 +1,21 @@
 ---
-title: "Инвестиционная политика"
-sidebar_label: "Инвестиционная политика"
-tags: [glossary, budget]
+title: Инвестиционная политика
+sidebar_label: Инвестиционная политика
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-last_updated: 2026-05-11
-source_url: "https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/"
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
 slug: /glossary/investment-policy
+description: >-
+  в глоссарии Минфина по госдолгу инвестиционная политика трактуется как система
+  мероприятий по оптимальному размещению капиталовложений с целью достижения
+  желаемой доходности, безопасности и ликвидности инвестиций. Для раздела
+  открытых госфинансов термин полезен как контекст к управлению государственными
+  финансовыми ...
+content_type: concept
+entity_type: glossary
 ---
 
 # Инвестиционная политика

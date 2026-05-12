@@ -1,16 +1,35 @@
 ---
-title: "Минфин: данные о движении средств и результатах управления ФНБ"
-sidebar_label: "Минфин: ФНБ (statistics/fonds/fnb)"
-tags: [data-source, federal, budget]
-last_updated: 2026-05-11
+title: 'Минфин: данные о движении средств и результатах управления ФНБ'
+sidebar_label: 'Минфин: ФНБ (statistics/fonds/fnb)'
+tags:
+  - data-source
+  - federal
+  - budget
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/minfin-fnb-statistics
-source_url: "https://minfin.gov.ru/ru/statistics/fonds/fnb/"
+source_url: 'https://minfin.gov.ru/ru/statistics/fonds/fnb/'
 data_source_kind: files
 jurisdiction: federal
 access: open
-formats: ["xlsx"]
+formats:
+  - xlsx
 status: current
-related_information_system: "/information-systems/federal/minfinsite"
+related_information_system: /information-systems/federal/minfinsite
+description: >-
+  агрегированная официальная таблица по ФНБ для сопоставления с открытыми
+  наборами Минфина, дополнительными нефтегазовыми доходами и отчётностью по
+  резервам; не заменяет кассовое исполнение по Казначейству без проверки
+  методики.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/minfinsite
+  - /organizations/minfin
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/minfin-fedbud-oil
+  - /glossary/nwf
+  - /budget-system/deficit-sources
+  - /data-sources/federal/budget-gov-ru-datasets
 ---
 
 # Минфин: данные о движении средств и результатах управления ФНБ

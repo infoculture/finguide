@@ -1,13 +1,20 @@
 ---
-title: "Clearspending.ru — анализ госзакупок"
-sidebar_label: "Clearspending"
-tags: [information-system, civil, procurement]
-source_url: https://clearspending.ru/
-last_updated: 2026-05-10
+title: Clearspending.ru — анализ госзакупок
+sidebar_label: Clearspending
+tags:
+  - information-system
+  - civil
+  - procurement
+source_url: 'https://clearspending.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: civil_aggregator
 access: open
-primary_topics: ["procurement"]
+primary_topics:
+  - procurement
 operator_type: ngo
+content_type: reference
+entity_type: information-system
+description: '# Clearspending.ru — анализ госзакупок'
 ---
 
 # Clearspending.ru — анализ госзакупок

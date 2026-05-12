@@ -1,13 +1,21 @@
 ---
-title: "Сайт Министерства финансов РФ"
-sidebar_label: "minfin.gov.ru"
-tags: [information-system, federal, budget]
-source_url: https://minfin.gov.ru/
-last_updated: 2026-05-10
+title: Сайт Министерства финансов РФ
+sidebar_label: minfin.gov.ru
+tags:
+  - information-system
+  - federal
+  - budget
+source_url: 'https://minfin.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: public_portal
 access: mixed
 operator_type: federal_body
-primary_topics: ["budget", "open_data"]
+primary_topics:
+  - budget
+  - open_data
+content_type: reference
+entity_type: information-system
+description: '# Сайт Министерства финансов РФ'
 ---
 
 # Сайт Министерства финансов РФ

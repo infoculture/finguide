@@ -1,18 +1,35 @@
 ---
-title: "Перечень объектов капитального строительства (PDF, Правительство РФ)"
-sidebar_label: "Перечень ОКС (PDF)"
-tags: [data-source, federal, programs, budget]
-last_updated: 2026-05-11
+title: 'Перечень объектов капитального строительства (PDF, Правительство РФ)'
+sidebar_label: Перечень ОКС (PDF)
+tags:
+  - data-source
+  - federal
+  - programs
+  - budget
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/perechen-obektov-kapitalnogo-stroitelstva
-source_url: "http://static.government.ru/media/files/cT5FNGvfdcak3rNqFz148Rfl3T4oLTWm.pdf"
+source_url: 'http://static.government.ru/media/files/cT5FNGvfdcak3rNqFz148Rfl3T4oLTWm.pdf'
 data_source_kind: files
 jurisdiction: federal
 access: open
-formats: ["pdf"]
+formats:
+  - pdf
 status: current
+description: >-
+  официальный перечень наименований и реквизитов объектов (и связанных с ними
+  сведений в зависимости от редакции документа) в форме одного PDF — удобен для
+  справочной привязки к тематике национальных проектов, госпрограмм и обсуждению
+  капитальных вложений; для рядов план/факт и кассы по КБК опирайтесь на наборы
+  «Элект...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /data-sources/federal/natproj
+  - /glossary/national-projects
+  - /organizations/pravgov
+  - /data-sources/federal/fcp
+  - /data-sources/federal/gasu-programs
 ---
-
-# Перечень объектов капитального строительства (PDF, Правительство РФ)
 
 | Признак | Значение |
 | :--- | :--- |

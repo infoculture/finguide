@@ -1,8 +1,13 @@
 ---
-title: "Python: парсинг XML из ЕИС Закупок"
-sidebar_label: "Python: парсинг XML из ЕИС Закупок"
-tags: [howto, automation]
-last_updated: 2026-05-10
+title: 'Python: парсинг XML из ЕИС Закупок'
+sidebar_label: 'Python: парсинг XML из ЕИС Закупок'
+tags:
+  - howto
+  - automation
+last_updated: 2026-05-10T00:00:00.000Z
+content_type: howto
+entity_type: howto
+description: '# Python: парсинг XML из ЕИС Закупок'
 ---
 
 # Python: парсинг XML из ЕИС Закупок
@@ -25,6 +30,19 @@ import requests
 # r.raise_for_status()
 # data = r.json()
 ```
+
+## Входные данные
+
+- Конкретные файлы, URL, коды периодов и реквизиты перечислены в разделах ниже; зафиксируйте дату выгрузки для воспроизводимости.
+
+## Инструменты
+
+- Браузер и/или среда из разделов ниже (Python, Excel, SQL, CLI) — в зависимости от выбранного пути.
+
+## Проверка результата
+
+Сверьте итоги с официальной отчётностью, контрольными суммами или sanity-check из текста выше.
+
 
 ## Подводные камни
 

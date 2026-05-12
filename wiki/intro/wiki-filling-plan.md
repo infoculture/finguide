@@ -2,11 +2,22 @@
 title: План наполнения wiki
 sidebar_label: План наполнения
 description: >-
-  Приоритетные направления развития базы знаний: госкорпорации и компании с госучастием, регионы и крупные МО;
-  дополнительный бэклог — субнациональный долг и трансферты, закупки ниже федерального уровня, международные и гражданские витрины, мета-качество ссылок и навигации.
+  Приоритетные направления развития базы знаний: госкорпорации и компании с
+  госучастием, регионы и крупные МО; дополнительный бэклог — субнациональный
+  долг и трансферты, закупки ниже федерального уровня, международные и
+  гражданские витрины, мета-качество ссылок и навигации.
 category: intro
-tags: [intro, roadmap, editorial]
-last_updated: 2026-05-11
+tags:
+  - intro
+  - roadmap
+  - editorial
+last_updated: 2026-05-12T00:00:00.000Z
+content_type: reference
+related_pages:
+  - /reporting/state-sector-overview
+  - /data-sources/regional/how-to-find-regional-data
+  - /intro/data-map
+  - /data-sources
 ---
 
 # План наполнения wiki
@@ -37,6 +48,7 @@ last_updated: 2026-05-11
 ### Критерий готовности направления
 
 - Есть **навигатор** (страница-обзор или явная группа в [оглавлении отчётности](/reporting/)) с перечнем форматов отчётности по типам организаций и **не менее трёх** новых или существенно обновлённых карточек с конкретными ссылками на [источники данных](/data-sources/).
+- **Базовый пакет (2026-05):** навигатор [/reporting/state-sector-overview](/reporting/state-sector-overview) и карточки [/data-sources/federal/e-disclosure-ru](/data-sources/federal/e-disclosure-ru), [/data-sources/federal/gazprom-investor-disclosure](/data-sources/federal/gazprom-investor-disclosure), [/data-sources/federal/rzd-holding-disclosure](/data-sources/federal/rzd-holding-disclosure) — дальше наращивайте перечень организаций по мере устойчивых URL.
 
 ---
 

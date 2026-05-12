@@ -1,12 +1,26 @@
 ---
-title: "Государственная Дума Федерального Собрания Российской Федерации"
-sidebar_label: "Госдума"
-tags: [organizations, federal, budget]
-source_url: "https://duma.gov.ru/"
-last_updated: 2026-05-10
+title: Государственная Дума Федерального Собрания Российской Федерации
+sidebar_label: Госдума
+tags:
+  - organizations
+  - federal
+  - budget
+source_url: 'https://duma.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 org_kind: legislature
-budget_roles: ["legislation"]
-aliases: ["Госдума", "ГД ФС РФ"]
+budget_roles:
+  - legislation
+aliases:
+  - Госдума
+  - ГД ФС РФ
+description: >-
+  нижняя палата Федерального Собрания — для открытых госфинансов это прежде
+  всего законодательный след по федеральному бюджету, налоговым и бюджетным
+  кодексам и смежным актам: тексты законопроектов, поправки, материалы комитетов
+  и результаты голосований в СОЗД; табличные срезы исполнения после принятия
+  закона берутся ...
+content_type: organization
+entity_type: organization
 ---
 
 # Государственная Дума Федерального Собрания Российской Федерации

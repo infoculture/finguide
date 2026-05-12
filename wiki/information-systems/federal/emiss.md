@@ -1,13 +1,22 @@
 ---
-title: "ЕМИСС — Единая межведомственная информационно-статистическая система"
-sidebar_label: "ЕМИСС"
-tags: [information-system, federal, statistics, open_data]
-source_url: https://fedstat.ru/
-last_updated: 2026-05-11
+title: ЕМИСС — Единая межведомственная информационно-статистическая система
+sidebar_label: ЕМИСС
+tags:
+  - information-system
+  - federal
+  - statistics
+  - open_data
+source_url: 'https://fedstat.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 system_kind: statistics_portal
 access: open
 operator_type: federal_body
-primary_topics: ["statistics", "open_data"]
+primary_topics:
+  - statistics
+  - open_data
+content_type: reference
+entity_type: information-system
+description: '# ЕМИСС — Единая межведомственная информационно-статистическая система'
 ---
 
 # ЕМИСС — Единая межведомственная информационно-статистическая система

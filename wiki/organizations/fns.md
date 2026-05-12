@@ -1,13 +1,29 @@
 ---
-title: "Федеральная налоговая служба"
-sidebar_label: "ФНС России"
-tags: [organizations, federal, tax, statistics]
-source_url: https://www.nalog.gov.ru/
-last_updated: 2026-05-11
+title: Федеральная налоговая служба
+sidebar_label: ФНС России
+tags:
+  - organizations
+  - federal
+  - tax
+  - statistics
+source_url: 'https://www.nalog.gov.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 org_kind: executive_service
-budget_roles: ["tax_administration", "statistics"]
-aliases: ["ФНС", "ФНС России"]
-reports_to: "Минфин России"
+budget_roles:
+  - tax_administration
+  - statistics
+aliases:
+  - ФНС
+  - ФНС России
+reports_to: Минфин России
+description: >-
+  ФНС России — федеральный орган исполнительной власти, который администрирует
+  налоги и страховые взносы, ведёт ЕГРЮЛ/ЕГРИП, присваивает ИНН и публикует
+  налоговую статистику и открытые реестры. Для анализа госфинансов и закупок это
+  главный источник идентичности контрагента и собираемости налогов, которую
+  дальше связыв...
+content_type: organization
+entity_type: organization
 ---
 
 # Федеральная налоговая служба

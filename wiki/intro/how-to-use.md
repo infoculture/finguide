@@ -1,11 +1,17 @@
 ---
 title: Как пользоваться базой знаний
 sidebar_label: Как пользоваться
-description: Ориентация по разделам книги, принципы страниц под поиск и RAG, соглашения по frontmatter и ссылкам.
+description: >-
+  Ориентация по разделам книги, принципы страниц под поиск и RAG, соглашения по
+  frontmatter и ссылкам.
 category: intro
-tags: [intro, navigation, rag]
-last_updated: 2026-05-11
-source_url: ""
+tags:
+  - intro
+  - navigation
+  - rag
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: ''
+content_type: reference
 ---
 
 # Как пользоваться базой знаний

@@ -1,19 +1,38 @@
 ---
-title: "Реестр соглашений: субсидии, бюджетные инвестиции, межбюджетные трансферты"
-sidebar_label: "Реестр соглашений (субсидии)"
-tags: [data-source, federal, subsidies]
-last_updated: 2026-05-11
+title: 'Реестр соглашений: субсидии, бюджетные инвестиции, межбюджетные трансферты'
+sidebar_label: Реестр соглашений (субсидии)
+tags:
+  - data-source
+  - federal
+  - subsidies
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/subsidy
-source_url: "https://budget.gov.ru/"
+source_url: 'https://budget.gov.ru/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["json", "csv", "html"]
+formats:
+  - json
+  - csv
+  - html
 status: current
-related_information_system: "/information-systems/federal/giis-eb"
+related_information_system: /information-systems/federal/giis-eb
+description: >-
+  это основной федеральный вход к юридически оформленным выплатам и трансфертам
+  из федерального бюджета в виде реестра соглашений: стороны, суммы, КБК,
+  документы и (по выгрузке) связь с плановыми лимитами. Для правовых определений
+  начните с субсидий по ст. 78 БК РФ и межбюджетных трансфертов — в одном
+  интерфейсе порта...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /glossary/subsidies
+  - /glossary/transfers
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/promote-budget-gov-ru
+  - /howto/analysis/subsidy-tracking
+  - /information-systems/federal/giis-eb
 ---
-
-# Реестр соглашений: субсидии, бюджетные инвестиции, межбюджетные трансферты
 
 | Признак | Значение |
 | :--- | :--- |

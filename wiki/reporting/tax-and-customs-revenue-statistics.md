@@ -1,15 +1,29 @@
 ---
-title: "Налоговая и таможенная статистика как зеркало доходной части бюджета"
-sidebar_label: "Налоги и таможня (доходы)"
-tags: [reporting, federal, revenue, boundary]
-last_updated: 2026-05-11
+title: Налоговая и таможенная статистика как зеркало доходной части бюджета
+sidebar_label: Налоги и таможня (доходы)
+tags:
+  - reporting
+  - federal
+  - revenue
+  - boundary
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /reporting/tax-and-customs-revenue-statistics
 jurisdiction: federal
 periodicity: mixed
 execution_basis: accrual
-primary_breakdown: "Налоги, регионы, отраслевые формы ФНС; таможенные платежи — по публикациям ФТС"
-pairs_with: ["/reporting/0503117", "/reporting/0507011", "/reporting/extrabudgetary-funds-reporting"]
-operator_hint: "ФНС — налоговая статистика; ФТС — таможенные платежи и внешнеторговая статистика; кассовый факт бюджета — у Казначейства"
+primary_breakdown: 'Налоги, регионы, отраслевые формы ФНС; таможенные платежи — по публикациям ФТС'
+pairs_with:
+  - /reporting/0503117
+  - /reporting/0507011
+  - /reporting/extrabudgetary-funds-reporting
+operator_hint: >-
+  ФНС — налоговая статистика; ФТС — таможенные платежи и внешнеторговая
+  статистика; кассовый факт бюджета — у Казначейства
+description: >-
+  это смежный слой для проверки доходной базы бюджета и макропоказателей; он не
+  заменяет казначейские отчёты об исполнении и помесячную картину.
+content_type: reporting
+entity_type: reporting-form
 ---
 
 # Налоговая и таможенная статистика как зеркало доходной части бюджета

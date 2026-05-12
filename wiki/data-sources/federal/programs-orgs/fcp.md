@@ -1,19 +1,41 @@
 ---
-title: "Госпрограммы РФ, ФЦП и связь с бюджетом (обзор источников)"
-sidebar_label: "Госпрограммы и ФЦП"
-tags: [data-source, federal, budget, programs]
-last_updated: 2026-05-11
+title: 'Госпрограммы РФ, ФЦП и связь с бюджетом (обзор источников)'
+sidebar_label: Госпрограммы и ФЦП
+tags:
+  - data-source
+  - federal
+  - budget
+  - programs
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/fcp
-source_url: "https://programs.gov.ru/"
+source_url: 'https://programs.gov.ru/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["csv", "xml", "json", "html", "pdf"]
+formats:
+  - csv
+  - xml
+  - json
+  - html
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/programs-gov"
+related_information_system: /information-systems/federal/programs-gov
+description: >-
+  это сводная карточка: куда смотреть за паспортом программы, объёмами по годам
+  и связью с бюджетом и закупками, когда в данных нет одного стабильного «кода
+  программы» во всех таблицах. Для определений и правового контекста начните с
+  глоссария: государственные программы РФ, ФЦП.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/programs-gov
+  - /glossary/gov-programs
+  - /glossary/national-projects
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/gasu-programs
+  - /data-sources/federal/natproj
+  - /reporting/state-program-reporting
 ---
-
-# Госпрограммы РФ, ФЦП и связь с бюджетом (обзор источников)
 
 | Признак | Значение |
 | :--- | :--- |

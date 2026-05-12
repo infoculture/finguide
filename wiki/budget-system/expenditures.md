@@ -1,8 +1,22 @@
 ---
-title: "Классификация расходов"
-sidebar_label: "Классификация расходов"
-tags: [budget-system]
-last_updated: 2026-05-11
+title: Классификация расходов
+sidebar_label: Классификация расходов
+tags:
+  - budget-system
+last_updated: 2026-05-12T00:00:00.000Z
+content_type: concept
+description: >-
+  Расходы бюджета по БК РФ и расходный КБК: ГРБС, функциональная классификация,
+  КВР и связка с открытыми данными ГИИС и Казначейства.
+related_pages:
+  - /budget-system
+  - /budget-system/revenues
+  - /budget-system/federal-budget
+  - /budget-classification/overview
+  - /budget-classification/expense-codes
+  - /glossary/kbk
+  - /glossary/kvr
+  - /information-systems/federal/giis-eb
 ---
 
 # Классификация расходов

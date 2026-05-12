@@ -1,18 +1,23 @@
 ---
-title: "Конституция Российской Федерации"
-sidebar_label: "Конституция РФ"
+title: Конституция Российской Федерации
+sidebar_label: Конституция РФ
 description: >-
-  Высший законовой акт о государственном устройстве РФ: распределение полномочий,
-  в том числе по федеральному бюджету, налогам, займам и внешнему финансовому контролю;
-  задаёт рамку, в которой действуют Бюджетный кодекс и специальные законы о данных.
-tags: [legal, budget]
-last_updated: 2026-05-11
+  Высший законовой акт о государственном устройстве РФ: распределение
+  полномочий, в том числе по федеральному бюджету, налогам, займам и внешнему
+  финансовому контролю; задаёт рамку, в которой действуют Бюджетный кодекс и
+  специальные законы о данных.
+tags:
+  - legal
+  - budget
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /legal/constitution
 doc_kind: constitution
-source_url: https://pravo.gov.ru/konstituciya/
+source_url: 'https://pravo.gov.ru/konstituciya/'
 official_urls:
-  - https://constitution.kremlin.ru/
-  - https://constitution.garant.ru/
+  - 'https://constitution.kremlin.ru/'
+  - 'https://constitution.garant.ru/'
+content_type: legal
+entity_type: legal-document
 ---
 
 # Конституция Российской Федерации

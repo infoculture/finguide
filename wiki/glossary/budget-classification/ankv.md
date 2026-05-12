@@ -1,12 +1,23 @@
 ---
-title: "АнКВД / АнКВИ — Аналитический код"
-sidebar_label: "АнКВД / АнКВИ"
-tags: [glossary, classification]
+title: АнКВД / АнКВИ — Аналитический код
+sidebar_label: АнКВД / АнКВИ
+tags:
+  - glossary
+  - classification
 glossary_kind: classification
-last_updated: 2026-05-10
-abbreviations: [АнКВД, АнКВИ]
+last_updated: 2026-05-10T00:00:00.000Z
+abbreviations:
+  - АнКВД
+  - АнКВИ
 slug: /glossary/ankv
 sidebar_position: 6
+description: >-
+  это дополнительные коды в бюджетном учёте, которые уточняют виды доходов
+  (АнКВД) и виды источников финансирования дефицита бюджета (АнКВИ). Они не
+  являются частью утверждаемой бюджетом структуры КБК, но нужны, чтобы правильно
+  читать учётные и казначейские данные рядом с КБК.
+content_type: concept
+entity_type: glossary
 ---
 
 # АнКВД / АнКВИ — Аналитический код

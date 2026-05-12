@@ -1,13 +1,23 @@
 ---
-title: "bus.gov.ru — Портал государственных и муниципальных учреждений"
-sidebar_label: "bus.gov.ru"
-tags: [information-system, federal, budget, reporting]
-source_url: https://bus.gov.ru/
-last_updated: 2026-05-10
+title: bus.gov.ru — Портал государственных и муниципальных учреждений
+sidebar_label: bus.gov.ru
+tags:
+  - information-system
+  - federal
+  - budget
+  - reporting
+source_url: 'https://bus.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: public_portal
 access: open
-primary_topics: ["budget_execution", "reporting", "institutions"]
+primary_topics:
+  - budget_execution
+  - reporting
+  - institutions
 operator_type: federal_body
+content_type: reference
+entity_type: information-system
+description: '# bus.gov.ru — Портал государственных и муниципальных учреждений'
 ---
 
 # bus.gov.ru — Портал государственных и муниципальных учреждений

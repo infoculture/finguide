@@ -1,13 +1,21 @@
 ---
-title: "СОЗД — Система обеспечения законодательной деятельности"
-sidebar_label: "СОЗД"
-tags: [information-system, federal, budget]
-source_url: "https://sozd.duma.gov.ru/"
-last_updated: 2026-05-10
+title: СОЗД — Система обеспечения законодательной деятельности
+sidebar_label: СОЗД
+tags:
+  - information-system
+  - federal
+  - budget
+source_url: 'https://sozd.duma.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: parliament_control
 access: open
 operator_type: federal_body
-primary_topics: ["budget", "legal"]
+primary_topics:
+  - budget
+  - legal
+content_type: reference
+entity_type: information-system
+description: '# СОЗД — Система обеспечения законодательной деятельности'
 ---
 
 # СОЗД — Система обеспечения законодательной деятельности

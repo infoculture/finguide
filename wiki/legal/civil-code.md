@@ -1,16 +1,21 @@
 ---
-title: "Гражданский кодекс Российской Федерации"
-sidebar_label: "ГК РФ"
+title: Гражданский кодекс Российской Федерации
+sidebar_label: ГК РФ
 description: >-
-  Гражданское законодательство о лицах, сделках, обязательствах и видах юридических лиц;
-  опорный слой для ЕГРЮЛ, унитарных предприятий, ОКВЭД и закупочных контрагентов.
-tags: [legal, budget]
-last_updated: 2026-05-11
+  Гражданское законодательство о лицах, сделках, обязательствах и видах
+  юридических лиц; опорный слой для ЕГРЮЛ, унитарных предприятий, ОКВЭД и
+  закупочных контрагентов.
+tags:
+  - legal
+  - budget
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /legal/civil-code
 doc_kind: federal_law
-source_url: http://www.consultant.ru/popular/gkrf1/
+source_url: 'http://www.consultant.ru/popular/gkrf1/'
 official_urls:
-  - https://publication.pravo.gov.ru/
+  - 'https://publication.pravo.gov.ru/'
+content_type: legal
+entity_type: legal-document
 ---
 
 # Гражданский кодекс Российской Федерации

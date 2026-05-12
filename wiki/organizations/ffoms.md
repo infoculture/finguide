@@ -1,12 +1,26 @@
 ---
-title: "Федеральный фонд обязательного медицинского страхования (ФФОМС)"
-sidebar_label: "ФФОМС"
-tags: [organizations, federal, social]
-source_url: https://ffoms.gov.ru/
-last_updated: 2026-05-10
+title: Федеральный фонд обязательного медицинского страхования (ФФОМС)
+sidebar_label: ФФОМС
+tags:
+  - organizations
+  - federal
+  - social
+source_url: 'https://ffoms.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 org_kind: extrabudgetary_fund
-budget_roles: ["health_finance", "social_insurance"]
-aliases: ["Федеральный фонд ОМС"]
+budget_roles:
+  - health_finance
+  - social_insurance
+aliases:
+  - Федеральный фонд ОМС
+description: >-
+  ФФОМС — федеральный государственный внебюджетный фонд, через который в модели
+  ОМС централизуются часть средств и правил финансового обеспечения
+  обязательного медицинского страхования на всей территории РФ. Для аналитики
+  открытых финансов его бюджет и исполнение нужно отделять от федерального
+  бюджета и от территориал...
+content_type: organization
+entity_type: organization
 ---
 
 # Федеральный фонд обязательного медицинского страхования (ФФОМС)

@@ -1,16 +1,41 @@
 ---
-title: "Региональные бюджеты (сайты и витрины субъектов РФ)"
-sidebar_label: "Региональные бюджеты (сайты субъектов)"
-tags: [data-source, federal, budget, regional]
-last_updated: "2026-05-11"
+title: Региональные бюджеты (сайты и витрины субъектов РФ)
+sidebar_label: Региональные бюджеты (сайты субъектов)
+tags:
+  - data-source
+  - federal
+  - budget
+  - regional
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/regionalnye-byudzhety
-source_url: "https://budget.gov.ru/"
+source_url: 'https://budget.gov.ru/'
 data_source_kind: mixed
 jurisdiction: regional
 access: open
-formats: ["html", "pdf", "doc", "docx", "xlsx", "csv", "json"]
+formats:
+  - html
+  - pdf
+  - doc
+  - docx
+  - xlsx
+  - csv
+  - json
 status: current
-related_information_system: "/information-systems/federal/giis-eb"
+related_information_system: /information-systems/federal/giis-eb
+description: >-
+  ориентиры для поиска полного пакета регионального бюджетного цикла (проект →
+  закон → исполнение) на сайте субъекта, с опорой на единый портал и выгрузки,
+  когда нужны машиночитаемые срезы или сверка с казначейским исполнением и
+  консолидированным бюджетом.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /budget-system/regional-budgets
+  - /data-sources/regional/consolidated-budgets
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /glossary/budget-levels
 ---
 
 # Региональные бюджеты (сайты и витрины субъектов РФ)

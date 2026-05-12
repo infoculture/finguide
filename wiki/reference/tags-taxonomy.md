@@ -1,10 +1,16 @@
 ---
 title: Таксономия тегов в frontmatter
 sidebar_label: Теги (таксономия)
-description: Рекомендуемые значения второго тега в поле tags для согласованного поиска и фильтрации.
+description: >-
+  Рекомендуемые значения второго тега в поле tags для согласованного поиска и
+  фильтрации.
 category: reference
-tags: [reference, meta, rag]
-last_updated: 2026-05-11
+tags:
+  - reference
+  - meta
+  - rag
+last_updated: 2026-05-11T00:00:00.000Z
+content_type: reference
 ---
 
 # Таксономия тегов в frontmatter

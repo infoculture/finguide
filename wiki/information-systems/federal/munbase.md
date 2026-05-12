@@ -1,13 +1,22 @@
 ---
-title: "Государственный реестр муниципальных образований и классификатор ОКТМО"
-sidebar_label: "Реестр МО / ОКТМО"
-tags: [information-system, federal, budget, statistics]
-source_url: "https://rosstat.gov.ru/classification"
-last_updated: 2026-05-10
+title: Государственный реестр муниципальных образований и классификатор ОКТМО
+sidebar_label: Реестр МО / ОКТМО
+tags:
+  - information-system
+  - federal
+  - budget
+  - statistics
+source_url: 'https://rosstat.gov.ru/classification'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: statistics_portal
 access: open
 operator_type: federal_body
-primary_topics: ["budget", "statistics"]
+primary_topics:
+  - budget
+  - statistics
+content_type: reference
+entity_type: information-system
+description: '# Государственный реестр муниципальных образований и классификатор ОКТМО'
 ---
 
 # Государственный реестр муниципальных образований и классификатор ОКТМО

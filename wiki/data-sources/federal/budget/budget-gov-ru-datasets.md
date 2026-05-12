@@ -1,16 +1,36 @@
 ---
-title: "Наборы данных ГИИС «Электронный бюджет» (budget.gov.ru)"
-sidebar_label: "Наборы данных «Электронный бюджет»"
-tags: [data-source, federal, budget]
-last_updated: 2026-05-11
+title: Наборы данных ГИИС «Электронный бюджет» (budget.gov.ru)
+sidebar_label: Наборы данных «Электронный бюджет»
+tags:
+  - data-source
+  - federal
+  - budget
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/budget-gov-ru-datasets
-source_url: "https://budget.gov.ru/"
+source_url: 'https://budget.gov.ru/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["csv", "json"]
+formats:
+  - csv
+  - json
 status: current
-related_information_system: "/information-systems/federal/giis-eb"
+related_information_system: /information-systems/federal/giis-eb
+description: >-
+  машиночитаемые срезы планирования и исполнения бюджета, реестров соглашений и
+  справочников участников — основной федеральный вход для сверки КБК, ИНН,
+  периода и типа показателя (план/факт) перед стыковкой с казначейскими отчётами
+  и закупками.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /howto/access/budget-gov-api
+  - /glossary/kbk
+  - /budget-system/federal-budget
 ---
 
 # Наборы данных ГИИС «Электронный бюджет» (budget.gov.ru)

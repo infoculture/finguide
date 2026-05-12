@@ -1,13 +1,26 @@
 ---
-title: "ГАС «Управление»"
-sidebar_label: "ГАСУ"
-tags: [information-system, federal, budget]
-source_url: https://gasu.gov.ru/
-last_updated: 2026-05-11
+title: ГАС «Управление»
+sidebar_label: ГАСУ
+tags:
+  - information-system
+  - federal
+  - budget
+source_url: 'https://gasu.gov.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 system_kind: government_is
 access: mixed
 operator_type: federal_body
-primary_topics: ["budget_execution", "gov_programs"]
+primary_topics:
+  - budget_execution
+  - gov_programs
+content_type: reference
+entity_type: information-system
+description: >-
+  Государственная автоматизированная система «Управление» — федеральная ИС,
+  ориентированная на мониторинг реализации государственных программ,
+  национальных проектов и смежных контуров стратегического управления, а также
+  на аналитику по прогнозам социально-экономического развития в едином
+  информационном пространстве дл...
 ---
 
 # ГАС «Управление»

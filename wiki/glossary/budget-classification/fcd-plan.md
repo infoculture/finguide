@@ -1,13 +1,24 @@
 ---
-title: "План ФХД — План финансово-хозяйственной деятельности"
-sidebar_label: "План ФХД"
-tags: [glossary, planning]
+title: План ФХД — План финансово-хозяйственной деятельности
+sidebar_label: План ФХД
+tags:
+  - glossary
+  - planning
 glossary_kind: concept
-last_updated: 2026-05-10
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
-abbreviations: ["ПФХД"]
+last_updated: 2026-05-10T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
+abbreviations:
+  - ПФХД
 slug: /glossary/fcd-plan
 sidebar_position: 10
+description: >-
+  это годовой (или год + плановый период) плановый документ бюджетного и
+  автономного учреждения, в котором учреждение раскладывает ожидаемые
+  поступления (в т.ч. по субсидиям на государственное задание) и выплаты по
+  направлениям деятельности, согласуя его с поручением учредителя и правилами
+  финансового обеспечения. Для...
+content_type: concept
+entity_type: glossary
 ---
 
 # План ФХД — План финансово-хозяйственной деятельности

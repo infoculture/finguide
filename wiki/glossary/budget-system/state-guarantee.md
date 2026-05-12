@@ -1,11 +1,21 @@
 ---
-title: "Государственная и муниципальная гарантия"
-sidebar_label: "Государственная и муниципальная гарантия"
-tags: [glossary, budget]
+title: Государственная и муниципальная гарантия
+sidebar_label: Государственная и муниципальная гарантия
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-last_updated: 2026-05-11
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/state-guarantee
+description: >-
+  по ст. 6 БК РФ государственная (муниципальная) гарантия — это вид долгового
+  обязательства, при котором гарант (Российская Федерация, субъект РФ или
+  муниципалитет) при наступлении гарантийного случая обязан уплатить бенефициару
+  из бюджета сумму в пределах условий гарантии за неисполнение принципалом его
+  обязательств....
+content_type: concept
+entity_type: glossary
 ---
 
 # Государственная и муниципальная гарантия

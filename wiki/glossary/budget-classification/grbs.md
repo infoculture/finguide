@@ -1,13 +1,24 @@
 ---
-title: "ГРБС — Главный распорядитель бюджетных средств"
-sidebar_label: "ГРБС"
-tags: [glossary, budget]
+title: ГРБС — Главный распорядитель бюджетных средств
+sidebar_label: ГРБС
+tags:
+  - glossary
+  - budget
 glossary_kind: organization
-abbreviations: ["ГРБС"]
-source_url: http://www.consultant.ru/document/Cons_doc_LAW_19702/
-last_updated: 2026-05-10
+abbreviations:
+  - ГРБС
+source_url: 'http://www.consultant.ru/document/Cons_doc_LAW_19702/'
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/grbs
 sidebar_position: 4
+description: >-
+  это орган власти или отдельное значимое учреждение (наука, образование,
+  культура, здравоохранение), на который в бюджете «повешены» ассигнования и
+  который распределяет лимиты и средства между подведомственными распорядителями
+  и получателями. В открытых наборах код ГРБС чаще всего нужен как разрез
+  расходов и способ п...
+content_type: concept
+entity_type: glossary
 ---
 
 # ГРБС — Главный распорядитель бюджетных средств

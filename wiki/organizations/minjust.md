@@ -1,11 +1,24 @@
 ---
-title: "Министерство юстиции РФ"
-sidebar_label: "Минюст России"
-tags: [organizations, federal, social]
-source_url: https://minjust.gov.ru/
-last_updated: 2026-05-10
+title: Министерство юстиции РФ
+sidebar_label: Минюст России
+tags:
+  - organizations
+  - federal
+  - social
+source_url: 'https://minjust.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 org_kind: executive_ministry
-aliases: ["Минюст", "Minjust"]
+aliases:
+  - Минюст
+  - Minjust
+description: >-
+  Минюст России — федеральный орган, через который в открытых данных чаще всего
+  проходят реестры НКО, иностранных агентов, нежелательных организаций,
+  СМИ-иноагентов и нотариата. Для связки с бюджетом и субсидиями эти сведения
+  нужно склеивать по ИНН/ОГРН с реестром соглашений, ГИИС «Электронный бюджет» и
+  ЕГРЮЛ — сам Ми...
+content_type: organization
+entity_type: organization
 ---
 
 # Министерство юстиции РФ

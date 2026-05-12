@@ -20,6 +20,8 @@ last_updated: 2026-05-10
 | `tags` | да | Первая метка: `reporting`; далее контекст: `federal` \| `regional` \| `institution` \| `execution` \| `treasury` \| … |
 | `last_updated` | да | `2026-05-10` |
 | `slug` | да для новых карточек | `/reporting/<slug>` — тот же `<slug>`, что имя файла |
+| `content_type` | да | `reporting` |
+| `entity_type` | да | `reporting-form` |
 | `report_code` | по возможности | Код формы: `0503117`, `ПФХД`, текстовый идентификатор свода |
 | `jurisdiction` | рекомендуется | `federal` \| `regional` \| `institution` \| `mixed` |
 | `periodicity` | рекомендуется | `monthly` \| `quarterly` \| `annual` \| `on_demand` \| `mixed` |
@@ -35,6 +37,8 @@ sidebar_label: "<Короткая подпись>"
 tags: [reporting, federal, execution]
 last_updated: YYYY-MM-DD
 slug: /reporting/<slug>
+content_type: reporting
+entity_type: reporting-form
 # report_code: "0503117"
 # jurisdiction: federal
 # periodicity: annual

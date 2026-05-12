@@ -1,16 +1,38 @@
 ---
-title: "Федеральный портал открытых данных (data.gov.ru)"
-sidebar_label: "data.gov.ru (каталог ОД)"
-tags: [data-source, federal, budget, open_data]
-last_updated: 2026-05-11
+title: Федеральный портал открытых данных (data.gov.ru)
+sidebar_label: data.gov.ru (каталог ОД)
+tags:
+  - data-source
+  - federal
+  - budget
+  - open_data
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/data-gov-ru
-source_url: "https://data.gov.ru/"
+source_url: 'https://data.gov.ru/'
 data_source_kind: portal
 jurisdiction: federal
 access: open
-formats: ["html", "csv", "json", "xlsx", "xml"]
+formats:
+  - html
+  - csv
+  - json
+  - xlsx
+  - xml
 status: current
-related_information_system: "/information-systems/federal/data-gov-ru"
+related_information_system: /information-systems/federal/data-gov-ru
+description: >-
+  официальная витрина метаданных открытых наборов многих ведомств в единой
+  модели — удобный второй вход после ведомственных сайтов для поиска наборов по
+  теме госфинансов, не заменяя операционные системы ГИИС и ЕИС.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/data-gov-ru
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/minfin-opendata
+  - /information-systems/federal/giis-eb
+  - /information-systems/federal/zakupki
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
 ---
 
 # Федеральный портал открытых данных (data.gov.ru)

@@ -1,13 +1,27 @@
 ---
-title: "Федеральная служба государственной статистики"
-sidebar_label: "Росстат"
-tags: [organizations, federal, statistics]
-source_url: https://rosstat.gov.ru/
-last_updated: 2026-05-11
+title: Федеральная служба государственной статистики
+sidebar_label: Росстат
+tags:
+  - organizations
+  - federal
+  - statistics
+source_url: 'https://rosstat.gov.ru/'
+last_updated: 2026-05-11T00:00:00.000Z
 org_kind: executive_service
-budget_roles: ["statistics"]
-aliases: ["Росстат", "Федеральная служба государственной статистики"]
-reports_to: "Правительство РФ"
+budget_roles:
+  - statistics
+aliases:
+  - Росстат
+  - Федеральная служба государственной статистики
+reports_to: Правительство РФ
+description: >-
+  Росстат — федеральный орган исполнительной власти, который ведёт
+  государственный статистический учёт и распространяет официальную
+  статистическую информацию. Для анализа госфинансов его данные дают
+  агрегированные социально-экономические, региональные и отраслевые ряды, с
+  которыми сопоставляют бюджетное исполнение, на...
+content_type: organization
+entity_type: organization
 ---
 
 # Федеральная служба государственной статистики

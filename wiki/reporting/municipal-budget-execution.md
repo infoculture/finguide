@@ -1,14 +1,25 @@
 ---
-title: "Отчётность об исполнении местных бюджетов"
-sidebar_label: "Исполнение местных бюджетов"
-tags: [reporting, regional, execution]
-last_updated: 2026-05-10
+title: Отчётность об исполнении местных бюджетов
+sidebar_label: Исполнение местных бюджетов
+tags:
+  - reporting
+  - regional
+  - execution
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /reporting/municipal-budget-execution
 jurisdiction: regional
 periodicity: mixed
 execution_basis: cash
-primary_breakdown: "КБК, участники бюджетного процесса МО"
-operator_hint: "ФО МО, органы местного самоуправления; сводные публикации — ГИИС «Электронный бюджет»"
+primary_breakdown: 'КБК, участники бюджетного процесса МО'
+operator_hint: >-
+  ФО МО, органы местного самоуправления; сводные публикации — ГИИС «Электронный
+  бюджет»
+description: >-
+  это отчётность о фактических доходах, расходах и источниках финансирования
+  местного бюджета, а также связанных показателях; для открытых данных она часто
+  фрагментарна и распределена между сайтами МО и федеральным порталом.
+content_type: reporting
+entity_type: reporting-form
 ---
 
 # Отчётность об исполнении местных бюджетов

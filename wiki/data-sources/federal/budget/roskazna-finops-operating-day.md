@@ -1,19 +1,34 @@
 ---
-title: "Казначейство: операционный день (материалы раздела «Финансовые операции»)"
-sidebar_label: "Казначейство: операционный день"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: 'Казначейство: операционный день (материалы раздела «Финансовые операции»)'
+sidebar_label: 'Казначейство: операционный день'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-finops-operating-day
-source_url: "https://roskazna.gov.ru/finansovye-operacii/operacionnyj-den"
+source_url: 'https://roskazna.gov.ru/finansovye-operacii/operacionnyj-den'
 data_source_kind: ui_only
 jurisdiction: federal
 access: open
-formats: ["html"]
+formats:
+  - html
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  календарный интерфейс для просмотра материалов операционного дня казначейской
+  системы в публичном разделе финансовых операций; для стабильных безусловных
+  выгрузок без выбора дат используйте листовые страницы инструментов.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-finops-federal-budget-account-placements
+  - /data-sources/federal/roskazna-finops-treasury-account-placements
+  - /data-sources/federal/roskazna-datamarts
+  - /data-sources/federal/roskazna-reports
 ---
-
-# Казначейство: операционный день (материалы раздела «Финансовые операции»)
 
 | Признак | Значение |
 | :--- | :--- |

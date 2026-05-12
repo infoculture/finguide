@@ -1,13 +1,29 @@
 ---
-title: "КВР — Код вида расходов"
-sidebar_label: "КВР"
-tags: [glossary, classification]
+title: КВР — Код вида расходов
+sidebar_label: КВР
+tags:
+  - glossary
+  - classification
 glossary_kind: classification
-source_url: https://minfin.gov.ru/ru/perfomance/budget/classandaccounting/
-abbreviations: ["КВР"]
-last_updated: 2026-05-11
+source_url: 'https://minfin.gov.ru/ru/perfomance/budget/classandaccounting/'
+abbreviations:
+  - КВР
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /glossary/kvr
 sidebar_position: 2
+description: >-
+  КВР — три знака в конце 20-значного расходного КБК, которые группируют расходы
+  по экономическому смыслу (оплата труда, закупки, социальные выплаты,
+  трансферты, обслуживание долга и т.д.). В открытых выгрузках КВР чаще всего
+  встречается внутри полного кода расхода, а отдельным столбцом — после его
+  разборки.
+content_type: concept
+entity_type: glossary
+related_pages:
+  - /glossary/kbk
+  - /glossary/kosgu
+  - /budget-classification/expense-codes
+  - /legal/budget-classification-orders
 ---
 
 # КВР — Код вида расходов

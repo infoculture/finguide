@@ -1,16 +1,29 @@
 ---
-title: "Президентские гранты — открытые данные и витрина (pgrants)"
-sidebar_label: "Президентские гранты (pgrants)"
-tags: [data-source, civil, grants]
-last_updated: 2026-05-11
+title: Президентские гранты — открытые данные и витрина (pgrants)
+sidebar_label: Президентские гранты (pgrants)
+tags:
+  - data-source
+  - civil
+  - grants
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /data-sources/civil/pgrants
-source_url: "https://президентскиегранты.рф/"
+source_url: 'https://президентскиегранты.рф/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "xlsx", "pdf"]
+formats:
+  - html
+  - xlsx
+  - pdf
 status: current
-related_information_system: "/information-systems/civil/pgrants"
+related_information_system: /information-systems/civil/pgrants
+description: >-
+  официальные машиночитаемые выгрузки и ссылки на файлы по конкурсам
+  президентских грантов, заявкам, победителям и отчётам НКО — удобная отправная
+  точка для анализа поддержки третьего сектора в этом контуре, до сопоставления
+  с субсидиями и контрактами из других систем.
+content_type: data_source
+entity_type: data-source
 ---
 
 # Президентские гранты — открытые данные и витрина (pgrants)

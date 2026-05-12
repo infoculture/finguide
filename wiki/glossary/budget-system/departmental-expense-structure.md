@@ -1,11 +1,21 @@
 ---
-title: "Ведомственная структура расходов бюджета"
-sidebar_label: "Ведомственная структура расходов"
-tags: [glossary, budget]
+title: Ведомственная структура расходов бюджета
+sidebar_label: Ведомственная структура расходов
+tags:
+  - glossary
+  - budget
 glossary_kind: classification
-last_updated: 2026-05-11
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/departmental-expense-structure
+description: >-
+  ведомственная структура расходов бюджета — это разложение утверждённых
+  бюджетных ассигнований по главным распорядителям и статьям функциональной и
+  внутрифункциональной классификации (в актуальной для года редакции БК РФ — с
+  учётом государственных программ и непрограммных направлений, где применимо). В
+  законах о бюдж...
+content_type: concept
+entity_type: glossary
 ---
 
 # Ведомственная структура расходов бюджета

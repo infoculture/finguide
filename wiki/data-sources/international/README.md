@@ -1,13 +1,30 @@
 ---
-title: "Международные источники"
-sidebar_label: "Международные"
-tags: [data-source, international]
-last_updated: 2026-05-11
+title: Международные источники
+sidebar_label: Международные
+tags:
+  - data-source
+  - international
+last_updated: 2026-05-11T00:00:00.000Z
+content_type: reference
+description: >-
+  Официальные витрины вне РФ (Всемирный банк, МВФ, OECD, ООН, СНГ) с полезными рядами по России или межстрановыми сравнениями.
+related_pages:
+  - /data-sources
+  - /data-sources/international/imf-gfs
+  - /data-sources/international/oecd-fiscal-data
+  - /data-sources/international/un-data
+  - /data-sources/international/world-bank
+  - /data-sources/international/cisstat-datahub
+  - /reference/international-standards
 ---
 
 # Международные и межгосударственные источники данных
 
-Официальные витрины и базы **вне национального контура РФ**, но с полезными рядами по России или сопоставимыми показателями по странам (макроэкономика, официальная статистика).
+- [IMF Data / GFS](./imf-gfs.md)
+- [OECD Data](./oecd-fiscal-data.md)
+- [UN Data](./un-data.md)
+
+Уже описанные витрины:
 
 - [Всемирный банк — данные по России](./world-bank.md)
 - [Статкомитет СНГ — хаб данных и метаданных](./cisstat-datahub.md)

@@ -1,12 +1,22 @@
 ---
-title: "Межбюджетные трансферты"
-sidebar_label: "Межбюджетные трансферты"
-tags: [glossary, transfers]
+title: Межбюджетные трансферты
+sidebar_label: Межбюджетные трансферты
+tags:
+  - glossary
+  - transfers
 glossary_kind: concept
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
-last_updated: 2026-05-10
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/transfers
 sidebar_position: 3
+description: >-
+  это деньги, которые один бюджет бюджетной системы РФ передаёт другому по
+  правилам гл. 16 БК РФ — чтобы выровнять доходную базу, софинансировать
+  полномочия или компенсировать делегированные расходы. В открытых данных термин
+  критичен, чтобы не суммировать дважды одни и те же суммы при сводах
+  «федеральный + региональны...
+content_type: concept
+entity_type: glossary
 ---
 
 # Межбюджетные трансферты

@@ -1,13 +1,27 @@
 ---
-title: "Сайт Банка России"
-sidebar_label: "cbr.ru"
-tags: [information-system, federal, statistics, open_data]
-source_url: https://cbr.ru/
-last_updated: 2026-05-10
+title: Сайт Банка России
+sidebar_label: cbr.ru
+tags:
+  - information-system
+  - federal
+  - statistics
+  - open_data
+source_url: 'https://cbr.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: public_portal
 access: mixed
 operator_type: federal_body
-primary_topics: ["statistics", "open_data"]
+primary_topics:
+  - statistics
+  - open_data
+content_type: reference
+entity_type: information-system
+description: >-
+  Официальный веб-портал Центрального банка Российской Федерации: нормативные и
+  разъяснительные материалы регулятора, пресс-релизы по денежно-кредитной
+  политике, статистика (денежные агрегаты, банковский сектор, платёжный баланс и
+  др.), база данных показателей (`hd_base`), сервис получения данных (API
+  временных рядов ...
 ---
 
 # Сайт Банка России

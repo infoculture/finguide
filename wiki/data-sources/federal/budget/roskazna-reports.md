@@ -1,16 +1,39 @@
 ---
-title: "Отчёты Федерального казначейства (исполнение бюджетов)"
-sidebar_label: "Отчёты Казначейства"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: Отчёты Федерального казначейства (исполнение бюджетов)
+sidebar_label: Отчёты Казначейства
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-reports
-source_url: "https://roskazna.gov.ru/ispolnenie-byudzhetov/"
+source_url: 'https://roskazna.gov.ru/ispolnenie-byudzhetov/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "xls", "xlsx", "pdf"]
+formats:
+  - html
+  - xls
+  - xlsx
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  официальные формы исполнения федерального бюджета и консолидированных бюджетов
+  субъектов (в т.ч. типовые формы вроде 0507011, 0503117, 0503317), долговые
+  книги и сопутствующие материалы — основной вход для кассового факта и сверки с
+  плановыми срезами «Электронного бюджета». По видам отчётности в меню раздела
+  заведен...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /reporting/0503117
+  - /reporting/0503317
+  - /glossary/treasury-execution
 ---
 
 # Отчёты Федерального казначейства (исполнение бюджетов)

@@ -1,19 +1,40 @@
 ---
-title: "Сведения о государственных и муниципальных организациях (реестр участников бюджетного процесса)"
-sidebar_label: "Участники БП и организации"
-tags: [data-source, federal, budget]
-last_updated: 2026-05-10
+title: >-
+  Сведения о государственных и муниципальных организациях (реестр участников
+  бюджетного процесса)
+sidebar_label: Участники БП и организации
+tags:
+  - data-source
+  - federal
+  - budget
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/orgsinfo
-source_url: "https://budget.gov.ru/бюджет/расходы/реестр-участников-и-неучастников-бюджетного-процесса"
+source_url: >-
+  https://budget.gov.ru/бюджет/расходы/реестр-участников-и-неучастников-бюджетного-процесса
 data_source_kind: mixed
 jurisdiction: multilevel
 access: open
-formats: ["html", "json"]
+formats:
+  - html
+  - json
 status: current
-related_information_system: "/information-systems/federal/giis-eb"
+related_information_system: /information-systems/federal/giis-eb
+description: >-
+  официальный вход к сводному реестру участников и неучастников бюджетного
+  процесса — справочнику организаций в бюджетном контуре, к которому в данных
+  привязываются, в частности, распределители и получатели по реестру соглашений.
+  Для планов и отчётности отдельного учреждения используйте портал ГМУ, а не
+  этот реестр ка...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/subsidy
+  - /data-sources/federal/budorgs
+  - /glossary/grbs
+  - /glossary/pbs
 ---
-
-# Сведения о государственных и муниципальных организациях (реестр участников бюджетного процесса)
 
 | Признак | Значение |
 | :--- | :--- |

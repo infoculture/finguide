@@ -1,16 +1,38 @@
 ---
-title: "Минфин: объём и структура госдолга субъектов РФ и долга муниципальных образований"
-sidebar_label: "Минфин: долг субъектов и МО (статистика)"
-tags: [data-source, federal, budget]
-last_updated: 2026-05-11
+title: >-
+  Минфин: объём и структура госдолга субъектов РФ и долга муниципальных
+  образований
+sidebar_label: 'Минфин: долг субъектов и МО (статистика)'
+tags:
+  - data-source
+  - federal
+  - budget
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/minfin-debt-constituent-entities
-source_url: "https://minfin.gov.ru/ru/statistics/gov_debt/debt_constituent_entities/"
+source_url: 'https://minfin.gov.ru/ru/statistics/gov_debt/debt_constituent_entities/'
 data_source_kind: files
 jurisdiction: multilevel
 access: open
-formats: ["xlsx"]
+formats:
+  - xlsx
 status: current
-related_information_system: "/information-systems/federal/minfinsite"
+related_information_system: /information-systems/federal/minfinsite
+description: >-
+  официальные сводные таблицы по государственному долгу субъектов и
+  муниципальному долгу в разрезе, заданном в файлах на дату публикации — удобная
+  макро-точка входа для сравнения регионов и динамики структуры; для
+  регламентированной отчётности, долговых книг и построчного учёта операций
+  используйте отчётность по долгу...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/minfinsite
+  - /organizations/minfin
+  - /data-sources/federal/minfin-opendata
+  - /budget-system/debt
+  - /reporting/public-debt-reporting
+  - /data-sources/federal/roskazna-reports
+  - /glossary/deficit-financing
 ---
 
 # Минфин: объём и структура госдолга субъектов РФ и долга муниципальных образований

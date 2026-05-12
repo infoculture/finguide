@@ -1,13 +1,25 @@
 ---
-title: "ОКВЭД 2 — Общероссийский классификатор видов экономической деятельности"
-sidebar_label: "ОКВЭД 2"
-tags: [glossary, classification]
+title: ОКВЭД 2 — Общероссийский классификатор видов экономической деятельности
+sidebar_label: ОКВЭД 2
+tags:
+  - glossary
+  - classification
 glossary_kind: classification
-abbreviations: ["ОКВЭД", "ОКВЭД 2"]
-source_url: https://docs.cntd.ru/document/499080534
-last_updated: 2026-05-10
+abbreviations:
+  - ОКВЭД
+  - ОКВЭД 2
+source_url: 'https://docs.cntd.ru/document/499080534'
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/okved
 sidebar_position: 4
+description: >-
+  ОКВЭД 2 — это иерархический справочник видов экономической деятельности
+  (отрасли: производство, торговля, образование и т.д.). В открытых данных о
+  госфинансах и закупках он чаще всего нужен не как «код в платёжке», а как
+  признак профиля организации: по ОКВЭД удобно группировать контрагентов,
+  получателей поддержки и ...
+content_type: concept
+entity_type: glossary
 ---
 
 # ОКВЭД 2 — Общероссийский классификатор видов экономической деятельности

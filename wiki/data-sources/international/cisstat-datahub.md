@@ -1,15 +1,33 @@
 ---
-title: "Статкомитет СНГ — хаб данных и метаданных"
-sidebar_label: "Статкомитет СНГ (хаб данных)"
-tags: [data-source, international, statistics, macro]
-source_url: "https://new.cisstat.org/web/guest/datahub"
-last_updated: 2026-05-11
+title: Статкомитет СНГ — хаб данных и метаданных
+sidebar_label: Статкомитет СНГ (хаб данных)
+tags:
+  - data-source
+  - international
+  - statistics
+  - macro
+source_url: 'https://new.cisstat.org/web/guest/datahub'
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /data-sources/international/cisstat-datahub
 data_source_kind: mixed
 jurisdiction: multilevel
 access: open
-formats: ["html"]
+formats:
+  - html
 status: current
+description: >-
+  сопоставимые межгосударственные ряды и метаданные по темам официальной
+  статистики СНГ — удобный слой для региональных и макро‑сравнений с РФ. Для
+  исполнения бюджета РФ по КБК, закупок и реестров это не замена федеральным
+  контурам, но полезный контекст рядом с национальной статистикой Росстата.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /data-sources/international
+  - /data-sources/international/world-bank
+  - /data-sources/international/imf-gfs
+  - /data-sources/international/oecd-fiscal-data
+  - /data-sources/federal/rosstat-opendata
 ---
 
 # Статкомитет СНГ — хаб данных и метаданных

@@ -1,19 +1,37 @@
 ---
-title: "Бюджетная роспись (открытые данные)"
-sidebar_label: "Бюджетная роспись"
-tags: [data-source, federal, budget]
-last_updated: 2026-05-10
+title: Бюджетная роспись (открытые данные)
+sidebar_label: Бюджетная роспись
+tags:
+  - data-source
+  - federal
+  - budget
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/budgetrosp
-source_url: "https://budget.gov.ru/"
+source_url: 'https://budget.gov.ru/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["csv", "json", "xlsx"]
+formats:
+  - csv
+  - json
+  - xlsx
 status: current
-related_information_system: "/information-systems/federal/giis-eb"
+related_information_system: /information-systems/federal/giis-eb
+description: >-
+  это тематическая карточка источника: машиночитаемые слои федеральной бюджетной
+  росписи разнесены по двум основным витринам — открытым данным Минфина и
+  наборам портала budget.gov.ru. Используйте её, когда нужно связать строки
+  росписи с КБК, ЛБО и исполнением по кассе (не подменяя план фактом).
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/minfin-opendata
+  - /information-systems/federal/giis-eb
+  - /glossary/kbk
+  - /glossary/lbo
+  - /budget-system/federal-budget
 ---
-
-# Бюджетная роспись (открытые данные)
 
 | Признак | Значение |
 | :--- | :--- |

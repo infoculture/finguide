@@ -14,8 +14,10 @@ const config = {
     onBrokenLinks: 'throw',
     onBrokenAnchors: 'throw',
     staticDirectories: ['static'],
+    themes: ['@docusaurus/theme-mermaid'],
     markdown: {
         format: 'md',
+        mermaid: true,
         hooks: {
             onBrokenMarkdownLinks: 'throw',
             onBrokenMarkdownImages: 'warn',
@@ -34,6 +36,7 @@ const config = {
                     routeBasePath: '/',
                     sidebarPath: './sidebars.ts',
                     numberPrefixParser: false,
+                    breadcrumbs: true,
                     editUrl: 'https://github.com/infoculture/opengovfinancesbook/edit/master/',
                 },
                 blog: false,
@@ -45,6 +48,9 @@ const config = {
         ],
     ],
     themeConfig: {
+        mermaid: {
+            theme: { light: 'neutral', dark: 'dark' },
+        },
         colorMode: {
             defaultMode: 'light',
             respectPrefersColorScheme: true,

@@ -1,11 +1,21 @@
 ---
-title: "Временный кассовый разрыв"
-sidebar_label: "Временный кассовый разрыв"
-tags: [glossary, budget]
+title: Временный кассовый разрыв
+sidebar_label: Временный кассовый разрыв
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-last_updated: 2026-05-11
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/temporary-cash-gap
+description: >-
+  временный кассовый разрыв — это прогнозируемая нехватка денег на едином счёте
+  бюджета в определённый период текущего финансового года для совершения
+  кассовых выплат из бюджета. В открытых данных прямой метки редко; термин
+  полезен при чтении материалов Минфина и Казначейства о кассовом планировании и
+  краткосрочной ли...
+content_type: concept
+entity_type: glossary
 ---
 
 # Временный кассовый разрыв

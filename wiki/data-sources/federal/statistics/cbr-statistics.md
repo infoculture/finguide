@@ -1,19 +1,39 @@
 ---
-title: "Статистика Банка России"
-sidebar_label: "Статистика Банка России"
-tags: [data-source, federal, statistics, monetary]
-source_url: https://cbr.ru/statistics/
-last_updated: 2026-05-10
+title: Статистика Банка России
+sidebar_label: Статистика Банка России
+tags:
+  - data-source
+  - federal
+  - statistics
+  - monetary
+source_url: 'https://cbr.ru/statistics/'
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/cbr-statistics
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["csv", "json", "xml", "xlsx", "html"]
+formats:
+  - csv
+  - json
+  - xml
+  - xlsx
+  - html
 status: current
-related_information_system: "/information-systems/federal/cbrsite"
+related_information_system: /information-systems/federal/cbrsite
+description: >-
+  официальные временные ряды и таблицы ЦБ РФ — денежные агрегаты, ключевая
+  ставка, банковская и рыночная статистика, платёжный баланс, курсы валют,
+  открытые наборы по финрынкам и надзору в объёме паспортов. Для анализа
+  государственных финансов это прежде всего контекст (ставка, ликвидность,
+  внешний сектор), а не испол...
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/cbrsite
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/rosstat-opendata
+  - /budget-system/debt
 ---
-
-# Статистика Банка России
 
 | Признак | Значение |
 | :--- | :--- |

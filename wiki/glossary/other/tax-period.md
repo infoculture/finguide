@@ -1,11 +1,22 @@
 ---
-title: "Налоговый период (определение НК РФ)"
-sidebar_label: "Налоговый период"
-tags: [glossary, budget]
+title: Налоговый период (определение НК РФ)
+sidebar_label: Налоговый период
+tags:
+  - glossary
+  - budget
 glossary_kind: law
-source_url: http://www.consultant.ru/document/Cons_doc_LAW_19671/3fff7bb3e65ba62b2eb130a0c94e707c5996e4d1/
-last_updated: 2026-05-11
+source_url: >-
+  http://www.consultant.ru/document/Cons_doc_LAW_19671/3fff7bb3e65ba62b2eb130a0c94e707c5996e4d1/
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /glossary/tax-period
+description: >-
+  налоговый период — это календарный год или иной период, по окончании которого
+  по правилам конкретного налога определяется налоговая база и исчисляется сумма
+  к уплате; он может включать отчётные периоды. Для сверки открытых рядов важно
+  не смешивать налоговый период декларации с кассовой датой поступления в
+  казначейск...
+content_type: concept
+entity_type: glossary
 ---
 
 # Налоговый период (определение НК РФ)

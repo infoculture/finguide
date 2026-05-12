@@ -1,13 +1,24 @@
 ---
-title: "Фонд национального благосостояния (ФНБ)"
-sidebar_label: "ФНБ"
-tags: [glossary, budget]
+title: Фонд национального благосостояния (ФНБ)
+sidebar_label: ФНБ
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-abbreviations: ["ФНБ"]
-last_updated: 2026-05-11
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+abbreviations:
+  - ФНБ
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/nwf
 sidebar_position: 9
+description: >-
+  Фонд национального благосостояния (ФНБ) — государственный фонд Российской
+  Федерации, формируемый прежде всего из дополнительных нефтегазовых доходов
+  федерального бюджета и иных источников по федеральному законодательству;
+  средства используются на цели, установленные БК РФ и Федеральным законом о
+  Фонде национального ...
+content_type: concept
+entity_type: glossary
 ---
 
 # Фонд национального благосостояния (ФНБ)

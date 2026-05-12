@@ -1,12 +1,22 @@
 ---
-title: "Бюджетная система РФ"
-sidebar_label: "Бюджетная система РФ"
-tags: [glossary, budget]
+title: Бюджетная система РФ
+sidebar_label: Бюджетная система РФ
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
-last_updated: 2026-05-10
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/budget-system
 sidebar_position: 1
+description: >-
+  это вся сеть публичных бюджетов в России — федеральный бюджет, бюджеты
+  субъектов и местные бюджеты плюс бюджеты государственных внебюджетных фондов
+  на федеральном и региональном уровнях — устроенная согласно экономическим
+  отношениям и государственному устройству РФ. Для открытых данных термин важен
+  как рамка: показа...
+content_type: concept
+entity_type: glossary
 ---
 
 # Бюджетная система РФ

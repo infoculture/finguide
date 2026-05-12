@@ -1,16 +1,21 @@
 ---
-title: "Налоговый кодекс Российской Федерации (части первая и вторая)"
-sidebar_label: "НК РФ"
+title: Налоговый кодекс Российской Федерации (части первая и вторая)
+sidebar_label: НК РФ
 description: >-
-  Законодательство о налогах и сборах: общие институты, налогоплательщики, отчётность и отдельные налоги;
-  база для открытой налоговой статистики, КБК доходов бюджета и смежных реестров.
-tags: [legal, budget]
-last_updated: 2026-05-11
+  Законодательство о налогах и сборах: общие институты, налогоплательщики,
+  отчётность и отдельные налоги; база для открытой налоговой статистики, КБК
+  доходов бюджета и смежных реестров.
+tags:
+  - legal
+  - budget
+last_updated: 2026-05-11T00:00:00.000Z
 slug: /legal/tax-code
 doc_kind: federal_law
-source_url: https://www.consultant.ru/document/cons_doc_LAW_19671/
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19671/'
 official_urls:
-  - https://publication.pravo.gov.ru/
+  - 'https://publication.pravo.gov.ru/'
+content_type: legal
+entity_type: legal-document
 ---
 
 # Налоговый кодекс Российской Федерации

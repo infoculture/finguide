@@ -1,19 +1,40 @@
 ---
-title: "Бюджетные организации: справочники и открытые данные"
-sidebar_label: "Бюджетные организации"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-10
+title: 'Бюджетные организации: справочники и открытые данные'
+sidebar_label: Бюджетные организации
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/budorgs
-source_url: "https://budget.gov.ru/"
+source_url: 'https://budget.gov.ru/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["csv", "json", "xml", "xlsx"]
+formats:
+  - csv
+  - json
+  - xml
+  - xlsx
 status: current
-related_information_system: "/information-systems/federal/giis-eb"
+related_information_system: /information-systems/federal/giis-eb
+description: >-
+  тематическая карточка: где взять идентификаторы и справочники государственных
+  и муниципальных учреждений и участников бюджетного процесса (ГРБС, ПБС, коды в
+  бюджетных выгрузках), чтобы сшивать таблицы исполнения, субсидий и закупок по
+  ИНН, коду участника и КБК — без подмены плана учреждения консолидированным
+  бюджетом.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/bus-opendata
+  - /information-systems/federal/giis-eb
+  - /glossary/grbs
+  - /glossary/pbs
+  - /budget-system/orgtypes-overview
 ---
-
-# Бюджетные организации: справочники и открытые данные
 
 | Признак | Значение |
 | :--- | :--- |

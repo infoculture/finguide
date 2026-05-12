@@ -1,19 +1,41 @@
 ---
-title: "Казначейство: размещение средств единого счёта федерального бюджета (отчёты о финансовых операциях)"
-sidebar_label: "Казначейство: размещение средств ЕСФБ"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: >-
+  Казначейство: размещение средств единого счёта федерального бюджета (отчёты о
+  финансовых операциях)
+sidebar_label: 'Казначейство: размещение средств ЕСФБ'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-finops-federal-budget-account-placements
-source_url: "https://roskazna.gov.ru/finansovye-operacii/razmeshchenie-sredstv-edinogo-scheta-federalnogo-byudzheta"
+source_url: >-
+  https://roskazna.gov.ru/finansovye-operacii/razmeshchenie-sredstv-edinogo-scheta-federalnogo-byudzheta
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "docx", "xml"]
+formats:
+  - html
+  - docx
+  - xml
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  витрина финансовых операций по счёту федерального бюджета (депозиты, репо,
+  производные, бюджетные кредиты субъектам и муниципалитетам, операции с
+  иностранной валютой — по актуальному оглавлению); для сводных форм исполнения
+  ФБ по КБК см. казначейское исполнение федерального бюджета.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-finops-operating-day
+  - /data-sources/federal/roskazna-federal-budget-execution
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /glossary/treasury-execution
 ---
-
-# Казначейство: размещение средств единого счёта федерального бюджета (отчёты о финансовых операциях)
 
 | Признак | Значение |
 | :--- | :--- |

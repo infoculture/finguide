@@ -1,12 +1,27 @@
 ---
-title: "Социальный фонд России (СФР)"
-sidebar_label: "СФР"
-tags: [organizations, federal, social]
-source_url: https://sfr.gov.ru/
-last_updated: 2026-05-10
+title: Социальный фонд России (СФР)
+sidebar_label: СФР
+tags:
+  - organizations
+  - federal
+  - social
+source_url: 'https://sfr.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 org_kind: extrabudgetary_fund
-budget_roles: ["social_insurance"]
-aliases: ["Социальный фонд", "ПФР", "ФСС России"]
+budget_roles:
+  - social_insurance
+aliases:
+  - Социальный фонд
+  - ПФР
+  - ФСС России
+description: >-
+  СФР — федеральный государственный внебюджетный фонд, правопреемник ПФР и ФСС
+  России (реорганизация с 2023 года): бюджет фонда, пенсионное обеспечение,
+  обязательное социальное страхование и связанные выплаты. В открытых финансах
+  его строки нужно отделять от федерального бюджета в узком смысле и от ФФОМС
+  (ОМС). | Приз...
+content_type: organization
+entity_type: organization
 ---
 
 # Социальный фонд России (СФР)

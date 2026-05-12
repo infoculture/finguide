@@ -1,12 +1,27 @@
 ---
-title: "Министерство экономического развития РФ"
-sidebar_label: "Минэкономразвития России"
-tags: [organizations, federal, budget]
-source_url: https://www.economy.gov.ru/
-last_updated: 2026-05-10
+title: Министерство экономического развития РФ
+sidebar_label: Минэкономразвития России
+tags:
+  - organizations
+  - federal
+  - budget
+source_url: 'https://www.economy.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 org_kind: executive_ministry
-budget_roles: ["budget_preparation"]
-aliases: ["Минэкономразвития", "Минэконом", "Минэкономразвития России"]
+budget_roles:
+  - budget_preparation
+aliases:
+  - Минэкономразвития
+  - Минэконом
+  - Минэкономразвития России
+description: >-
+  Минэкономразвития России — федеральное министерство, через которое в открытых
+  финансовых и управленческих данных чаще всего проходят государственные
+  программы РФ, архив федеральных целевых программ (ФЦП), методика и мониторинг
+  программного контура, а также политика и витрины по поддержке МСП, экспорту и
+  государствен...
+content_type: organization
+entity_type: organization
 ---
 
 # Министерство экономического развития РФ

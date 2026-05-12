@@ -1,8 +1,25 @@
 ---
-title: "Бюджеты субъектов РФ"
-sidebar_label: "Бюджеты субъектов РФ"
-tags: [budget-system]
-last_updated: 2026-05-11
+title: Бюджеты субъектов РФ
+sidebar_label: Бюджеты субъектов РФ
+tags:
+  - budget-system
+last_updated: 2026-05-12T00:00:00.000Z
+content_type: concept
+related_pages:
+  - /budget-system
+  - /budget-system/structure
+  - /budget-system/municipal-budgets
+  - /budget-system/federal-budget
+  - /glossary/consolidated-budget
+  - /glossary/transfers
+  - /data-sources/federal/regionalnye-byudzhety
+  - /data-sources/regional/consolidated-budgets
+description: >-
+  Бюджет субъекта Российской Федерации утверждается законом субъекта РФ и задаёт
+  доходы, расходы и источники финансирования дефицита на уровне региона.
+  Отдельно от него в отчётности и на федеральных витринах фигурирует
+  консолидированный бюджет субъекта — свод по методике БК РФ, куда помимо
+  регионального бюджета включа...
 ---
 
 # Бюджеты субъектов РФ

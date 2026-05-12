@@ -1,8 +1,22 @@
 ---
-title: "Государственный долг РФ"
-sidebar_label: "Государственный долг РФ"
-tags: [budget-system]
-last_updated: 2026-05-11
+title: Государственный долг РФ
+sidebar_label: Государственный долг РФ
+tags:
+  - budget-system
+last_updated: 2026-05-12T00:00:00.000Z
+content_type: concept
+description: >-
+  Государственный долг РФ: внутренний и внешний контуры, связь с источниками
+  финансирования дефицита; открытые данные Минфина и отчётность Казначейства.
+related_pages:
+  - /budget-system
+  - /budget-system/deficit-sources
+  - /budget-system/federal-budget
+  - /glossary/deficit-financing
+  - /reporting/public-debt-reporting
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/roskazna-reports
+  - /information-systems/federal/roskazna-portal
 ---
 
 # Государственный долг РФ

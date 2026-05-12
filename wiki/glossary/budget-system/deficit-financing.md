@@ -1,13 +1,24 @@
 ---
-title: "Дефицит бюджета и источники финансирования дефицита"
-sidebar_label: "Дефицит и финансирование"
-tags: [glossary, budget]
+title: Дефицит бюджета и источники финансирования дефицита
+sidebar_label: Дефицит и финансирование
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-abbreviations: ["ИФД"]
-last_updated: 2026-05-10
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+abbreviations:
+  - ИФД
+last_updated: 2026-05-10T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/deficit-financing
 sidebar_position: 7
+description: >-
+  дефицит бюджета — превышение расходов над доходами по утверждённому бюджету (в
+  терминологии и расчётах БК РФ и связанных актов на соответствующий финансовый
+  год). Источники финансирования дефицита — установленные законом о бюджете и
+  кодексом способы покрыть этот разрыв (заём, остатки, безвозмездные поступления
+  и др....
+content_type: concept
+entity_type: glossary
 ---
 
 # Дефицит бюджета и источники финансирования дефицита

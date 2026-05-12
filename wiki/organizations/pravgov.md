@@ -1,13 +1,27 @@
 ---
-title: "Правительство Российской Федерации"
-sidebar_label: "Правительство РФ"
-tags: [organizations, federal, budget]
-source_url: https://government.ru/
-last_updated: 2026-05-10
+title: Правительство Российской Федерации
+sidebar_label: Правительство РФ
+tags:
+  - organizations
+  - federal
+  - budget
+source_url: 'https://government.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 org_kind: government_collegial
-budget_roles: ["budget_preparation"]
-aliases: ["Правительство РФ", "Правительство России"]
-reports_to: "Президент Российской Федерации"
+budget_roles:
+  - budget_preparation
+aliases:
+  - Правительство РФ
+  - Правительство России
+reports_to: Президент Российской Федерации
+description: >-
+  коллегиальный высший орган исполнительной власти — в контуре открытых
+  госфинансов это прежде всего внесение проекта федерального бюджета в Госдуму,
+  утверждение перечня и параметров государственных программ и нормативная
+  «верхушка» подзаконных актов по бюджету и стратегическому планированию;
+  машиночитаемые срезы план...
+content_type: organization
+entity_type: organization
 ---
 
 # Правительство Российской Федерации

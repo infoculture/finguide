@@ -11,12 +11,15 @@ const sidebars = {
             collapsed: false,
             link: { type: 'doc', id: 'intro/README' },
             items: [
+                'intro/getting-started',
                 'intro/about',
                 'intro/how-to-use',
                 'intro/data-map',
                 'intro/russian-budget-overview',
                 'intro/key-laws',
                 'intro/changelog',
+                'intro/rag-guide',
+                'intro/wiki-filling-plan',
             ],
         },
         {
@@ -201,6 +204,7 @@ const sidebars = {
             label: '📋 Бюджетная отчётность',
             link: { type: 'doc', id: 'reporting/README' },
             items: [
+                'reporting/state-sector-overview',
                 'reporting/0503117',
                 'reporting/0503317',
                 'reporting/0503387',
@@ -227,6 +231,8 @@ const sidebars = {
             label: '📎 Справочники',
             link: { type: 'doc', id: 'reference/README' },
             items: [
+                'reference/classification-codes-index',
+                'reference/docsearch-setup',
                 'reference/okpd-budgets',
                 'reference/okato-oktmo',
                 'reference/organization-codes',

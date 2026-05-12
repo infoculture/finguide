@@ -20,6 +20,8 @@ draft: true
 | `sidebar_label` | да | `"ЕИС Закупки"` |
 | `tags` | да | `[information-system, federal]` — вторая метка: `federal` \| `civil` \| `regional`; при необходимости добавьте тему (`procurement`, `budget`, `tax`, …) |
 | `last_updated` | да | `2026-05-10` |
+| `content_type` | да | `reference` |
+| `entity_type` | да | `information-system` |
 | `source_url` | по возможности | канонический URL портала или страницы об ИС |
 | `system_kind` | рекомендуется | `government_is` — ведомственная ИС (часто закрытая); `public_portal` — официальная публичная витрина/портал; `civil_aggregator` — гражданский агрегатор/зеркало; `registry` — реестр; `statistics_portal` — статистика; `parliament_control` — парламент/контроль |
 | `access` | рекомендуется | `open` \| `restricted` \| `mixed` |
@@ -32,6 +34,8 @@ title: "<Полный заголовок карточки>"
 sidebar_label: "<Короткая подпись в сайдбаре>"
 tags: [information-system, federal]
 last_updated: YYYY-MM-DD
+content_type: reference
+entity_type: information-system
 source_url: "https://..."
 system_kind: public_portal
 access: open

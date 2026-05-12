@@ -1,8 +1,23 @@
 ---
-title: "Типы организаций госсектора"
-sidebar_label: "Типы организаций госсектора"
-tags: [budget-system, organizations]
-last_updated: 2026-05-11
+title: Типы организаций госсектора
+sidebar_label: Типы организаций госсектора
+tags:
+  - budget-system
+  - organizations
+last_updated: 2026-05-12T00:00:00.000Z
+content_type: concept
+description: >-
+  Типы организаций госсектора для бюджетной аналитики: учреждения, унитарки,
+  госкорпорации; где искать следы в госзадании, субсидиях, закупках и бюджете.
+related_pages:
+  - /organizations
+  - /budget-system
+  - /glossary/institution-types
+  - /glossary/grbs
+  - /glossary/state-corporations
+  - /information-systems/federal/bus-gov
+  - /information-systems/federal/giis-eb
+  - /information-systems/federal/egrul
 ---
 
 # Типы организаций госсектора

@@ -1,11 +1,21 @@
 ---
-title: "Текущий, очередной и плановый период бюджетного цикла"
-sidebar_label: "Финансовый год и плановый период"
-tags: [glossary, budget]
+title: 'Текущий, очередной и плановый период бюджетного цикла'
+sidebar_label: Финансовый год и плановый период
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-last_updated: 2026-05-11
-source_url: "https://www.consultant.ru/document/cons_doc_LAW_19702/"
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/financial-year-terms
+description: >-
+  в ст. 6 БК РФ закреплены опорные даты бюджетного цикла: текущий финансовый год
+  — когда исполняют бюджет и параллельно готовят проект на следующий год;
+  очередной — следующий календарный финансовый год; плановый период — два года
+  после очередного; отчётный — год перед текущим. Для открытых данных это
+  объясняет колонки...
+content_type: concept
+entity_type: glossary
 ---
 
 # Текущий, очередной и плановый период бюджетного цикла

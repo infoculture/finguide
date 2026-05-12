@@ -1,13 +1,25 @@
 ---
-title: "ГИИС «Электронный бюджет»"
-sidebar_label: "Электронный бюджет"
-tags: [information-system, federal, budget]
-source_url: https://budget.gov.ru/
-last_updated: 2026-05-10
+title: ГИИС «Электронный бюджет»
+sidebar_label: Электронный бюджет
+tags:
+  - information-system
+  - federal
+  - budget
+source_url: 'https://budget.gov.ru/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: government_is
 access: mixed
 operator_type: federal_body
-primary_topics: ["budget", "budget_execution", "subsidies"]
+primary_topics:
+  - budget
+  - budget_execution
+  - subsidies
+content_type: reference
+entity_type: information-system
+description: >-
+  ГИИС «Электронный бюджет» (ГИИС ЭБ, budget.gov.ru): единый федеральный контур
+  планирования и исполнения бюджетов, росписи, открытые наборы и публичный
+  портал бюджетной системы; не заменяет ЕИС закупок и казначейские лицевые счёта.
 ---
 
 # ГИИС «Электронный бюджет»

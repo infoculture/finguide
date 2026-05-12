@@ -1,19 +1,40 @@
 ---
-title: "Казначейство: отчётность и материалы по исполнению федерального бюджета (подраздел портала)"
-sidebar_label: "Казначейство: исполнение ФБ"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: >-
+  Казначейство: отчётность и материалы по исполнению федерального бюджета
+  (подраздел портала)
+sidebar_label: 'Казначейство: исполнение ФБ'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-federal-budget-execution
-source_url: "https://roskazna.gov.ru/ispolnenie-byudzhetov/federalnyj-byudzhet/"
+source_url: 'https://roskazna.gov.ru/ispolnenie-byudzhetov/federalnyj-byudzhet/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "xls", "xlsx", "pdf"]
+formats:
+  - html
+  - xls
+  - xlsx
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
----
-
-# Казначейство: отчётность и материалы по исполнению федерального бюджета (подраздел портала)
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  канонический вход Казначейства к формам и файлам исполнения федерального
+  бюджета (кассовый факт в регламентированной отчётности); для макро-сводов
+  Минфина и машинных наборов ГИИС используйте связанные карточки ниже.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/minfin-fedbud-execute
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /glossary/treasury-execution
+--- (подраздел портала)
 
 | Признак | Значение |
 | :--- | :--- |

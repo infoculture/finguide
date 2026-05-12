@@ -1,13 +1,21 @@
 ---
-title: "pgrants.ru — Президентские гранты"
-sidebar_label: "Президентские гранты"
-tags: [information-system, civil, grants]
-source_url: https://президентскиегранты.рф/
-last_updated: 2026-05-10
+title: pgrants.ru — Президентские гранты
+sidebar_label: Президентские гранты
+tags:
+  - information-system
+  - civil
+  - grants
+source_url: 'https://президентскиегранты.рф/'
+last_updated: 2026-05-10T00:00:00.000Z
 system_kind: public_portal
 access: open
-primary_topics: ["grants", "ngo"]
+primary_topics:
+  - grants
+  - ngo
 operator_type: ngo
+content_type: reference
+entity_type: information-system
+description: '# pgrants.ru — Президентские гранты'
 ---
 
 # pgrants.ru — Президентские гранты

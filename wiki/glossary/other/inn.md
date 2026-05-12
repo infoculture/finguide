@@ -1,13 +1,24 @@
 ---
-title: "ИНН — Идентификационный номер налогоплательщика"
-sidebar_label: "ИНН"
-tags: [glossary, budget]
+title: ИНН — Идентификационный номер налогоплательщика
+sidebar_label: ИНН
+tags:
+  - glossary
+  - budget
 glossary_kind: concept
-abbreviations: ["ИНН"]
-source_url: http://www.consultant.ru/document/Cons_doc_LAW_19671/
-last_updated: 2026-05-10
+abbreviations:
+  - ИНН
+source_url: 'http://www.consultant.ru/document/Cons_doc_LAW_19671/'
+last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/inn
 sidebar_position: 3
+description: >-
+  это цифровой код, который ФНС России присваивает при постановке на налоговый
+  учёт юридическим лицам, индивидуальным предпринимателям и физическим лицам в
+  случаях, предусмотренных НК РФ. В данных о закупках, субсидиях и реестрах
+  организаций ИНН — главный способ однозначно сослаться на контрагента при
+  сверке с ЕГРЮЛ/Е...
+content_type: concept
+entity_type: glossary
 ---
 
 # ИНН — Идентификационный номер налогоплательщика

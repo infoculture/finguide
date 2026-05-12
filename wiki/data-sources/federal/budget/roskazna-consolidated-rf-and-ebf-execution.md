@@ -1,19 +1,43 @@
 ---
-title: "Казначейство: исполнение консолидированного бюджета РФ и бюджетов государственных внебюджетных фондов"
-sidebar_label: "Казначейство: конс. РФ и ГВФ"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: >-
+  Казначейство: исполнение консолидированного бюджета РФ и бюджетов
+  государственных внебюджетных фондов
+sidebar_label: 'Казначейство: конс. РФ и ГВФ'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-consolidated-rf-and-ebf-execution
-source_url: "https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannyj-byudzhet-rf-i-byudzhetov-gosudarstvennyh-vnebyudzhetnyh-fondov/"
+source_url: >-
+  https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannyj-byudzhet-rf-i-byudzhetov-gosudarstvennyh-vnebyudzhetnyh-fondov/
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "xls", "xlsx", "pdf"]
+formats:
+  - html
+  - xls
+  - xlsx
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  официальные материалы Казначейства по исполнению сводного федерального контура
+  «РФ + ГВФ»; для сравнения с макро-таблицами Минфина см. conbud/execute, для
+  только федерального бюджета — федеральный подраздел.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/roskazna-federal-budget-execution
+  - /data-sources/federal/roskazna-extrabudgetary-funds-execution
+  - /data-sources/federal/minfin-conbud-execute
+  - /glossary/consolidated-budget
+  - /budget-system/extrabudgetary-funds
 ---
-
-# Казначейство: исполнение консолидированного бюджета РФ и бюджетов государственных внебюджетных фондов
 
 | Признак | Значение |
 | :--- | :--- |

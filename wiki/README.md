@@ -5,6 +5,16 @@ description: >-
   Книга об устройстве государственных финансов в России и публикации открытых
   финансовых данных.
 slug: /
+content_type: reference
+tags:
+  - intro
+  - knowledge-base
+last_updated: 2026-05-12
+related_pages:
+  - /intro/getting-started
+  - /intro/data-map
+  - /howto
+  - /glossary
 ---
 
 # Государственные финансы

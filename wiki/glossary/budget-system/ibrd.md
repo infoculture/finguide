@@ -1,12 +1,25 @@
 ---
-title: "Международный банк реконструкции и развития"
-sidebar_label: "МБРР (Всемирный банк)"
-tags: [glossary, budget]
+title: Международный банк реконструкции и развития
+sidebar_label: МБРР (Всемирный банк)
+tags:
+  - glossary
+  - budget
 glossary_kind: organization
-last_updated: 2026-05-11
-source_url: "https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/"
-abbreviations: ["МБРР", "IBRD", "World Bank"]
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
+abbreviations:
+  - МБРР
+  - IBRD
+  - World Bank
 slug: /glossary/ibrd
+description: >-
+  Международный банк реконструкции и развития (МБРР) — международная финансовая
+  организация из «семейства» Всемирного банка; кредитует государства на рыночных
+  условиях под правительственные гарантии, привлекает ресурсы выпуском
+  долгосрочных облигаций. В глоссарии Минфина по госдолгу упоминается группа
+  МБРР вместе с Ме...
+content_type: concept
+entity_type: glossary
 ---
 
 # Международный банк реконструкции и развития

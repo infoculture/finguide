@@ -1,19 +1,40 @@
 ---
-title: "Казначейство: иллюстрированное издание об исполнении федерального бюджета и бюджетов бюджетной системы РФ"
-sidebar_label: "Казначейство: II-издание исполнения"
-tags: [data-source, federal, budget, reporting]
-last_updated: 2026-05-11
+title: >-
+  Казначейство: иллюстрированное издание об исполнении федерального бюджета и
+  бюджетов бюджетной системы РФ
+sidebar_label: 'Казначейство: II-издание исполнения'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/roskazna-illustrated-budget-publication
-source_url: "https://roskazna.gov.ru/ispolnenie-byudzhetov/illyustrirovannoe-informacionnoe-izdanie-ispolnenie-federalnogo-byudzheta-i-byudzhetov-byudzhetnoy-sistemy-rf/"
+source_url: >-
+  https://roskazna.gov.ru/ispolnenie-byudzhetov/illyustrirovannoe-informacionnoe-izdanie-ispolnenie-federalnogo-byudzheta-i-byudzhetov-byudzhetnoy-sistemy-rf/
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["html", "pdf"]
+formats:
+  - html
+  - pdf
 status: current
-related_information_system: "/information-systems/federal/roskazna-portal"
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  официальное иллюстрированное издание Казначейства — точка входа для обзорного
+  понимания исполнения бюджетной системы; для табличных форм по КБК и машинных
+  выгрузок используйте соседние подразделы того же раздела и ГИИС «Электронный
+  бюджет».
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/roskazna-federal-budget-execution
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /budget-system/structure
+  - /intro/russian-budget-overview
 ---
-
-# Казначейство: иллюстрированное издание об исполнении федерального бюджета и бюджетов бюджетной системы РФ
 
 | Признак | Значение |
 | :--- | :--- |

@@ -1,19 +1,41 @@
 ---
-title: "Официальная статистика Росстата: ЕМИСС и открытые данные"
-sidebar_label: "Росстат и ЕМИСС (ОД)"
-tags: [data-source, federal, statistics, open_data]
-last_updated: 2026-05-11
+title: 'Официальная статистика Росстата: ЕМИСС и открытые данные'
+sidebar_label: Росстат и ЕМИСС (ОД)
+tags:
+  - data-source
+  - federal
+  - statistics
+  - open_data
+last_updated: 2026-05-12T00:00:00.000Z
 slug: /data-sources/federal/rosstat-opendata
-source_url: "https://fedstat.ru/"
+source_url: 'https://fedstat.ru/'
 data_source_kind: mixed
 jurisdiction: federal
 access: open
-formats: ["csv", "xlsx", "xls", "xml", "html", "sdmx"]
+formats:
+  - csv
+  - xlsx
+  - xls
+  - xml
+  - html
+  - sdmx
 status: current
-related_information_system: "/information-systems/federal/emiss"
+related_information_system: /information-systems/federal/emiss
+description: >-
+  машиночитаемые выгрузки и таблицы официальной статистики с порталов ЕМИСС и
+  Росстата — региональные и отраслевые ряды, социально-экономические агрегаты,
+  финансовая статистика в терминах Росстата. Для госфинансов это контекст и
+  сверка с бюджетом и налогами, а не касса по лицевым счетам.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/emiss
+  - /organizations/rosstat
+  - /data-sources/federal/cbr-statistics
+  - /data-sources/federal/nalog-statistics
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/data-gov-ru
 ---
-
-# Официальная статистика Росстата: ЕМИСС и открытые данные
 
 | Признак | Значение |
 | :--- | :--- |

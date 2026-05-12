@@ -1,12 +1,24 @@
 ---
-title: "Международный валютный фонд"
-sidebar_label: "МВФ"
-tags: [glossary, budget]
+title: Международный валютный фонд
+sidebar_label: МВФ
+tags:
+  - glossary
+  - budget
 glossary_kind: organization
-last_updated: 2026-05-11
-source_url: "https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/"
-abbreviations: ["МВФ", "IMF"]
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
+abbreviations:
+  - МВФ
+  - IMF
 slug: /glossary/imf
+description: >-
+  Международный валютный фонд (МВФ) — международная валютно-финансовая
+  организация, созданная по Бреттон-Вудским соглашениям для поддержания
+  стабильности международной валютной системы; финансирует страны-члены,
+  консультирует по экономической политике, выпускает СДР. В глоссарии Минфина по
+  госдолгу термин дан как спра...
+content_type: concept
+entity_type: glossary
 ---
 
 # Международный валютный фонд
