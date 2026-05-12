@@ -27,6 +27,7 @@ entity_type: data-source
 related_pages:
   - /information-systems/federal/zakupki
   - /data-sources/federal/zakupki-xml
+  - /howto/analysis/eis-procurement-identifiers-decoding
   - /glossary/procurement-44fz
   - /glossary/procurement-223fz
   - /information-systems/federal/egrul

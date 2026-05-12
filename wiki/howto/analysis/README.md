@@ -12,6 +12,8 @@ description: >-
 related_pages:
   - /howto
   - /howto/analysis/kbc-decoding
+  - /howto/analysis/tax-org-identifiers-decoding
+  - /howto/analysis/eis-procurement-identifiers-decoding
   - /howto/analysis/regional-budget-analysis
   - /budget-classification/overview
   - /reporting/0503317
@@ -31,6 +33,8 @@ related_pages:
 | Задача | Инструкция |
 | --- | --- |
 | Разобрать колонку КБК | [Расшифровка КБК](./kbc-decoding.md) |
+| Нормализовать ИНН, КПП, ОГРН, ОКТМО | [ИНН, КПП, ОГРН и ОКТМО в выгрузках](./tax-org-identifiers-decoding.md) |
+| Номера закупки и контракта в ЕИС | [Идентификаторы закупок и контрактов](./eis-procurement-identifiers-decoding.md) |
 | План/факт федерального бюджета | [Анализ исполнения бюджета](./budget-execution.md) |
 | Консолидированные бюджеты субъектов | [Анализ региональных бюджетов](./regional-budget-analysis.md) |
 | ЕИС и контракты | [Анализ закупок](./procurement-analysis.md) |
