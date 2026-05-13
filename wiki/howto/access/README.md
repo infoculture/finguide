@@ -7,15 +7,15 @@ tags:
 last_updated: 2026-05-12T00:00:00.000Z
 content_type: reference
 description: >-
-  Пошаговые инструкции: API budget.gov.ru и Минфина, FTP ЕИС, отчёты Казначейства,
-  bus.gov.ru, ЦБ и региональные порталы открытых данных.
+  Пошаговые инструкции: API budget.gov.ru и Минфина, API Clearspending, отчёты
+  Казначейства, bus.gov.ru, ЦБ и региональные порталы открытых данных.
 related_pages:
   - /howto
   - /data-sources
   - /data-sources/federal/budget-gov-ru-datasets
   - /data-sources/federal/minfin-opendata
   - /howto/access/budget-gov-api
-  - /howto/access/zakupki-ftp
+  - /howto/access/clearspending
   - /intro/data-map
 ---
 
@@ -33,7 +33,7 @@ related_pages:
 | --- | --- |
 | Срезы ГИИС «Электронный бюджет» | [budget.gov.ru API](./budget-gov-api.md) |
 | Наборы и API Минфина | [API и открытые данные Минфина](./minfin-api.md) |
-| Массовые XML закупок | [FTP ЕИС Закупки](./zakupki-ftp.md) |
+| Закупки и субсидии через API Clearspending | [REST API Clearspending](./clearspending.md) |
 | XLS/PDF исполнения на roskazna.gov.ru | [Отчёты Казначейства](./roskazna-reports.md) |
 | Учреждения и ФХД | [Открытые данные bus.gov.ru](./bus-opendata.md) |
 | Курсы и статистика ЦБ | [API Банка России](./cbr-api.md) |

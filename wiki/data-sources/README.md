@@ -43,7 +43,7 @@ related_pages:
 | Сшить план/исполнение федерального бюджета с КБК и справочниками | [Открытые данные Минфина](/data-sources/federal/minfin-opendata), [наборы budget.gov.ru](/data-sources/federal/budget-gov-ru-datasets) |
 | Кассовое исполнение и отчёты казначейства | [Отчёты и дашборды Росказначейства](/data-sources/federal/roskazna-reports), [открытые датамарты](/data-sources/federal/roskazna-datamarts) |
 | Регион или муниципалитет | [Региональные источники](/data-sources/regional/), методика [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) |
-| Закупки и контракты | [Закупки](/data-sources/federal/procurement), how-to [ЕИС](/howto/access/zakupki-ftp) при необходимости FTP |
+| Закупки и контракты | [Закупки](/data-sources/federal/procurement), [XML ЕИС](/data-sources/federal/zakupki-xml), how-to [API Clearspending](/howto/access/clearspending) |
 | Сценарные маршруты «вопрос → источник» | [Карта данных](/intro/data-map) |
 
 ## Типовые вопросы

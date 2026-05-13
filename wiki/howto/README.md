@@ -18,6 +18,7 @@ related_pages:
   - /howto/analysis
   - /howto/automation
   - /howto/access/budget-gov-api
+  - /howto/access/clearspending
   - /howto/analysis/kbc-decoding
 ---
 
@@ -41,6 +42,7 @@ related_pages:
 | Задача | Куда |
 | --- | --- |
 | Скачать и разобрать срезы budget.gov.ru | [API budget.gov.ru](/howto/access/budget-gov-api) |
+| Контракты и субсидии Clearspending (JSON API) | [REST API Clearspending](/howto/access/clearspending) |
 | Разобрать 20-значный КБК в таблице | [Расшифровка КБК](/howto/analysis/kbc-decoding) |
 | Отчёты Казначейства на портале | [Доступ к отчётам Росказначейства](/howto/access/roskazna-reports) |
 | Региональный бюджет | [Анализ регионального бюджета](/howto/analysis/regional-budget-analysis) |

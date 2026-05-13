@@ -30,6 +30,7 @@ related_pages:
   - /glossary/transfers
   - /data-sources/federal/budget-gov-ru-datasets
   - /data-sources/federal/promote-budget-gov-ru
+  - /data-sources/federal/szpk-registry
   - /howto/analysis/subsidy-tracking
   - /information-systems/federal/giis-eb
 ---
@@ -145,6 +146,7 @@ curl -sS "https://budget.gov.ru/epbs/opendata/7710568760-REGISTAGREEMENT/meta.js
 
 ## Не путать с
 
+- **[Реестр соглашений о защите и поощрении капиталовложений (СпИК)](/data-sources/federal/szpk-registry)** — отдельный институт и набор **`7710168360-SZPK`**; **не** входит в `7710568760-REGISTAGREEMENT` и имеет **иной** паспорт полей.
 - **[Единая площадка мер финансовой поддержки (promote.budget.gov.ru)](/data-sources/federal/promote-budget-gov-ru)** — веб-интерфейс **отборов** и подачи заявок; **не** является выгрузкой реестра соглашений и не заменяет набор `7710568760-REGISTAGREEMENT`.
 - **[Набор «Информация о субсидиях из федерального бюджета…»](https://budget.gov.ru/epbs/faces/p/%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/opendata?code=7710168360-SUBSULFLIPFB)** (`7710168360-SUBSULFLIPFB` в каталоге) — иной срез по субсидиям и грантам; поля и охват **не совпадают** с реестром соглашений `7710568760-REGISTAGREEMENT`, их **нельзя** подменять друг другом без сверки паспортов.
 - **[ЕИС в сфере закупок](/information-systems/federal/zakupki)** — контракты заказчиков; основание оплаты может ссылаться на бюджетную логику, но **не** является реестром соглашений о субсидиях.

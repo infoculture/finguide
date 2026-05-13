@@ -6,7 +6,7 @@ tags:
   - federal
   - statistics
   - open_data
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-05-13T00:00:00.000Z
 slug: /data-sources/federal/rosstat-opendata
 source_url: 'https://fedstat.ru/'
 data_source_kind: mixed
@@ -31,6 +31,8 @@ entity_type: data-source
 related_pages:
   - /information-systems/federal/emiss
   - /organizations/rosstat
+  - /data-sources/federal/rosstat-showdata-finder
+  - /data-sources/federal/rosstat-bi-portal
   - /data-sources/federal/cbr-statistics
   - /data-sources/federal/nalog-statistics
   - /data-sources/federal/budget-gov-ru-datasets
@@ -49,7 +51,7 @@ related_pages:
 
 ## Описание
 
-Карточка описывает **публичный контур данных Росстата** через два основных входа: работа с **каталогом показателей** и выгрузками на **`fedstat.ru`** (логика **ЕМИСС**) и **каталог наборов открытых данных** на **`rosstat.gov.ru/opendata/`**. Наборы на обоих сайтах могут **пересекаться или дополнять** друг друга — конкретный файл ищите по **паспорту** и теме.
+Карточка описывает **публичный контур данных Росстата** через два основных входа: работа с **каталогом показателей** и выгрузками на **`fedstat.ru`** (логика **ЕМИСС**) и **каталог наборов открытых данных** на **`rosstat.gov.ru/opendata/`**. Отдельно Росстат публикует веб-приложение **Show Data** с поиском показателей на **`showdata.rosstat.gov.ru`** — см. **[отдельную карточку](/data-sources/federal/rosstat-showdata-finder)**. Публичные **дашборды в Contour BI** на **`bi.rosstat.gov.ru`** вынесены в **[карточку BI-портала](/data-sources/federal/rosstat-bi-portal)**. Наборы на витринах могут **пересекаться или дополнять** друг друга — конкретный файл ищите по **паспорту** и теме.
 
 Отдельно на сайте Росстата опубликован тематический раздел **[Финансы](https://rosstat.gov.ru/statistics/finance)** (`/statistics/finance`): HTML-витрина с карточками на **файлы в `/storage/mediabank/`** (XLS, XLSX, PDF) и на соответствующие ветки **ЕМИСС** (раздел **1.32.x** на `fedstat.ru`). Там же — подразделы «Методология», публикации и архив; для госфинансов в первую очередь важны блоки **«Государственные финансы»**, **расходы консолидированных бюджетов субъектов и МО на социальную поддержку**, а также смежные **«Финансы организаций»**, **СОНКО** и **«Финансовый рынок»**.
 
@@ -69,6 +71,8 @@ related_pages:
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
+| Show Data (finder) | https://showdata.rosstat.gov.ru/finder/ | HTML (SPA); поиск показателей и экспорт из UI — см. **[карточку](/data-sources/federal/rosstat-showdata-finder)** |
+| BI-портал (Contour BI, дашборды) | https://bi.rosstat.gov.ru/biportal/contourbi.jsp?solution=Dashboard&allsol=1 | HTML + BI-клиент в браузере — см. **[карточку](/data-sources/federal/rosstat-bi-portal)** |
 | Публичный портал ЕМИСС | https://fedstat.ru/ | HTML; подбор рядов и таблиц |
 | Открытые данные (fedstat.ru) | https://fedstat.ru/opendata/ | XLS, CSV и др.; часть наборов — SDMX |
 | Открытые данные (сайт Росстата) | https://rosstat.gov.ru/opendata/ | CSV, XLS и др. по паспортам наборов |
@@ -116,6 +120,8 @@ curl -sSk -o /dev/null -w "%{http_code}\n" "https://rosstat.gov.ru/storage/media
 
 ## Связанные страницы wiki
 
+- **[Росстат: Show Data — finder](/data-sources/federal/rosstat-showdata-finder)** — поиск показателей на `showdata.rosstat.gov.ru`; смежный вход к тем же классам официальной статистики, ориентированный на интерактивный UI.
+- **[Росстат: публичный BI-портал (Contour BI)](/data-sources/federal/rosstat-bi-portal)** — дашборды на `bi.rosstat.gov.ru`; рядом с Show Data по роли **визуальной** витрины без стабильного публичного API.
 - **[ЕМИСС](/information-systems/federal/emiss)** — назначение системы, отличие `fedstat.ru` от `rosstat.gov.ru/opendata`, типовые вопросы.
 - **[Росстат: статистика внешней торговли](/data-sources/federal/rosstat-external-trade)** — витрина `/statistics/vneshnyaya_torgovlya`; методика и точки доступа отдельно от **[ФТС](/data-sources/federal/fts-customs-statistics)**.
 - **[Наборы ГИИС «Электронный бюджет»](/data-sources/federal/budget-gov-ru-datasets)** — машиночитаемые бюджетные ряды; ряд «Государственные финансы» на `rosstat.gov.ru` даёт **иную методику и агрегацию**, их нельзя смешивать без проверки определений.

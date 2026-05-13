@@ -10,7 +10,7 @@ draft: true
 
 Служебная страница для авторов и агентов: при добавлении или правке карточки копируйте **блок ниже** (содержимое fenced-блока `markdown`) в файл карточки, замените плейсхолдеры и удалите неприменимые разделы целиком (без пустых заголовков).
 
-**Путь к файлу:** для `regional`, `international` и `civil` — `wiki/data-sources/<подраздел>/<slug>.md`. Для **федеральных** источников — `wiki/data-sources/federal/<группа>/<slug>.md`, где `<группа>` одна из: `catalog`, `budget`, `zakupki`, `programs-orgs`, `statistics`, `legacy` (см. оглавление `wiki/data-sources/federal/README.md`).
+**Путь к файлу:** для `regional`, `international` и `civil` — `wiki/data-sources/<подраздел>/<slug>.md`. Для **федеральных** источников — `wiki/data-sources/federal/<группа>/<slug>.md`, где `<группа>` одна из: `catalog`, `budget`, `zakupki`, `programs-orgs`, `statistics`, `nalog`, `legacy` (см. оглавление `wiki/data-sources/federal/README.md`).
 
 **Подраздел:** `federal` — федеральные порталы и выгрузки; `regional` — региональные и муниципальные источники; `international` — международные и межгосударственные официальные витрины с полезными рядами по РФ или сравнениями по странам; `civil` — гражданские агрегаторы и проекты сообщества.
 

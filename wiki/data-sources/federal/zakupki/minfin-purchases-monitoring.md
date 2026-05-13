@@ -5,7 +5,7 @@ tags:
   - data-source
   - federal
   - procurement
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-05-13T00:00:00.000Z
 slug: /data-sources/federal/minfin-purchases-monitoring
 source_url: 'https://minfin.gov.ru/ru/perfomance/contracts/purchases/'
 data_source_kind: files
@@ -26,6 +26,7 @@ related_pages:
   - /information-systems/federal/minfinsite
   - /organizations/minfin
   - /data-sources/federal/procurement
+  - /data-sources/federal/zakupki-eis-statistics
   - /data-sources/federal/zakupki-xml
   - /glossary/procurement-44fz
 ---
@@ -102,6 +103,7 @@ curl -sS -A "Mozilla/5.0" -o minfin-purchases-monitoring.html \
 ## Связанные страницы wiki
 
 - **[Сведения о закупках и контрактах (ЕИС)](/data-sources/federal/procurement)** — основной **транзакционный** источник извещений, контрактов и смежных документов по **44-ФЗ** и **223-ФЗ**.
+- **[ЕИС Закупки: статистика на главной](/data-sources/federal/zakupki-eis-statistics)** — **официальные своды** оператора ЕИС на главной портала (в т.ч. JSON для графиков); другая методика, чем у PDF Минфина.
 - **[XML-выгрузки ЕИС Закупки](/data-sources/federal/zakupki-xml)** — машиночитаемые комплекты для воспроизводимого контура закупок без опоры только на PDF Минфина.
 - **[ЕИС в сфере закупок](/information-systems/federal/zakupki)** — оператор, каналы доступа и ограничения официальной ИС.
 - **[Отчётность по контрактам](/reporting/procurement-contract-reporting)** — регламентированные формы, смежные с реестрами контрактов и планами закупок.

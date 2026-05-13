@@ -7,7 +7,7 @@ description: >-
 tags:
   - intro
   - changelog
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-05-13T00:00:00.000Z
 content_type: reference
 ---
 
@@ -24,7 +24,8 @@ content_type: reference
 - Отчётность: обзор [отчётности организаций с государственным участием](/reporting/state-sector-overview) (связка с раскрытием, закупками и бюджетным контуром).
 - Справочники: [поиск по кодам ОКТМО, КБК и КОСГУ](/reference/classification-codes-index) и заметка [о полнотекстовом поиске (DocSearch)](/reference/docsearch-setup).
 - План наполнения [wiki](/intro/wiki-filling-plan) обновлён под направления по госкорпорациям, регионам и качеству навигации.
-- Для разработчиков пайплайнов и ИИ: в корне репозитория `KNOWLEDGE.md` и `llms.txt`, каталог `exports/` с `knowledge-index.jsonl` и `knowledge-graph.json` (генерация `npm run export:knowledge`); спецификации и проверки качества корпуса в `openspec/`, CI в `.github/workflows/` (включая проверки ссылок).
+- How-to, анализ: страницы [ИНН, КПП, ОГРН и ОКТМО в выгрузках](/howto/analysis/tax-org-identifiers-decoding) и [идентификаторы закупок и контрактов (ЕИС)](/howto/analysis/eis-procurement-identifiers-decoding) (нормализация ключей, связка с [XML ЕИС](/data-sources/federal/zakupki-xml) и гражданским API [Clearspending](/data-sources/civil/clearspending)); обновлены перекрёстные ссылки в глоссарии ([ИНН](/glossary/inn), [КПП](/glossary/kpp)) и карточке [ЕИС как источника](/data-sources/federal/procurement).
+- Для разработчиков пайплайнов и ИИ: в корне репозитория `KNOWLEDGE.md` и `llms.txt`, каталог `exports/` с `knowledge-index.jsonl` и `knowledge-graph.json` (генерация `npm run export:knowledge`); спецификации и проверки качества корпуса в `openspec/` (в т.ч. метаданные, экспорт, ворота CI); скрипты линтинга в `scripts/` — `npm run lint:frontmatter`, `lint:howto`, `lint:corpus`, `lint:related-pages`, `lint:qa`; CI в `.github/workflows/` (включая проверки ссылок). Правила для редакторов и агентов — в `AGENTS.md`.
 
 ## 2026-05-11
 

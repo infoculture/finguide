@@ -5,7 +5,7 @@ tags:
   - data-source
   - federal
   - procurement
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-05-13T00:00:00.000Z
 slug: /data-sources/federal/procurement
 source_url: 'https://zakupki.gov.ru/'
 data_source_kind: mixed
@@ -26,6 +26,7 @@ content_type: data_source
 entity_type: data-source
 related_pages:
   - /information-systems/federal/zakupki
+  - /data-sources/federal/zakupki-eis-statistics
   - /data-sources/federal/zakupki-xml
   - /howto/analysis/eis-procurement-identifiers-decoding
   - /glossary/procurement-44fz
@@ -63,6 +64,7 @@ related_pages:
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
 | Публичная витрина | https://zakupki.gov.ru/epz/main/public/home.html | HTML |
+| Сводная **статистика** на главной (госзакупки и контракты) | https://zakupki.gov.ru/epz/main/public/home.html#statAnchor | HTML, JSON, PDF (методика) — см. [карточку](/data-sources/federal/zakupki-eis-statistics) |
 | Документация и схемы XML | https://zakupki.gov.ru/epz/main/public/document/view.html | PDF, HTML |
 | Массовые XML (логика и ограничения) | см. [XML-выгрузки ЕИС](/data-sources/federal/zakupki-xml) | XML, ZIP |
 
@@ -89,6 +91,7 @@ related_pages:
 
 ## Связанные страницы wiki
 
+- **[ЕИС Закупки: статистика на главной](/data-sources/federal/zakupki-eis-statistics)** — официальные **своды и карта** по закупкам и контрактам (44/223), JSON под витриной и **методика** в PDF.
 - **[Минфин: мониторинг закупок (отчёты PDF)](/data-sources/federal/minfin-purchases-monitoring)** — ежеквартальные и годовые **аналитические отчёты** Минфина по мониторингу закупок; не заменяют построчные данные ЕИС.
 - **[ЕИС в сфере закупок](/information-systems/federal/zakupki)** — оператор, доступ, ограничения.
 - **[XML-выгрузки ЕИС Закупки](/data-sources/federal/zakupki-xml)** — сырые комплекты, схемы, ключи связи.

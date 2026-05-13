@@ -26,6 +26,7 @@ entity_type: data-source
 related_pages:
   - /information-systems/federal/zakupki
   - /data-sources/federal/procurement
+  - /data-sources/federal/zakupki-eis-statistics
   - /information-systems/federal/egrul
   - /glossary/procurement-44fz
   - /data-sources/federal/minfin-purchases-monitoring
@@ -90,6 +91,7 @@ related_pages:
 
 - **[ЕИС в сфере закупок](/information-systems/federal/zakupki)** — актуальные точки доступа (**СОИ**), отличие от исторического FTP и связь с порталом.
 - **[Сведения о закупках и контрактах](/data-sources/federal/procurement)** — зачем в одной системе два закона и как это учитывать в выборках.
+- **[ЕИС Закупки: статистика на главной](/data-sources/federal/zakupki-eis-statistics)** — сводные показатели и JSON витрины на главной; для **построчного** контура по-прежнему нужны **XML** и реестры.
 - **[Витрины данных Казначейства](/data-sources/federal/roskazna-datamarts)** — агрегированный взгляд на закупки; без построчного контрактного следа как в XML ЕИС.
 - **[Clearspending.ru](/information-systems/civil/clearspending)** — гражданская витрина/API поверх тех же правовых сущностей без сборки сырых архивов.
 - **[Отчётность по контрактам](/reporting/procurement-contract-reporting)** — регламентированные формы и связь с машиночитаемыми регистрами контрактов.
