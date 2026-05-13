@@ -7,7 +7,7 @@ tags:
   - tax
   - statistics
 source_url: 'https://analytic.nalog.gov.ru/'
-last_updated: 2026-05-10T00:00:00.000Z
+last_updated: 2026-05-13T00:00:00.000Z
 system_kind: public_portal
 access: open
 operator_type: federal_body
@@ -52,6 +52,7 @@ description: '# Аналитический портал ФНС России'
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
 | Веб-портал | https://analytic.nalog.gov.ru/ | HTML, интерактивные графики и карты, табличные выгрузки в рамках UI |
+| Массовая выгрузка налоговых паспортов субъектов РФ за год | `https://analytic.nalog.gov.ru/api/TaxPassports/ExportAll?year=<YYYY>&` | **ZIP** с **Excel** по каждому субъекту (см. [карточку источника](/data-sources/federal/analytic-nalog-gov-ru)) |
 
 ## Данные: объекты и связь с источниками
 
@@ -59,6 +60,7 @@ description: '# Аналитический портал ФНС России'
 
 Связь с разделом источников данных:
 
+- [/data-sources/federal/analytic-nalog-gov-ru](/data-sources/federal/analytic-nalog-gov-ru) — **ZIP-дампы налоговых паспортов** по API, интерактивные графики (**поступления в бюджетную систему РФ** и др.) и ограничения машинного доступа.
 - [/data-sources/federal/nalog-statistics](/data-sources/federal/nalog-statistics) — **официальные формы** налоговой статистики (1-НМ, 1-НДС, 7-НП и др.); их показатели логически **лежат в основе** многих разделов аналитического портала, но формат публикации на портале и в XLS может различаться.
 - [/data-sources/civil/hubofdata](/data-sources/civil/hubofdata) — **каталог CKAN** с наборами ФНС; дополняет портал, когда нужны **стабильные файлы** и API каталога, а не только интерактив.
 - [/data-sources/federal/zakupki-xml](/data-sources/federal/zakupki-xml) — **ИНН/ОГРН** в закупках; типичный сценарий — связать контрагента с **[ЕГРЮЛ/ЕГРИП](/information-systems/federal/egrul)** и налоговыми срезами ФНС, а региональную картину поступлений смотреть уже на аналитическом портале и в формах статистики.
@@ -77,7 +79,7 @@ description: '# Аналитический портал ФНС России'
 ## Ограничения и актуальность
 
 - Интерфейс и набор разделов **эволюционируют**; при расхождении с ожиданиями проверяйте дату обновления показателя и **первичную** публикацию на `nalog.gov.ru`.
-- **Машинного API «как у opendata»** у портала обычно нет: для скриптов используйте **[открытые данные ФНС](https://www.nalog.gov.ru/opendata/)** и выгрузки **форм** либо внешние каталоги.
+- **Публичный REST под все виджеты** не документирован как каталог opendata; для **налоговых паспортов субъектов** доступна **HTTP-выгрузка одним ZIP** за год (см. [карточку источника](/data-sources/federal/analytic-nalog-gov-ru)). Для прочих рядов в скриптах по-прежнему ориентируйтесь на **[открытые данные ФНС](https://www.nalog.gov.ru/opendata/)** и **формы** [налоговой статистики](/data-sources/federal/nalog-statistics) либо внешние каталоги.
 - Сайт может временно отдавать ошибки сервера; при недоступности поддомена используйте **[раздел статистики](/data-sources/federal/nalog-statistics)** на основном сайте.
 
 ## Частые вопросы
@@ -92,4 +94,4 @@ description: '# Аналитический портал ФНС России'
 
 **В:** Где взять те же показатели в CSV для пайплайна?
 
-**О:** Через **[каталог открытых данных ФНС](https://www.nalog.gov.ru/opendata/)** и **[статистические формы](/data-sources/federal/nalog-statistics)** по конкретному разрезу; при поиске по метаданным — [/data-sources/civil/hubofdata](/data-sources/civil/hubofdata).
+**О:** Для **налоговых паспортов регионов** за календарный год — архив по API: см. [/data-sources/federal/analytic-nalog-gov-ru](/data-sources/federal/analytic-nalog-gov-ru). Для прочих показателей — **[каталог открытых данных ФНС](https://www.nalog.gov.ru/opendata/)** и **[статистические формы](/data-sources/federal/nalog-statistics)** по разрезу; при поиске по метаданным — [/data-sources/civil/hubofdata](/data-sources/civil/hubofdata).

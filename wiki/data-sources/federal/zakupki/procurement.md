@@ -27,6 +27,7 @@ entity_type: data-source
 related_pages:
   - /information-systems/federal/zakupki
   - /data-sources/federal/zakupki-eis-statistics
+  - /data-sources/federal/rosstat-procurement-statistics-archive
   - /data-sources/federal/zakupki-xml
   - /howto/analysis/eis-procurement-identifiers-decoding
   - /glossary/procurement-44fz

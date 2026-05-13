@@ -7,7 +7,7 @@ tags:
   - statistics
   - monetary
 source_url: 'https://cbr.ru/statistics/'
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-05-13T00:00:00.000Z
 slug: /data-sources/federal/cbr-statistics
 data_source_kind: mixed
 jurisdiction: federal
@@ -30,6 +30,10 @@ content_type: data_source
 entity_type: data-source
 related_pages:
   - /information-systems/federal/cbrsite
+  - /data-sources/federal/cbr-bbs
+  - /data-sources/federal/cbr-finflows
+  - /data-sources/federal/cbr-annual-report
+  - /data-sources/federal/cbr-vestnik
   - /data-sources/federal/minfin-opendata
   - /data-sources/federal/rosstat-opendata
   - /budget-system/debt
@@ -109,6 +113,10 @@ print(response.text[:500])
 ## Связанные страницы wiki
 
 - [Сайт Банка России](/information-systems/federal/cbrsite) — полная карточка витрины, подсистем и ограничений доступа.
+- [Статистический бюллетень Банка России (PDF)](/data-sources/federal/cbr-bbs) — **PDF-выпуски** со сводными таблицами; для **автоматизации рядов** предпочтительнее раздел ниже и база показателей.
+- [Вестник Банка России](/data-sources/federal/cbr-vestnik) — **официальное издание** ЦБ: нормативные и разъяснительные материалы по выпускам; не каталог временных рядов.
+- [Годовой отчёт Банка России](/data-sources/federal/cbr-annual-report) — **PDF** годовых отчётов и краткие сводки; нарратив и приложения к отчётному году, не каталог временных рядов.
+- [Мониторинг отраслевых финансовых потоков](/data-sources/federal/cbr-finflows) — отдельная линейка аналитики ЦБ: **PDF-выпуски** и **Excel** `stat_finflows.xlsx` по платежам через ПС Банка России; не сводится к выборке показателей в `hd_base`.
 - [Наборы данных портала «Электронный бюджет»](/data-sources/federal/budget-gov-ru-datasets) — бюджетное планирование и исполнение; ряды ЦБ дополняют анализ **макроокружением**, но не содержат той же модели **КБК**.
 - [Налоговая статистика ФНС (формы)](/data-sources/federal/nalog-statistics) — фискальные поступления; часто сопоставляют с денежными агрегатами и курсами ЦБ в обзорных моделях.
 - [API Банка России](/howto/access/cbr-api) — пошаговые примеры и подводные камни при работе с сервисами ЦБ.

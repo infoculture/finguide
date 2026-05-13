@@ -34,6 +34,7 @@ related_pages:
   - /data-sources/federal/budget-gov-ru-datasets
   - /data-sources/federal/gasu-programs
   - /data-sources/federal/natproj
+  - /data-sources/federal/rosstat-gov-programs-implementation-statistics
   - /reporting/state-program-reporting
 ---
 

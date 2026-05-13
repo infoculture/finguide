@@ -7,7 +7,7 @@ tags:
   - budget
   - reporting
   - multilevel
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-05-13T00:00:00.000Z
 slug: /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
 source_url: 'https://roskazna.gov.ru/ispolnenie-byudzhetov/'
 data_source_kind: mixed
@@ -34,6 +34,7 @@ related_pages:
   - /information-systems/federal/roskazna-portal
   - /data-sources/federal/roskazna-reports
   - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/minfin-regions-operational
   - /data-sources/federal/regionalnye-byudzhety
   - /data-sources/federal/municipalnye-byudzhety
   - /glossary/treasury-execution
@@ -102,6 +103,7 @@ related_pages:
 - **[Минфин: краткая информация об исполнении консолидированного бюджета РФ и ГВФ](/data-sources/federal/minfin-conbud-execute)** — агрегированные **XLSX** Минфина по **консолидированному бюджету РФ** и **государственным внебюджетным фондам** (месяц / квартал / год); не заменяет регламентированные формы Казначейства.
 - **[Минфин: краткая информация об исполнении бюджетов государственных внебюджетных фондов](/data-sources/federal/minfin-outbud-execute)** — агрегированные **XLSX** Минфина **только по бюджетам ГВФ** (месяц / квартал / год); не заменяет **[conbud/execute](/data-sources/federal/minfin-conbud-execute)** (свод РФ и ГВФ вместе) и регламентированную отчётность фондов.
 - **[Минфин: краткая информация об исполнении консолидированных бюджетов субъектов РФ](/data-sources/federal/minfin-subbud-execute)** — агрегированные **XLSX** Минфина по **консолидированным** бюджетам субъектов (месяц / квартал / год); не заменяет **0503317** и прочие формы Казначейства.
+- **[Минфин: данные по исполнению бюджетов субъектов РФ и местных бюджетов (PDF)](/data-sources/federal/minfin-regions-operational)** — PDF-презентации и аналитические материалы Минфина в разделе **perfomance/regions**; не машиночитаемые **XLSX** из **subbud/execute**.
 - **[Отчёты Федерального казначейства](/data-sources/federal/roskazna-reports)** — операционная карточка того же раздела «Исполнение бюджетов»: форматы файлов, формы, ограничения автоматизации.
 - **[Портал Федерального казначейства](/information-systems/federal/roskazna-portal)** — информационная система-витрина оператора: границы контура с «Электронным бюджетом», bus и ЕИС.
 - **[Наборы данных ГИИС «Электронный бюджет»](/data-sources/federal/budget-gov-ru-datasets)** — машиночитаемые срезы на `budget.gov.ru`; при анализе исполнения их **сопоставляют** с казначейскими формами, а не сливают без методики.

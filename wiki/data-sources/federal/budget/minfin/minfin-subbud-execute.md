@@ -9,7 +9,7 @@ tags:
   - budget
   - reporting
   - regional
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-05-13T00:00:00.000Z
 slug: /data-sources/federal/minfin-subbud-execute
 source_url: 'https://minfin.gov.ru/ru/statistics/subbud/execute/'
 data_source_kind: files
@@ -31,6 +31,7 @@ related_pages:
   - /information-systems/federal/minfinsite
   - /organizations/minfin
   - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/minfin-regions-operational
   - /data-sources/regional/consolidated-budgets
   - /data-sources/federal/regionalnye-byudzhety
   - /data-sources/federal/roskazna-consolidated-subjects-execution
@@ -104,6 +105,7 @@ curl -sS "https://minfin.gov.ru/ru/statistics/subbud/execute/" -o minfin-subbud-
 
 ## Связанные страницы wiki
 
+- **[Минфин: данные по исполнению бюджетов субъектов РФ и местных бюджетов (PDF)](/data-sources/federal/minfin-regions-operational)** — иной раздел сайта (**perfomance/regions/operational**): **презентации и аналитика в PDF**, не XLSX из **subbud/execute**.
 - **[Минфин: краткая информация об исполнении федерального бюджета](/data-sources/federal/minfin-fedbud-execute)** — параллельная витрина Минфина для **федерального** бюджета (те же три периодичности, **XLSX**).
 - **[Минфин: краткая информация об исполнении бюджетов государственных внебюджетных фондов](/data-sources/federal/minfin-outbud-execute)** — параллельная витрина для **бюджетов [ГВФ](/glossary/extrabudgetary-funds)** (те же три периодичности, **XLSX**).
 - **[Минфин: краткая информация об исполнении консолидированного бюджета РФ и ГВФ (conbud/execute)](/data-sources/federal/minfin-conbud-execute)** — **свод по Российской Федерации** (консолидированный бюджет РФ и **ГВФ**), а не таблица по **субъектам** как в **subbud/execute**.

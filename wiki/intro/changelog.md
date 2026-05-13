@@ -7,7 +7,7 @@ description: >-
 tags:
   - intro
   - changelog
-last_updated: 2026-05-13T12:00:00.000Z
+last_updated: 2026-05-13T23:59:00.000Z
 content_type: reference
 ---
 
@@ -17,6 +17,14 @@ content_type: reference
 
 ## 2026-05-13
 
+- Источники данных: [сборник Росстата «Национальные счета России»](/data-sources/federal/rosstat-national-accounts-of-russia) — каталог выпусков https://rosstat.gov.ru/folder/210/document/13221; перекрёстные ссылки в [открытых данных Росстата](/data-sources/federal/rosstat-opendata), [«Финансы России»](/data-sources/federal/rosstat-finances-of-russia) и [статистическом ежегоднике](/data-sources/federal/rosstat-russian-statistical-yearbook); оглавление [федеральных источников](/data-sources/federal/).
+- Источники данных: [сборник Росстата «Россия в цифрах»](/data-sources/federal/rosstat-russia-in-figures) — каталог выпусков https://rosstat.gov.ru/folder/210/document/12993; перекрёстные ссылки в [открытых данных Росстата](/data-sources/federal/rosstat-opendata) и [«Финансы России»](/data-sources/federal/rosstat-finances-of-russia); оглавление [федеральных источников](/data-sources/federal/).
+- Источники данных: подпапка `wiki/data-sources/federal/rosstat/` для витрин **Росстата**; карточки [ЕМИСС и открытых данных](/data-sources/federal/rosstat-opendata), [внешней торговли](/data-sources/federal/rosstat-external-trade), [Show Data](/data-sources/federal/rosstat-showdata-finder) и [BI-портала](/data-sources/federal/rosstat-bi-portal) перенесены из `statistics/` (публичные `slug` без изменений).
+- Источники данных: [Вестник Банка России](/data-sources/federal/cbr-vestnik) — официальное издание ЦБ (оглавление по годам, поиск по архиву с 1999 года): https://cbr.ru/about_br/publ/vestnik/year/2026; перекрёстные ссылки в [сайте ЦБ](/information-systems/federal/cbrsite), [статистике ЦБ](/data-sources/federal/cbr-statistics) и [организации «Банк России»](/organizations/cbr).
+- Источники данных: [годовой отчёт Банка России](/data-sources/federal/cbr-annual-report) — PDF отчётов и краткие тексты на https://cbr.ru/about_br/publ/god/; перекрёстные ссылки в [статистике ЦБ](/data-sources/federal/cbr-statistics), [сайте ЦБ](/information-systems/federal/cbrsite) и [организации «Банк России»](/organizations/cbr).
+- Источники данных: [мониторинг отраслевых финансовых потоков ЦБ](/data-sources/federal/cbr-finflows) — PDF-выпуски и Excel `stat_finflows.xlsx` на https://cbr.ru/analytics/finflows/.
+- Источники данных: подпапка `wiki/data-sources/federal/cbr/` для витрин **Банка России**; карточка [статистики ЦБ](/data-sources/federal/cbr-statistics) перенесена из `statistics/` (публичный `slug` без изменений).
+- Источники данных: [аналитический портал ФНС (analytic.nalog.gov.ru)](/data-sources/federal/analytic-nalog-gov-ru) — ZIP-выгрузки налоговых паспортов субъектов РФ (`/api/TaxPassports/ExportAll`) и витрина интерактивных графиков; уточнена карточка [ИС аналитического портала](/information-systems/federal/analytic-nalog).
 - Источники данных: каталог машиночитаемых наборов ГИИС «Электронный бюджет» — индексная страница [наборы данных budget.gov.ru](/data-sources/federal/budget-gov-ru-datasets) и покарточное описание наборов портала открытых данных (идентификаторы `7710168360-*`, `7710568760-*`) в подпапке `wiki/data-sources/federal/budget/ebudget/`; публичные URL по-прежнему вида `/data-sources/federal/<slug>`.
 - Источники данных: налоговый контур ФНС — обзорные витрины [ГИР БО (bo.nalog.gov.ru)](/data-sources/federal/bo-nalog-gov-ru), [pb.nalog.ru](/data-sources/federal/pb-nalog-ru), [реестр МСП](/data-sources/federal/rmsp-nalog-ru) и серия карточек наборов портала открытых данных ФНС (префикс идентификатора `7707329152-*`) в `wiki/data-sources/federal/nalog/`.
 - Источники данных: наборы Казначейства России сгруппированы в подпапку `wiki/data-sources/federal/budget/roskazna/` (канонические `slug` в frontmatter сохранены).

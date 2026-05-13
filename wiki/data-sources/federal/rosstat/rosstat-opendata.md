@@ -32,7 +32,16 @@ related_pages:
   - /information-systems/federal/emiss
   - /organizations/rosstat
   - /data-sources/federal/rosstat-showdata-finder
+  - /data-sources/federal/rosstat-finances-of-russia
+  - /data-sources/federal/rosstat-national-accounts-of-russia
+  - /data-sources/federal/rosstat-russia-in-figures
   - /data-sources/federal/rosstat-bi-portal
+  - /data-sources/federal/rosstat-procurement-statistics-archive
+  - /data-sources/federal/rosstat-gov-programs-implementation-statistics
+  - /data-sources/federal/rosstat-gosfin-consolidated-budget-rf
+  - /data-sources/federal/rosstat-gosfin-tax-payments-consolidated-budget
+  - /data-sources/federal/rosstat-gosfin-extrabudgetary-funds-execution
+  - /data-sources/federal/rosstat-gosfin-regional-social-support-expenditures
   - /data-sources/federal/cbr-statistics
   - /data-sources/federal/nalog-statistics
   - /data-sources/federal/budget-gov-ru-datasets
@@ -53,11 +62,11 @@ related_pages:
 
 Карточка описывает **публичный контур данных Росстата** через два основных входа: работа с **каталогом показателей** и выгрузками на **`fedstat.ru`** (логика **ЕМИСС**) и **каталог наборов открытых данных** на **`rosstat.gov.ru/opendata/`**. Отдельно Росстат публикует веб-приложение **Show Data** с поиском показателей на **`showdata.rosstat.gov.ru`** — см. **[отдельную карточку](/data-sources/federal/rosstat-showdata-finder)**. Публичные **дашборды в Contour BI** на **`bi.rosstat.gov.ru`** вынесены в **[карточку BI-портала](/data-sources/federal/rosstat-bi-portal)**. Наборы на витринах могут **пересекаться или дополнять** друг друга — конкретный файл ищите по **паспорту** и теме.
 
-Отдельно на сайте Росстата опубликован тематический раздел **[Финансы](https://rosstat.gov.ru/statistics/finance)** (`/statistics/finance`): HTML-витрина с карточками на **файлы в `/storage/mediabank/`** (XLS, XLSX, PDF) и на соответствующие ветки **ЕМИСС** (раздел **1.32.x** на `fedstat.ru`). Там же — подразделы «Методология», публикации и архив; для госфинансов в первую очередь важны блоки **«Государственные финансы»**, **расходы консолидированных бюджетов субъектов и МО на социальную поддержку**, а также смежные **«Финансы организаций»**, **СОНКО** и **«Финансовый рынок»**.
+Отдельно на сайте Росстата опубликован тематический раздел **[Финансы](https://rosstat.gov.ru/statistics/finance)** (`/statistics/finance`): HTML-витрина с карточками на **файлы в `/storage/mediabank/`** (XLS, XLSX, PDF) и на соответствующие ветки **ЕМИСС** (раздел **1.32.x** на `fedstat.ru`). Там же — подразделы «Методология», публикации и архив; для госфинансов в первую очередь важны блоки **«Государственные финансы»**, **расходы консолидированных бюджетов субъектов и МО на социальную поддержку**, а также смежные **«Финансы организаций»**, **СОНКО** и **«Финансовый рынок»**. Ключевые mediabank-наборы блока «Государственные финансы» и соцподдержки вынесены в отдельные карточки: **[консолидированный бюджет РФ (XLSX)](/data-sources/federal/rosstat-gosfin-consolidated-budget-rf)**, **[налоги в консолидированный бюджет (XLS)](/data-sources/federal/rosstat-gosfin-tax-payments-consolidated-budget)**, **[исполнение бюджетов ГВФ (XLS)](/data-sources/federal/rosstat-gosfin-extrabudgetary-funds-execution)**, **[расходы на соцподдержку по субъектам (XLSX)](/data-sources/federal/rosstat-gosfin-regional-social-support-expenditures)**.
 
 Тематический раздел **[«Внешняя торговля»](https://rosstat.gov.ru/statistics/vneshnyaya_torgovlya)** (`/statistics/vneshnyaya_torgovlya`) вынесен в отдельную карточку: **[Росстат: статистика внешней торговли](/data-sources/federal/rosstat-external-trade)** — граница с **[таможенной статистикой ФТС](/data-sources/federal/fts-customs-statistics)** и типовые точки доступа описаны там.
 
-Страница **[«Государство»](https://rosstat.gov.ru/folder/11191)** (`/folder/11191`) — **другая** HTML-витрина: древовидный каталог публикаций и методических материалов по теме «государство и управление». Для **госфинансов** там полезны, в частности: **краткие бюллетени** вроде «Исполнение бюджета…», «Налоговая статистика…» (файлы DOC и ссылки вида `/bgd/regl/...` или `/storage/mediabank/…` — состав и периодичность меняются); блок **«Финансы России»** (в т.ч. вход через документы вроде `/folder/210/document/…`); **показатели реализации государственных и федеральных целевых программ** с пояснением, что после отмены форм **1-ГП** детальная информация по программам ведётся на **[programs.gov.ru](https://programs.gov.ru/)** (см. **[открытые данные и архив программ](/data-sources/federal/fcp)**); **размещение заказов по 44-ФЗ** (сводные публикации Росстата — не замена **[массовых данных ЕИС](/data-sources/federal/procurement)**); **эффективность управления государственным имуществом**; методические материалы по **СОНКО** со **ссылкой на ветку ЕМИСС** «Финансы… — СОНКО». Это **пресс- и методический контур** сайта, а не единый каталог машиночитаемых наборов в духе `/opendata/`.
+Страница **[«Государство»](https://rosstat.gov.ru/folder/11191)** (`/folder/11191`) — **другая** HTML-витрина: древовидный каталог публикаций и методических материалов по теме «государство и управление». Для **госфинансов** там полезны, в частности: **краткие бюллетени** вроде «Исполнение бюджета…», «Налоговая статистика…» (файлы DOC и ссылки вида `/bgd/regl/...` или `/storage/mediabank/…` — состав и периодичность меняются); статистический сборник **[«Финансы России»](/data-sources/federal/rosstat-finances-of-russia)** (каталог `/folder/210/`, PDF/архивы/Excel по выпускам); **показатели реализации государственных и федеральных целевых программ (подпрограмм)** — **[отдельная карточка](/data-sources/federal/rosstat-gov-programs-implementation-statistics)** (архивы Excel по годам; текущий контур — **[programs.gov.ru](/data-sources/federal/fcp)**); **закупочная деятельность** (архивы и PDF в каталоге Росстата — не замена **[ЕИС](/data-sources/federal/procurement)**) — **[карточка архива](/data-sources/federal/rosstat-procurement-statistics-archive)**; **эффективность управления государственным имуществом**; методические материалы по **СОНКО** со **ссылкой на ветку ЕМИСС** «Финансы… — СОНКО». Это **пресс- и методический контур** сайта, а не единый каталог машиночитаемых наборов в духе `/opendata/`.
 
 Сюда **не** входят: операционное **исполнение бюджета** и формы **[Казначейства](/data-sources/federal/roskazna-reports)**; **налоговая статистика ФНС** по формам НК РФ — **[отдельный источник](/data-sources/federal/nalog-statistics)**; внутренние кабинеты статистического наблюдения.
 
@@ -76,10 +85,13 @@ related_pages:
 | Публичный портал ЕМИСС | https://fedstat.ru/ | HTML; подбор рядов и таблиц |
 | Открытые данные (fedstat.ru) | https://fedstat.ru/opendata/ | XLS, CSV и др.; часть наборов — SDMX |
 | Открытые данные (сайт Росстата) | https://rosstat.gov.ru/opendata/ | CSV, XLS и др. по паспортам наборов |
-| Тематическая витрина «Государство» | https://rosstat.gov.ru/folder/11191 | HTML; бюллетени по бюджету и налогам, программы, 44-ФЗ, СОНКО, ГИМ и др. (см. описание) |
+| Тематическая витрина «Государство» | https://rosstat.gov.ru/folder/11191 | HTML; бюллетени по бюджету и налогам, **[закупки (архив)](/data-sources/federal/rosstat-procurement-statistics-archive)**, **[госпрограммы (архив)](/data-sources/federal/rosstat-gov-programs-implementation-statistics)**, СОНКО, ГИМ и др. (см. описание) |
 | Тематический раздел «Финансы» | https://rosstat.gov.ru/statistics/finance | HTML; ссылки на файлы в mediabank и на ЕМИСС |
 | Тематический раздел «Внешняя торговля» | https://rosstat.gov.ru/statistics/vneshnyaya_torgovlya | HTML; см. **[отдельную карточку](/data-sources/federal/rosstat-external-trade)** |
-| Государственные финансы (пример файла: консолидированный бюджет РФ) | https://rosstat.gov.ru/storage/mediabank/gos_fin_byudget.xlsx | XLSX (актуальное имя и состав строк — по странице раздела) |
+| Консолидированный бюджет РФ (mediabank) | https://rosstat.gov.ru/storage/mediabank/gos_fin_byudget.xlsx | XLSX — см. **[карточку](/data-sources/federal/rosstat-gosfin-consolidated-budget-rf)** |
+| Налоги в консолидированный бюджет (mediabank, пример имени) | https://rosstat.gov.ru/storage/mediabank/gos_fin_nalog_2023.xls | XLS — см. **[карточку](/data-sources/federal/rosstat-gosfin-tax-payments-consolidated-budget)** |
+| Исполнение бюджетов ГВФ (mediabank) | https://rosstat.gov.ru/storage/mediabank/gos_fin_fondy.xls | XLS — см. **[карточку](/data-sources/federal/rosstat-gosfin-extrabudgetary-funds-execution)** |
+| Соцподдержка субъектов и МО (mediabank, пример) | https://rosstat.gov.ru/storage/mediabank/socpod_2021.xlsx | XLSX — см. **[карточку](/data-sources/federal/rosstat-gosfin-regional-social-support-expenditures)** |
 | Классификаторы (в т.ч. ОКТМО) | https://rosstat.gov.ru/classification | HTML, RAR, DOC/DOCX и др. |
 | Набор ОКТМО (пример паспорта) | https://rosstat.gov.ru/opendata/7708234640-oktmo | По паспорту набора |
 
@@ -87,9 +99,9 @@ related_pages:
 
 - **Строка набора** — как правило **наблюдение временного ряда** или **таблица** с кодом территории, периодом, показателем и значением; единицы и методика — в паспорте или на странице показателя.
 - **Типичные блоки** — ВРП и национальные счета, демография, рынок труда, цены, **региональные срезы** по субъектам РФ, отраслевая и финансовая статистика в классификации Росстата.
-- **Страница `/folder/11191` («Государство»)** — **точечные** публикации и методички: срезы по **исполнению бюджета** и **налоговой статистике** (как правило краткие DOC/PDF за отдельные периоды), **«Финансы России»**, блоки по **госпрограммам** (с отсылкой к **programs.gov.ru**), **44-ФЗ** и **СОНКО** (часто с переходом в **ЕМИСС**). Удобно как **навигация и архив пресс-формата**; для регулярных рядов сначала смотрите **`/statistics/finance`**, **`fedstat.ru`** и **[каталог ОД](https://rosstat.gov.ru/opendata/)**.
-- **Раздел `/statistics/finance`, блок «Государственные финансы»** — сводные таблицы по **консолидированному бюджету РФ**, **поступлениям налогов, сборов и иных обязательных платежей и задолженности** (по методике статистического наблюдения), **исполнению бюджетов государственных внебюджетных фондов**; имена файлов на mediabank (например `gos_fin_*.xls(x)`) и даты обновления смотрите на странице раздела. Это **агрегированная официальная статистика**, а не **пооперационное исполнение** по лицевым счетам и не дубль **[ГИИС «Электронный бюджет»](/data-sources/federal/budget-gov-ru-datasets)** или **[Казначейства](/data-sources/federal/roskazna-reports)** без явной сверки методик.
-- **Социальная поддержка** — в том же разделе «Финансы» выкладываются файлы по **расходам консолидированных бюджетов субъектов РФ и МО** на меры социальной поддержки (годовые выгрузки; см. карточки на странице).
+- **Страница `/folder/11191` («Государство»)** — **точечные** публикации и методички: срезы по **исполнению бюджета** и **налоговой статистике** (как правило краткие DOC/PDF за отдельные периоды), сборники **[«Финансы России»](/data-sources/federal/rosstat-finances-of-russia)** и **[«Россия в цифрах»](/data-sources/federal/rosstat-russia-in-figures)** (ветка `/folder/210/`), блоки по **госпрограммам** (**[архив Росстата](/data-sources/federal/rosstat-gov-programs-implementation-statistics)** и **[programs.gov.ru](/data-sources/federal/fcp)**), **закупкам** (**[архив Росстата](/data-sources/federal/rosstat-procurement-statistics-archive)** и **[ЕИС](/data-sources/federal/procurement)**) и **СОНКО** (часто с переходом в **ЕМИСС**). Удобно как **навигация и архив пресс-формата**; для регулярных рядов сначала смотрите **`/statistics/finance`**, **`fedstat.ru`** и **[каталог ОД](https://rosstat.gov.ru/opendata/)**.
+- **Раздел `/statistics/finance`, блок «Государственные финансы»** — сводные таблицы по **консолидированному бюджету РФ**, **поступлениям налогов и обязательных платежей** (по методике статистического наблюдения), **исполнению бюджетов государственных внебюджетных фондов**; подробные разборы файлов mediabank — в карточках **[консолидированный бюджет РФ](/data-sources/federal/rosstat-gosfin-consolidated-budget-rf)**, **[налоги в консолидированный бюджет](/data-sources/federal/rosstat-gosfin-tax-payments-consolidated-budget)**, **[бюджеты ГВФ](/data-sources/federal/rosstat-gosfin-extrabudgetary-funds-execution)**. Это **агрегированная официальная статистика**, а не **пооперационное исполнение** по лицевым счетам и не дубль **[ГИИС «Электронный бюджет»](/data-sources/federal/budget-gov-ru-datasets)** или **[Казначейства](/data-sources/federal/roskazna-reports)** без явной сверки методик.
+- **Социальная поддержка** — в том же разделе «Финансы» выкладываются файлы `socpod_<год>.*` по **расходам консолидированных бюджетов субъектов РФ и МО** на меры социальной поддержки — см. **[отдельную карточку](/data-sources/federal/rosstat-gosfin-regional-social-support-expenditures)**.
 - **Связка с бюджетом** — через **код региона**, **ОКТМО** и согласованный **календарь периодов**; прямого поля «КБК» в статистике Росстата обычно **нет**.
 
 **Пробелы:** методики и названия показателей **не совпадают** с бюджетной отчётностью; перед джойном с **[ГИИС](/data-sources/federal/budget-gov-ru-datasets)** проверяйте определение показателя и базу.
@@ -113,6 +125,9 @@ curl -sSk -o /dev/null -w "%{http_code}\n" "https://rosstat.gov.ru/opendata/"
 curl -sSk -o /dev/null -w "%{http_code}\n" "https://rosstat.gov.ru/statistics/finance"
 curl -sSk -o /dev/null -w "%{http_code}\n" "https://rosstat.gov.ru/folder/11191"
 curl -sSk -o /dev/null -w "%{http_code}\n" "https://rosstat.gov.ru/statistics/vneshnyaya_torgovlya"
+curl -sSk -o /dev/null -w "%{http_code}\n" "https://rosstat.gov.ru/folder/210/document/13237"
+curl -sSk -o /dev/null -w "%{http_code}\n" "https://rosstat.gov.ru/folder/210/document/13221"
+curl -sSk -o /dev/null -w "%{http_code}\n" "https://rosstat.gov.ru/folder/210/document/12993"
 curl -sSk -o /dev/null -w "%{http_code}\n" "https://rosstat.gov.ru/storage/mediabank/gos_fin_byudget.xlsx"
 ```
 
@@ -120,10 +135,15 @@ curl -sSk -o /dev/null -w "%{http_code}\n" "https://rosstat.gov.ru/storage/media
 
 ## Связанные страницы wiki
 
+- **[Росстат: сборник «Финансы России»](/data-sources/federal/rosstat-finances-of-russia)** — PDF/архивы/Excel по выпускам серии; для госфинансов — отдельный контур от регулярных файлов `/statistics/finance`.
+- **[Росстат: сборник «Национальные счета России»](/data-sources/federal/rosstat-national-accounts-of-russia)** — официальные таблицы **СНС** по выпускам (PDF/архивы/Excel); макро- и секторальный контекст для **[бюджетных рядов](/data-sources/federal/budget-gov-ru-datasets)** без замены казначейских регистров.
+- **[Росстат: сборник «Россия в цифрах»](/data-sources/federal/rosstat-russia-in-figures)** — краткий годовой обзор по стране: много **DOCX/XLSX** по разделам; для пайплайнов нужен **парсинг** или ручная нормализация.
 - **[Росстат: Show Data — finder](/data-sources/federal/rosstat-showdata-finder)** — поиск показателей на `showdata.rosstat.gov.ru`; смежный вход к тем же классам официальной статистики, ориентированный на интерактивный UI.
 - **[Росстат: публичный BI-портал (Contour BI)](/data-sources/federal/rosstat-bi-portal)** — дашборды на `bi.rosstat.gov.ru`; рядом с Show Data по роли **визуальной** витрины без стабильного публичного API.
 - **[ЕМИСС](/information-systems/federal/emiss)** — назначение системы, отличие `fedstat.ru` от `rosstat.gov.ru/opendata`, типовые вопросы.
 - **[Росстат: статистика внешней торговли](/data-sources/federal/rosstat-external-trade)** — витрина `/statistics/vneshnyaya_torgovlya`; методика и точки доступа отдельно от **[ФТС](/data-sources/federal/fts-customs-statistics)**.
+- **[Росстат: закупки (архив в каталоге «Государство»)](/data-sources/federal/rosstat-procurement-statistics-archive)** — ZIP/PDF/Excel из `/folder/11191`; не замена **[ЕИС](/data-sources/federal/procurement)**.
+- **[Росстат: госпрограммы и ФЦП (архив в каталоге «Государство»)](/data-sources/federal/rosstat-gov-programs-implementation-statistics)** — годовые архивы с Excel; текущие паспорта — **[обзор по programs.gov.ru](/data-sources/federal/fcp)**.
 - **[Наборы ГИИС «Электронный бюджет»](/data-sources/federal/budget-gov-ru-datasets)** — машиночитаемые бюджетные ряды; ряд «Государственные финансы» на `rosstat.gov.ru` даёт **иную методику и агрегацию**, их нельзя смешивать без проверки определений.
 - **[Отчёты и формы Федерального казначейства](/data-sources/federal/roskazna-reports)** — операционное исполнение бюджета; таблицы Росстата по консолидированному бюджету — **статистический свод**, не замена казначейских регистров.
 - **[Налоговая статистика ФНС](/data-sources/federal/nalog-statistics)** — администрирование налогов; типичная сверка с макро- и региональными рядами Росстата.
@@ -151,6 +171,10 @@ curl -sSk -o /dev/null -w "%{http_code}\n" "https://rosstat.gov.ru/storage/media
 **В:** Чем страница **[«Государство»](https://rosstat.gov.ru/folder/11191)** полезна для госфинансов по сравнению с `/statistics/finance`?
 
 **О:** Это **отдельная витрина** с древом тем (кадры госслужбы, программы, закупки по 44-ФЗ, СОНКО, ГИМ и т.д.). По **деньгам** там чаще встречаются **краткие бюллетени** и методические тексты, а не полный набор таблиц как в **«Финансы»** и **ЕМИСС**; для машиночитаемых рядов начинайте с **`/statistics/finance`**, **`fedstat.ru`** и **[открытых данных](https://rosstat.gov.ru/opendata/)**, а `/folder/11191` используйте для **контекста, архива и перекрёстных ссылок** (в т.ч. на **programs.gov.ru** и ветки **ЕМИСС**).
+
+**В:** Чем **сборник «Финансы России»** отличается от файлов в разделе **«Финансы»** (`/statistics/finance`)?
+
+**О:** **Сборник** — отдельная **серия изданий** с PDF, архивами и (при наличии) Excel по **выпускам**; см. **[отдельную карточку](/data-sources/federal/rosstat-finances-of-russia)**. Краткий обзорный сборник **[«Россия в цифрах»](/data-sources/federal/rosstat-russia-in-figures)** — **другая серия** в той же ветке каталога `/folder/210/`. Раздел **`/statistics/finance`** — **регулярная витрина** со ссылками на mediabank и ЕМИСС; наборы и форматы **не обязаны** совпадать с комплектом конкретного года сборника.
 
 **В:** Можно ли восстановить исполнение бюджета муниципалитата только из Росстата?
 

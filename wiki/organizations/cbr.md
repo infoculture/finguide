@@ -7,7 +7,7 @@ tags:
   - monetary
   - statistics
 source_url: 'https://cbr.ru/'
-last_updated: 2026-05-10T00:00:00.000Z
+last_updated: 2026-05-13T20:00:00.000Z
 org_kind: central_bank
 budget_roles:
   - monetary_policy
@@ -58,6 +58,9 @@ entity_type: organization
 **Публикует в открытом доступе**
 
 - Денежные агрегаты, процентные ставки, банковская статистика, **платёжный баланс**, курсы валют, файлы и базы в разделе «Статистика» и «База данных».
+- Аналитические материалы по **платёжной системе**, в т.ч. [мониторинг отраслевых финансовых потоков](https://cbr.ru/analytics/finflows/) (PDF + XLSX; см. карточку [источника](/data-sources/federal/cbr-finflows)).
+- [Годовые отчёты Банка России](https://cbr.ru/about_br/publ/god/) в **PDF** и краткие текстовые сводки по годам (см. карточку [источника](/data-sources/federal/cbr-annual-report)).
+- [Вестник Банка России](https://cbr.ru/about_br/publ/vestnik/year/2026) — официальное издание: выпуски с нормативными и разъяснительными материалами регулятора; см. карточку [источника](/data-sources/federal/cbr-vestnik).
 - Открытые данные и машиночитаемые сервисы (включая API для части показателей); практические входы собраны в [Статистика Банка России](/data-sources/federal/cbr-statistics) и [API Банка России](/howto/access/cbr-api).
 
 ## Витрины и входы
@@ -66,6 +69,9 @@ entity_type: organization
 - [cbr.ru/hd_base/](https://cbr.ru/hd_base/) — база данных показателей (выгрузки в табличных и XML-форматах по доступным сериям).
 - [Сервис получения данных (статистика, API)](https://cbr.ru/statistics/data-service/) — временные ряды по перечню показателей; URL **`/opendata/`** на `cbr.ru` более не ведётся (404).
 - [Статические данные и архивы отчётности](https://cbr.ru/StaticHtml/File/) — файловые разделы по разделам статистики (перечень обновляется).
+- [cbr.ru/analytics/finflows/](https://cbr.ru/analytics/finflows/) — мониторинг **отраслевых финансовых потоков** (PDF-выпуски и Excel `stat_finflows.xlsx`); подробнее в [карточке источника](/data-sources/federal/cbr-finflows).
+- [cbr.ru/about_br/publ/god/](https://cbr.ru/about_br/publ/god/) — **годовые отчёты** (PDF) и блок «коротко о главном»; подробнее в [карточке источника](/data-sources/federal/cbr-annual-report).
+- [cbr.ru/about_br/publ/vestnik/](https://cbr.ru/about_br/publ/vestnik/year/2026) — **Вестник Банка России** (оглавление по годам, PDF выпусков); подробнее в [карточке источника](/data-sources/federal/cbr-vestnik).
 - [Руководство: API Банка России](/howto/access/cbr-api) — курсы валют, SOAP/REST-сервисы статистики, оговорки по форматам и лимитам.
 
 Не дублируйте без нужды десятки «голых» URL: для пайплайнов начинайте с **идентификаторов серий** в `hd_base`, перечня показателей в **сервисе получения данных** и страницы источника [Статистика Банка России](/data-sources/federal/cbr-statistics).
@@ -78,6 +84,8 @@ entity_type: organization
 **Источники данных (wiki):**
 
 - [Статистика Банка России](/data-sources/federal/cbr-statistics) — базы показателей, API курсов, типовые форматы и ограничения по использованию.
+- [Мониторинг отраслевых финансовых потоков](/data-sources/federal/cbr-finflows) — PDF-выпуски и XLSX по **отраслевым рублёвым платежам** через ПС Банка России.
+- [Годовой отчёт Банка России](/data-sources/federal/cbr-annual-report) — PDF годовых отчётов и краткие сводки на `cbr.ru/about_br/publ/god/`.
 - [Открытые данные Минфина России](/data-sources/federal/minfin-opendata) — для совместного анализа **фискальных** открытых рядов с денежно-кредитными и рыночными показателями ЦБ (разные методики и предмет учёта).
 
 ## Связанные организации

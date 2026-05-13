@@ -34,6 +34,7 @@ related_pages:
   - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
   - /data-sources/federal/minfin-fedbud-execute
   - /data-sources/federal/rosstat-opendata
+  - /data-sources/federal/rosstat-finances-of-russia
   - /glossary/treasury-execution
 ---
 

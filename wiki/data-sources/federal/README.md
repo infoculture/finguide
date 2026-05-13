@@ -5,7 +5,7 @@ sidebar_position: 0
 tags:
   - data-source
   - federal
-last_updated: 2026-05-13T12:00:00.000Z
+last_updated: 2026-05-13T23:59:00.000Z
 content_type: reference
 description: >-
   Открытые данные федеральных органов и операторов ГИС: каталог data.gov.ru,
@@ -24,7 +24,7 @@ related_pages:
 
 Открытые данные федеральных органов власти и операторов государственных информационных систем.
 
-Карточки сгруппированы по подпапкам в репозитории (`catalog/`, `budget/`, `zakupki/`, `programs-orgs/`, `statistics/`, `nalog/`, `legacy/`); публичные URL вида `/data-sources/federal/<slug>` сохранены через поле `slug` в frontmatter.
+Карточки сгруппированы по подпапкам в репозитории (`catalog/`, `budget/`, `zakupki/`, `programs-orgs/`, `statistics/`, `rosstat/`, `cbr/`, `nalog/`, `legacy/`); публичные URL вида `/data-sources/federal/<slug>` сохранены через поле `slug` в frontmatter.
 
 ## Для кого
 
@@ -65,6 +65,7 @@ related_pages:
 - [Краткая информация об исполнении консолидированного бюджета РФ и ГВФ (conbud/execute)](./budget/minfin/minfin-conbud-execute.md)
 - [Краткая информация об исполнении консолидированных бюджетов субъектов (subbud/execute)](./budget/minfin/minfin-subbud-execute.md)
 - [Краткая информация об исполнении бюджетов государственных внебюджетных фондов (outbud/execute)](./budget/minfin/minfin-outbud-execute.md)
+- [Данные по исполнению бюджетов субъектов РФ и местных бюджетов (perfomance/regions/operational, PDF)](./budget/minfin/minfin-regions-operational.md)
 - [Объём и структура госдолга субъектов РФ и долга муниципальных образований (gov_debt/debt_constituent_entities)](./budget/minfin/minfin-debt-constituent-entities.md)
 - [Отчёты Казначейства (обзор раздела «Исполнение бюджетов»)](./budget/roskazna/roskazna-reports.md)
 - [Казначейство: иллюстрированное издание об исполнении бюджетов](./budget/roskazna/roskazna-illustrated-budget-publication.md)
@@ -107,23 +108,39 @@ related_pages:
 
 ## Налоговая служба (открытые данные ФНС)
 
-Машиночитаемые **наборы открытых данных** с паспортами на сайте ФНС ([витрина «Открытые данные»](https://www.nalog.gov.ru/rn77/opendata/)): отдельная карточка на каждый идентификатор `7707329152-*` в каталоге [`nalog/`](./nalog/). Это **не** то же самое, что сводные таблицы **налоговой статистики** и **госрегистрации** ниже: там другие URL, прежде всего HTML/XLSX-витрины разделов «Статистика и аналитика».
+Машиночитаемые **наборы открытых данных** с паспортами на сайте ФНС ([витрина «Открытые данные»](https://www.nalog.gov.ru/rn77/opendata/)): отдельная карточка на каждый идентификатор `7707329152-*` в подкаталоге репозитория `nalog/` (рядом с этим README). Это **не** то же самое, что сводные таблицы **налоговой статистики** и **госрегистрации** ниже: там другие URL, прежде всего HTML/XLSX-витрины разделов «Статистика и аналитика».
 
 - [ГИР БО — бухгалтерская (финансовая) отчётность организаций (bo.nalog.gov.ru)](./nalog/bo-nalog-gov-ru.md) — публичный поиск и просмотр отчётности юрлиц, представленной в ФНС; не путать с паспортами opendata и с отчётностью учреждений на bus.gov.ru.
 - [Единый реестр субъектов МСП — публичный портал (rmsp.nalog.ru)](./nalog/rmsp-nalog-ru.md) — поиск, статистика и Excel по реестру МСП; машиночитаемые выгрузки — в наборе [7707329152-rsmp](./nalog/7707329152-rsmp.md).
 - [Сервис «Прозрачный бизнес» (pb.nalog.ru)](./nalog/pb-nalog-ru.md) — сводные карточки организаций и ИП, отраслевые ориентиры и калькулятор налоговой нагрузки; не путать с каталогом opendata и с ГИР БО по полноте форм отчётности.
 
-## Налоговая, таможенная и банковская статистика
+## Банк России (ЦБ РФ)
 
+- [Статистика Банка России](./cbr/cbr-statistics.md)
+- [Статистический бюллетень Банка России (PDF, /statistics/bbs)](./cbr/cbr-bbs.md)
+- [Мониторинг отраслевых финансовых потоков](./cbr/cbr-finflows.md)
+- [Годовой отчёт Банка России](./cbr/cbr-annual-report.md)
+- [Вестник Банка России](./cbr/cbr-vestnik.md)
+
+## Налоговая, таможенная и смежная статистика
+
+- [Аналитический портал ФНС (analytic.nalog.gov.ru): ZIP паспортов регионов и дашборды](./statistics/analytic-nalog-gov-ru.md)
 - [Налоговая статистика ФНС](./statistics/nalog-statistics.md)
 - [Статистика государственной регистрации ЮЛ и ИП (ФНС)](./statistics/nalog-regstats.md)
 - [Таможенная статистика и ОД ФТС](./statistics/fts-customs-statistics.md)
-- [Росстат: статистика внешней торговли](./statistics/rosstat-external-trade.md)
-- [Официальная статистика Росстата (ЕМИСС, открытые данные)](./statistics/rosstat-opendata.md)
-- [Росстат: Show Data — finder (showdata.rosstat.gov.ru)](./statistics/rosstat-showdata-finder.md)
-- [Росстат: публичный BI-портал (Contour BI, bi.rosstat.gov.ru)](./statistics/rosstat-bi-portal.md)
-- [Статистика Банка России](./statistics/cbr-statistics.md)
 - [СФР: поступление и расходование средств (согласованный перечень показателей)](./statistics/sfr-receipt-expenditure.md)
+
+## Росстат (официальная статистика)
+
+- [Официальная статистика Росстата (ЕМИСС, открытые данные)](./rosstat/rosstat-opendata.md)
+- [Росстат: статистический сборник «Россия в цифрах»](./rosstat/rosstat-russia-in-figures.md)
+- [Росстат: статистический сборник «Финансы России»](./rosstat/rosstat-finances-of-russia.md)
+- [Росстат: статистический сборник «Национальные счета России»](./rosstat/rosstat-national-accounts-of-russia.md)
+- [Росстат: статистика внешней торговли](./rosstat/rosstat-external-trade.md)
+- [Росстат: Show Data — finder (showdata.rosstat.gov.ru)](./rosstat/rosstat-showdata-finder.md)
+- [Росстат: публичный BI-портал (Contour BI, bi.rosstat.gov.ru)](./rosstat/rosstat-bi-portal.md)
+- [Росстат: показатели закупочной деятельности (архив, folder/11191)](./rosstat/rosstat-procurement-statistics-archive.md)
+- [Росстат: показатели реализации госпрограмм и ФЦП (архив, folder/11191)](./rosstat/rosstat-gov-programs-implementation-statistics.md)
 
 ## Сводные данные открытых данных (legacy)
 
