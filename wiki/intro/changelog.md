@@ -7,13 +7,27 @@ description: >-
 tags:
   - intro
   - changelog
-last_updated: 2026-05-13T00:00:00.000Z
+last_updated: 2026-05-13T12:00:00.000Z
 content_type: reference
 ---
 
 # История изменений
 
 История структурных и содержательных обновлений базы знаний.
+
+## 2026-05-13
+
+- Источники данных: каталог машиночитаемых наборов ГИИС «Электронный бюджет» — индексная страница [наборы данных budget.gov.ru](/data-sources/federal/budget-gov-ru-datasets) и покарточное описание наборов портала открытых данных (идентификаторы `7710168360-*`, `7710568760-*`) в подпапке `wiki/data-sources/federal/budget/ebudget/`; публичные URL по-прежнему вида `/data-sources/federal/<slug>`.
+- Источники данных: налоговый контур ФНС — обзорные витрины [ГИР БО (bo.nalog.gov.ru)](/data-sources/federal/bo-nalog-gov-ru), [pb.nalog.ru](/data-sources/federal/pb-nalog-ru), [реестр МСП](/data-sources/federal/rmsp-nalog-ru) и серия карточек наборов портала открытых данных ФНС (префикс идентификатора `7707329152-*`) в `wiki/data-sources/federal/nalog/`.
+- Источники данных: наборы Казначейства России сгруппированы в подпапку `wiki/data-sources/federal/budget/roskazna/` (канонические `slug` в frontmatter сохранены).
+- Источники данных: закупки — [единый агрегатор торговли (agregatoreat.ru)](/data-sources/federal/agregatoreat-ru), [сводная статистика ЕИС на главной портала](/data-sources/federal/zakupki-eis-statistics); уточнены перекрёстные ссылки в карточках [ЕИС как источника](/data-sources/federal/procurement) и смежных страницах.
+- Источники данных: статистика — [BI-портал Росстата](/data-sources/federal/rosstat-bi-portal), [поиск показателей showdata](/data-sources/federal/rosstat-showdata-finder), [поступления и расходы СФР](/data-sources/federal/sfr-receipt-expenditure); правки в карточках [статистики ФНС по налогам](/data-sources/federal/nalog-statistics) и [региональной налоговой статистики](/data-sources/federal/nalog-regstats), [открытых данных Росстата](/data-sources/federal/rosstat-opendata).
+- Источники данных: программы и организации — [реестр соглашений о защите и поощрении капиталовложений (СЗПК / СпИК)](/data-sources/federal/szpk-registry); обновления в карточках грантов и субсидий (в т.ч. [ГИС Наука НИОКР](/data-sources/federal/gisnauka-niokr-rid-budget)).
+- How-to, доступ: новые страницы [Clearspending](/howto/access/clearspending) и [ГИС Наука](/howto/access/gisnauka); расширены инструкции по [API «Электронного бюджета»](/howto/access/budget-gov-api), [bus.gov.ru](/howto/access/bus-opendata), [API Банка России](/howto/access/cbr-api), [API Минфина](/howto/access/minfin-api), [региональным порталам](/howto/access/regional-portals) и [отчётам Росказны](/howto/access/roskazna-reports); удалена устаревшая страница про FTP закупок (`zakupki-ftp`).
+- How-to, анализ и автоматизация: обновлены [расшифровка КБК в выгрузках](/howto/analysis/kbc-decoding) и [pandas для КБК](/howto/automation/pandas-kbc).
+- Глоссарий: уточнения в карточке [КБК](/glossary/kbk); правки карточек ИС ([ФНС](/information-systems/federal/fnssite), [ГИС Наука](/information-systems/federal/gisnauka), [ЕИС](/information-systems/federal/zakupki)).
+- Для сопровождения корпуса: скрипты генерации карточек наборов `npm run generate:budget-gov-opendata-cards`, `npm run generate:fns-opendata-cards`, `npm run refresh:budget-gov-opendata-sidebar-labels`; снимок страницы каталога ФНС в `scripts/data/fns-opendata-page-snapshot.md` для сверки списка наборов.
+- Экспорт для RAG и графа ссылок: обновлены `exports/knowledge-index.jsonl` и `exports/knowledge-graph.json` (`npm run export:knowledge`).
 
 ## 2026-05-12
 
