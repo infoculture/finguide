@@ -5,6 +5,7 @@
  * и относительно уже существующих карточек regional (поле source_url). После записи запустите:
  *   node scripts/bootstrap-regional-wiki.mjs refresh-overviews
  *   npm run export:knowledge
+ * При необходимости пересчитайте обрезку сайдбара: `npm run fix:regional-fin-sidebar-labels`
  */
 import crypto from 'crypto';
 import fs from 'fs';
@@ -22,6 +23,20 @@ const SUBJECTS = JSON.parse(
 
 function yq(s) {
   return JSON.stringify(s);
+}
+
+/** Короткая подпись для сайдбара: не резать строку посередине слова (до `max` символов с «…»). */
+function truncateSidebarLabel(s, max = 52) {
+  const t = String(s ?? '')
+    .trim()
+    .replace(/\s+/g, ' ');
+  if (t.length <= max) return t;
+  const budget = max - 1;
+  const hard = t.slice(0, budget);
+  let cut = hard.lastIndexOf(' ');
+  if (cut < Math.floor(budget * 0.45)) cut = budget;
+  const base = (cut === budget ? hard : t.slice(0, cut)).trimEnd();
+  return base.length > 0 ? `${base}…` : `${t.slice(0, budget)}…`;
 }
 
 function normalizeUrl(raw) {
@@ -112,7 +127,7 @@ function buildCardMarkdown(row, meta, slug, normUrl) {
   const overviewSlug = `/data-sources/regional/subject-${meta.subject_slug}-sources-overview`;
   const tag = tagFromGroup(row.group);
   const jurisdiction = jurisdictionFrom(row.level);
-  const sidebar = (row.title || slug).slice(0, 52);
+  const sidebar = truncateSidebarLabel(row.title || slug, 52);
   const desc = `Автоимпорт из _dev/rf_finance_sources_table_full.md (${row.group}): ${(row.dataDesc || '').slice(0, 140)}`.replace(/\s+/g, ' ').trim();
 
   const related = [

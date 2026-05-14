@@ -34,6 +34,7 @@ draft: true
 | `formats` | по возможности | `["csv", "json", "xml", "xlsx"]` — фактически встречающиеся форматы |
 | `status` | по возможности | `current` \| `legacy` \| `deprecated` — для устаревших описаний или зеркал |
 | `last_verified` | рекомендуется | `2026-05-14` — дата последней редакционной проверки карточки (см. [измерения качества](/reference/data-quality-dimensions)) |
+| `rag_priority` | опционально | `low` — снижает вес строки в лексическом baseline `npm run qa:retrieval` и в индексе для RAG; для массовых черновых карточек из `npm run import:regional-table` выставляется автоматически, после вычитки удалите или замените |
 | `data_completeness` | опционально | `full` \| `partial` \| `unknown` — после согласования линтером |
 | `machine_readability` | опционально | краткая метка канала доступа (см. справочник измерений) |
 
@@ -52,6 +53,7 @@ jurisdiction: federal
 access: open
 # formats: ["csv", "json"]
 # status: current
+# rag_priority: low
 # related_information_system: "/information-systems/federal/example"
 ---
 

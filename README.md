@@ -77,8 +77,8 @@ npm start
 
 ## Конфигурация
 
-- **`docusaurus.config.ts`** — заголовок, URL, navbar, footer; битые ссылки и якоря при сборке приводят к ошибке (`onBrokenLinks`, `onBrokenAnchors`, строгая проверка Markdown-ссылок).
-- **`sidebars.ts`** — структура и порядок навигации.
+- **`docusaurus.config.ts`** — заголовок, URL, navbar, footer; битые ссылки и якоря при сборке приводят к ошибке (`onBrokenLinks`, `onBrokenAnchors`, строгая проверка Markdown-ссылок). Файла **`docusaurus.config.js`** в репозитории быть не должно: по [openspec/specs/ci-quality-gates/spec.md](openspec/specs/ci-quality-gates/spec.md) каноническая конфигурация одна; дубликат легко устаревает (в т.ч. по `baseUrl`) и путает при ревью. CI падает, если обнаружен `docusaurus.config.js`.
+- **`sidebars.ts`** — структура и порядок навигации (без дубликата `sidebars.js`; иначе CI падает).
 - **`src/css/custom.css`** — пользовательские стили.
 
 ## Деплой

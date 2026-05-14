@@ -1,6 +1,6 @@
 ---
 title: 'Приморский край: Портал открытых данных Приморского края (Datacatalogs.ru)'
-sidebar_label: Портал открытых данных Приморского края (Datacatalog
+sidebar_label: Портал открытых данных Приморского края…
 tags:
   - data-source
   - regional

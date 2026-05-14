@@ -1,6 +1,6 @@
 ---
 title: 'Воронежская область: Законодательство Воронежской области (pravo.govvrn.ru)'
-sidebar_label: Законодательство Воронежской области (pravo.govvrn.r
+sidebar_label: Законодательство Воронежской области…
 tags:
   - data-source
   - regional
