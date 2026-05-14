@@ -1,0 +1,49 @@
+---
+title: Международные финансовые организации
+sidebar_label: Международные финансовые организации
+tags:
+  - glossary
+  - budget
+glossary_kind: concept
+last_updated: 2026-05-11T00:00:00.000Z
+source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
+abbreviations:
+  - МФО
+slug: /glossary/international-financial-organizations
+description: 'международные финансовые организации (МФО) — это межгосударственные институты, специализирующиеся на кредитовании и иных финансовых операциях по уставам, утверждённым странами-участниками. В российском контексте госдолга их связывают с нефинансовыми кредитами, ПГВЗ и двусторонними/многосторонними внешними заимствова...'
+content_type: concept
+entity_type: glossary
+related_pages:
+  - /glossary/ifi-nonfinancial-credits
+  - /glossary/federal-external-borrowing-program
+  - /data-sources/federal/minfin-opendata
+  - /reporting/public-debt-reporting
+  - /glossary/imf
+  - /glossary/ibrd
+  - /glossary/state-external-borrowings
+  - /legal/budget-code
+  - /data-sources/federal/roskazna-reports
+  - /intro/russian-budget-overview
+---
+
+# Международные финансовые организации
+
+Коротко: **международные финансовые организации (МФО)** — это **межгосударственные институты**, специализирующиеся на **кредитовании** и иных **финансовых операциях** по **уставам**, утверждённым странами-участниками. В российском контексте госдолга их связывают с **[нефинансовыми кредитами](/glossary/ifi-nonfinancial-credits)**, **[ПГВЗ](/glossary/federal-external-borrowing-program)** и двусторонними/многосторонними **внешними заимствованиями**.
+
+## Определение
+
+**Международные финансовые организации** — межгосударственные финансовые институты, специализирующиеся на кредитовании и других финансовых операциях в соответствии с уставами, утверждёнными странами-членами.
+
+Определение приведено в **глоссарии [Минфина России](https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/)**.
+
+## Где встречается в учёте и данных
+
+- **[Открытые данные Минфина России](/data-sources/federal/minfin-opendata)** — сводные материалы по государственному долгу и внешним операциям.
+- **[Федеральные бюджеты и открытые данные](/data-sources/federal/minfin-opendata)** — программа внешних заимствований и пояснения к закону о бюджете.
+- **[Отчётность о государственном долге](/reporting/public-debt-reporting)** — учёт обязательств перед многосторонними кредиторами по методике периода.
+
+## Связанные термины
+
+- [Международный валютный фонд](/glossary/imf) и [Международный банк реконструкции и развития](/glossary/ibrd) — примеры широко известных МФО.
+- [Нефинансовые кредиты международных финансовых организаций](/glossary/ifi-nonfinancial-credits) — форма целевого привлечения средств МФО в трактовке Минфина.
+- [Государственные внешние заимствования](/glossary/state-external-borrowings) — контекст привлечения валюты в бюджет.

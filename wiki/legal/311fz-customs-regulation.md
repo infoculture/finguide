@@ -1,0 +1,67 @@
+---
+title: Федеральный закон от 27 ноября 2010 г. № 311-ФЗ «О таможенном регулировании в Российской Федерации»
+sidebar_label: 311-ФЗ (таможня РФ)
+description: 'Национальное таможенное регулирование в РФ в связке с ТК ЕАЭС: органы, процедуры и данные ФТС.'
+tags:
+  - legal
+  - budget
+last_updated: 2026-05-11T00:00:00.000Z
+slug: /legal/311fz-customs-regulation
+doc_kind: federal_law
+official_urls:
+  - 'https://publication.pravo.gov.ru/'
+content_type: legal
+entity_type: legal-document
+related_pages:
+  - /legal/customs-code-eaeu
+  - /data-sources/federal/fts-customs-statistics
+  - /legal/tax-code
+  - /reporting/tax-and-customs-revenue-statistics
+  - /organizations/fts
+  - /data-sources/federal/roskazna-reports
+  - /legal/budget-code
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/giis-eb
+---
+
+# 311-ФЗ о таможенном регулировании в Российской Федерации
+
+Коротко: закон закрепляет **основы таможенного регулирования** в РФ **с учётом** **[ТК ЕАЭС](/legal/customs-code-eaeu)**: полномочия **таможенных органов**, правовое положение **участников ВЭД**, порядок **таможенных операций** и связь с **налоговыми** режимами на границе. Для **[открытых данных ФТС](/data-sources/federal/fts-customs-statistics)** он — мост между **международным** кодексом и **российскими** витринами.
+
+## Назначение и границы применения
+
+Закон обязателен для **таможенных органов**, **участников ВЭД** и иных лиц в объёме, прямо установленном актом. Он **не** заменяет **[НК РФ](/legal/tax-code)** по **импортному НДС** и иным налогам, а **таможенные пошлины** и **сборы** следует отличать от **налоговых** платежей в **[бюджетной отчётности](/reporting/tax-and-customs-revenue-statistics)**.
+
+## Что задаёт для данных и публикаций
+
+- **Правовые основания** для **таможенной декларации** и **учёта** — контекст полей в **таможенных** выгрузках.
+- **Связь с ФТС** как **оператором** данных — см. **[организацию ФТС](/organizations/fts)**.
+- **Сопоставление с казной** — таможенные поступления в **[отчётах Казначейства](/data-sources/federal/roskazna-reports)** требуют методики года.
+
+## Структура и ключевые нормы
+
+Для аналитики обычно достаточно общих положений о **таможенных процедурах**, **платежах** и **контроле** (номера статей сверяйте по официальной редакции). Подзаконные акты **[ФТС](/organizations/fts)** задают **форматы** обмена и **классификаторы** на дату.
+
+## Где это в данных
+
+- [/data-sources/federal/fts-customs-statistics](/data-sources/federal/fts-customs-statistics) — **открытые** своды и каталоги ФТС.
+- [/reporting/tax-and-customs-revenue-statistics](/reporting/tax-and-customs-revenue-statistics) — сверка **таможенных** и **налоговых** агрегатов.
+- [/organizations/fts](/organizations/fts) — **роль** ведомства в публичных контурах.
+
+## Связанные страницы wiki
+
+- [/legal/customs-code-eaeu](/legal/customs-code-eaeu) — **ТК ЕАЭС** как верхний уровень.
+- [/legal/tax-code](/legal/tax-code) — **НК РФ** и налоги при перемещении товаров.
+- [/legal/budget-code](/legal/budget-code) — **доходы** бюджетов и классификация поступлений.
+
+## Официальные источники текста
+
+- [Официальное опубликование](https://publication.pravo.gov.ru/) — поиск по дате **27.11.2010** и номеру **311-ФЗ**.
+
+## Сравнение и «не путать с»
+
+| Аспект | 311-ФЗ | Смежная рамка |
+|--------|--------|----------------|
+| Уровень | **Национальная** реализация | **[ТК ЕАЭС](/legal/customs-code-eaeu)** — **союзный** кодекс |
+| НДС на границе | Таможенный контур | **[НК РФ](/legal/tax-code)** — **импортный НДС** |

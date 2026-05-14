@@ -1,0 +1,67 @@
+# Capability: navigation-scenarios
+
+Сценарная навигация и хабы разделов.
+
+## Requirement: Question-to-source journeys
+
+Проект SHALL поддерживать документы с маршрутами «вопрос → источник → инструкция», включая как минимум:
+
+- Федеральный бюджет  
+- Региональный бюджет  
+- Расходы учреждения  
+- Закупки и контракты  
+- Выбор источника данных под вопрос  
+
+Базовая реализация: [`wiki/intro/data-map.md`](../../../wiki/intro/data-map.md) и перекрёстные ссылки на [`wiki/howto/`](../../../wiki/howto/).
+
+### Scenario: Reader follows linked path
+
+- **GIVEN** пользователь открывает [`wiki/intro/data-map.md`](../../../wiki/intro/data-map.md)
+- **WHEN** он переходит по ссылкам сценарного блока
+- **THEN** он может дойти до карточки источника данных и соответствующего howto без поиска по всем разделам вручную
+
+## Requirement: Section hubs
+
+README разделов и согласованные **под-хабы** (`wiki/**/README.md`: корень раздела в сайдбаре и логические подгруппы вроде `data-sources/federal`, `howto/access`, `information-systems/civil`) SHOULD содержать: назначение раздела, аудиторию, ключевые страницы (таблица или компактный список без лишнего дублирования) и типовые вопросы. Для обогащения графа экспорта RECOMMENDED поле `related_pages` в frontmatter с каноническими slug; целостность — `npm run lint:related-pages` после согласованного `exports/knowledge-index.jsonl`.
+
+Региональные источники данных: при внедрении [`regional-sources-hierarchy`](../regional-sources-hierarchy/spec.md) хабами SHOULD служить [`wiki/data-sources/regional/README.md`](../../../wiki/data-sources/regional/README.md), README федеральных округов под `wiki/data-sources/regional/<fed_okrug_slug>/` и сводные страницы субъектов (`/data-sources/regional/<overview_basename>`), ведущие на конкретные slug карточек `/data-sources/regional/<slug>`.
+
+### Scenario: Reader opens a section hub
+
+- **GIVEN** читатель открывает README-хаб раздела или подраздела (например [`wiki/data-sources/README.md`](../../../wiki/data-sources/README.md) или [`wiki/howto/access/README.md`](../../../wiki/howto/access/README.md))
+- **WHEN** он читает вводный текст и таблицу быстрых входов
+- **THEN** он находит ссылку на карточку источника, ИС, how-to или справочник без обхода всего сайдбара
+
+### Scenario: Reader drills down by federal district to subject sources
+
+- **GIVEN** пользователь открывает [`wiki/data-sources/regional/README.md`](../../../wiki/data-sources/regional/README.md) или README федерального округа
+- **WHEN** он переходит к сводной странице субъекта и далее к карточке источника
+- **THEN** он использует только канонические ссылки `/data-sources/regional/...` без ручного составления URL по пути на диске
+
+## Requirement: Getting started
+
+Проект SHOULD содержать страницу быстрого старта для новых читателей: [`wiki/intro/getting-started.md`](../../../wiki/intro/getting-started.md).
+
+## Requirement: Discovery UX
+
+Проект SHOULD включать breadcrumbs для документов (конфигурация Docusaurus) и страницы справочного поиска по кодам ([`wiki/reference/classification-codes-index.md`](../../../wiki/reference/classification-codes-index.md)).
+
+Интеграция Algolia DocSearch SHOULD описана в [`wiki/reference/docsearch-setup.md`](../../../wiki/reference/docsearch-setup.md) до появления ключей.
+
+## Requirement: Editorial package route block
+
+Страницы, относящиеся к **редакционным пакетам** (одна тема: трансферты, региональное исполнение, госпрограмма и т.п.), SHOULD начинаться с явного блока маршрута после вводного абзаца: какие термины глоссария, карточки источников, формы отчётности, НПА и how-to нужны для ответа на вопрос. Блок MUST использовать конкретные ссылки `/glossary/<slug>`, `/data-sources/...`, `/reporting/<slug>`, `/legal/<slug>`, `/howto/...` в соответствии с [`AGENTS.md`](../../../AGENTS.md).
+
+Критерии «пакетной» страницы SHOULD согласовываться с [_dev/content_plan_20260514.md](../../../_dev/content_plan_20260514.md), разд. 8.
+
+### Scenario: Reader collects prerequisites
+
+- **GIVEN** пользователь открывает тематическую страницу пакета
+- **WHEN** он читает блок маршрута
+- **THEN** он может открыть все перечисленные типы страниц без поиска по оглавлению
+
+### Scenario: No glossary-only stub links
+
+- **GIVEN** блок маршрута перечисляет связанные термины
+- **WHEN** читатель переходит по ссылке
+- **THEN** цель — конкретная карточка `/glossary/<slug>`, а не только корень раздела

@@ -1,0 +1,94 @@
+---
+title: Карта данных и типовые маршруты
+sidebar_label: Карта данных
+description: >-
+  Типовые маршруты от вопроса к глоссарию, ИС, источникам данных, отчётности и
+  практическим инструкциям.
+category: intro
+tags:
+  - intro
+  - navigation
+  - rag
+last_updated: 2026-05-14T00:00:00.000Z
+content_type: reference
+related_pages:
+  - /intro/getting-started
+  - /intro/how-to-use
+  - /intro/rag-guide
+  - /data-sources/regional
+  - /howto
+  - /glossary
+---
+
+# Карта данных и типовые маршруты
+
+Эта страница — «надстройка» над разделами книги: куда идти, если нужно **определение**, **систему**, **файл с данными**, **форму** или **пример кода**. Подробнее о разделах — в [Как пользоваться базой знаний](./how-to-use.md). Если вы здесь впервые — начните с [Быстрого старта](./getting-started.md).
+
+## Схема маршрутов (обзор)
+
+```mermaid
+flowchart LR
+  subgraph def["Термин / код"]
+    G["Глоссарий"]
+    L["Нормативная база"]
+  end
+  subgraph data["Данные и системы"]
+    IS["Информационные системы"]
+    DS["Источники данных"]
+  end
+  subgraph rep["Отчётность"]
+    R["Бюджетная отчётность"]
+  end
+  subgraph org["Контекст"]
+    O["Организации"]
+    BS["Бюджетная система"]
+  end
+  G --> DS
+  G --> R
+  IS --> DS
+  R --> DS
+  O --> IS
+  BS --> G
+```
+
+## Маршрут 0. Новый читатель
+
+1. [Быстрый старт](./getting-started.md) — порядок знакомства с книгой.
+2. [Руководство по RAG](./rag-guide.md) — для разработчиков индексации и ассистентов.
+
+## Маршрут 1. Не понимаю термин или код
+
+1. [Глоссарий](/glossary/) — карточка термина (например [КБК](/glossary/kbk), [КОСГУ](/glossary/kosgu)).
+2. Привязка к данным — блок «Где встречается в учёте и данных» в карточке и ссылки на [источники](/data-sources/) и [отчётность](/reporting/).
+3. Нормативка — [Нормативная база](/legal/), чаще всего [Бюджетный кодекс](/legal/budget-code) и приказы по классификации ([приказы Минфина по КБК и КОСГУ](/legal/budget-classification-orders)).
+
+## Маршрут 2. Нужен конкретный портал или выгрузка
+
+1. [Информационные системы](/information-systems/) — кто оператор, витрина, границы контура (например [ГИИС «Электронный бюджет»](/information-systems/federal/giis-eb), [ЕИС](/information-systems/federal/zakupki)).
+2. [Источники данных](/data-sources/) — открытые наборы и API (например [Наборы budget.gov.ru](/data-sources/federal/budget-gov-ru-datasets), [открытые данные Минфина](/data-sources/federal/minfin-opendata)).
+3. [How-to: автоматизация](/howto/automation/) — примеры запросов и скриптов.
+
+## Маршрут 3. Нужна форма отчётности или методика показателя
+
+1. [Бюджетная отчётность](/reporting/) — карточка формы (например [0503117](/reporting/0503117)).
+2. [Источники данных](/data-sources/) — где публикуются выгрузки (например [отчёты и материалы Казначейства](/data-sources/federal/roskazna-reports)).
+3. [Глоссарий](/glossary/) — термины исполнения и учёта (например [казначейское исполнение](/glossary/treasury-execution)).
+
+## Маршрут 4. Кто владелец данных и как устроен бюджет «в целом»
+
+1. [Организации](/organizations/) — ведомство и его роль (например [Минфин](/organizations/minfin), [Федеральное казначейство](/organizations/federal-treasury)).
+2. [Бюджетная система](/budget-system/) — уровни бюджетов, цикл, доходы и расходы.
+3. [Справочники](/reference/) — коды территорий, ОКПД2 в закупках, идентификаторы в открытых данных.
+
+## Маршрут 5. Субъект РФ, ОМС, долг и региональные закупки
+
+1. [Региональные источники данных](/data-sources/regional/) — оглавление: [консолидированные бюджеты](/data-sources/regional/consolidated-budgets), [матрица раскрытия](/data-sources/regional/regional-disclosure-matrix), [методика поиска](/data-sources/regional/how-to-find-regional-data), [крупные городские бюджеты (обзор)](/data-sources/regional/large-city-budgets); примеры карточек МО: [Новосибирск](/data-sources/regional/novosibirsk-city-open-budget-mayor), [Нижний Новгород](/data-sources/regional/nizhny-novgorod-city-open-budget-budgetnn).
+2. **ОМС и внебюджетные фонды субъекта** — [навигатор по ТФОМС](/data-sources/regional/regional-extrabudgetary-health-overview); примеры: [МГФОМС Москвы](/data-sources/regional/moscow-city-tfoms-mgfoms), [МОФОМС области](/data-sources/regional/moscow-oblast-tfoms-mofoms).
+3. **Субнациональный долг** — [навигатор](/data-sources/regional/subnational-debt-overview) и [отчётность по долгу](/reporting/public-debt-reporting).
+4. **Закупки ниже федерального «только ЕИС»** — [навигатор по региональным закупкам](/data-sources/regional/regional-procurement-sources-overview) и [пилотная матрица субъектов](/data-sources/regional/regional-disclosure-matrix) (в карточках — прямые URL по Москве, СПб, Татарстану, Краснодарскому краю, Свердловской области, Республике Саха (Якутия), Республике Дагестан, Кемеровской области — Кузбассу, ХМАО — Югре, Калининградской области и др.); контракты — в [ЕИС](/information-systems/federal/zakupki).
+
+## Для ИИ-ассистентов и редакторов
+
+- Правила оформления карточек и перекрёстных ссылок — в файле **[AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md)** в корне репозитория (для Cursor и других средств — основной контракт качества).
+- Принципы структуры страниц под поиск и RAG — в [Как пользоваться базой знаний](./how-to-use.md).
+- Словарь вторых тегов `tags` в frontmatter — на странице [Таксономия тегов](/reference/tags-taxonomy).

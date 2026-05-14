@@ -1,0 +1,97 @@
+---
+title: >-
+  Казначейство: консолидированные бюджеты субъектов РФ и бюджетов
+  территориальных государственных внебюджетных фондов
+sidebar_label: 'Казначейство: конс. субъектов'
+tags:
+  - data-source
+  - federal
+  - budget
+  - reporting
+  - regional
+last_updated: 2026-05-12T00:00:00.000Z
+slug: /data-sources/federal/roskazna-consolidated-subjects-execution
+source_url: >-
+  https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov-rossijskoj-federacii/
+data_source_kind: mixed
+jurisdiction: multilevel
+access: open
+formats:
+  - html
+  - xls
+  - xlsx
+  - pdf
+status: current
+related_information_system: /information-systems/federal/roskazna-portal
+description: >-
+  федеральный вход к регламентированной отчётности по исполнению
+  консолидированных бюджетов субъектов (и связанным территориальным ГВФ) на
+  портале Казначейства; для обзорных сводов Минфина по субъектам см.
+  subbud/execute и региональную витрину консолидированных бюджетов.
+content_type: data_source
+entity_type: data-source
+related_pages:
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/minfin-subbud-execute
+  - /data-sources/regional/consolidated-budgets
+  - /data-sources/federal/regionalnye-byudzhety
+  - /budget-system/regional-budgets
+  - /glossary/consolidated-budget
+---
+
+| Признак | Значение |
+| :--- | :--- |
+| Уровень и охват | **Субъекты РФ**: **[консолидированные бюджеты](/glossary/consolidated-budget)** субъектов и **территориальные ГВФ** в логике федеральной отчётной витрины Казначейства |
+| Тип доступа | Веб-страница с перечнем материалов и вложениями по ссылкам |
+| Основные форматы | HTML, XLS/XLSX, PDF |
+| Оператор | Федеральное казначейство |
+| Режим доступа | Открытый |
+
+Коротко: **федеральный вход** к **регламентированной отчётности** по исполнению **консолидированных бюджетов субъектов** (и связанным территориальным ГВФ) на портале Казначейства; для **обзорных сводов Минфина по субъектам** см. **[subbud/execute](/data-sources/federal/minfin-subbud-execute)** и **[региональную витрину консолидированных бюджетов](/data-sources/regional/consolidated-budgets)**.
+
+## Описание
+
+Карточка описывает страницу https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov-rossijskoj-federacii/ — подраздел меню раздела **[«Исполнение бюджетов»](https://roskazna.gov.ru/ispolnenie-byudzhetov/)** с материалами по **консолидированным бюджетам субъектов Российской Федерации** и **бюджетам территориальных государственных внебюджетных фондов** (формулировка — по заголовку страницы оператора). Это **не** замена **муниципальных** публикаций на уровне ОМСУ и **не** полный каталог региональных порталов.
+
+## Оператор
+
+**[Федеральное казначейство](/organizations/federal-treasury)** — https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov-rossijskoj-federacii/
+
+- Карточка ИС: **[Портал Федерального казначейства](/information-systems/federal/roskazna-portal)**.
+
+## URL и точки доступа
+
+| Тип доступа | URL | Формат |
+| --- | --- | --- |
+| Подраздел «Консолидированные бюджеты субъектов…» | https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov-rossijskoj-federacii/ | HTML; вложения |
+| Родительский раздел | https://roskazna.gov.ru/ispolnenie-byudzhetov/ | HTML |
+
+В URL на сайте оператора встречается написание **`subektov`** (без второй «с»); ориентируйтесь на **актуальную ссылку** из меню портала.
+
+## Объекты данных и показатели
+
+- **Формы исполнения** в разрезе **субъекта РФ** и **[КБК](/glossary/kbk)** (по методике конкретной формы) — в файлах, на которые ведёт страница.
+- **Связка** с **[агрегатами Минфина по субъектам](/data-sources/federal/minfin-subbud-execute)** — после проверки **уровня агрегации** (консолидированный бюджет субъекта vs свод Минфина по множеству субъектов).
+
+**Пробелы**: автоматизация упирается в **смену ссылок** и в необходимость читать **имена файлов**; для машинных наборов см. **[opendata Казначейства](https://roskazna.gov.ru/opendata/)** и **[обзорную карточку](/data-sources/federal/roskazna-reports)**.
+
+## Периодичность обновления
+
+**Ежемесячно** и **ежегодно** в типичной логике казначейской отчётности; точные даты форм — на странице. Общие ограничения витрины — **[Портал Федерального казначейства](/information-systems/federal/roskazna-portal)**.
+
+## Ограничения и особенности
+
+- Не подменяет **региональные** первичные порталы: см. **[Консолидированные бюджеты субъектов (региональная витрина)](/data-sources/regional/consolidated-budgets)** для навигации по субъектам.
+- HTTP-запросы без браузерных заголовков могут получать **403**.
+
+## Связанные страницы wiki
+
+- **[Минфин: краткая информация об исполнении консолидированных бюджетов субъектов](/data-sources/federal/minfin-subbud-execute)** — **макро-XLSX** по субъектам на сайте Минфина.
+- **[Консолидированные бюджеты субъектов (региональная витрина)](/data-sources/regional/consolidated-budgets)** — как искать **субъектные** публикации и смежные источники.
+- **[Отчёты Федерального казначейства (обзор раздела)](/data-sources/federal/roskazna-reports)** — общий контекст раздела «Исполнение бюджетов».
+
+## Не путать с
+
+- **[Казначейство: сводная информация по бюджетным и автономным учреждениям субъектов РФ (местных бюджетов)](/data-sources/federal/roskazna-regional-institutions-execution-summary)** — **учрежденческий** свод в том же меню, а не макроформа **консолидированного бюджета субъекта**.

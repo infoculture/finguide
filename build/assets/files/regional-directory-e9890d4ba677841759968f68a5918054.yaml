@@ -1,0 +1,389 @@
+version: 1
+description: >-
+  Справочник субъектов РФ и федеральных округов для путей
+  wiki/data-sources/regional/<fed_okrug_slug>/<subject_slug>/.
+  Поле name_ru совпадает с колонкой «Субъект РФ» в _dev/rf_finance_sources_table_full.md
+  (включая «Кемеровская область — Кузбасс» и строки «город …»).
+last_updated: "2026-05-14"
+federal_districts:
+  - slug: cfo
+    name_ru: "Центральный федеральный округ"
+    position: 1
+  - slug: szfo
+    name_ru: "Северо-Западный федеральный округ"
+    position: 2
+  - slug: yufo
+    name_ru: "Южный федеральный округ"
+    position: 3
+  - slug: skfo
+    name_ru: "Северо-Кавказский федеральный округ"
+    position: 4
+  - slug: pfo
+    name_ru: "Приволжский федеральный округ"
+    position: 5
+  - slug: urfo
+    name_ru: "Уральский федеральный округ"
+    position: 6
+  - slug: sfo
+    name_ru: "Сибирский федеральный округ"
+    position: 7
+  - slug: dfo
+    name_ru: "Дальневосточный федеральный округ"
+    position: 8
+subjects:
+  - name_ru: "Алтайский край"
+    subject_slug: altai-krai
+    fed_okrug_slug: sfo
+    overview_basename: subject-altai-krai-sources-overview
+  - name_ru: "Амурская область"
+    subject_slug: amur-oblast
+    fed_okrug_slug: dfo
+    overview_basename: subject-amur-oblast-sources-overview
+  - name_ru: "Архангельская область"
+    subject_slug: arkhangelsk-oblast
+    fed_okrug_slug: szfo
+    overview_basename: subject-arkhangelsk-oblast-sources-overview
+  - name_ru: "Астраханская область"
+    subject_slug: astrakhan-oblast
+    fed_okrug_slug: yufo
+    overview_basename: subject-astrakhan-oblast-sources-overview
+  - name_ru: "Белгородская область"
+    subject_slug: belgorod-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-belgorod-oblast-sources-overview
+  - name_ru: "Брянская область"
+    subject_slug: bryansk-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-bryansk-oblast-sources-overview
+  - name_ru: "Владимирская область"
+    subject_slug: vladimir-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-vladimir-oblast-sources-overview
+  - name_ru: "Волгоградская область"
+    subject_slug: volgograd-oblast
+    fed_okrug_slug: yufo
+    overview_basename: subject-volgograd-oblast-sources-overview
+  - name_ru: "Вологодская область"
+    subject_slug: vologda-oblast
+    fed_okrug_slug: szfo
+    overview_basename: subject-vologda-oblast-sources-overview
+  - name_ru: "Воронежская область"
+    subject_slug: voronezh-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-voronezh-oblast-sources-overview
+  - name_ru: "Донецкая Народная Республика"
+    subject_slug: donetsk-people-republic
+    fed_okrug_slug: yufo
+    overview_basename: subject-donetsk-people-republic-sources-overview
+  - name_ru: "Еврейская автономная область"
+    subject_slug: jewish-autonomous-oblast
+    fed_okrug_slug: dfo
+    overview_basename: subject-jewish-autonomous-oblast-sources-overview
+  - name_ru: "Забайкальский край"
+    subject_slug: zabaykalsky-krai
+    fed_okrug_slug: sfo
+    overview_basename: subject-zabaykalsky-krai-sources-overview
+  - name_ru: "Запорожская область"
+    subject_slug: zaporozhye-oblast
+    fed_okrug_slug: yufo
+    overview_basename: subject-zaporozhye-oblast-sources-overview
+  - name_ru: "Ивановская область"
+    subject_slug: ivanovo-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-ivanovo-oblast-sources-overview
+  - name_ru: "Иркутская область"
+    subject_slug: irkutsk-oblast
+    fed_okrug_slug: sfo
+    overview_basename: subject-irkutsk-oblast-sources-overview
+  - name_ru: "Кабардино-Балкарская Республика"
+    subject_slug: kabardino-balkar-republic
+    fed_okrug_slug: skfo
+    overview_basename: subject-kabardino-balkar-republic-sources-overview
+  - name_ru: "Калининградская область"
+    subject_slug: kaliningrad-oblast
+    fed_okrug_slug: szfo
+    overview_basename: subject-kaliningrad-oblast-sources-overview
+  - name_ru: "Калужская область"
+    subject_slug: kaluga-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-kaluga-oblast-sources-overview
+  - name_ru: "Камчатский край"
+    subject_slug: kamchatka-krai
+    fed_okrug_slug: dfo
+    overview_basename: subject-kamchatka-krai-sources-overview
+  - name_ru: "Карачаево-Черкесская Республика"
+    subject_slug: karachay-cherkess-republic
+    fed_okrug_slug: skfo
+    overview_basename: subject-karachay-cherkess-republic-sources-overview
+  - name_ru: "Кемеровская область — Кузбасс"
+    subject_slug: kemerovo-oblast-kuzbass
+    fed_okrug_slug: sfo
+    overview_basename: subject-kemerovo-oblast-kuzbass-sources-overview
+  - name_ru: "Кировская область"
+    subject_slug: kirov-oblast
+    fed_okrug_slug: pfo
+    overview_basename: subject-kirov-oblast-sources-overview
+  - name_ru: "Костромская область"
+    subject_slug: kostroma-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-kostroma-oblast-sources-overview
+  - name_ru: "Краснодарский край"
+    subject_slug: krasnodar-krai
+    fed_okrug_slug: yufo
+    overview_basename: subject-krasnodar-krai-sources-overview
+  - name_ru: "Красноярский край"
+    subject_slug: krasnoyarsk-krai
+    fed_okrug_slug: sfo
+    overview_basename: subject-krasnoyarsk-krai-sources-overview
+  - name_ru: "Курганская область"
+    subject_slug: kurgan-oblast
+    fed_okrug_slug: urfo
+    overview_basename: subject-kurgan-oblast-sources-overview
+  - name_ru: "Курская область"
+    subject_slug: kursk-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-kursk-oblast-sources-overview
+  - name_ru: "Ленинградская область"
+    subject_slug: leningrad-oblast
+    fed_okrug_slug: szfo
+    overview_basename: subject-leningrad-oblast-sources-overview
+  - name_ru: "Липецкая область"
+    subject_slug: lipetsk-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-lipetsk-oblast-sources-overview
+  - name_ru: "Луганская Народная Республика"
+    subject_slug: lugansk-people-republic
+    fed_okrug_slug: yufo
+    overview_basename: subject-lugansk-people-republic-sources-overview
+  - name_ru: "Магаданская область"
+    subject_slug: magadan-oblast
+    fed_okrug_slug: dfo
+    overview_basename: subject-magadan-oblast-sources-overview
+  - name_ru: "Московская область"
+    subject_slug: moscow-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-moscow-oblast-sources-overview
+  - name_ru: "Мурманская область"
+    subject_slug: murmansk-oblast
+    fed_okrug_slug: szfo
+    overview_basename: subject-murmansk-oblast-sources-overview
+  - name_ru: "Ненецкий автономный округ"
+    subject_slug: nenets-autonomous-okrug
+    fed_okrug_slug: szfo
+    overview_basename: subject-nenets-autonomous-okrug-sources-overview
+  - name_ru: "Нижегородская область"
+    subject_slug: nizhny-novgorod-oblast
+    fed_okrug_slug: pfo
+    overview_basename: subject-nizhny-novgorod-oblast-sources-overview
+  - name_ru: "Новгородская область"
+    subject_slug: novgorod-oblast
+    fed_okrug_slug: szfo
+    overview_basename: subject-novgorod-oblast-sources-overview
+  - name_ru: "Новосибирская область"
+    subject_slug: novosibirsk-oblast
+    fed_okrug_slug: sfo
+    overview_basename: subject-novosibirsk-oblast-sources-overview
+  - name_ru: "Омская область"
+    subject_slug: omsk-oblast
+    fed_okrug_slug: sfo
+    overview_basename: subject-omsk-oblast-sources-overview
+  - name_ru: "Оренбургская область"
+    subject_slug: orenburg-oblast
+    fed_okrug_slug: pfo
+    overview_basename: subject-orenburg-oblast-sources-overview
+  - name_ru: "Орловская область"
+    subject_slug: oryol-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-oryol-oblast-sources-overview
+  - name_ru: "Пензенская область"
+    subject_slug: penza-oblast
+    fed_okrug_slug: pfo
+    overview_basename: subject-penza-oblast-sources-overview
+  - name_ru: "Пермский край"
+    subject_slug: perm-krai
+    fed_okrug_slug: pfo
+    overview_basename: subject-perm-krai-sources-overview
+  - name_ru: "Приморский край"
+    subject_slug: primorsky-krai
+    fed_okrug_slug: dfo
+    overview_basename: subject-primorsky-krai-sources-overview
+  - name_ru: "Псковская область"
+    subject_slug: pskov-oblast
+    fed_okrug_slug: szfo
+    overview_basename: subject-pskov-oblast-sources-overview
+  - name_ru: "Республика Адыгея"
+    subject_slug: republic-of-adygea
+    fed_okrug_slug: yufo
+    overview_basename: subject-republic-of-adygea-sources-overview
+  - name_ru: "Республика Алтай"
+    subject_slug: republic-of-altai
+    fed_okrug_slug: sfo
+    overview_basename: subject-republic-of-altai-sources-overview
+  - name_ru: "Республика Башкортостан"
+    subject_slug: republic-of-bashkortostan
+    fed_okrug_slug: pfo
+    overview_basename: subject-republic-of-bashkortostan-sources-overview
+  - name_ru: "Республика Бурятия"
+    subject_slug: republic-of-buryatia
+    fed_okrug_slug: sfo
+    overview_basename: subject-republic-of-buryatia-sources-overview
+  - name_ru: "Республика Дагестан"
+    subject_slug: republic-of-dagestan
+    fed_okrug_slug: skfo
+    overview_basename: subject-republic-of-dagestan-sources-overview
+  - name_ru: "Республика Ингушетия"
+    subject_slug: republic-of-ingushetia
+    fed_okrug_slug: skfo
+    overview_basename: subject-republic-of-ingushetia-sources-overview
+  - name_ru: "Республика Калмыкия"
+    subject_slug: republic-of-kalmykia
+    fed_okrug_slug: yufo
+    overview_basename: subject-republic-of-kalmykia-sources-overview
+  - name_ru: "Республика Карелия"
+    subject_slug: republic-of-karelia
+    fed_okrug_slug: szfo
+    overview_basename: subject-republic-of-karelia-sources-overview
+  - name_ru: "Республика Коми"
+    subject_slug: republic-of-komi
+    fed_okrug_slug: szfo
+    overview_basename: subject-republic-of-komi-sources-overview
+  - name_ru: "Республика Крым"
+    subject_slug: republic-of-crimea
+    fed_okrug_slug: yufo
+    overview_basename: subject-republic-of-crimea-sources-overview
+  - name_ru: "Республика Марий Эл"
+    subject_slug: republic-of-mari-el
+    fed_okrug_slug: pfo
+    overview_basename: subject-republic-of-mari-el-sources-overview
+  - name_ru: "Республика Мордовия"
+    subject_slug: republic-of-mordovia
+    fed_okrug_slug: pfo
+    overview_basename: subject-republic-of-mordovia-sources-overview
+  - name_ru: "Республика Саха (Якутия)"
+    subject_slug: republic-of-sakha-yakutia
+    fed_okrug_slug: dfo
+    overview_basename: subject-republic-of-sakha-yakutia-sources-overview
+  - name_ru: "Республика Северная Осетия — Алания"
+    subject_slug: republic-of-north-ossetia-alania
+    fed_okrug_slug: skfo
+    overview_basename: subject-republic-of-north-ossetia-alania-sources-overview
+  - name_ru: "Республика Татарстан"
+    subject_slug: republic-of-tatarstan
+    fed_okrug_slug: pfo
+    overview_basename: subject-republic-of-tatarstan-sources-overview
+  - name_ru: "Республика Тыва"
+    subject_slug: republic-of-tyva
+    fed_okrug_slug: sfo
+    overview_basename: subject-republic-of-tyva-sources-overview
+  - name_ru: "Республика Хакасия"
+    subject_slug: republic-of-khakassia
+    fed_okrug_slug: sfo
+    overview_basename: subject-republic-of-khakassia-sources-overview
+  - name_ru: "Ростовская область"
+    subject_slug: rostov-oblast
+    fed_okrug_slug: yufo
+    overview_basename: subject-rostov-oblast-sources-overview
+  - name_ru: "Рязанская область"
+    subject_slug: ryazan-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-ryazan-oblast-sources-overview
+  - name_ru: "Самарская область"
+    subject_slug: samara-oblast
+    fed_okrug_slug: pfo
+    overview_basename: subject-samara-oblast-sources-overview
+  - name_ru: "Саратовская область"
+    subject_slug: saratov-oblast
+    fed_okrug_slug: pfo
+    overview_basename: subject-saratov-oblast-sources-overview
+  - name_ru: "Сахалинская область"
+    subject_slug: sakhalin-oblast
+    fed_okrug_slug: dfo
+    overview_basename: subject-sakhalin-oblast-sources-overview
+  - name_ru: "Свердловская область"
+    subject_slug: sverdlovsk-oblast
+    fed_okrug_slug: urfo
+    overview_basename: subject-sverdlovsk-oblast-sources-overview
+  - name_ru: "Смоленская область"
+    subject_slug: smolensk-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-smolensk-oblast-sources-overview
+  - name_ru: "Ставропольский край"
+    subject_slug: stavropol-krai
+    fed_okrug_slug: skfo
+    overview_basename: subject-stavropol-krai-sources-overview
+  - name_ru: "Тамбовская область"
+    subject_slug: tambov-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-tambov-oblast-sources-overview
+  - name_ru: "Тверская область"
+    subject_slug: tver-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-tver-oblast-sources-overview
+  - name_ru: "Томская область"
+    subject_slug: tomsk-oblast
+    fed_okrug_slug: sfo
+    overview_basename: subject-tomsk-oblast-sources-overview
+  - name_ru: "Тульская область"
+    subject_slug: tula-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-tula-oblast-sources-overview
+  - name_ru: "Тюменская область"
+    subject_slug: tyumen-oblast
+    fed_okrug_slug: urfo
+    overview_basename: subject-tyumen-oblast-sources-overview
+  - name_ru: "Удмуртская Республика"
+    subject_slug: udmurt-republic
+    fed_okrug_slug: pfo
+    overview_basename: subject-udmurt-republic-sources-overview
+  - name_ru: "Ульяновская область"
+    subject_slug: ulyanovsk-oblast
+    fed_okrug_slug: pfo
+    overview_basename: subject-ulyanovsk-oblast-sources-overview
+  - name_ru: "Хабаровский край"
+    subject_slug: khabarovsk-krai
+    fed_okrug_slug: dfo
+    overview_basename: subject-khabarovsk-krai-sources-overview
+  - name_ru: "Ханты-Мансийский автономный округ — Югра"
+    subject_slug: khanty-mansi-autonomous-okrug-yugra
+    fed_okrug_slug: urfo
+    overview_basename: subject-khanty-mansi-autonomous-okrug-yugra-sources-overview
+  - name_ru: "Херсонская область"
+    subject_slug: kherson-oblast
+    fed_okrug_slug: yufo
+    overview_basename: subject-kherson-oblast-sources-overview
+  - name_ru: "Челябинская область"
+    subject_slug: chelyabinsk-oblast
+    fed_okrug_slug: urfo
+    overview_basename: subject-chelyabinsk-oblast-sources-overview
+  - name_ru: "Чеченская Республика"
+    subject_slug: chechen-republic
+    fed_okrug_slug: skfo
+    overview_basename: subject-chechen-republic-sources-overview
+  - name_ru: "Чувашская Республика"
+    subject_slug: chuvash-republic
+    fed_okrug_slug: pfo
+    overview_basename: subject-chuvash-republic-sources-overview
+  - name_ru: "Чукотский автономный округ"
+    subject_slug: chukotka-autonomous-okrug
+    fed_okrug_slug: dfo
+    overview_basename: subject-chukotka-autonomous-okrug-sources-overview
+  - name_ru: "Ямало-Ненецкий автономный округ"
+    subject_slug: yamalo-nenets-autonomous-okrug
+    fed_okrug_slug: urfo
+    overview_basename: subject-yamalo-nenets-autonomous-okrug-sources-overview
+  - name_ru: "Ярославская область"
+    subject_slug: yaroslavl-oblast
+    fed_okrug_slug: cfo
+    overview_basename: subject-yaroslavl-oblast-sources-overview
+  - name_ru: "город Москва"
+    subject_slug: moscow
+    fed_okrug_slug: cfo
+    overview_basename: subject-moscow-sources-overview
+  - name_ru: "город Санкт-Петербург"
+    subject_slug: saint-petersburg
+    fed_okrug_slug: szfo
+    overview_basename: subject-saint-petersburg-sources-overview
+  - name_ru: "город Севастополь"
+    subject_slug: sevastopol
+    fed_okrug_slug: yufo
+    overview_basename: subject-sevastopol-sources-overview
