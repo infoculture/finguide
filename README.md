@@ -98,6 +98,8 @@ npm start
 
 При каждом push в **`master`** или **`main`** (и при ручном **workflow dispatch**) в репозитории **`infoculture/finguide`** workflow **Deploy GitHub Pages** собирает сайт и выкладывает его на **https://infoculture.github.io/finguide/**.
 
+Если на сайте появляется предупреждение вроде «wrong site baseUrl» и в тексте фигурирует **старый** путь (например `/opengovfinancesbook/`), в выдаче лежит **устаревшая сборка**: дождитесь успешного прогона **Deploy GitHub Pages**, проверьте, что в **Pages** выбран источник **GitHub Actions** (а не старая ветка `gh-pages` с прежним билдом), при необходимости сделайте жёсткое обновление страницы в браузере.
+
 ### Публикация обновлений с машины
 
 ```bash

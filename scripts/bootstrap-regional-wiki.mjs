@@ -27,7 +27,7 @@ const subjects = JSON.parse(
   fs.readFileSync(path.join(ROOT, 'scripts/data/regional-subjects.json'), 'utf8'),
 );
 
-/** Basename (no .md) -> subject_slug for existing source cards */
+/** Basename (no .md) -> subject_slug for `move` command only */
 const SOURCE_CARD_MOVES = [
   ['dagestan-procurement-komzak-e-dag', 'republic-of-dagestan'],
   ['sverdlovsk-oblast-procurement-goszakaz-midural', 'sverdlovsk-oblast'],
@@ -195,11 +195,11 @@ function writeSubjectOverviews() {
   for (const s of subjects) {
     const dir = path.join(WIKI_REGIONAL, s.fed_okrug_slug, s.subject_slug);
     fs.mkdirSync(dir, { recursive: true });
-    const cards = cardsBySubject.get(s.subject_slug) || [];
+    const cards = collectSourceCardBasenames(s.fed_okrug_slug, s.subject_slug);
     const ob = `subject-${s.subject_slug}-sources-overview.md`;
     fs.writeFileSync(path.join(dir, ob), overviewFrontmatter(s, cards), 'utf8');
   }
-  console.log('Wrote subject overview pages (89).');
+  console.log('Wrote subject overview pages (89) from disk card list.');
 }
 
 function moveSourceCards() {
@@ -232,7 +232,7 @@ function main() {
     writeDistrictHubs();
     return;
   }
-  if (cmd === 'overviews') {
+  if (cmd === 'overviews' || cmd === 'refresh-overviews') {
     writeSubjectOverviews();
     return;
   }
