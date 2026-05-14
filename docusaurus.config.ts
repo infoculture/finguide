@@ -3,7 +3,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 import {themes as prismThemes} from 'prism-react-renderer';
 
 const config: Config = {
-  title: 'Открытые государственные финансы',
+  title: 'База знаний по государственным финансам',
   tagline: 'Книга по открытым данным о государственных финансах России',
   favicon: 'img/favicon.ico',
 
