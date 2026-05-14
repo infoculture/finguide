@@ -14,6 +14,13 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/karachay-cherkess-republic-fin-29fc54847c
+  - /data-sources/regional/karachay-cherkess-republic-fin-53b9b44a53
+  - /data-sources/regional/karachay-cherkess-republic-fin-66b6671727
+  - /data-sources/regional/karachay-cherkess-republic-fin-6dfb04e636
+  - /data-sources/regional/karachay-cherkess-republic-fin-747aa1fcbf
+  - /data-sources/regional/karachay-cherkess-republic-fin-b3bfb1ac93
+  - /data-sources/regional/karachay-cherkess-republic-fin-e35a2c58c2
 ---
 
 # Карачаево-Черкесская Республика: источники данных
@@ -22,7 +29,13 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [karachay cherkess republic fin 29fc54847c](/data-sources/regional/karachay-cherkess-republic-fin-29fc54847c) — карточка источника.
+- [karachay cherkess republic fin 53b9b44a53](/data-sources/regional/karachay-cherkess-republic-fin-53b9b44a53) — карточка источника.
+- [karachay cherkess republic fin 66b6671727](/data-sources/regional/karachay-cherkess-republic-fin-66b6671727) — карточка источника.
+- [karachay cherkess republic fin 6dfb04e636](/data-sources/regional/karachay-cherkess-republic-fin-6dfb04e636) — карточка источника.
+- [karachay cherkess republic fin 747aa1fcbf](/data-sources/regional/karachay-cherkess-republic-fin-747aa1fcbf) — карточка источника.
+- [karachay cherkess republic fin b3bfb1ac93](/data-sources/regional/karachay-cherkess-republic-fin-b3bfb1ac93) — карточка источника.
+- [karachay cherkess republic fin e35a2c58c2](/data-sources/regional/karachay-cherkess-republic-fin-e35a2c58c2) — карточка источника.
 
 ## Контекст
 

@@ -16,6 +16,19 @@ related_pages:
   - /data-sources/regional/consolidated-budgets
   - /data-sources/regional/moscow-city-procurement-tender-mos
   - /data-sources/regional/moscow-city-tfoms-mgfoms
+  - /data-sources/regional/moscow-fin-1252efce42
+  - /data-sources/regional/moscow-fin-1332aa941b
+  - /data-sources/regional/moscow-fin-33520a7fcc
+  - /data-sources/regional/moscow-fin-4b60215563
+  - /data-sources/regional/moscow-fin-4ecd9d48c0
+  - /data-sources/regional/moscow-fin-5345ce8d5b
+  - /data-sources/regional/moscow-fin-59f1b7e4dc
+  - /data-sources/regional/moscow-fin-72d1e03ab5
+  - /data-sources/regional/moscow-fin-d6a0598750
+  - /data-sources/regional/moscow-fin-e493efb2a4
+  - /data-sources/regional/moscow-fin-e6f685b3cd
+  - /data-sources/regional/moscow-fin-ec9dce7107
+  - /data-sources/regional/moscow-fin-fad6a59b32
 ---
 
 # город Москва: источники данных
@@ -26,6 +39,19 @@ related_pages:
 
 - [moscow city procurement tender mos](/data-sources/regional/moscow-city-procurement-tender-mos) — карточка источника.
 - [moscow city tfoms mgfoms](/data-sources/regional/moscow-city-tfoms-mgfoms) — карточка источника.
+- [moscow fin 1252efce42](/data-sources/regional/moscow-fin-1252efce42) — карточка источника.
+- [moscow fin 1332aa941b](/data-sources/regional/moscow-fin-1332aa941b) — карточка источника.
+- [moscow fin 33520a7fcc](/data-sources/regional/moscow-fin-33520a7fcc) — карточка источника.
+- [moscow fin 4b60215563](/data-sources/regional/moscow-fin-4b60215563) — карточка источника.
+- [moscow fin 4ecd9d48c0](/data-sources/regional/moscow-fin-4ecd9d48c0) — карточка источника.
+- [moscow fin 5345ce8d5b](/data-sources/regional/moscow-fin-5345ce8d5b) — карточка источника.
+- [moscow fin 59f1b7e4dc](/data-sources/regional/moscow-fin-59f1b7e4dc) — карточка источника.
+- [moscow fin 72d1e03ab5](/data-sources/regional/moscow-fin-72d1e03ab5) — карточка источника.
+- [moscow fin d6a0598750](/data-sources/regional/moscow-fin-d6a0598750) — карточка источника.
+- [moscow fin e493efb2a4](/data-sources/regional/moscow-fin-e493efb2a4) — карточка источника.
+- [moscow fin e6f685b3cd](/data-sources/regional/moscow-fin-e6f685b3cd) — карточка источника.
+- [moscow fin ec9dce7107](/data-sources/regional/moscow-fin-ec9dce7107) — карточка источника.
+- [moscow fin fad6a59b32](/data-sources/regional/moscow-fin-fad6a59b32) — карточка источника.
 
 ## Контекст
 

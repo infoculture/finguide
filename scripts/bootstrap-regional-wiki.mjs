@@ -45,10 +45,15 @@ const SOURCE_CARD_MOVES = [
   ['moscow-city-tfoms-mgfoms', 'moscow'],
 ];
 
-const cardsBySubject = new Map();
-for (const [base, sub] of SOURCE_CARD_MOVES) {
-  if (!cardsBySubject.has(sub)) cardsBySubject.set(sub, []);
-  cardsBySubject.get(sub).push(base);
+function collectSourceCardBasenames(fedOkrugSlug, subjectSlug) {
+  const dir = path.join(WIKI_REGIONAL, fedOkrugSlug, subjectSlug);
+  if (!fs.existsSync(dir)) return [];
+  const overview = `subject-${subjectSlug}-sources-overview.md`;
+  return fs
+    .readdirSync(dir)
+    .filter((f) => f.endsWith('.md') && f !== overview)
+    .map((f) => f.replace(/\.md$/, ''))
+    .sort();
 }
 
 function yqStr(s) {

@@ -14,6 +14,18 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/kurgan-oblast-fin-0185b40118
+  - /data-sources/regional/kurgan-oblast-fin-0f68cc84c0
+  - /data-sources/regional/kurgan-oblast-fin-2f5589b08c
+  - /data-sources/regional/kurgan-oblast-fin-83d1a917de
+  - /data-sources/regional/kurgan-oblast-fin-a0a4642402
+  - /data-sources/regional/kurgan-oblast-fin-a47f19c5ae
+  - /data-sources/regional/kurgan-oblast-fin-b6eca15b6f
+  - /data-sources/regional/kurgan-oblast-fin-caee008396
+  - /data-sources/regional/kurgan-oblast-fin-d0942dad27
+  - /data-sources/regional/kurgan-oblast-fin-ef825297dc
+  - /data-sources/regional/kurgan-oblast-fin-f0d0d6227f
+  - /data-sources/regional/kurgan-oblast-fin-f5bf2d7e2c
 ---
 
 # Курганская область: источники данных
@@ -22,7 +34,18 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [kurgan oblast fin 0185b40118](/data-sources/regional/kurgan-oblast-fin-0185b40118) — карточка источника.
+- [kurgan oblast fin 0f68cc84c0](/data-sources/regional/kurgan-oblast-fin-0f68cc84c0) — карточка источника.
+- [kurgan oblast fin 2f5589b08c](/data-sources/regional/kurgan-oblast-fin-2f5589b08c) — карточка источника.
+- [kurgan oblast fin 83d1a917de](/data-sources/regional/kurgan-oblast-fin-83d1a917de) — карточка источника.
+- [kurgan oblast fin a0a4642402](/data-sources/regional/kurgan-oblast-fin-a0a4642402) — карточка источника.
+- [kurgan oblast fin a47f19c5ae](/data-sources/regional/kurgan-oblast-fin-a47f19c5ae) — карточка источника.
+- [kurgan oblast fin b6eca15b6f](/data-sources/regional/kurgan-oblast-fin-b6eca15b6f) — карточка источника.
+- [kurgan oblast fin caee008396](/data-sources/regional/kurgan-oblast-fin-caee008396) — карточка источника.
+- [kurgan oblast fin d0942dad27](/data-sources/regional/kurgan-oblast-fin-d0942dad27) — карточка источника.
+- [kurgan oblast fin ef825297dc](/data-sources/regional/kurgan-oblast-fin-ef825297dc) — карточка источника.
+- [kurgan oblast fin f0d0d6227f](/data-sources/regional/kurgan-oblast-fin-f0d0d6227f) — карточка источника.
+- [kurgan oblast fin f5bf2d7e2c](/data-sources/regional/kurgan-oblast-fin-f5bf2d7e2c) — карточка источника.
 
 ## Контекст
 

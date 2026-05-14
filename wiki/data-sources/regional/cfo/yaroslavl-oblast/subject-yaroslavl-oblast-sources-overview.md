@@ -14,6 +14,15 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/yaroslavl-oblast-fin-380e4ad73b
+  - /data-sources/regional/yaroslavl-oblast-fin-52230381b7
+  - /data-sources/regional/yaroslavl-oblast-fin-57bc4b603b
+  - /data-sources/regional/yaroslavl-oblast-fin-5e559ab3ec
+  - /data-sources/regional/yaroslavl-oblast-fin-a1b4294fed
+  - /data-sources/regional/yaroslavl-oblast-fin-d9dbe9be0f
+  - /data-sources/regional/yaroslavl-oblast-fin-f389ed6a32
+  - /data-sources/regional/yaroslavl-oblast-fin-fbe925e136
+  - /data-sources/regional/yaroslavl-oblast-fin-ffd8857ac1
 ---
 
 # Ярославская область: источники данных
@@ -22,7 +31,15 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [yaroslavl oblast fin 380e4ad73b](/data-sources/regional/yaroslavl-oblast-fin-380e4ad73b) — карточка источника.
+- [yaroslavl oblast fin 52230381b7](/data-sources/regional/yaroslavl-oblast-fin-52230381b7) — карточка источника.
+- [yaroslavl oblast fin 57bc4b603b](/data-sources/regional/yaroslavl-oblast-fin-57bc4b603b) — карточка источника.
+- [yaroslavl oblast fin 5e559ab3ec](/data-sources/regional/yaroslavl-oblast-fin-5e559ab3ec) — карточка источника.
+- [yaroslavl oblast fin a1b4294fed](/data-sources/regional/yaroslavl-oblast-fin-a1b4294fed) — карточка источника.
+- [yaroslavl oblast fin d9dbe9be0f](/data-sources/regional/yaroslavl-oblast-fin-d9dbe9be0f) — карточка источника.
+- [yaroslavl oblast fin f389ed6a32](/data-sources/regional/yaroslavl-oblast-fin-f389ed6a32) — карточка источника.
+- [yaroslavl oblast fin fbe925e136](/data-sources/regional/yaroslavl-oblast-fin-fbe925e136) — карточка источника.
+- [yaroslavl oblast fin ffd8857ac1](/data-sources/regional/yaroslavl-oblast-fin-ffd8857ac1) — карточка источника.
 
 ## Контекст
 

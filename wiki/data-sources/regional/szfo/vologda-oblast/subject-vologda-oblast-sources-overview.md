@@ -14,6 +14,19 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/vologda-oblast-fin-0759cf63de
+  - /data-sources/regional/vologda-oblast-fin-0df5748392
+  - /data-sources/regional/vologda-oblast-fin-0e60c0f783
+  - /data-sources/regional/vologda-oblast-fin-3f1eebf4b1
+  - /data-sources/regional/vologda-oblast-fin-4f376739d4
+  - /data-sources/regional/vologda-oblast-fin-7ffc836b47
+  - /data-sources/regional/vologda-oblast-fin-8443c5a604
+  - /data-sources/regional/vologda-oblast-fin-863d432901
+  - /data-sources/regional/vologda-oblast-fin-8d2d06531a
+  - /data-sources/regional/vologda-oblast-fin-acc45250d7
+  - /data-sources/regional/vologda-oblast-fin-c36c37e072
+  - /data-sources/regional/vologda-oblast-fin-e886a8c257
+  - /data-sources/regional/vologda-oblast-fin-f6f753ec2f
 ---
 
 # Вологодская область: источники данных
@@ -22,7 +35,19 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [vologda oblast fin 0759cf63de](/data-sources/regional/vologda-oblast-fin-0759cf63de) — карточка источника.
+- [vologda oblast fin 0df5748392](/data-sources/regional/vologda-oblast-fin-0df5748392) — карточка источника.
+- [vologda oblast fin 0e60c0f783](/data-sources/regional/vologda-oblast-fin-0e60c0f783) — карточка источника.
+- [vologda oblast fin 3f1eebf4b1](/data-sources/regional/vologda-oblast-fin-3f1eebf4b1) — карточка источника.
+- [vologda oblast fin 4f376739d4](/data-sources/regional/vologda-oblast-fin-4f376739d4) — карточка источника.
+- [vologda oblast fin 7ffc836b47](/data-sources/regional/vologda-oblast-fin-7ffc836b47) — карточка источника.
+- [vologda oblast fin 8443c5a604](/data-sources/regional/vologda-oblast-fin-8443c5a604) — карточка источника.
+- [vologda oblast fin 863d432901](/data-sources/regional/vologda-oblast-fin-863d432901) — карточка источника.
+- [vologda oblast fin 8d2d06531a](/data-sources/regional/vologda-oblast-fin-8d2d06531a) — карточка источника.
+- [vologda oblast fin acc45250d7](/data-sources/regional/vologda-oblast-fin-acc45250d7) — карточка источника.
+- [vologda oblast fin c36c37e072](/data-sources/regional/vologda-oblast-fin-c36c37e072) — карточка источника.
+- [vologda oblast fin e886a8c257](/data-sources/regional/vologda-oblast-fin-e886a8c257) — карточка источника.
+- [vologda oblast fin f6f753ec2f](/data-sources/regional/vologda-oblast-fin-f6f753ec2f) — карточка источника.
 
 ## Контекст
 

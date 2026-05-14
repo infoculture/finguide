@@ -14,6 +14,16 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/republic-of-crimea-fin-1710af89bf
+  - /data-sources/regional/republic-of-crimea-fin-26b5747827
+  - /data-sources/regional/republic-of-crimea-fin-2f6caa45b3
+  - /data-sources/regional/republic-of-crimea-fin-6de00f8b60
+  - /data-sources/regional/republic-of-crimea-fin-8bfa746848
+  - /data-sources/regional/republic-of-crimea-fin-a2d4f7901f
+  - /data-sources/regional/republic-of-crimea-fin-bd29f7c468
+  - /data-sources/regional/republic-of-crimea-fin-d3326523d3
+  - /data-sources/regional/republic-of-crimea-fin-e5effa0c77
+  - /data-sources/regional/republic-of-crimea-fin-fb47a53c53
 ---
 
 # Республика Крым: источники данных
@@ -22,7 +32,16 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [republic of crimea fin 1710af89bf](/data-sources/regional/republic-of-crimea-fin-1710af89bf) — карточка источника.
+- [republic of crimea fin 26b5747827](/data-sources/regional/republic-of-crimea-fin-26b5747827) — карточка источника.
+- [republic of crimea fin 2f6caa45b3](/data-sources/regional/republic-of-crimea-fin-2f6caa45b3) — карточка источника.
+- [republic of crimea fin 6de00f8b60](/data-sources/regional/republic-of-crimea-fin-6de00f8b60) — карточка источника.
+- [republic of crimea fin 8bfa746848](/data-sources/regional/republic-of-crimea-fin-8bfa746848) — карточка источника.
+- [republic of crimea fin a2d4f7901f](/data-sources/regional/republic-of-crimea-fin-a2d4f7901f) — карточка источника.
+- [republic of crimea fin bd29f7c468](/data-sources/regional/republic-of-crimea-fin-bd29f7c468) — карточка источника.
+- [republic of crimea fin d3326523d3](/data-sources/regional/republic-of-crimea-fin-d3326523d3) — карточка источника.
+- [republic of crimea fin e5effa0c77](/data-sources/regional/republic-of-crimea-fin-e5effa0c77) — карточка источника.
+- [republic of crimea fin fb47a53c53](/data-sources/regional/republic-of-crimea-fin-fb47a53c53) — карточка источника.
 
 ## Контекст
 

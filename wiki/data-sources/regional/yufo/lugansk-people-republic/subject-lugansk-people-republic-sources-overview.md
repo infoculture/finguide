@@ -14,6 +14,15 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/lugansk-people-republic-fin-45940799ef
+  - /data-sources/regional/lugansk-people-republic-fin-461c484fc1
+  - /data-sources/regional/lugansk-people-republic-fin-93b4c68661
+  - /data-sources/regional/lugansk-people-republic-fin-9582aff4f1
+  - /data-sources/regional/lugansk-people-republic-fin-e08576aed4
+  - /data-sources/regional/lugansk-people-republic-fin-e5536bd217
+  - /data-sources/regional/lugansk-people-republic-fin-eb17ee6276
+  - /data-sources/regional/lugansk-people-republic-fin-f452a46d9b
+  - /data-sources/regional/lugansk-people-republic-fin-f7d1320148
 ---
 
 # Луганская Народная Республика: источники данных
@@ -22,7 +31,15 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [lugansk people republic fin 45940799ef](/data-sources/regional/lugansk-people-republic-fin-45940799ef) — карточка источника.
+- [lugansk people republic fin 461c484fc1](/data-sources/regional/lugansk-people-republic-fin-461c484fc1) — карточка источника.
+- [lugansk people republic fin 93b4c68661](/data-sources/regional/lugansk-people-republic-fin-93b4c68661) — карточка источника.
+- [lugansk people republic fin 9582aff4f1](/data-sources/regional/lugansk-people-republic-fin-9582aff4f1) — карточка источника.
+- [lugansk people republic fin e08576aed4](/data-sources/regional/lugansk-people-republic-fin-e08576aed4) — карточка источника.
+- [lugansk people republic fin e5536bd217](/data-sources/regional/lugansk-people-republic-fin-e5536bd217) — карточка источника.
+- [lugansk people republic fin eb17ee6276](/data-sources/regional/lugansk-people-republic-fin-eb17ee6276) — карточка источника.
+- [lugansk people republic fin f452a46d9b](/data-sources/regional/lugansk-people-republic-fin-f452a46d9b) — карточка источника.
+- [lugansk people republic fin f7d1320148](/data-sources/regional/lugansk-people-republic-fin-f7d1320148) — карточка источника.
 
 ## Контекст
 

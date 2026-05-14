@@ -14,6 +14,14 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/republic-of-sakha-yakutia-fin-0c2466e2f2
+  - /data-sources/regional/republic-of-sakha-yakutia-fin-10fefd3b43
+  - /data-sources/regional/republic-of-sakha-yakutia-fin-35b28ededb
+  - /data-sources/regional/republic-of-sakha-yakutia-fin-9405f823e9
+  - /data-sources/regional/republic-of-sakha-yakutia-fin-a495484ad1
+  - /data-sources/regional/republic-of-sakha-yakutia-fin-c941bcabfb
+  - /data-sources/regional/republic-of-sakha-yakutia-fin-cdea6ee8fa
+  - /data-sources/regional/republic-of-sakha-yakutia-fin-f132fc354f
   - /data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov
 ---
 
@@ -23,6 +31,14 @@ related_pages:
 
 ## Карточки источников
 
+- [republic of sakha yakutia fin 0c2466e2f2](/data-sources/regional/republic-of-sakha-yakutia-fin-0c2466e2f2) — карточка источника.
+- [republic of sakha yakutia fin 10fefd3b43](/data-sources/regional/republic-of-sakha-yakutia-fin-10fefd3b43) — карточка источника.
+- [republic of sakha yakutia fin 35b28ededb](/data-sources/regional/republic-of-sakha-yakutia-fin-35b28ededb) — карточка источника.
+- [republic of sakha yakutia fin 9405f823e9](/data-sources/regional/republic-of-sakha-yakutia-fin-9405f823e9) — карточка источника.
+- [republic of sakha yakutia fin a495484ad1](/data-sources/regional/republic-of-sakha-yakutia-fin-a495484ad1) — карточка источника.
+- [republic of sakha yakutia fin c941bcabfb](/data-sources/regional/republic-of-sakha-yakutia-fin-c941bcabfb) — карточка источника.
+- [republic of sakha yakutia fin cdea6ee8fa](/data-sources/regional/republic-of-sakha-yakutia-fin-cdea6ee8fa) — карточка источника.
+- [republic of sakha yakutia fin f132fc354f](/data-sources/regional/republic-of-sakha-yakutia-fin-f132fc354f) — карточка источника.
 - [sakha yakutia procurement zakupki sakha gov](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov) — карточка источника.
 
 ## Контекст

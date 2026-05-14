@@ -14,6 +14,16 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/republic-of-buryatia-fin-0d4429c9ba
+  - /data-sources/regional/republic-of-buryatia-fin-2010ecbbad
+  - /data-sources/regional/republic-of-buryatia-fin-25227da278
+  - /data-sources/regional/republic-of-buryatia-fin-59a986786a
+  - /data-sources/regional/republic-of-buryatia-fin-5f2dff6c2d
+  - /data-sources/regional/republic-of-buryatia-fin-797bfeae80
+  - /data-sources/regional/republic-of-buryatia-fin-87b9b1ed2f
+  - /data-sources/regional/republic-of-buryatia-fin-90811e1c40
+  - /data-sources/regional/republic-of-buryatia-fin-b01a0e753c
+  - /data-sources/regional/republic-of-buryatia-fin-d63b6b16aa
 ---
 
 # Республика Бурятия: источники данных
@@ -22,7 +32,16 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [republic of buryatia fin 0d4429c9ba](/data-sources/regional/republic-of-buryatia-fin-0d4429c9ba) — карточка источника.
+- [republic of buryatia fin 2010ecbbad](/data-sources/regional/republic-of-buryatia-fin-2010ecbbad) — карточка источника.
+- [republic of buryatia fin 25227da278](/data-sources/regional/republic-of-buryatia-fin-25227da278) — карточка источника.
+- [republic of buryatia fin 59a986786a](/data-sources/regional/republic-of-buryatia-fin-59a986786a) — карточка источника.
+- [republic of buryatia fin 5f2dff6c2d](/data-sources/regional/republic-of-buryatia-fin-5f2dff6c2d) — карточка источника.
+- [republic of buryatia fin 797bfeae80](/data-sources/regional/republic-of-buryatia-fin-797bfeae80) — карточка источника.
+- [republic of buryatia fin 87b9b1ed2f](/data-sources/regional/republic-of-buryatia-fin-87b9b1ed2f) — карточка источника.
+- [republic of buryatia fin 90811e1c40](/data-sources/regional/republic-of-buryatia-fin-90811e1c40) — карточка источника.
+- [republic of buryatia fin b01a0e753c](/data-sources/regional/republic-of-buryatia-fin-b01a0e753c) — карточка источника.
+- [republic of buryatia fin d63b6b16aa](/data-sources/regional/republic-of-buryatia-fin-d63b6b16aa) — карточка источника.
 
 ## Контекст
 

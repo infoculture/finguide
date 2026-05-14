@@ -14,6 +14,22 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/vladimir-oblast-fin-01af8c3a4d
+  - /data-sources/regional/vladimir-oblast-fin-09d4c5e78a
+  - /data-sources/regional/vladimir-oblast-fin-28c37b3fa5
+  - /data-sources/regional/vladimir-oblast-fin-2a0c4f9ea3
+  - /data-sources/regional/vladimir-oblast-fin-32d524ab04
+  - /data-sources/regional/vladimir-oblast-fin-3e50a5cac7
+  - /data-sources/regional/vladimir-oblast-fin-3ff1693f82
+  - /data-sources/regional/vladimir-oblast-fin-727cda2921
+  - /data-sources/regional/vladimir-oblast-fin-95c410d662
+  - /data-sources/regional/vladimir-oblast-fin-98867f1936
+  - /data-sources/regional/vladimir-oblast-fin-a5125266de
+  - /data-sources/regional/vladimir-oblast-fin-b3e1ba9dbe
+  - /data-sources/regional/vladimir-oblast-fin-b5ffe5b5ce
+  - /data-sources/regional/vladimir-oblast-fin-bb4bdab18f
+  - /data-sources/regional/vladimir-oblast-fin-c3073971a5
+  - /data-sources/regional/vladimir-oblast-fin-fb0b58038d
 ---
 
 # Владимирская область: источники данных
@@ -22,7 +38,22 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [vladimir oblast fin 01af8c3a4d](/data-sources/regional/vladimir-oblast-fin-01af8c3a4d) — карточка источника.
+- [vladimir oblast fin 09d4c5e78a](/data-sources/regional/vladimir-oblast-fin-09d4c5e78a) — карточка источника.
+- [vladimir oblast fin 28c37b3fa5](/data-sources/regional/vladimir-oblast-fin-28c37b3fa5) — карточка источника.
+- [vladimir oblast fin 2a0c4f9ea3](/data-sources/regional/vladimir-oblast-fin-2a0c4f9ea3) — карточка источника.
+- [vladimir oblast fin 32d524ab04](/data-sources/regional/vladimir-oblast-fin-32d524ab04) — карточка источника.
+- [vladimir oblast fin 3e50a5cac7](/data-sources/regional/vladimir-oblast-fin-3e50a5cac7) — карточка источника.
+- [vladimir oblast fin 3ff1693f82](/data-sources/regional/vladimir-oblast-fin-3ff1693f82) — карточка источника.
+- [vladimir oblast fin 727cda2921](/data-sources/regional/vladimir-oblast-fin-727cda2921) — карточка источника.
+- [vladimir oblast fin 95c410d662](/data-sources/regional/vladimir-oblast-fin-95c410d662) — карточка источника.
+- [vladimir oblast fin 98867f1936](/data-sources/regional/vladimir-oblast-fin-98867f1936) — карточка источника.
+- [vladimir oblast fin a5125266de](/data-sources/regional/vladimir-oblast-fin-a5125266de) — карточка источника.
+- [vladimir oblast fin b3e1ba9dbe](/data-sources/regional/vladimir-oblast-fin-b3e1ba9dbe) — карточка источника.
+- [vladimir oblast fin b5ffe5b5ce](/data-sources/regional/vladimir-oblast-fin-b5ffe5b5ce) — карточка источника.
+- [vladimir oblast fin bb4bdab18f](/data-sources/regional/vladimir-oblast-fin-bb4bdab18f) — карточка источника.
+- [vladimir oblast fin c3073971a5](/data-sources/regional/vladimir-oblast-fin-c3073971a5) — карточка источника.
+- [vladimir oblast fin fb0b58038d](/data-sources/regional/vladimir-oblast-fin-fb0b58038d) — карточка источника.
 
 ## Контекст
 

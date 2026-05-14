@@ -14,6 +14,15 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/republic-of-komi-fin-0d89be7624
+  - /data-sources/regional/republic-of-komi-fin-13d8a20f3e
+  - /data-sources/regional/republic-of-komi-fin-287207244c
+  - /data-sources/regional/republic-of-komi-fin-36a3141998
+  - /data-sources/regional/republic-of-komi-fin-3aeef4ff91
+  - /data-sources/regional/republic-of-komi-fin-3de0c0b06f
+  - /data-sources/regional/republic-of-komi-fin-98394e0e0d
+  - /data-sources/regional/republic-of-komi-fin-cf4a253d72
+  - /data-sources/regional/republic-of-komi-fin-dfe94f8dbd
 ---
 
 # Республика Коми: источники данных
@@ -22,7 +31,15 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [republic of komi fin 0d89be7624](/data-sources/regional/republic-of-komi-fin-0d89be7624) — карточка источника.
+- [republic of komi fin 13d8a20f3e](/data-sources/regional/republic-of-komi-fin-13d8a20f3e) — карточка источника.
+- [republic of komi fin 287207244c](/data-sources/regional/republic-of-komi-fin-287207244c) — карточка источника.
+- [republic of komi fin 36a3141998](/data-sources/regional/republic-of-komi-fin-36a3141998) — карточка источника.
+- [republic of komi fin 3aeef4ff91](/data-sources/regional/republic-of-komi-fin-3aeef4ff91) — карточка источника.
+- [republic of komi fin 3de0c0b06f](/data-sources/regional/republic-of-komi-fin-3de0c0b06f) — карточка источника.
+- [republic of komi fin 98394e0e0d](/data-sources/regional/republic-of-komi-fin-98394e0e0d) — карточка источника.
+- [republic of komi fin cf4a253d72](/data-sources/regional/republic-of-komi-fin-cf4a253d72) — карточка источника.
+- [republic of komi fin dfe94f8dbd](/data-sources/regional/republic-of-komi-fin-dfe94f8dbd) — карточка источника.
 
 ## Контекст
 

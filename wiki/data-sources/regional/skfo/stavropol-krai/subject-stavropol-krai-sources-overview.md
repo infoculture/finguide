@@ -14,6 +14,20 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/stavropol-krai-fin-02d4e48dbf
+  - /data-sources/regional/stavropol-krai-fin-104c9f80f1
+  - /data-sources/regional/stavropol-krai-fin-2359d99317
+  - /data-sources/regional/stavropol-krai-fin-2f60c7230a
+  - /data-sources/regional/stavropol-krai-fin-44640aabe7
+  - /data-sources/regional/stavropol-krai-fin-506e5da077
+  - /data-sources/regional/stavropol-krai-fin-66866f7e76
+  - /data-sources/regional/stavropol-krai-fin-77418e572a
+  - /data-sources/regional/stavropol-krai-fin-77d81efca5
+  - /data-sources/regional/stavropol-krai-fin-7a50977f54
+  - /data-sources/regional/stavropol-krai-fin-94b2b5e41c
+  - /data-sources/regional/stavropol-krai-fin-d2b9902c8e
+  - /data-sources/regional/stavropol-krai-fin-e370c4e5e8
+  - /data-sources/regional/stavropol-krai-fin-edc84779d9
 ---
 
 # Ставропольский край: источники данных
@@ -22,7 +36,20 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [stavropol krai fin 02d4e48dbf](/data-sources/regional/stavropol-krai-fin-02d4e48dbf) — карточка источника.
+- [stavropol krai fin 104c9f80f1](/data-sources/regional/stavropol-krai-fin-104c9f80f1) — карточка источника.
+- [stavropol krai fin 2359d99317](/data-sources/regional/stavropol-krai-fin-2359d99317) — карточка источника.
+- [stavropol krai fin 2f60c7230a](/data-sources/regional/stavropol-krai-fin-2f60c7230a) — карточка источника.
+- [stavropol krai fin 44640aabe7](/data-sources/regional/stavropol-krai-fin-44640aabe7) — карточка источника.
+- [stavropol krai fin 506e5da077](/data-sources/regional/stavropol-krai-fin-506e5da077) — карточка источника.
+- [stavropol krai fin 66866f7e76](/data-sources/regional/stavropol-krai-fin-66866f7e76) — карточка источника.
+- [stavropol krai fin 77418e572a](/data-sources/regional/stavropol-krai-fin-77418e572a) — карточка источника.
+- [stavropol krai fin 77d81efca5](/data-sources/regional/stavropol-krai-fin-77d81efca5) — карточка источника.
+- [stavropol krai fin 7a50977f54](/data-sources/regional/stavropol-krai-fin-7a50977f54) — карточка источника.
+- [stavropol krai fin 94b2b5e41c](/data-sources/regional/stavropol-krai-fin-94b2b5e41c) — карточка источника.
+- [stavropol krai fin d2b9902c8e](/data-sources/regional/stavropol-krai-fin-d2b9902c8e) — карточка источника.
+- [stavropol krai fin e370c4e5e8](/data-sources/regional/stavropol-krai-fin-e370c4e5e8) — карточка источника.
+- [stavropol krai fin edc84779d9](/data-sources/regional/stavropol-krai-fin-edc84779d9) — карточка источника.
 
 ## Контекст
 

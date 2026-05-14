@@ -14,6 +14,17 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/republic-of-ingushetia-fin-185765c1fd
+  - /data-sources/regional/republic-of-ingushetia-fin-1b80e0501b
+  - /data-sources/regional/republic-of-ingushetia-fin-5f742a6584
+  - /data-sources/regional/republic-of-ingushetia-fin-69f60f857a
+  - /data-sources/regional/republic-of-ingushetia-fin-74317dbd33
+  - /data-sources/regional/republic-of-ingushetia-fin-840a70c957
+  - /data-sources/regional/republic-of-ingushetia-fin-917d4e5e49
+  - /data-sources/regional/republic-of-ingushetia-fin-975311b1f8
+  - /data-sources/regional/republic-of-ingushetia-fin-add9d07f5f
+  - /data-sources/regional/republic-of-ingushetia-fin-e4b66fdab4
+  - /data-sources/regional/republic-of-ingushetia-fin-e778e33b05
 ---
 
 # Республика Ингушетия: источники данных
@@ -22,7 +33,17 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [republic of ingushetia fin 185765c1fd](/data-sources/regional/republic-of-ingushetia-fin-185765c1fd) — карточка источника.
+- [republic of ingushetia fin 1b80e0501b](/data-sources/regional/republic-of-ingushetia-fin-1b80e0501b) — карточка источника.
+- [republic of ingushetia fin 5f742a6584](/data-sources/regional/republic-of-ingushetia-fin-5f742a6584) — карточка источника.
+- [republic of ingushetia fin 69f60f857a](/data-sources/regional/republic-of-ingushetia-fin-69f60f857a) — карточка источника.
+- [republic of ingushetia fin 74317dbd33](/data-sources/regional/republic-of-ingushetia-fin-74317dbd33) — карточка источника.
+- [republic of ingushetia fin 840a70c957](/data-sources/regional/republic-of-ingushetia-fin-840a70c957) — карточка источника.
+- [republic of ingushetia fin 917d4e5e49](/data-sources/regional/republic-of-ingushetia-fin-917d4e5e49) — карточка источника.
+- [republic of ingushetia fin 975311b1f8](/data-sources/regional/republic-of-ingushetia-fin-975311b1f8) — карточка источника.
+- [republic of ingushetia fin add9d07f5f](/data-sources/regional/republic-of-ingushetia-fin-add9d07f5f) — карточка источника.
+- [republic of ingushetia fin e4b66fdab4](/data-sources/regional/republic-of-ingushetia-fin-e4b66fdab4) — карточка источника.
+- [republic of ingushetia fin e778e33b05](/data-sources/regional/republic-of-ingushetia-fin-e778e33b05) — карточка источника.
 
 ## Контекст
 

@@ -14,6 +14,17 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/zabaykalsky-krai-fin-003d599f9f
+  - /data-sources/regional/zabaykalsky-krai-fin-084db955cb
+  - /data-sources/regional/zabaykalsky-krai-fin-1911f7eeed
+  - /data-sources/regional/zabaykalsky-krai-fin-1aa286c324
+  - /data-sources/regional/zabaykalsky-krai-fin-5a19642558
+  - /data-sources/regional/zabaykalsky-krai-fin-62399af6cb
+  - /data-sources/regional/zabaykalsky-krai-fin-64260c0daa
+  - /data-sources/regional/zabaykalsky-krai-fin-8c052c7390
+  - /data-sources/regional/zabaykalsky-krai-fin-94c8ffd229
+  - /data-sources/regional/zabaykalsky-krai-fin-dd8d0addde
+  - /data-sources/regional/zabaykalsky-krai-fin-e82816f4e8
 ---
 
 # Забайкальский край: источники данных
@@ -22,7 +33,17 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [zabaykalsky krai fin 003d599f9f](/data-sources/regional/zabaykalsky-krai-fin-003d599f9f) — карточка источника.
+- [zabaykalsky krai fin 084db955cb](/data-sources/regional/zabaykalsky-krai-fin-084db955cb) — карточка источника.
+- [zabaykalsky krai fin 1911f7eeed](/data-sources/regional/zabaykalsky-krai-fin-1911f7eeed) — карточка источника.
+- [zabaykalsky krai fin 1aa286c324](/data-sources/regional/zabaykalsky-krai-fin-1aa286c324) — карточка источника.
+- [zabaykalsky krai fin 5a19642558](/data-sources/regional/zabaykalsky-krai-fin-5a19642558) — карточка источника.
+- [zabaykalsky krai fin 62399af6cb](/data-sources/regional/zabaykalsky-krai-fin-62399af6cb) — карточка источника.
+- [zabaykalsky krai fin 64260c0daa](/data-sources/regional/zabaykalsky-krai-fin-64260c0daa) — карточка источника.
+- [zabaykalsky krai fin 8c052c7390](/data-sources/regional/zabaykalsky-krai-fin-8c052c7390) — карточка источника.
+- [zabaykalsky krai fin 94c8ffd229](/data-sources/regional/zabaykalsky-krai-fin-94c8ffd229) — карточка источника.
+- [zabaykalsky krai fin dd8d0addde](/data-sources/regional/zabaykalsky-krai-fin-dd8d0addde) — карточка источника.
+- [zabaykalsky krai fin e82816f4e8](/data-sources/regional/zabaykalsky-krai-fin-e82816f4e8) — карточка источника.
 
 ## Контекст
 

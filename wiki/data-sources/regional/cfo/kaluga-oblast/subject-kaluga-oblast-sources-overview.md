@@ -14,6 +14,15 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/kaluga-oblast-fin-209da2119e
+  - /data-sources/regional/kaluga-oblast-fin-34ab41c4db
+  - /data-sources/regional/kaluga-oblast-fin-405a5c83af
+  - /data-sources/regional/kaluga-oblast-fin-5edc7390ce
+  - /data-sources/regional/kaluga-oblast-fin-67f82f1090
+  - /data-sources/regional/kaluga-oblast-fin-bd30aff086
+  - /data-sources/regional/kaluga-oblast-fin-c36d2f2c04
+  - /data-sources/regional/kaluga-oblast-fin-e0b9623857
+  - /data-sources/regional/kaluga-oblast-fin-efe38d1118
 ---
 
 # Калужская область: источники данных
@@ -22,7 +31,15 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [kaluga oblast fin 209da2119e](/data-sources/regional/kaluga-oblast-fin-209da2119e) — карточка источника.
+- [kaluga oblast fin 34ab41c4db](/data-sources/regional/kaluga-oblast-fin-34ab41c4db) — карточка источника.
+- [kaluga oblast fin 405a5c83af](/data-sources/regional/kaluga-oblast-fin-405a5c83af) — карточка источника.
+- [kaluga oblast fin 5edc7390ce](/data-sources/regional/kaluga-oblast-fin-5edc7390ce) — карточка источника.
+- [kaluga oblast fin 67f82f1090](/data-sources/regional/kaluga-oblast-fin-67f82f1090) — карточка источника.
+- [kaluga oblast fin bd30aff086](/data-sources/regional/kaluga-oblast-fin-bd30aff086) — карточка источника.
+- [kaluga oblast fin c36d2f2c04](/data-sources/regional/kaluga-oblast-fin-c36d2f2c04) — карточка источника.
+- [kaluga oblast fin e0b9623857](/data-sources/regional/kaluga-oblast-fin-e0b9623857) — карточка источника.
+- [kaluga oblast fin efe38d1118](/data-sources/regional/kaluga-oblast-fin-efe38d1118) — карточка источника.
 
 ## Контекст
 

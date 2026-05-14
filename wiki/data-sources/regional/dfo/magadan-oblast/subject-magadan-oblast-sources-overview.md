@@ -14,6 +14,16 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/magadan-oblast-fin-202c477372
+  - /data-sources/regional/magadan-oblast-fin-4523db3be4
+  - /data-sources/regional/magadan-oblast-fin-484d98c998
+  - /data-sources/regional/magadan-oblast-fin-5489001d0d
+  - /data-sources/regional/magadan-oblast-fin-5a8ccc9aa8
+  - /data-sources/regional/magadan-oblast-fin-73e9f3cd8a
+  - /data-sources/regional/magadan-oblast-fin-a66b28d979
+  - /data-sources/regional/magadan-oblast-fin-cffefc02a8
+  - /data-sources/regional/magadan-oblast-fin-dff5f97c58
+  - /data-sources/regional/magadan-oblast-fin-f6252f5545
 ---
 
 # Магаданская область: источники данных
@@ -22,7 +32,16 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [magadan oblast fin 202c477372](/data-sources/regional/magadan-oblast-fin-202c477372) — карточка источника.
+- [magadan oblast fin 4523db3be4](/data-sources/regional/magadan-oblast-fin-4523db3be4) — карточка источника.
+- [magadan oblast fin 484d98c998](/data-sources/regional/magadan-oblast-fin-484d98c998) — карточка источника.
+- [magadan oblast fin 5489001d0d](/data-sources/regional/magadan-oblast-fin-5489001d0d) — карточка источника.
+- [magadan oblast fin 5a8ccc9aa8](/data-sources/regional/magadan-oblast-fin-5a8ccc9aa8) — карточка источника.
+- [magadan oblast fin 73e9f3cd8a](/data-sources/regional/magadan-oblast-fin-73e9f3cd8a) — карточка источника.
+- [magadan oblast fin a66b28d979](/data-sources/regional/magadan-oblast-fin-a66b28d979) — карточка источника.
+- [magadan oblast fin cffefc02a8](/data-sources/regional/magadan-oblast-fin-cffefc02a8) — карточка источника.
+- [magadan oblast fin dff5f97c58](/data-sources/regional/magadan-oblast-fin-dff5f97c58) — карточка источника.
+- [magadan oblast fin f6252f5545](/data-sources/regional/magadan-oblast-fin-f6252f5545) — карточка источника.
 
 ## Контекст
 

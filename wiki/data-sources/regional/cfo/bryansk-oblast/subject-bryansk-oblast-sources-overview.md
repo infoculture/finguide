@@ -14,6 +14,15 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/bryansk-oblast-fin-22a658089f
+  - /data-sources/regional/bryansk-oblast-fin-2a0859f3bc
+  - /data-sources/regional/bryansk-oblast-fin-2bef11a4fc
+  - /data-sources/regional/bryansk-oblast-fin-6c3aced747
+  - /data-sources/regional/bryansk-oblast-fin-869593ae92
+  - /data-sources/regional/bryansk-oblast-fin-b827720c53
+  - /data-sources/regional/bryansk-oblast-fin-cd81bb06dd
+  - /data-sources/regional/bryansk-oblast-fin-ce3910ec53
+  - /data-sources/regional/bryansk-oblast-fin-d03c26997b
 ---
 
 # Брянская область: источники данных
@@ -22,7 +31,15 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [bryansk oblast fin 22a658089f](/data-sources/regional/bryansk-oblast-fin-22a658089f) — карточка источника.
+- [bryansk oblast fin 2a0859f3bc](/data-sources/regional/bryansk-oblast-fin-2a0859f3bc) — карточка источника.
+- [bryansk oblast fin 2bef11a4fc](/data-sources/regional/bryansk-oblast-fin-2bef11a4fc) — карточка источника.
+- [bryansk oblast fin 6c3aced747](/data-sources/regional/bryansk-oblast-fin-6c3aced747) — карточка источника.
+- [bryansk oblast fin 869593ae92](/data-sources/regional/bryansk-oblast-fin-869593ae92) — карточка источника.
+- [bryansk oblast fin b827720c53](/data-sources/regional/bryansk-oblast-fin-b827720c53) — карточка источника.
+- [bryansk oblast fin cd81bb06dd](/data-sources/regional/bryansk-oblast-fin-cd81bb06dd) — карточка источника.
+- [bryansk oblast fin ce3910ec53](/data-sources/regional/bryansk-oblast-fin-ce3910ec53) — карточка источника.
+- [bryansk oblast fin d03c26997b](/data-sources/regional/bryansk-oblast-fin-d03c26997b) — карточка источника.
 
 ## Контекст
 

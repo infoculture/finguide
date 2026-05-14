@@ -14,6 +14,15 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/republic-of-north-ossetia-alania-fin-214c4a1961
+  - /data-sources/regional/republic-of-north-ossetia-alania-fin-3b514f2f93
+  - /data-sources/regional/republic-of-north-ossetia-alania-fin-5f6ef8b150
+  - /data-sources/regional/republic-of-north-ossetia-alania-fin-6e135a7c98
+  - /data-sources/regional/republic-of-north-ossetia-alania-fin-70a633e2d2
+  - /data-sources/regional/republic-of-north-ossetia-alania-fin-953a35c635
+  - /data-sources/regional/republic-of-north-ossetia-alania-fin-96277a1273
+  - /data-sources/regional/republic-of-north-ossetia-alania-fin-a55b40627a
+  - /data-sources/regional/republic-of-north-ossetia-alania-fin-f9a2f891bc
 ---
 
 # Республика Северная Осетия — Алания: источники данных
@@ -22,7 +31,15 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [republic of north ossetia alania fin 214c4a1961](/data-sources/regional/republic-of-north-ossetia-alania-fin-214c4a1961) — карточка источника.
+- [republic of north ossetia alania fin 3b514f2f93](/data-sources/regional/republic-of-north-ossetia-alania-fin-3b514f2f93) — карточка источника.
+- [republic of north ossetia alania fin 5f6ef8b150](/data-sources/regional/republic-of-north-ossetia-alania-fin-5f6ef8b150) — карточка источника.
+- [republic of north ossetia alania fin 6e135a7c98](/data-sources/regional/republic-of-north-ossetia-alania-fin-6e135a7c98) — карточка источника.
+- [republic of north ossetia alania fin 70a633e2d2](/data-sources/regional/republic-of-north-ossetia-alania-fin-70a633e2d2) — карточка источника.
+- [republic of north ossetia alania fin 953a35c635](/data-sources/regional/republic-of-north-ossetia-alania-fin-953a35c635) — карточка источника.
+- [republic of north ossetia alania fin 96277a1273](/data-sources/regional/republic-of-north-ossetia-alania-fin-96277a1273) — карточка источника.
+- [republic of north ossetia alania fin a55b40627a](/data-sources/regional/republic-of-north-ossetia-alania-fin-a55b40627a) — карточка источника.
+- [republic of north ossetia alania fin f9a2f891bc](/data-sources/regional/republic-of-north-ossetia-alania-fin-f9a2f891bc) — карточка источника.
 
 ## Контекст
 

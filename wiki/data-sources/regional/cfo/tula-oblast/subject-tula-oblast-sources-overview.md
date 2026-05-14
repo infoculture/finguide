@@ -14,6 +14,15 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/tula-oblast-fin-00675e26d3
+  - /data-sources/regional/tula-oblast-fin-2b72861a16
+  - /data-sources/regional/tula-oblast-fin-32b77beee4
+  - /data-sources/regional/tula-oblast-fin-38b45bd581
+  - /data-sources/regional/tula-oblast-fin-568928f05e
+  - /data-sources/regional/tula-oblast-fin-a3a402a5bc
+  - /data-sources/regional/tula-oblast-fin-bd1eea2339
+  - /data-sources/regional/tula-oblast-fin-c93559eaa1
+  - /data-sources/regional/tula-oblast-fin-dbb8f19b00
 ---
 
 # Тульская область: источники данных
@@ -22,7 +31,15 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [tula oblast fin 00675e26d3](/data-sources/regional/tula-oblast-fin-00675e26d3) — карточка источника.
+- [tula oblast fin 2b72861a16](/data-sources/regional/tula-oblast-fin-2b72861a16) — карточка источника.
+- [tula oblast fin 32b77beee4](/data-sources/regional/tula-oblast-fin-32b77beee4) — карточка источника.
+- [tula oblast fin 38b45bd581](/data-sources/regional/tula-oblast-fin-38b45bd581) — карточка источника.
+- [tula oblast fin 568928f05e](/data-sources/regional/tula-oblast-fin-568928f05e) — карточка источника.
+- [tula oblast fin a3a402a5bc](/data-sources/regional/tula-oblast-fin-a3a402a5bc) — карточка источника.
+- [tula oblast fin bd1eea2339](/data-sources/regional/tula-oblast-fin-bd1eea2339) — карточка источника.
+- [tula oblast fin c93559eaa1](/data-sources/regional/tula-oblast-fin-c93559eaa1) — карточка источника.
+- [tula oblast fin dbb8f19b00](/data-sources/regional/tula-oblast-fin-dbb8f19b00) — карточка источника.
 
 ## Контекст
 

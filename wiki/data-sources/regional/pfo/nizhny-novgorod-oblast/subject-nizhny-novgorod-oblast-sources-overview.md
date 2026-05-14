@@ -15,6 +15,16 @@ related_pages:
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
   - /data-sources/regional/nizhny-novgorod-city-open-budget-budgetnn
+  - /data-sources/regional/nizhny-novgorod-oblast-fin-2496b5af6f
+  - /data-sources/regional/nizhny-novgorod-oblast-fin-29120e1205
+  - /data-sources/regional/nizhny-novgorod-oblast-fin-336afd5adb
+  - /data-sources/regional/nizhny-novgorod-oblast-fin-47b2532915
+  - /data-sources/regional/nizhny-novgorod-oblast-fin-7ed65df3d6
+  - /data-sources/regional/nizhny-novgorod-oblast-fin-82c8f6e2f3
+  - /data-sources/regional/nizhny-novgorod-oblast-fin-a5e9c60ab1
+  - /data-sources/regional/nizhny-novgorod-oblast-fin-dbdba2bc3d
+  - /data-sources/regional/nizhny-novgorod-oblast-fin-e8f07d2705
+  - /data-sources/regional/nizhny-novgorod-oblast-fin-f32aabd95a
 ---
 
 # Нижегородская область: источники данных
@@ -24,6 +34,16 @@ related_pages:
 ## Карточки источников
 
 - [nizhny novgorod city open budget budgetnn](/data-sources/regional/nizhny-novgorod-city-open-budget-budgetnn) — карточка источника.
+- [nizhny novgorod oblast fin 2496b5af6f](/data-sources/regional/nizhny-novgorod-oblast-fin-2496b5af6f) — карточка источника.
+- [nizhny novgorod oblast fin 29120e1205](/data-sources/regional/nizhny-novgorod-oblast-fin-29120e1205) — карточка источника.
+- [nizhny novgorod oblast fin 336afd5adb](/data-sources/regional/nizhny-novgorod-oblast-fin-336afd5adb) — карточка источника.
+- [nizhny novgorod oblast fin 47b2532915](/data-sources/regional/nizhny-novgorod-oblast-fin-47b2532915) — карточка источника.
+- [nizhny novgorod oblast fin 7ed65df3d6](/data-sources/regional/nizhny-novgorod-oblast-fin-7ed65df3d6) — карточка источника.
+- [nizhny novgorod oblast fin 82c8f6e2f3](/data-sources/regional/nizhny-novgorod-oblast-fin-82c8f6e2f3) — карточка источника.
+- [nizhny novgorod oblast fin a5e9c60ab1](/data-sources/regional/nizhny-novgorod-oblast-fin-a5e9c60ab1) — карточка источника.
+- [nizhny novgorod oblast fin dbdba2bc3d](/data-sources/regional/nizhny-novgorod-oblast-fin-dbdba2bc3d) — карточка источника.
+- [nizhny novgorod oblast fin e8f07d2705](/data-sources/regional/nizhny-novgorod-oblast-fin-e8f07d2705) — карточка источника.
+- [nizhny novgorod oblast fin f32aabd95a](/data-sources/regional/nizhny-novgorod-oblast-fin-f32aabd95a) — карточка источника.
 
 ## Контекст
 

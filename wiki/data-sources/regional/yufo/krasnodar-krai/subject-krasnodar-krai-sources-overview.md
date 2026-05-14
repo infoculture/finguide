@@ -14,6 +14,16 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/krasnodar-krai-fin-21a7fc989a
+  - /data-sources/regional/krasnodar-krai-fin-35bdf258cf
+  - /data-sources/regional/krasnodar-krai-fin-59586acd5d
+  - /data-sources/regional/krasnodar-krai-fin-7c7ae2aa31
+  - /data-sources/regional/krasnodar-krai-fin-866b6ae47a
+  - /data-sources/regional/krasnodar-krai-fin-b4abd10ec6
+  - /data-sources/regional/krasnodar-krai-fin-c22b171eee
+  - /data-sources/regional/krasnodar-krai-fin-cd270884fb
+  - /data-sources/regional/krasnodar-krai-fin-d443679462
+  - /data-sources/regional/krasnodar-krai-fin-f5c4be8c86
   - /data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar
 ---
 
@@ -23,6 +33,16 @@ related_pages:
 
 ## Карточки источников
 
+- [krasnodar krai fin 21a7fc989a](/data-sources/regional/krasnodar-krai-fin-21a7fc989a) — карточка источника.
+- [krasnodar krai fin 35bdf258cf](/data-sources/regional/krasnodar-krai-fin-35bdf258cf) — карточка источника.
+- [krasnodar krai fin 59586acd5d](/data-sources/regional/krasnodar-krai-fin-59586acd5d) — карточка источника.
+- [krasnodar krai fin 7c7ae2aa31](/data-sources/regional/krasnodar-krai-fin-7c7ae2aa31) — карточка источника.
+- [krasnodar krai fin 866b6ae47a](/data-sources/regional/krasnodar-krai-fin-866b6ae47a) — карточка источника.
+- [krasnodar krai fin b4abd10ec6](/data-sources/regional/krasnodar-krai-fin-b4abd10ec6) — карточка источника.
+- [krasnodar krai fin c22b171eee](/data-sources/regional/krasnodar-krai-fin-c22b171eee) — карточка источника.
+- [krasnodar krai fin cd270884fb](/data-sources/regional/krasnodar-krai-fin-cd270884fb) — карточка источника.
+- [krasnodar krai fin d443679462](/data-sources/regional/krasnodar-krai-fin-d443679462) — карточка источника.
+- [krasnodar krai fin f5c4be8c86](/data-sources/regional/krasnodar-krai-fin-f5c4be8c86) — карточка источника.
 - [krasnodar krai procurement drcs krasnodar](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar) — карточка источника.
 
 ## Контекст

@@ -14,6 +14,19 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/republic-of-khakassia-fin-1c7a37ad80
+  - /data-sources/regional/republic-of-khakassia-fin-25913616ca
+  - /data-sources/regional/republic-of-khakassia-fin-2adfb9a688
+  - /data-sources/regional/republic-of-khakassia-fin-43ba883e82
+  - /data-sources/regional/republic-of-khakassia-fin-53e41e8022
+  - /data-sources/regional/republic-of-khakassia-fin-5b8b8e5ebb
+  - /data-sources/regional/republic-of-khakassia-fin-6728356610
+  - /data-sources/regional/republic-of-khakassia-fin-89e066eb35
+  - /data-sources/regional/republic-of-khakassia-fin-8d69e203e7
+  - /data-sources/regional/republic-of-khakassia-fin-93ccde48a8
+  - /data-sources/regional/republic-of-khakassia-fin-93efe4efca
+  - /data-sources/regional/republic-of-khakassia-fin-ca980c39c0
+  - /data-sources/regional/republic-of-khakassia-fin-fb90c253a4
 ---
 
 # Республика Хакасия: источники данных
@@ -22,7 +35,19 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [republic of khakassia fin 1c7a37ad80](/data-sources/regional/republic-of-khakassia-fin-1c7a37ad80) — карточка источника.
+- [republic of khakassia fin 25913616ca](/data-sources/regional/republic-of-khakassia-fin-25913616ca) — карточка источника.
+- [republic of khakassia fin 2adfb9a688](/data-sources/regional/republic-of-khakassia-fin-2adfb9a688) — карточка источника.
+- [republic of khakassia fin 43ba883e82](/data-sources/regional/republic-of-khakassia-fin-43ba883e82) — карточка источника.
+- [republic of khakassia fin 53e41e8022](/data-sources/regional/republic-of-khakassia-fin-53e41e8022) — карточка источника.
+- [republic of khakassia fin 5b8b8e5ebb](/data-sources/regional/republic-of-khakassia-fin-5b8b8e5ebb) — карточка источника.
+- [republic of khakassia fin 6728356610](/data-sources/regional/republic-of-khakassia-fin-6728356610) — карточка источника.
+- [republic of khakassia fin 89e066eb35](/data-sources/regional/republic-of-khakassia-fin-89e066eb35) — карточка источника.
+- [republic of khakassia fin 8d69e203e7](/data-sources/regional/republic-of-khakassia-fin-8d69e203e7) — карточка источника.
+- [republic of khakassia fin 93ccde48a8](/data-sources/regional/republic-of-khakassia-fin-93ccde48a8) — карточка источника.
+- [republic of khakassia fin 93efe4efca](/data-sources/regional/republic-of-khakassia-fin-93efe4efca) — карточка источника.
+- [republic of khakassia fin ca980c39c0](/data-sources/regional/republic-of-khakassia-fin-ca980c39c0) — карточка источника.
+- [republic of khakassia fin fb90c253a4](/data-sources/regional/republic-of-khakassia-fin-fb90c253a4) — карточка источника.
 
 ## Контекст
 

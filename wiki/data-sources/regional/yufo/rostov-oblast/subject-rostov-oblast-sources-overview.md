@@ -14,6 +14,16 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/rostov-oblast-fin-1727ef8889
+  - /data-sources/regional/rostov-oblast-fin-2e7e92c33b
+  - /data-sources/regional/rostov-oblast-fin-3a0cca01ba
+  - /data-sources/regional/rostov-oblast-fin-3f664b20a8
+  - /data-sources/regional/rostov-oblast-fin-489f0aabda
+  - /data-sources/regional/rostov-oblast-fin-82fa323a3e
+  - /data-sources/regional/rostov-oblast-fin-8f49619264
+  - /data-sources/regional/rostov-oblast-fin-b3547a8312
+  - /data-sources/regional/rostov-oblast-fin-f8d72dd4b5
+  - /data-sources/regional/rostov-oblast-fin-f909ab2905
 ---
 
 # Ростовская область: источники данных
@@ -22,7 +32,16 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [rostov oblast fin 1727ef8889](/data-sources/regional/rostov-oblast-fin-1727ef8889) — карточка источника.
+- [rostov oblast fin 2e7e92c33b](/data-sources/regional/rostov-oblast-fin-2e7e92c33b) — карточка источника.
+- [rostov oblast fin 3a0cca01ba](/data-sources/regional/rostov-oblast-fin-3a0cca01ba) — карточка источника.
+- [rostov oblast fin 3f664b20a8](/data-sources/regional/rostov-oblast-fin-3f664b20a8) — карточка источника.
+- [rostov oblast fin 489f0aabda](/data-sources/regional/rostov-oblast-fin-489f0aabda) — карточка источника.
+- [rostov oblast fin 82fa323a3e](/data-sources/regional/rostov-oblast-fin-82fa323a3e) — карточка источника.
+- [rostov oblast fin 8f49619264](/data-sources/regional/rostov-oblast-fin-8f49619264) — карточка источника.
+- [rostov oblast fin b3547a8312](/data-sources/regional/rostov-oblast-fin-b3547a8312) — карточка источника.
+- [rostov oblast fin f8d72dd4b5](/data-sources/regional/rostov-oblast-fin-f8d72dd4b5) — карточка источника.
+- [rostov oblast fin f909ab2905](/data-sources/regional/rostov-oblast-fin-f909ab2905) — карточка источника.
 
 ## Контекст
 

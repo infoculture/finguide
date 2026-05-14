@@ -14,6 +14,15 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/smolensk-oblast-fin-00af2a4d7c
+  - /data-sources/regional/smolensk-oblast-fin-2acabf4244
+  - /data-sources/regional/smolensk-oblast-fin-6cddb1e79c
+  - /data-sources/regional/smolensk-oblast-fin-9a474a3348
+  - /data-sources/regional/smolensk-oblast-fin-abcb4967b9
+  - /data-sources/regional/smolensk-oblast-fin-d27e4ce0bd
+  - /data-sources/regional/smolensk-oblast-fin-dbf3367484
+  - /data-sources/regional/smolensk-oblast-fin-ea2b82639b
+  - /data-sources/regional/smolensk-oblast-fin-ec60c71691
 ---
 
 # Смоленская область: источники данных
@@ -22,7 +31,15 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [smolensk oblast fin 00af2a4d7c](/data-sources/regional/smolensk-oblast-fin-00af2a4d7c) — карточка источника.
+- [smolensk oblast fin 2acabf4244](/data-sources/regional/smolensk-oblast-fin-2acabf4244) — карточка источника.
+- [smolensk oblast fin 6cddb1e79c](/data-sources/regional/smolensk-oblast-fin-6cddb1e79c) — карточка источника.
+- [smolensk oblast fin 9a474a3348](/data-sources/regional/smolensk-oblast-fin-9a474a3348) — карточка источника.
+- [smolensk oblast fin abcb4967b9](/data-sources/regional/smolensk-oblast-fin-abcb4967b9) — карточка источника.
+- [smolensk oblast fin d27e4ce0bd](/data-sources/regional/smolensk-oblast-fin-d27e4ce0bd) — карточка источника.
+- [smolensk oblast fin dbf3367484](/data-sources/regional/smolensk-oblast-fin-dbf3367484) — карточка источника.
+- [smolensk oblast fin ea2b82639b](/data-sources/regional/smolensk-oblast-fin-ea2b82639b) — карточка источника.
+- [smolensk oblast fin ec60c71691](/data-sources/regional/smolensk-oblast-fin-ec60c71691) — карточка источника.
 
 ## Контекст
 

@@ -14,6 +14,18 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/ryazan-oblast-fin-12e466b598
+  - /data-sources/regional/ryazan-oblast-fin-4f62335f99
+  - /data-sources/regional/ryazan-oblast-fin-621a86fa73
+  - /data-sources/regional/ryazan-oblast-fin-6933386d1e
+  - /data-sources/regional/ryazan-oblast-fin-806e16474f
+  - /data-sources/regional/ryazan-oblast-fin-822c45546b
+  - /data-sources/regional/ryazan-oblast-fin-adc99c2359
+  - /data-sources/regional/ryazan-oblast-fin-ba2d1ea219
+  - /data-sources/regional/ryazan-oblast-fin-d213e100eb
+  - /data-sources/regional/ryazan-oblast-fin-dd6845686c
+  - /data-sources/regional/ryazan-oblast-fin-ddb19b6608
+  - /data-sources/regional/ryazan-oblast-fin-f2df6a3ba7
 ---
 
 # Рязанская область: источники данных
@@ -22,7 +34,18 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [ryazan oblast fin 12e466b598](/data-sources/regional/ryazan-oblast-fin-12e466b598) — карточка источника.
+- [ryazan oblast fin 4f62335f99](/data-sources/regional/ryazan-oblast-fin-4f62335f99) — карточка источника.
+- [ryazan oblast fin 621a86fa73](/data-sources/regional/ryazan-oblast-fin-621a86fa73) — карточка источника.
+- [ryazan oblast fin 6933386d1e](/data-sources/regional/ryazan-oblast-fin-6933386d1e) — карточка источника.
+- [ryazan oblast fin 806e16474f](/data-sources/regional/ryazan-oblast-fin-806e16474f) — карточка источника.
+- [ryazan oblast fin 822c45546b](/data-sources/regional/ryazan-oblast-fin-822c45546b) — карточка источника.
+- [ryazan oblast fin adc99c2359](/data-sources/regional/ryazan-oblast-fin-adc99c2359) — карточка источника.
+- [ryazan oblast fin ba2d1ea219](/data-sources/regional/ryazan-oblast-fin-ba2d1ea219) — карточка источника.
+- [ryazan oblast fin d213e100eb](/data-sources/regional/ryazan-oblast-fin-d213e100eb) — карточка источника.
+- [ryazan oblast fin dd6845686c](/data-sources/regional/ryazan-oblast-fin-dd6845686c) — карточка источника.
+- [ryazan oblast fin ddb19b6608](/data-sources/regional/ryazan-oblast-fin-ddb19b6608) — карточка источника.
+- [ryazan oblast fin f2df6a3ba7](/data-sources/regional/ryazan-oblast-fin-f2df6a3ba7) — карточка источника.
 
 ## Контекст
 

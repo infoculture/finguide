@@ -14,6 +14,14 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/jewish-autonomous-oblast-fin-13eeb5558b
+  - /data-sources/regional/jewish-autonomous-oblast-fin-188ec475d3
+  - /data-sources/regional/jewish-autonomous-oblast-fin-260cd38794
+  - /data-sources/regional/jewish-autonomous-oblast-fin-6fa745c477
+  - /data-sources/regional/jewish-autonomous-oblast-fin-8db58af9b0
+  - /data-sources/regional/jewish-autonomous-oblast-fin-a1cdd49560
+  - /data-sources/regional/jewish-autonomous-oblast-fin-a7040d5a97
+  - /data-sources/regional/jewish-autonomous-oblast-fin-e676a4c710
 ---
 
 # Еврейская автономная область: источники данных
@@ -22,7 +30,14 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [jewish autonomous oblast fin 13eeb5558b](/data-sources/regional/jewish-autonomous-oblast-fin-13eeb5558b) — карточка источника.
+- [jewish autonomous oblast fin 188ec475d3](/data-sources/regional/jewish-autonomous-oblast-fin-188ec475d3) — карточка источника.
+- [jewish autonomous oblast fin 260cd38794](/data-sources/regional/jewish-autonomous-oblast-fin-260cd38794) — карточка источника.
+- [jewish autonomous oblast fin 6fa745c477](/data-sources/regional/jewish-autonomous-oblast-fin-6fa745c477) — карточка источника.
+- [jewish autonomous oblast fin 8db58af9b0](/data-sources/regional/jewish-autonomous-oblast-fin-8db58af9b0) — карточка источника.
+- [jewish autonomous oblast fin a1cdd49560](/data-sources/regional/jewish-autonomous-oblast-fin-a1cdd49560) — карточка источника.
+- [jewish autonomous oblast fin a7040d5a97](/data-sources/regional/jewish-autonomous-oblast-fin-a7040d5a97) — карточка источника.
+- [jewish autonomous oblast fin e676a4c710](/data-sources/regional/jewish-autonomous-oblast-fin-e676a4c710) — карточка источника.
 
 ## Контекст
 

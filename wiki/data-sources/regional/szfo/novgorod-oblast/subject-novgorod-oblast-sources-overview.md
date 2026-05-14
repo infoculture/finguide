@@ -14,6 +14,15 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/novgorod-oblast-fin-121c243e42
+  - /data-sources/regional/novgorod-oblast-fin-17e846ba32
+  - /data-sources/regional/novgorod-oblast-fin-5ed1f4175a
+  - /data-sources/regional/novgorod-oblast-fin-68d3d1eb6a
+  - /data-sources/regional/novgorod-oblast-fin-76aad48810
+  - /data-sources/regional/novgorod-oblast-fin-e937ea084f
+  - /data-sources/regional/novgorod-oblast-fin-f1a052e635
+  - /data-sources/regional/novgorod-oblast-fin-f91d7f0722
+  - /data-sources/regional/novgorod-oblast-fin-fcec4e1366
 ---
 
 # Новгородская область: источники данных
@@ -22,7 +31,15 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [novgorod oblast fin 121c243e42](/data-sources/regional/novgorod-oblast-fin-121c243e42) — карточка источника.
+- [novgorod oblast fin 17e846ba32](/data-sources/regional/novgorod-oblast-fin-17e846ba32) — карточка источника.
+- [novgorod oblast fin 5ed1f4175a](/data-sources/regional/novgorod-oblast-fin-5ed1f4175a) — карточка источника.
+- [novgorod oblast fin 68d3d1eb6a](/data-sources/regional/novgorod-oblast-fin-68d3d1eb6a) — карточка источника.
+- [novgorod oblast fin 76aad48810](/data-sources/regional/novgorod-oblast-fin-76aad48810) — карточка источника.
+- [novgorod oblast fin e937ea084f](/data-sources/regional/novgorod-oblast-fin-e937ea084f) — карточка источника.
+- [novgorod oblast fin f1a052e635](/data-sources/regional/novgorod-oblast-fin-f1a052e635) — карточка источника.
+- [novgorod oblast fin f91d7f0722](/data-sources/regional/novgorod-oblast-fin-f91d7f0722) — карточка источника.
+- [novgorod oblast fin fcec4e1366](/data-sources/regional/novgorod-oblast-fin-fcec4e1366) — карточка источника.
 
 ## Контекст
 

@@ -14,6 +14,17 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/tambov-oblast-fin-0e75613667
+  - /data-sources/regional/tambov-oblast-fin-1ccd6d4865
+  - /data-sources/regional/tambov-oblast-fin-2da8cd696c
+  - /data-sources/regional/tambov-oblast-fin-503371ee78
+  - /data-sources/regional/tambov-oblast-fin-52af077ba5
+  - /data-sources/regional/tambov-oblast-fin-58270c1747
+  - /data-sources/regional/tambov-oblast-fin-7927abd692
+  - /data-sources/regional/tambov-oblast-fin-84c86978b5
+  - /data-sources/regional/tambov-oblast-fin-aea24d2a73
+  - /data-sources/regional/tambov-oblast-fin-c5cd1a5c9b
+  - /data-sources/regional/tambov-oblast-fin-cdeba36f47
 ---
 
 # Тамбовская область: источники данных
@@ -22,7 +33,17 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [tambov oblast fin 0e75613667](/data-sources/regional/tambov-oblast-fin-0e75613667) — карточка источника.
+- [tambov oblast fin 1ccd6d4865](/data-sources/regional/tambov-oblast-fin-1ccd6d4865) — карточка источника.
+- [tambov oblast fin 2da8cd696c](/data-sources/regional/tambov-oblast-fin-2da8cd696c) — карточка источника.
+- [tambov oblast fin 503371ee78](/data-sources/regional/tambov-oblast-fin-503371ee78) — карточка источника.
+- [tambov oblast fin 52af077ba5](/data-sources/regional/tambov-oblast-fin-52af077ba5) — карточка источника.
+- [tambov oblast fin 58270c1747](/data-sources/regional/tambov-oblast-fin-58270c1747) — карточка источника.
+- [tambov oblast fin 7927abd692](/data-sources/regional/tambov-oblast-fin-7927abd692) — карточка источника.
+- [tambov oblast fin 84c86978b5](/data-sources/regional/tambov-oblast-fin-84c86978b5) — карточка источника.
+- [tambov oblast fin aea24d2a73](/data-sources/regional/tambov-oblast-fin-aea24d2a73) — карточка источника.
+- [tambov oblast fin c5cd1a5c9b](/data-sources/regional/tambov-oblast-fin-c5cd1a5c9b) — карточка источника.
+- [tambov oblast fin cdeba36f47](/data-sources/regional/tambov-oblast-fin-cdeba36f47) — карточка источника.
 
 ## Контекст
 

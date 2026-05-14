@@ -97,6 +97,7 @@ function buildRecords() {
       internal_links,
       source_url: data.source_url ?? null,
       last_verified: data.last_verified ?? null,
+      rag_priority: data.rag_priority ?? null,
       draft: data.draft === true,
       last_updated: data.last_updated ?? null,
     });

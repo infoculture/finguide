@@ -14,6 +14,16 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/republic-of-altai-fin-0974db1259
+  - /data-sources/regional/republic-of-altai-fin-12cd97c980
+  - /data-sources/regional/republic-of-altai-fin-1a6bed6303
+  - /data-sources/regional/republic-of-altai-fin-1e6881ec7d
+  - /data-sources/regional/republic-of-altai-fin-2993543a8a
+  - /data-sources/regional/republic-of-altai-fin-2ad3fa21f4
+  - /data-sources/regional/republic-of-altai-fin-34874fb21f
+  - /data-sources/regional/republic-of-altai-fin-35eb9829a4
+  - /data-sources/regional/republic-of-altai-fin-8cd884d8a1
+  - /data-sources/regional/republic-of-altai-fin-f4a71b4d9a
 ---
 
 # Республика Алтай: источники данных
@@ -22,7 +32,16 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [republic of altai fin 0974db1259](/data-sources/regional/republic-of-altai-fin-0974db1259) — карточка источника.
+- [republic of altai fin 12cd97c980](/data-sources/regional/republic-of-altai-fin-12cd97c980) — карточка источника.
+- [republic of altai fin 1a6bed6303](/data-sources/regional/republic-of-altai-fin-1a6bed6303) — карточка источника.
+- [republic of altai fin 1e6881ec7d](/data-sources/regional/republic-of-altai-fin-1e6881ec7d) — карточка источника.
+- [republic of altai fin 2993543a8a](/data-sources/regional/republic-of-altai-fin-2993543a8a) — карточка источника.
+- [republic of altai fin 2ad3fa21f4](/data-sources/regional/republic-of-altai-fin-2ad3fa21f4) — карточка источника.
+- [republic of altai fin 34874fb21f](/data-sources/regional/republic-of-altai-fin-34874fb21f) — карточка источника.
+- [republic of altai fin 35eb9829a4](/data-sources/regional/republic-of-altai-fin-35eb9829a4) — карточка источника.
+- [republic of altai fin 8cd884d8a1](/data-sources/regional/republic-of-altai-fin-8cd884d8a1) — карточка источника.
+- [republic of altai fin f4a71b4d9a](/data-sources/regional/republic-of-altai-fin-f4a71b4d9a) — карточка источника.
 
 ## Контекст
 

@@ -14,6 +14,15 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/chelyabinsk-oblast-fin-2aa8ae104e
+  - /data-sources/regional/chelyabinsk-oblast-fin-4f958bd32e
+  - /data-sources/regional/chelyabinsk-oblast-fin-6cc5ae9aae
+  - /data-sources/regional/chelyabinsk-oblast-fin-80fac1f2fe
+  - /data-sources/regional/chelyabinsk-oblast-fin-943653fa71
+  - /data-sources/regional/chelyabinsk-oblast-fin-b251ca4d1e
+  - /data-sources/regional/chelyabinsk-oblast-fin-e2b0d397e9
+  - /data-sources/regional/chelyabinsk-oblast-fin-f462017de2
+  - /data-sources/regional/chelyabinsk-oblast-fin-f480b60fd8
 ---
 
 # Челябинская область: источники данных
@@ -22,7 +31,15 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [chelyabinsk oblast fin 2aa8ae104e](/data-sources/regional/chelyabinsk-oblast-fin-2aa8ae104e) — карточка источника.
+- [chelyabinsk oblast fin 4f958bd32e](/data-sources/regional/chelyabinsk-oblast-fin-4f958bd32e) — карточка источника.
+- [chelyabinsk oblast fin 6cc5ae9aae](/data-sources/regional/chelyabinsk-oblast-fin-6cc5ae9aae) — карточка источника.
+- [chelyabinsk oblast fin 80fac1f2fe](/data-sources/regional/chelyabinsk-oblast-fin-80fac1f2fe) — карточка источника.
+- [chelyabinsk oblast fin 943653fa71](/data-sources/regional/chelyabinsk-oblast-fin-943653fa71) — карточка источника.
+- [chelyabinsk oblast fin b251ca4d1e](/data-sources/regional/chelyabinsk-oblast-fin-b251ca4d1e) — карточка источника.
+- [chelyabinsk oblast fin e2b0d397e9](/data-sources/regional/chelyabinsk-oblast-fin-e2b0d397e9) — карточка источника.
+- [chelyabinsk oblast fin f462017de2](/data-sources/regional/chelyabinsk-oblast-fin-f462017de2) — карточка источника.
+- [chelyabinsk oblast fin f480b60fd8](/data-sources/regional/chelyabinsk-oblast-fin-f480b60fd8) — карточка источника.
 
 ## Контекст
 

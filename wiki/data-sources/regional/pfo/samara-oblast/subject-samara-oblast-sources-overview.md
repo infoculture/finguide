@@ -14,6 +14,16 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/samara-oblast-fin-06adb74d93
+  - /data-sources/regional/samara-oblast-fin-08b2872f27
+  - /data-sources/regional/samara-oblast-fin-1710b5f461
+  - /data-sources/regional/samara-oblast-fin-1712e6ed9e
+  - /data-sources/regional/samara-oblast-fin-1a8d86276e
+  - /data-sources/regional/samara-oblast-fin-23bb4e315b
+  - /data-sources/regional/samara-oblast-fin-6ee1ce73fd
+  - /data-sources/regional/samara-oblast-fin-9dae54b605
+  - /data-sources/regional/samara-oblast-fin-a2deb05ccf
+  - /data-sources/regional/samara-oblast-fin-b5d737a3d5
 ---
 
 # Самарская область: источники данных
@@ -22,7 +32,16 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [samara oblast fin 06adb74d93](/data-sources/regional/samara-oblast-fin-06adb74d93) — карточка источника.
+- [samara oblast fin 08b2872f27](/data-sources/regional/samara-oblast-fin-08b2872f27) — карточка источника.
+- [samara oblast fin 1710b5f461](/data-sources/regional/samara-oblast-fin-1710b5f461) — карточка источника.
+- [samara oblast fin 1712e6ed9e](/data-sources/regional/samara-oblast-fin-1712e6ed9e) — карточка источника.
+- [samara oblast fin 1a8d86276e](/data-sources/regional/samara-oblast-fin-1a8d86276e) — карточка источника.
+- [samara oblast fin 23bb4e315b](/data-sources/regional/samara-oblast-fin-23bb4e315b) — карточка источника.
+- [samara oblast fin 6ee1ce73fd](/data-sources/regional/samara-oblast-fin-6ee1ce73fd) — карточка источника.
+- [samara oblast fin 9dae54b605](/data-sources/regional/samara-oblast-fin-9dae54b605) — карточка источника.
+- [samara oblast fin a2deb05ccf](/data-sources/regional/samara-oblast-fin-a2deb05ccf) — карточка источника.
+- [samara oblast fin b5d737a3d5](/data-sources/regional/samara-oblast-fin-b5d737a3d5) — карточка источника.
 
 ## Контекст
 

@@ -14,6 +14,17 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/republic-of-adygea-fin-0911eefb1f
+  - /data-sources/regional/republic-of-adygea-fin-1347ffaafe
+  - /data-sources/regional/republic-of-adygea-fin-34d0a33e61
+  - /data-sources/regional/republic-of-adygea-fin-3861f27cc7
+  - /data-sources/regional/republic-of-adygea-fin-3c70bb9099
+  - /data-sources/regional/republic-of-adygea-fin-6747b8af7e
+  - /data-sources/regional/republic-of-adygea-fin-820f269519
+  - /data-sources/regional/republic-of-adygea-fin-abbb6907f1
+  - /data-sources/regional/republic-of-adygea-fin-c2a97aff7d
+  - /data-sources/regional/republic-of-adygea-fin-d0025fa0a0
+  - /data-sources/regional/republic-of-adygea-fin-e3cc766593
 ---
 
 # Республика Адыгея: источники данных
@@ -22,7 +33,17 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [republic of adygea fin 0911eefb1f](/data-sources/regional/republic-of-adygea-fin-0911eefb1f) — карточка источника.
+- [republic of adygea fin 1347ffaafe](/data-sources/regional/republic-of-adygea-fin-1347ffaafe) — карточка источника.
+- [republic of adygea fin 34d0a33e61](/data-sources/regional/republic-of-adygea-fin-34d0a33e61) — карточка источника.
+- [republic of adygea fin 3861f27cc7](/data-sources/regional/republic-of-adygea-fin-3861f27cc7) — карточка источника.
+- [republic of adygea fin 3c70bb9099](/data-sources/regional/republic-of-adygea-fin-3c70bb9099) — карточка источника.
+- [republic of adygea fin 6747b8af7e](/data-sources/regional/republic-of-adygea-fin-6747b8af7e) — карточка источника.
+- [republic of adygea fin 820f269519](/data-sources/regional/republic-of-adygea-fin-820f269519) — карточка источника.
+- [republic of adygea fin abbb6907f1](/data-sources/regional/republic-of-adygea-fin-abbb6907f1) — карточка источника.
+- [republic of adygea fin c2a97aff7d](/data-sources/regional/republic-of-adygea-fin-c2a97aff7d) — карточка источника.
+- [republic of adygea fin d0025fa0a0](/data-sources/regional/republic-of-adygea-fin-d0025fa0a0) — карточка источника.
+- [republic of adygea fin e3cc766593](/data-sources/regional/republic-of-adygea-fin-e3cc766593) — карточка источника.
 
 ## Контекст
 

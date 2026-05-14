@@ -14,6 +14,10 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/nenets-autonomous-okrug-fin-37bf12c7a6
+  - /data-sources/regional/nenets-autonomous-okrug-fin-eb87f75427
+  - /data-sources/regional/nenets-autonomous-okrug-fin-eed74acac2
+  - /data-sources/regional/nenets-autonomous-okrug-fin-f59d5e8297
 ---
 
 # Ненецкий автономный округ: источники данных
@@ -22,7 +26,10 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [nenets autonomous okrug fin 37bf12c7a6](/data-sources/regional/nenets-autonomous-okrug-fin-37bf12c7a6) — карточка источника.
+- [nenets autonomous okrug fin eb87f75427](/data-sources/regional/nenets-autonomous-okrug-fin-eb87f75427) — карточка источника.
+- [nenets autonomous okrug fin eed74acac2](/data-sources/regional/nenets-autonomous-okrug-fin-eed74acac2) — карточка источника.
+- [nenets autonomous okrug fin f59d5e8297](/data-sources/regional/nenets-autonomous-okrug-fin-f59d5e8297) — карточка источника.
 
 ## Контекст
 

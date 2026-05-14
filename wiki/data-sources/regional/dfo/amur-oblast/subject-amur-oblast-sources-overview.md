@@ -14,6 +14,19 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/amur-oblast-fin-289f6e4d76
+  - /data-sources/regional/amur-oblast-fin-32f2a32b78
+  - /data-sources/regional/amur-oblast-fin-3c7e5221ef
+  - /data-sources/regional/amur-oblast-fin-50cdb06e05
+  - /data-sources/regional/amur-oblast-fin-607154a0cb
+  - /data-sources/regional/amur-oblast-fin-7557566460
+  - /data-sources/regional/amur-oblast-fin-812d11a3da
+  - /data-sources/regional/amur-oblast-fin-a21d4756d7
+  - /data-sources/regional/amur-oblast-fin-c9a91041b4
+  - /data-sources/regional/amur-oblast-fin-cabc2dba9d
+  - /data-sources/regional/amur-oblast-fin-d81fef9649
+  - /data-sources/regional/amur-oblast-fin-dc60bf10f0
+  - /data-sources/regional/amur-oblast-fin-dfcd28355f
 ---
 
 # Амурская область: источники данных
@@ -22,7 +35,19 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [amur oblast fin 289f6e4d76](/data-sources/regional/amur-oblast-fin-289f6e4d76) — карточка источника.
+- [amur oblast fin 32f2a32b78](/data-sources/regional/amur-oblast-fin-32f2a32b78) — карточка источника.
+- [amur oblast fin 3c7e5221ef](/data-sources/regional/amur-oblast-fin-3c7e5221ef) — карточка источника.
+- [amur oblast fin 50cdb06e05](/data-sources/regional/amur-oblast-fin-50cdb06e05) — карточка источника.
+- [amur oblast fin 607154a0cb](/data-sources/regional/amur-oblast-fin-607154a0cb) — карточка источника.
+- [amur oblast fin 7557566460](/data-sources/regional/amur-oblast-fin-7557566460) — карточка источника.
+- [amur oblast fin 812d11a3da](/data-sources/regional/amur-oblast-fin-812d11a3da) — карточка источника.
+- [amur oblast fin a21d4756d7](/data-sources/regional/amur-oblast-fin-a21d4756d7) — карточка источника.
+- [amur oblast fin c9a91041b4](/data-sources/regional/amur-oblast-fin-c9a91041b4) — карточка источника.
+- [amur oblast fin cabc2dba9d](/data-sources/regional/amur-oblast-fin-cabc2dba9d) — карточка источника.
+- [amur oblast fin d81fef9649](/data-sources/regional/amur-oblast-fin-d81fef9649) — карточка источника.
+- [amur oblast fin dc60bf10f0](/data-sources/regional/amur-oblast-fin-dc60bf10f0) — карточка источника.
+- [amur oblast fin dfcd28355f](/data-sources/regional/amur-oblast-fin-dfcd28355f) — карточка источника.
 
 ## Контекст
 

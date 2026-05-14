@@ -14,6 +14,17 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/kirov-oblast-fin-198e993c51
+  - /data-sources/regional/kirov-oblast-fin-1f30985a1e
+  - /data-sources/regional/kirov-oblast-fin-5118765b7b
+  - /data-sources/regional/kirov-oblast-fin-56f79185e4
+  - /data-sources/regional/kirov-oblast-fin-5d90f7dd29
+  - /data-sources/regional/kirov-oblast-fin-6890143555
+  - /data-sources/regional/kirov-oblast-fin-840054880a
+  - /data-sources/regional/kirov-oblast-fin-89aba82754
+  - /data-sources/regional/kirov-oblast-fin-abe9296291
+  - /data-sources/regional/kirov-oblast-fin-ce745c9a11
+  - /data-sources/regional/kirov-oblast-fin-e2a24aa8bb
 ---
 
 # Кировская область: источники данных
@@ -22,7 +33,17 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [kirov oblast fin 198e993c51](/data-sources/regional/kirov-oblast-fin-198e993c51) — карточка источника.
+- [kirov oblast fin 1f30985a1e](/data-sources/regional/kirov-oblast-fin-1f30985a1e) — карточка источника.
+- [kirov oblast fin 5118765b7b](/data-sources/regional/kirov-oblast-fin-5118765b7b) — карточка источника.
+- [kirov oblast fin 56f79185e4](/data-sources/regional/kirov-oblast-fin-56f79185e4) — карточка источника.
+- [kirov oblast fin 5d90f7dd29](/data-sources/regional/kirov-oblast-fin-5d90f7dd29) — карточка источника.
+- [kirov oblast fin 6890143555](/data-sources/regional/kirov-oblast-fin-6890143555) — карточка источника.
+- [kirov oblast fin 840054880a](/data-sources/regional/kirov-oblast-fin-840054880a) — карточка источника.
+- [kirov oblast fin 89aba82754](/data-sources/regional/kirov-oblast-fin-89aba82754) — карточка источника.
+- [kirov oblast fin abe9296291](/data-sources/regional/kirov-oblast-fin-abe9296291) — карточка источника.
+- [kirov oblast fin ce745c9a11](/data-sources/regional/kirov-oblast-fin-ce745c9a11) — карточка источника.
+- [kirov oblast fin e2a24aa8bb](/data-sources/regional/kirov-oblast-fin-e2a24aa8bb) — карточка источника.
 
 ## Контекст
 

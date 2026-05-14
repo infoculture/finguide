@@ -14,6 +14,17 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/kursk-oblast-fin-1efe8fdcf6
+  - /data-sources/regional/kursk-oblast-fin-499f4b9b32
+  - /data-sources/regional/kursk-oblast-fin-4a65426d87
+  - /data-sources/regional/kursk-oblast-fin-7474f72704
+  - /data-sources/regional/kursk-oblast-fin-7f5528bac3
+  - /data-sources/regional/kursk-oblast-fin-9412adebc2
+  - /data-sources/regional/kursk-oblast-fin-ba596ea5c0
+  - /data-sources/regional/kursk-oblast-fin-d1915dbdff
+  - /data-sources/regional/kursk-oblast-fin-d6708f2e98
+  - /data-sources/regional/kursk-oblast-fin-e2fe12c109
+  - /data-sources/regional/kursk-oblast-fin-eb59cbb7e1
 ---
 
 # Курская область: источники данных
@@ -22,7 +33,17 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [kursk oblast fin 1efe8fdcf6](/data-sources/regional/kursk-oblast-fin-1efe8fdcf6) — карточка источника.
+- [kursk oblast fin 499f4b9b32](/data-sources/regional/kursk-oblast-fin-499f4b9b32) — карточка источника.
+- [kursk oblast fin 4a65426d87](/data-sources/regional/kursk-oblast-fin-4a65426d87) — карточка источника.
+- [kursk oblast fin 7474f72704](/data-sources/regional/kursk-oblast-fin-7474f72704) — карточка источника.
+- [kursk oblast fin 7f5528bac3](/data-sources/regional/kursk-oblast-fin-7f5528bac3) — карточка источника.
+- [kursk oblast fin 9412adebc2](/data-sources/regional/kursk-oblast-fin-9412adebc2) — карточка источника.
+- [kursk oblast fin ba596ea5c0](/data-sources/regional/kursk-oblast-fin-ba596ea5c0) — карточка источника.
+- [kursk oblast fin d1915dbdff](/data-sources/regional/kursk-oblast-fin-d1915dbdff) — карточка источника.
+- [kursk oblast fin d6708f2e98](/data-sources/regional/kursk-oblast-fin-d6708f2e98) — карточка источника.
+- [kursk oblast fin e2fe12c109](/data-sources/regional/kursk-oblast-fin-e2fe12c109) — карточка источника.
+- [kursk oblast fin eb59cbb7e1](/data-sources/regional/kursk-oblast-fin-eb59cbb7e1) — карточка источника.
 
 ## Контекст
 

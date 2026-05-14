@@ -14,6 +14,14 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/republic-of-tatarstan-fin-04ad2d89bb
+  - /data-sources/regional/republic-of-tatarstan-fin-0ee8f58762
+  - /data-sources/regional/republic-of-tatarstan-fin-24622433b8
+  - /data-sources/regional/republic-of-tatarstan-fin-2686495788
+  - /data-sources/regional/republic-of-tatarstan-fin-4cbc27204b
+  - /data-sources/regional/republic-of-tatarstan-fin-659ec5f84a
+  - /data-sources/regional/republic-of-tatarstan-fin-90e97dc079
+  - /data-sources/regional/republic-of-tatarstan-fin-d662bdd5f1
   - /data-sources/regional/tatarstan-procurement-goszakupki-tatarstan
 ---
 
@@ -23,6 +31,14 @@ related_pages:
 
 ## Карточки источников
 
+- [republic of tatarstan fin 04ad2d89bb](/data-sources/regional/republic-of-tatarstan-fin-04ad2d89bb) — карточка источника.
+- [republic of tatarstan fin 0ee8f58762](/data-sources/regional/republic-of-tatarstan-fin-0ee8f58762) — карточка источника.
+- [republic of tatarstan fin 24622433b8](/data-sources/regional/republic-of-tatarstan-fin-24622433b8) — карточка источника.
+- [republic of tatarstan fin 2686495788](/data-sources/regional/republic-of-tatarstan-fin-2686495788) — карточка источника.
+- [republic of tatarstan fin 4cbc27204b](/data-sources/regional/republic-of-tatarstan-fin-4cbc27204b) — карточка источника.
+- [republic of tatarstan fin 659ec5f84a](/data-sources/regional/republic-of-tatarstan-fin-659ec5f84a) — карточка источника.
+- [republic of tatarstan fin 90e97dc079](/data-sources/regional/republic-of-tatarstan-fin-90e97dc079) — карточка источника.
+- [republic of tatarstan fin d662bdd5f1](/data-sources/regional/republic-of-tatarstan-fin-d662bdd5f1) — карточка источника.
 - [tatarstan procurement goszakupki tatarstan](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan) — карточка источника.
 
 ## Контекст

@@ -14,6 +14,17 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/kabardino-balkar-republic-fin-3f647081d9
+  - /data-sources/regional/kabardino-balkar-republic-fin-5138618d75
+  - /data-sources/regional/kabardino-balkar-republic-fin-839a8c1048
+  - /data-sources/regional/kabardino-balkar-republic-fin-9807f2942c
+  - /data-sources/regional/kabardino-balkar-republic-fin-ba41982822
+  - /data-sources/regional/kabardino-balkar-republic-fin-bec80091fd
+  - /data-sources/regional/kabardino-balkar-republic-fin-cd3626912d
+  - /data-sources/regional/kabardino-balkar-republic-fin-ce2c3b1bcc
+  - /data-sources/regional/kabardino-balkar-republic-fin-db134e4c9b
+  - /data-sources/regional/kabardino-balkar-republic-fin-ec737c7107
+  - /data-sources/regional/kabardino-balkar-republic-fin-fa4fb25322
 ---
 
 # Кабардино-Балкарская Республика: источники данных
@@ -22,7 +33,17 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [kabardino balkar republic fin 3f647081d9](/data-sources/regional/kabardino-balkar-republic-fin-3f647081d9) — карточка источника.
+- [kabardino balkar republic fin 5138618d75](/data-sources/regional/kabardino-balkar-republic-fin-5138618d75) — карточка источника.
+- [kabardino balkar republic fin 839a8c1048](/data-sources/regional/kabardino-balkar-republic-fin-839a8c1048) — карточка источника.
+- [kabardino balkar republic fin 9807f2942c](/data-sources/regional/kabardino-balkar-republic-fin-9807f2942c) — карточка источника.
+- [kabardino balkar republic fin ba41982822](/data-sources/regional/kabardino-balkar-republic-fin-ba41982822) — карточка источника.
+- [kabardino balkar republic fin bec80091fd](/data-sources/regional/kabardino-balkar-republic-fin-bec80091fd) — карточка источника.
+- [kabardino balkar republic fin cd3626912d](/data-sources/regional/kabardino-balkar-republic-fin-cd3626912d) — карточка источника.
+- [kabardino balkar republic fin ce2c3b1bcc](/data-sources/regional/kabardino-balkar-republic-fin-ce2c3b1bcc) — карточка источника.
+- [kabardino balkar republic fin db134e4c9b](/data-sources/regional/kabardino-balkar-republic-fin-db134e4c9b) — карточка источника.
+- [kabardino balkar republic fin ec737c7107](/data-sources/regional/kabardino-balkar-republic-fin-ec737c7107) — карточка источника.
+- [kabardino balkar republic fin fa4fb25322](/data-sources/regional/kabardino-balkar-republic-fin-fa4fb25322) — карточка источника.
 
 ## Контекст
 

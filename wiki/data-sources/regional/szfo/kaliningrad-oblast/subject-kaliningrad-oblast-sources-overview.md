@@ -14,6 +14,18 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/kaliningrad-oblast-fin-0765ae5f60
+  - /data-sources/regional/kaliningrad-oblast-fin-0cf1091d03
+  - /data-sources/regional/kaliningrad-oblast-fin-16612c703b
+  - /data-sources/regional/kaliningrad-oblast-fin-1b40542f5f
+  - /data-sources/regional/kaliningrad-oblast-fin-343b34d586
+  - /data-sources/regional/kaliningrad-oblast-fin-39bb42a50d
+  - /data-sources/regional/kaliningrad-oblast-fin-3a6f45beff
+  - /data-sources/regional/kaliningrad-oblast-fin-4580ae9fad
+  - /data-sources/regional/kaliningrad-oblast-fin-90b6ad9c81
+  - /data-sources/regional/kaliningrad-oblast-fin-b197b53a76
+  - /data-sources/regional/kaliningrad-oblast-fin-c74e7c8834
+  - /data-sources/regional/kaliningrad-oblast-fin-cfd2d487a2
   - /data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39
 ---
 
@@ -23,6 +35,18 @@ related_pages:
 
 ## Карточки источников
 
+- [kaliningrad oblast fin 0765ae5f60](/data-sources/regional/kaliningrad-oblast-fin-0765ae5f60) — карточка источника.
+- [kaliningrad oblast fin 0cf1091d03](/data-sources/regional/kaliningrad-oblast-fin-0cf1091d03) — карточка источника.
+- [kaliningrad oblast fin 16612c703b](/data-sources/regional/kaliningrad-oblast-fin-16612c703b) — карточка источника.
+- [kaliningrad oblast fin 1b40542f5f](/data-sources/regional/kaliningrad-oblast-fin-1b40542f5f) — карточка источника.
+- [kaliningrad oblast fin 343b34d586](/data-sources/regional/kaliningrad-oblast-fin-343b34d586) — карточка источника.
+- [kaliningrad oblast fin 39bb42a50d](/data-sources/regional/kaliningrad-oblast-fin-39bb42a50d) — карточка источника.
+- [kaliningrad oblast fin 3a6f45beff](/data-sources/regional/kaliningrad-oblast-fin-3a6f45beff) — карточка источника.
+- [kaliningrad oblast fin 4580ae9fad](/data-sources/regional/kaliningrad-oblast-fin-4580ae9fad) — карточка источника.
+- [kaliningrad oblast fin 90b6ad9c81](/data-sources/regional/kaliningrad-oblast-fin-90b6ad9c81) — карточка источника.
+- [kaliningrad oblast fin b197b53a76](/data-sources/regional/kaliningrad-oblast-fin-b197b53a76) — карточка источника.
+- [kaliningrad oblast fin c74e7c8834](/data-sources/regional/kaliningrad-oblast-fin-c74e7c8834) — карточка источника.
+- [kaliningrad oblast fin cfd2d487a2](/data-sources/regional/kaliningrad-oblast-fin-cfd2d487a2) — карточка источника.
 - [kaliningrad oblast procurement zakupki gov39](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39) — карточка источника.
 
 ## Контекст

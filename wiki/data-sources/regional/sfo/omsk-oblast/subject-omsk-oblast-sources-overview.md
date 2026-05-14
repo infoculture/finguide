@@ -14,6 +14,15 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/omsk-oblast-fin-18f55f21bb
+  - /data-sources/regional/omsk-oblast-fin-1cfc4d6549
+  - /data-sources/regional/omsk-oblast-fin-394522ccce
+  - /data-sources/regional/omsk-oblast-fin-3d740b7b59
+  - /data-sources/regional/omsk-oblast-fin-5101899cd7
+  - /data-sources/regional/omsk-oblast-fin-6e8f2bce46
+  - /data-sources/regional/omsk-oblast-fin-ae6bf9992e
+  - /data-sources/regional/omsk-oblast-fin-b3ddc77201
+  - /data-sources/regional/omsk-oblast-fin-f0addb4281
 ---
 
 # Омская область: источники данных
@@ -22,7 +31,15 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [omsk oblast fin 18f55f21bb](/data-sources/regional/omsk-oblast-fin-18f55f21bb) — карточка источника.
+- [omsk oblast fin 1cfc4d6549](/data-sources/regional/omsk-oblast-fin-1cfc4d6549) — карточка источника.
+- [omsk oblast fin 394522ccce](/data-sources/regional/omsk-oblast-fin-394522ccce) — карточка источника.
+- [omsk oblast fin 3d740b7b59](/data-sources/regional/omsk-oblast-fin-3d740b7b59) — карточка источника.
+- [omsk oblast fin 5101899cd7](/data-sources/regional/omsk-oblast-fin-5101899cd7) — карточка источника.
+- [omsk oblast fin 6e8f2bce46](/data-sources/regional/omsk-oblast-fin-6e8f2bce46) — карточка источника.
+- [omsk oblast fin ae6bf9992e](/data-sources/regional/omsk-oblast-fin-ae6bf9992e) — карточка источника.
+- [omsk oblast fin b3ddc77201](/data-sources/regional/omsk-oblast-fin-b3ddc77201) — карточка источника.
+- [omsk oblast fin f0addb4281](/data-sources/regional/omsk-oblast-fin-f0addb4281) — карточка источника.
 
 ## Контекст
 

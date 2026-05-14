@@ -14,6 +14,14 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/saratov-oblast-fin-1a5a258d23
+  - /data-sources/regional/saratov-oblast-fin-2e14e17a83
+  - /data-sources/regional/saratov-oblast-fin-57b400a600
+  - /data-sources/regional/saratov-oblast-fin-649ef269e6
+  - /data-sources/regional/saratov-oblast-fin-969d3a8afe
+  - /data-sources/regional/saratov-oblast-fin-e27a152fd0
+  - /data-sources/regional/saratov-oblast-fin-e452444518
+  - /data-sources/regional/saratov-oblast-fin-fb85935c10
 ---
 
 # Саратовская область: источники данных
@@ -22,7 +30,14 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [saratov oblast fin 1a5a258d23](/data-sources/regional/saratov-oblast-fin-1a5a258d23) — карточка источника.
+- [saratov oblast fin 2e14e17a83](/data-sources/regional/saratov-oblast-fin-2e14e17a83) — карточка источника.
+- [saratov oblast fin 57b400a600](/data-sources/regional/saratov-oblast-fin-57b400a600) — карточка источника.
+- [saratov oblast fin 649ef269e6](/data-sources/regional/saratov-oblast-fin-649ef269e6) — карточка источника.
+- [saratov oblast fin 969d3a8afe](/data-sources/regional/saratov-oblast-fin-969d3a8afe) — карточка источника.
+- [saratov oblast fin e27a152fd0](/data-sources/regional/saratov-oblast-fin-e27a152fd0) — карточка источника.
+- [saratov oblast fin e452444518](/data-sources/regional/saratov-oblast-fin-e452444518) — карточка источника.
+- [saratov oblast fin fb85935c10](/data-sources/regional/saratov-oblast-fin-fb85935c10) — карточка источника.
 
 ## Контекст
 

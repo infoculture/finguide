@@ -14,6 +14,17 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/kostroma-oblast-fin-0d1a8aca40
+  - /data-sources/regional/kostroma-oblast-fin-3314f7c868
+  - /data-sources/regional/kostroma-oblast-fin-50d01e281f
+  - /data-sources/regional/kostroma-oblast-fin-91ac504cb2
+  - /data-sources/regional/kostroma-oblast-fin-9463df3a3d
+  - /data-sources/regional/kostroma-oblast-fin-af78172011
+  - /data-sources/regional/kostroma-oblast-fin-d64a7be15e
+  - /data-sources/regional/kostroma-oblast-fin-e28b3ff5be
+  - /data-sources/regional/kostroma-oblast-fin-e3ed73f4ff
+  - /data-sources/regional/kostroma-oblast-fin-f04365533d
+  - /data-sources/regional/kostroma-oblast-fin-f8aa6e24f0
 ---
 
 # Костромская область: источники данных
@@ -22,7 +33,17 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [kostroma oblast fin 0d1a8aca40](/data-sources/regional/kostroma-oblast-fin-0d1a8aca40) — карточка источника.
+- [kostroma oblast fin 3314f7c868](/data-sources/regional/kostroma-oblast-fin-3314f7c868) — карточка источника.
+- [kostroma oblast fin 50d01e281f](/data-sources/regional/kostroma-oblast-fin-50d01e281f) — карточка источника.
+- [kostroma oblast fin 91ac504cb2](/data-sources/regional/kostroma-oblast-fin-91ac504cb2) — карточка источника.
+- [kostroma oblast fin 9463df3a3d](/data-sources/regional/kostroma-oblast-fin-9463df3a3d) — карточка источника.
+- [kostroma oblast fin af78172011](/data-sources/regional/kostroma-oblast-fin-af78172011) — карточка источника.
+- [kostroma oblast fin d64a7be15e](/data-sources/regional/kostroma-oblast-fin-d64a7be15e) — карточка источника.
+- [kostroma oblast fin e28b3ff5be](/data-sources/regional/kostroma-oblast-fin-e28b3ff5be) — карточка источника.
+- [kostroma oblast fin e3ed73f4ff](/data-sources/regional/kostroma-oblast-fin-e3ed73f4ff) — карточка источника.
+- [kostroma oblast fin f04365533d](/data-sources/regional/kostroma-oblast-fin-f04365533d) — карточка источника.
+- [kostroma oblast fin f8aa6e24f0](/data-sources/regional/kostroma-oblast-fin-f8aa6e24f0) — карточка источника.
 
 ## Контекст
 

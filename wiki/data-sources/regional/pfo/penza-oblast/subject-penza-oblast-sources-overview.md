@@ -14,6 +14,14 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/penza-oblast-fin-00aceda076
+  - /data-sources/regional/penza-oblast-fin-0c40b5f1fd
+  - /data-sources/regional/penza-oblast-fin-3677cc3a1d
+  - /data-sources/regional/penza-oblast-fin-4a8a0003c1
+  - /data-sources/regional/penza-oblast-fin-5b573cd8e5
+  - /data-sources/regional/penza-oblast-fin-9ca63e0d40
+  - /data-sources/regional/penza-oblast-fin-b9b9816d9a
+  - /data-sources/regional/penza-oblast-fin-dfa6edfc8f
 ---
 
 # Пензенская область: источники данных
@@ -22,7 +30,14 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [penza oblast fin 00aceda076](/data-sources/regional/penza-oblast-fin-00aceda076) — карточка источника.
+- [penza oblast fin 0c40b5f1fd](/data-sources/regional/penza-oblast-fin-0c40b5f1fd) — карточка источника.
+- [penza oblast fin 3677cc3a1d](/data-sources/regional/penza-oblast-fin-3677cc3a1d) — карточка источника.
+- [penza oblast fin 4a8a0003c1](/data-sources/regional/penza-oblast-fin-4a8a0003c1) — карточка источника.
+- [penza oblast fin 5b573cd8e5](/data-sources/regional/penza-oblast-fin-5b573cd8e5) — карточка источника.
+- [penza oblast fin 9ca63e0d40](/data-sources/regional/penza-oblast-fin-9ca63e0d40) — карточка источника.
+- [penza oblast fin b9b9816d9a](/data-sources/regional/penza-oblast-fin-b9b9816d9a) — карточка источника.
+- [penza oblast fin dfa6edfc8f](/data-sources/regional/penza-oblast-fin-dfa6edfc8f) — карточка источника.
 
 ## Контекст
 

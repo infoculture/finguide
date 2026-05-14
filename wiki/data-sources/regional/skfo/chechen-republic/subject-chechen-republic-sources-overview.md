@@ -14,6 +14,15 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/chechen-republic-fin-113fe37838
+  - /data-sources/regional/chechen-republic-fin-1719d76fba
+  - /data-sources/regional/chechen-republic-fin-191b330c6f
+  - /data-sources/regional/chechen-republic-fin-33660bddca
+  - /data-sources/regional/chechen-republic-fin-448d4ed08b
+  - /data-sources/regional/chechen-republic-fin-48ac5a8048
+  - /data-sources/regional/chechen-republic-fin-843c6ecc08
+  - /data-sources/regional/chechen-republic-fin-91d80a06a5
+  - /data-sources/regional/chechen-republic-fin-a8c95f2383
 ---
 
 # Чеченская Республика: источники данных
@@ -22,7 +31,15 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [chechen republic fin 113fe37838](/data-sources/regional/chechen-republic-fin-113fe37838) — карточка источника.
+- [chechen republic fin 1719d76fba](/data-sources/regional/chechen-republic-fin-1719d76fba) — карточка источника.
+- [chechen republic fin 191b330c6f](/data-sources/regional/chechen-republic-fin-191b330c6f) — карточка источника.
+- [chechen republic fin 33660bddca](/data-sources/regional/chechen-republic-fin-33660bddca) — карточка источника.
+- [chechen republic fin 448d4ed08b](/data-sources/regional/chechen-republic-fin-448d4ed08b) — карточка источника.
+- [chechen republic fin 48ac5a8048](/data-sources/regional/chechen-republic-fin-48ac5a8048) — карточка источника.
+- [chechen republic fin 843c6ecc08](/data-sources/regional/chechen-republic-fin-843c6ecc08) — карточка источника.
+- [chechen republic fin 91d80a06a5](/data-sources/regional/chechen-republic-fin-91d80a06a5) — карточка источника.
+- [chechen republic fin a8c95f2383](/data-sources/regional/chechen-republic-fin-a8c95f2383) — карточка источника.
 
 ## Контекст
 

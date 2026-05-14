@@ -14,6 +14,9 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/altai-krai-fin-41da660389
+  - /data-sources/regional/altai-krai-fin-6ba1939eaf
+  - /data-sources/regional/altai-krai-fin-b020ccc720
 ---
 
 # Алтайский край: источники данных
@@ -22,7 +25,9 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [altai krai fin 41da660389](/data-sources/regional/altai-krai-fin-41da660389) — карточка источника.
+- [altai krai fin 6ba1939eaf](/data-sources/regional/altai-krai-fin-6ba1939eaf) — карточка источника.
+- [altai krai fin b020ccc720](/data-sources/regional/altai-krai-fin-b020ccc720) — карточка источника.
 
 ## Контекст
 

@@ -146,10 +146,11 @@ function main() {
   for (const row of qa) {
     const qTokens = questionTokens(row.question);
     const sources = Array.isArray(row.sources) ? row.sources : [];
-    const scored = index.map((r) => ({
-      slug: r.slug,
-      score: scoreDoc(qTokens, corpusText(r)),
-    }));
+    const scored = index.map((r) => {
+      const raw = scoreDoc(qTokens, corpusText(r));
+      const w = r.rag_priority === 'low' ? 0.2 : 1;
+      return {slug: r.slug, score: raw * w};
+    });
     scored.sort((a, b) => b.score - a.score || String(a.slug).localeCompare(String(b.slug)));
 
     for (const gold of sources) {

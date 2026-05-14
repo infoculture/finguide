@@ -14,6 +14,18 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/republic-of-bashkortostan-fin-04b2e389aa
+  - /data-sources/regional/republic-of-bashkortostan-fin-1d77b2cc9e
+  - /data-sources/regional/republic-of-bashkortostan-fin-25fac7cbb3
+  - /data-sources/regional/republic-of-bashkortostan-fin-3775438fa7
+  - /data-sources/regional/republic-of-bashkortostan-fin-37ce017593
+  - /data-sources/regional/republic-of-bashkortostan-fin-3df0e092a8
+  - /data-sources/regional/republic-of-bashkortostan-fin-3e4701ab78
+  - /data-sources/regional/republic-of-bashkortostan-fin-6f59eafbcb
+  - /data-sources/regional/republic-of-bashkortostan-fin-a17e8cedf6
+  - /data-sources/regional/republic-of-bashkortostan-fin-d13b79623f
+  - /data-sources/regional/republic-of-bashkortostan-fin-f46083922b
+  - /data-sources/regional/republic-of-bashkortostan-fin-f8d4c78659
 ---
 
 # Республика Башкортостан: источники данных
@@ -22,7 +34,18 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [republic of bashkortostan fin 04b2e389aa](/data-sources/regional/republic-of-bashkortostan-fin-04b2e389aa) — карточка источника.
+- [republic of bashkortostan fin 1d77b2cc9e](/data-sources/regional/republic-of-bashkortostan-fin-1d77b2cc9e) — карточка источника.
+- [republic of bashkortostan fin 25fac7cbb3](/data-sources/regional/republic-of-bashkortostan-fin-25fac7cbb3) — карточка источника.
+- [republic of bashkortostan fin 3775438fa7](/data-sources/regional/republic-of-bashkortostan-fin-3775438fa7) — карточка источника.
+- [republic of bashkortostan fin 37ce017593](/data-sources/regional/republic-of-bashkortostan-fin-37ce017593) — карточка источника.
+- [republic of bashkortostan fin 3df0e092a8](/data-sources/regional/republic-of-bashkortostan-fin-3df0e092a8) — карточка источника.
+- [republic of bashkortostan fin 3e4701ab78](/data-sources/regional/republic-of-bashkortostan-fin-3e4701ab78) — карточка источника.
+- [republic of bashkortostan fin 6f59eafbcb](/data-sources/regional/republic-of-bashkortostan-fin-6f59eafbcb) — карточка источника.
+- [republic of bashkortostan fin a17e8cedf6](/data-sources/regional/republic-of-bashkortostan-fin-a17e8cedf6) — карточка источника.
+- [republic of bashkortostan fin d13b79623f](/data-sources/regional/republic-of-bashkortostan-fin-d13b79623f) — карточка источника.
+- [republic of bashkortostan fin f46083922b](/data-sources/regional/republic-of-bashkortostan-fin-f46083922b) — карточка источника.
+- [republic of bashkortostan fin f8d4c78659](/data-sources/regional/republic-of-bashkortostan-fin-f8d4c78659) — карточка источника.
 
 ## Контекст
 

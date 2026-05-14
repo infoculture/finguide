@@ -14,6 +14,14 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/republic-of-mari-el-fin-12384e35e8
+  - /data-sources/regional/republic-of-mari-el-fin-60f0325bd0
+  - /data-sources/regional/republic-of-mari-el-fin-8d3f679bd9
+  - /data-sources/regional/republic-of-mari-el-fin-9a1de26c4a
+  - /data-sources/regional/republic-of-mari-el-fin-a3f5b37fd4
+  - /data-sources/regional/republic-of-mari-el-fin-ca8acd1e75
+  - /data-sources/regional/republic-of-mari-el-fin-ca96246c2d
+  - /data-sources/regional/republic-of-mari-el-fin-f942e83747
 ---
 
 # Республика Марий Эл: источники данных
@@ -22,7 +30,14 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [republic of mari el fin 12384e35e8](/data-sources/regional/republic-of-mari-el-fin-12384e35e8) — карточка источника.
+- [republic of mari el fin 60f0325bd0](/data-sources/regional/republic-of-mari-el-fin-60f0325bd0) — карточка источника.
+- [republic of mari el fin 8d3f679bd9](/data-sources/regional/republic-of-mari-el-fin-8d3f679bd9) — карточка источника.
+- [republic of mari el fin 9a1de26c4a](/data-sources/regional/republic-of-mari-el-fin-9a1de26c4a) — карточка источника.
+- [republic of mari el fin a3f5b37fd4](/data-sources/regional/republic-of-mari-el-fin-a3f5b37fd4) — карточка источника.
+- [republic of mari el fin ca8acd1e75](/data-sources/regional/republic-of-mari-el-fin-ca8acd1e75) — карточка источника.
+- [republic of mari el fin ca96246c2d](/data-sources/regional/republic-of-mari-el-fin-ca96246c2d) — карточка источника.
+- [republic of mari el fin f942e83747](/data-sources/regional/republic-of-mari-el-fin-f942e83747) — карточка источника.
 
 ## Контекст
 

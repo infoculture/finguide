@@ -14,6 +14,16 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/arkhangelsk-oblast-fin-075e5b9de6
+  - /data-sources/regional/arkhangelsk-oblast-fin-26b71123d7
+  - /data-sources/regional/arkhangelsk-oblast-fin-2efcd6a816
+  - /data-sources/regional/arkhangelsk-oblast-fin-375e84c669
+  - /data-sources/regional/arkhangelsk-oblast-fin-b0b71911e3
+  - /data-sources/regional/arkhangelsk-oblast-fin-c75843fdce
+  - /data-sources/regional/arkhangelsk-oblast-fin-e6b25a6fad
+  - /data-sources/regional/arkhangelsk-oblast-fin-ebdcc40ec9
+  - /data-sources/regional/arkhangelsk-oblast-fin-ef06436b61
+  - /data-sources/regional/arkhangelsk-oblast-fin-f18b487bf4
 ---
 
 # Архангельская область: источники данных
@@ -22,7 +32,16 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [arkhangelsk oblast fin 075e5b9de6](/data-sources/regional/arkhangelsk-oblast-fin-075e5b9de6) — карточка источника.
+- [arkhangelsk oblast fin 26b71123d7](/data-sources/regional/arkhangelsk-oblast-fin-26b71123d7) — карточка источника.
+- [arkhangelsk oblast fin 2efcd6a816](/data-sources/regional/arkhangelsk-oblast-fin-2efcd6a816) — карточка источника.
+- [arkhangelsk oblast fin 375e84c669](/data-sources/regional/arkhangelsk-oblast-fin-375e84c669) — карточка источника.
+- [arkhangelsk oblast fin b0b71911e3](/data-sources/regional/arkhangelsk-oblast-fin-b0b71911e3) — карточка источника.
+- [arkhangelsk oblast fin c75843fdce](/data-sources/regional/arkhangelsk-oblast-fin-c75843fdce) — карточка источника.
+- [arkhangelsk oblast fin e6b25a6fad](/data-sources/regional/arkhangelsk-oblast-fin-e6b25a6fad) — карточка источника.
+- [arkhangelsk oblast fin ebdcc40ec9](/data-sources/regional/arkhangelsk-oblast-fin-ebdcc40ec9) — карточка источника.
+- [arkhangelsk oblast fin ef06436b61](/data-sources/regional/arkhangelsk-oblast-fin-ef06436b61) — карточка источника.
+- [arkhangelsk oblast fin f18b487bf4](/data-sources/regional/arkhangelsk-oblast-fin-f18b487bf4) — карточка источника.
 
 ## Контекст
 

@@ -14,6 +14,13 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/donetsk-people-republic-fin-4710363999
+  - /data-sources/regional/donetsk-people-republic-fin-507b97047c
+  - /data-sources/regional/donetsk-people-republic-fin-6ea2fe7a34
+  - /data-sources/regional/donetsk-people-republic-fin-70d328a3ce
+  - /data-sources/regional/donetsk-people-republic-fin-7ac37ab79d
+  - /data-sources/regional/donetsk-people-republic-fin-a0f2c59721
+  - /data-sources/regional/donetsk-people-republic-fin-b1b7addb79
 ---
 
 # Донецкая Народная Республика: источники данных
@@ -22,7 +29,13 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [donetsk people republic fin 4710363999](/data-sources/regional/donetsk-people-republic-fin-4710363999) — карточка источника.
+- [donetsk people republic fin 507b97047c](/data-sources/regional/donetsk-people-republic-fin-507b97047c) — карточка источника.
+- [donetsk people republic fin 6ea2fe7a34](/data-sources/regional/donetsk-people-republic-fin-6ea2fe7a34) — карточка источника.
+- [donetsk people republic fin 70d328a3ce](/data-sources/regional/donetsk-people-republic-fin-70d328a3ce) — карточка источника.
+- [donetsk people republic fin 7ac37ab79d](/data-sources/regional/donetsk-people-republic-fin-7ac37ab79d) — карточка источника.
+- [donetsk people republic fin a0f2c59721](/data-sources/regional/donetsk-people-republic-fin-a0f2c59721) — карточка источника.
+- [donetsk people republic fin b1b7addb79](/data-sources/regional/donetsk-people-republic-fin-b1b7addb79) — карточка источника.
 
 ## Контекст
 

@@ -14,6 +14,14 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/kamchatka-krai-fin-23ac15f963
+  - /data-sources/regional/kamchatka-krai-fin-2414916dbd
+  - /data-sources/regional/kamchatka-krai-fin-284527ce09
+  - /data-sources/regional/kamchatka-krai-fin-34b58dfa52
+  - /data-sources/regional/kamchatka-krai-fin-3988706d43
+  - /data-sources/regional/kamchatka-krai-fin-713f89c167
+  - /data-sources/regional/kamchatka-krai-fin-c63d5811f8
+  - /data-sources/regional/kamchatka-krai-fin-f51e225c2c
 ---
 
 # Камчатский край: источники данных
@@ -22,7 +30,14 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [kamchatka krai fin 23ac15f963](/data-sources/regional/kamchatka-krai-fin-23ac15f963) — карточка источника.
+- [kamchatka krai fin 2414916dbd](/data-sources/regional/kamchatka-krai-fin-2414916dbd) — карточка источника.
+- [kamchatka krai fin 284527ce09](/data-sources/regional/kamchatka-krai-fin-284527ce09) — карточка источника.
+- [kamchatka krai fin 34b58dfa52](/data-sources/regional/kamchatka-krai-fin-34b58dfa52) — карточка источника.
+- [kamchatka krai fin 3988706d43](/data-sources/regional/kamchatka-krai-fin-3988706d43) — карточка источника.
+- [kamchatka krai fin 713f89c167](/data-sources/regional/kamchatka-krai-fin-713f89c167) — карточка источника.
+- [kamchatka krai fin c63d5811f8](/data-sources/regional/kamchatka-krai-fin-c63d5811f8) — карточка источника.
+- [kamchatka krai fin f51e225c2c](/data-sources/regional/kamchatka-krai-fin-f51e225c2c) — карточка источника.
 
 ## Контекст
 

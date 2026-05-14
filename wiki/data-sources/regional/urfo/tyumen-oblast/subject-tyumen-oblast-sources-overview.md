@@ -14,6 +14,15 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
+  - /data-sources/regional/tyumen-oblast-fin-0e68146ce3
+  - /data-sources/regional/tyumen-oblast-fin-101d0f2cc3
+  - /data-sources/regional/tyumen-oblast-fin-39a799701b
+  - /data-sources/regional/tyumen-oblast-fin-6818f2108f
+  - /data-sources/regional/tyumen-oblast-fin-6bd2200b8b
+  - /data-sources/regional/tyumen-oblast-fin-7783614c66
+  - /data-sources/regional/tyumen-oblast-fin-b140f0c40f
+  - /data-sources/regional/tyumen-oblast-fin-cddc5ee2c4
+  - /data-sources/regional/tyumen-oblast-fin-e4f5966385
 ---
 
 # Тюменская область: источники данных
@@ -22,7 +31,15 @@ related_pages:
 
 ## Карточки источников
 
-_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).
+- [tyumen oblast fin 0e68146ce3](/data-sources/regional/tyumen-oblast-fin-0e68146ce3) — карточка источника.
+- [tyumen oblast fin 101d0f2cc3](/data-sources/regional/tyumen-oblast-fin-101d0f2cc3) — карточка источника.
+- [tyumen oblast fin 39a799701b](/data-sources/regional/tyumen-oblast-fin-39a799701b) — карточка источника.
+- [tyumen oblast fin 6818f2108f](/data-sources/regional/tyumen-oblast-fin-6818f2108f) — карточка источника.
+- [tyumen oblast fin 6bd2200b8b](/data-sources/regional/tyumen-oblast-fin-6bd2200b8b) — карточка источника.
+- [tyumen oblast fin 7783614c66](/data-sources/regional/tyumen-oblast-fin-7783614c66) — карточка источника.
+- [tyumen oblast fin b140f0c40f](/data-sources/regional/tyumen-oblast-fin-b140f0c40f) — карточка источника.
+- [tyumen oblast fin cddc5ee2c4](/data-sources/regional/tyumen-oblast-fin-cddc5ee2c4) — карточка источника.
+- [tyumen oblast fin e4f5966385](/data-sources/regional/tyumen-oblast-fin-e4f5966385) — карточка источника.
 
 ## Контекст
 
