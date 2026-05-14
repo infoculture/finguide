@@ -28,7 +28,7 @@ related_pages:
 ## Для кого
 
 - Читателям, которые впервые открыли сайт и хотят **маршрут**, а не полный обход сайдбара.
-- Разработчикам RAG и редакторам — [RAG и ассистенты](./rag-guide.md); правила карточек — в [AGENTS.md](https://github.com/infoculture/opengovfinancesbook/blob/master/AGENTS.md).
+- Разработчикам RAG и редакторам — [RAG и ассистенты](./rag-guide.md); правила карточек — в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md).
 
 ## Быстрые входы
 
@@ -47,7 +47,7 @@ related_pages:
 
 **Где скачать данные?** [Источники данных](/data-sources/) и [How-to](/howto/).
 
-**Как предложить правку?** [CONTRIBUTING](https://github.com/infoculture/opengovfinancesbook/blob/master/CONTRIBUTING.md) и [план наполнения](./wiki-filling-plan.md).
+**Как предложить правку?** [CONTRIBUTING](https://github.com/infoculture/finguide/blob/master/CONTRIBUTING.md) и [план наполнения](./wiki-filling-plan.md).
 
 ## Содержание
 

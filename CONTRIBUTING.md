@@ -27,7 +27,7 @@
 2. Выполните `npm run presubmit` (или по отдельности `npm run lint:*`, `npm run export:knowledge -- --check`, `npm run build`). Сборка **прерывается** при битых внутренних ссылках в Markdown и маршрутах документов — это ожидаемая проверка качества (те же шаги выполняются в CI при push и pull request).
 3. На pull request дополнительно запускается **advisory**-проверка внешних ссылок ([`links-pr.yml`](.github/workflows/links-pr.yml)); она не блокирует merge — смотрите лог job при правках карточек с URL.
 
-Вопросы и предложения можно оставить в [Issues](https://github.com/infoculture/opengovfinancesbook/issues).
+Вопросы и предложения можно оставить в [Issues](https://github.com/infoculture/finguide/issues).
 
 ## Лицензия
 

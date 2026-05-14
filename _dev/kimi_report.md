@@ -1,10 +1,10 @@
 
 
-# Анализ репозитория opengovfinancesbook
+# Анализ репозитория finguide
 ## Предложения по улучшению содержания, навигации и пригодности для обучения ИИ-ассистента
 
 **Дата анализа:** 2026-05-12
-**Репозиторий:** https://github.com/infoculture/opengovfinancesbook
+**Репозиторий:** https://github.com/infoculture/finguide
 **Платформа:** Docusaurus 3 + Markdown
 
 ---
@@ -184,7 +184,7 @@
 
 ## 5. Сравнение с лучшими практиками (benchmark)
 
-| Критерий | opengovfinancesbook | Лучшие практики (Diataxis, Google TA) | Зазор |
+| Критерий | finguide | Лучшие практики (Diataxis, Google TA) | Зазор |
 |----------|-------------------|--------------------------------------|-------|
 | Структура контента | Карточная система (6 типов) | Типы документации (tutorial, how-to, reference, explanation) | Нет tutorials для новичков |
 | Шаблоны для редакторов | AGENTS.md + 6 шаблонов | Style guide + templates | На уровне лучших |

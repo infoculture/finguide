@@ -27,7 +27,7 @@ related_pages:
 ## Для кого раздел
 
 - Аналитикам и журналистам, которым нужен **контекст** полномочий и обязательств раскрытия.
-- Авторам: шаблон — `wiki/legal/legal-document-card-template.md` ([GitHub](https://github.com/infoculture/opengovfinancesbook/blob/master/wiki/legal/legal-document-card-template.md)); у шаблона `draft: true` — страница не в production. Правила — в `AGENTS.md`.
+- Авторам: шаблон — `wiki/legal/legal-document-card-template.md` ([GitHub](https://github.com/infoculture/finguide/blob/master/wiki/legal/legal-document-card-template.md)); у шаблона `draft: true` — страница не в production. Правила — в `AGENTS.md`.
 
 ## Ключевые входы
 

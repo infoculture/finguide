@@ -34,4 +34,4 @@ description: >-
 
 ## 2026-04 и ранее
 
-См. [журнал коммитов](https://github.com/infoculture/opengovfinancesbook/commits/master) репозитория.
+См. [журнал коммитов](https://github.com/infoculture/finguide/commits/master) репозитория.

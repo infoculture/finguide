@@ -1,6 +1,6 @@
 # KNOWLEDGE — карта корпуса «Открытые государственные финансы»
 
-Документ для людей и ИИ: как устроена база знаний в репозитории `opengovfinancesbook`.
+Документ для людей и ИИ: как устроена база знаний в репозитории `finguide`.
 
 ## Роли разделов
 
@@ -27,7 +27,7 @@
 
 ## Известные пробелы и ограничения
 
-- **Полнотекстовый поиск по сайту** (Algolia DocSearch или эквивалент) не подключён до выдачи ключей; см. инструкцию в репозитории (`wiki/reference/docsearch-setup.md`). Для навигации используйте разделы, [карту данных](https://github.com/infoculture/opengovfinancesbook/blob/master/wiki/intro/data-map.md), [индекс кодов](https://github.com/infoculture/opengovfinancesbook/blob/master/wiki/reference/classification-codes-index.md) и экспорт JSONL.
+- **Полнотекстовый поиск по сайту** (Algolia DocSearch или эквивалент) не подключён до выдачи ключей; см. инструкцию в репозитории (`wiki/reference/docsearch-setup.md`). Для навигации используйте разделы, [карту данных](https://github.com/infoculture/finguide/blob/master/wiki/intro/data-map.md), [индекс кодов](https://github.com/infoculture/finguide/blob/master/wiki/reference/classification-codes-index.md) и экспорт JSONL.
 - **Внешние URL** в карточках со временем меняются; в CI есть еженедельная проверка ссылок (`.github/workflows/links-weekly.yml`), PR-прогон — с мягкой политикой (`continue-on-error`), см. `openspec/engineering-notes.md`.
 - **Поле `related_pages`** заполняется выборочно; целостность slug проверяется `npm run lint:related-pages` после согласованного `exports/knowledge-index.jsonl` (`npm run export:knowledge -- --check`).
 - **Черновики** (`draft: true`) попадают в JSONL; продакшен-индекс RAG должен их отфильтровать (см. `wiki/intro/rag-guide.md`).

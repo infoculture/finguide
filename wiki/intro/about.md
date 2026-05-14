@@ -38,7 +38,7 @@ content_type: reference
 - **Один файл — одна основная сущность.** Термин, организация, источник, форма отчётности, информационная система или инструкция изолированы в отдельной странице.
 - **Машиночитаемый frontmatter.** Поля вроде `title`, `tags`, при необходимости `source_url`, `last_updated` поддерживают навигацию и индексацию.
 - **Q&A-секции.** В конце ключевых страниц — типовые вопросы и краткие ответы (по шаблонам карточек разделов).
-- **Открытость.** Контент распространяется по лицензии MIT; правки и дополнения приветствуются через Pull Request и [обсуждения в репозитории](https://github.com/infoculture/opengovfinancesbook/issues).
+- **Открытость.** Контент распространяется по лицензии MIT; правки и дополнения приветствуются через Pull Request и [обсуждения в репозитории](https://github.com/infoculture/finguide/issues).
 
 ## Структура и навигация
 
@@ -56,4 +56,4 @@ content_type: reference
 
 ## Лицензия
 
-Контент — [MIT](https://github.com/infoculture/opengovfinancesbook/blob/master/LICENSE).
+Контент — [MIT](https://github.com/infoculture/finguide/blob/master/LICENSE).

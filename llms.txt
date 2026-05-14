@@ -4,7 +4,7 @@
 
 ## Канонический сайт
 
-Публичная сборка: https://infoculture.github.io/opengovfinancesbook/
+Публичная сборка: https://infoculture.github.io/finguide/
 
 ## Структура репозитория
 

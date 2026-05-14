@@ -81,6 +81,6 @@ flowchart LR
 
 ## Для ИИ-ассистентов и редакторов
 
-- Правила оформления карточек и перекрёстных ссылок — в файле **[AGENTS.md](https://github.com/infoculture/opengovfinancesbook/blob/master/AGENTS.md)** в корне репозитория (для Cursor и других средств — основной контракт качества).
+- Правила оформления карточек и перекрёстных ссылок — в файле **[AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md)** в корне репозитория (для Cursor и других средств — основной контракт качества).
 - Принципы структуры страниц под поиск и RAG — в [Как пользоваться базой знаний](./how-to-use.md).
 - Словарь вторых тегов `tags` в frontmatter — на странице [Таксономия тегов](/reference/tags-taxonomy).

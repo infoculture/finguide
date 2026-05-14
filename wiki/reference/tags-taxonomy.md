@@ -40,4 +40,4 @@ content_type: reference
 
 - [Как пользоваться базой знаний](/intro/how-to-use) — принципы контента и заголовков.
 - [Карта данных и типовые маршруты](/intro/data-map) — куда идти по типу задачи.
-- [Шаблон карточки глоссария](https://github.com/infoculture/opengovfinancesbook/blob/master/wiki/glossary/glossary-card-template.md) — пример поля `tags` для терминов (черновик в репозитории, в прод-сборке сайта не публикуется).
+- [Шаблон карточки глоссария](https://github.com/infoculture/finguide/blob/master/wiki/glossary/glossary-card-template.md) — пример поля `tags` для терминов (черновик в репозитории, в прод-сборке сайта не публикуется).

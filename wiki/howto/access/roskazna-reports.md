@@ -77,8 +77,8 @@ PAGE_URL = "https://roskazna.gov.ru/ispolnenie-byudzhetov/federalnyj-byudzhet"
 BASE_ORIGIN = "https://roskazna.gov.ru"
 HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (compatible; opengovfinancesbook-howto/1.0; "
-        "+https://github.com/infoculture/opengovfinancesbook)"
+        "Mozilla/5.0 (compatible; finguide-howto/1.0; "
+        "+https://github.com/infoculture/finguide)"
     ),
     "Accept-Language": "ru-RU,ru;q=0.9,en;q=0.8",
 }

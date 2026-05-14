@@ -1,5 +1,5 @@
 {
-  "name": "opengovfinancesbook",
+  "name": "finguide",
   "version": "1.0.0",
   "description": "Книга по открытым государственным финансам России на Docusaurus",
   "scripts": {
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/infoculture/opengovfinancesbook.git"
+    "url": "git+https://github.com/infoculture/finguide.git"
   },
   "keywords": [
     "opengov",
@@ -38,9 +38,9 @@
   "author": "Infoculture",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/infoculture/opengovfinancesbook/issues"
+    "url": "https://github.com/infoculture/finguide/issues"
   },
-  "homepage": "https://github.com/infoculture/opengovfinancesbook#readme",
+  "homepage": "https://github.com/infoculture/finguide#readme",
   "dependencies": {
     "@docusaurus/core": "^3.10.1",
     "@docusaurus/faster": "^3.10.1",

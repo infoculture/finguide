@@ -21,9 +21,9 @@ content_type: reference
 ## Входные данные
 
 - Клон репозитория или статическая сборка сайта.
-- Артефакты в каталоге [`exports/`](/): [`exports/knowledge-index.jsonl`](https://github.com/infoculture/opengovfinancesbook/blob/master/exports/knowledge-index.jsonl) и [`exports/knowledge-graph.json`](https://github.com/infoculture/opengovfinancesbook/blob/master/exports/knowledge-graph.json) (генерируются `npm run export:knowledge`).
-- Файлы [`llms.txt`](https://github.com/infoculture/opengovfinancesbook/blob/master/llms.txt) и [`KNOWLEDGE.md`](https://github.com/infoculture/opengovfinancesbook/blob/master/KNOWLEDGE.md) в корне репозитория.
-- Инженерные решения (стек экспорта, политика проверки внешних ссылок): [`openspec/engineering-notes.md`](https://github.com/infoculture/opengovfinancesbook/blob/master/openspec/engineering-notes.md).
+- Артефакты в каталоге [`exports/`](/): [`exports/knowledge-index.jsonl`](https://github.com/infoculture/finguide/blob/master/exports/knowledge-index.jsonl) и [`exports/knowledge-graph.json`](https://github.com/infoculture/finguide/blob/master/exports/knowledge-graph.json) (генерируются `npm run export:knowledge`).
+- Файлы [`llms.txt`](https://github.com/infoculture/finguide/blob/master/llms.txt) и [`KNOWLEDGE.md`](https://github.com/infoculture/finguide/blob/master/KNOWLEDGE.md) в корне репозитория.
+- Инженерные решения (стек экспорта, политика проверки внешних ссылок): [`openspec/engineering-notes.md`](https://github.com/infoculture/finguide/blob/master/openspec/engineering-notes.md).
 
 ## Инструменты
 
@@ -36,7 +36,7 @@ content_type: reference
 2. Используйте `knowledge-index.jsonl` как источник метаданных (`content_type`, `entity_type`, `tags`, `slug`, `draft`).
 3. Отфильтруйте `draft: true`, если индексируете только опубликованное в продакшен-навигации.
 4. Чанкуйте по заголовкам `##` и `###`, сохраняя `slug` страницы в метаданных чанка для цитирования.
-5. Для регрессии retrieval используйте [`tests/qa-validation.jsonl`](https://github.com/infoculture/opengovfinancesbook/blob/master/tests/qa-validation.jsonl) (целевой объём **50–100+** сценариев; схема проверяется `npm run lint:qa` против актуального `knowledge-index.jsonl`). Лексический baseline: **`npm run qa:retrieval`** — ожидаемые slug из каждого сценария должны попадать в топ-200 примитивного ранжирования по `title`, `description`, `tags`, `sidebar_label` и `aliases` в индексе (см. `scripts/qa-retrieval-regression.mjs`).
+5. Для регрессии retrieval используйте [`tests/qa-validation.jsonl`](https://github.com/infoculture/finguide/blob/master/tests/qa-validation.jsonl) (целевой объём **50–100+** сценариев; схема проверяется `npm run lint:qa` против актуального `knowledge-index.jsonl`). Лексический baseline: **`npm run qa:retrieval`** — ожидаемые slug из каждого сценария должны попадать в топ-200 примитивного ранжирования по `title`, `description`, `tags`, `sidebar_label` и `aliases` в индексе (см. `scripts/qa-retrieval-regression.mjs`).
 
 ## Воспроизводимый пример
 
@@ -52,9 +52,9 @@ head -n 3 exports/knowledge-index.jsonl
 
 ## Ограничения и типовые ошибки
 
-- Внешние URL в карточках меняются; для контроля живости подключена еженедельная [проверка ссылок](https://github.com/infoculture/opengovfinancesbook/blob/master/.github/workflows/links-weekly.yml).
+- Внешние URL в карточках меняются; для контроля живости подключена еженедельная [проверка ссылок](https://github.com/infoculture/finguide/blob/master/.github/workflows/links-weekly.yml).
 - Не подменяйте канонические пути сайта произвольными URL зеркал без пометки в ответе ассистента.
-- Сводка **известных пробелов корпуса** (поиск по сайту, черновики, `related_pages`): файл [`KNOWLEDGE.md`](https://github.com/infoculture/opengovfinancesbook/blob/master/KNOWLEDGE.md) в корне репозитория.
+- Сводка **известных пробелов корпуса** (поиск по сайту, черновики, `related_pages`): файл [`KNOWLEDGE.md`](https://github.com/infoculture/finguide/blob/master/KNOWLEDGE.md) в корне репозитория.
 
 ## Связанные страницы
 

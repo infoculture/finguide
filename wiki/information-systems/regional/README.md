@@ -29,7 +29,7 @@ related_pages:
 ## Для кого
 
 - Аналитикам, которым нужно понять, **где искать витрину** субъекта или МО до появления отдельной карточки ИС в wiki.
-- Редакторам: новые карточки — по `wiki/information-systems/information-system-card-template.md` ([GitHub](https://github.com/infoculture/opengovfinancesbook/blob/master/wiki/information-systems/information-system-card-template.md)) и `AGENTS.md`; шаблон с `draft: true` в production не собирается.
+- Редакторам: новые карточки — по `wiki/information-systems/information-system-card-template.md` ([GitHub](https://github.com/infoculture/finguide/blob/master/wiki/information-systems/information-system-card-template.md)) и `AGENTS.md`; шаблон с `draft: true` в production не собирается.
 
 ## Быстрые входы
 
@@ -53,4 +53,4 @@ related_pages:
 
 ## Связь с планом наполнения
 
-Направление согласовано с [планом наполнения wiki](/intro/wiki-filling-plan) (регионы и типовые ИС). Новые карточки оформляйте по правилам в [AGENTS.md](https://github.com/infoculture/opengovfinancesbook/blob/master/AGENTS.md) и шаблону `wiki/information-systems/information-system-card-template.md` в репозитории.
+Направление согласовано с [планом наполнения wiki](/intro/wiki-filling-plan) (регионы и типовые ИС). Новые карточки оформляйте по правилам в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) и шаблону `wiki/information-systems/information-system-card-template.md` в репозитории.

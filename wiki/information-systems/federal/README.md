@@ -27,7 +27,7 @@ related_pages:
 ## Для кого
 
 - Аналитикам, которым нужно понять **роль портала** и куда смотреть за выгрузками (часто дублируются в [источниках данных](/data-sources/federal/)).
-- Редакторам: новые карточки — по шаблону `wiki/information-systems/information-system-card-template.md` ([GitHub](https://github.com/infoculture/opengovfinancesbook/blob/master/wiki/information-systems/information-system-card-template.md)); у шаблона `draft: true`, в production на сайте страница не собирается.
+- Редакторам: новые карточки — по шаблону `wiki/information-systems/information-system-card-template.md` ([GitHub](https://github.com/infoculture/finguide/blob/master/wiki/information-systems/information-system-card-template.md)); у шаблона `draft: true`, в production на сайте страница не собирается.
 
 ## Быстрые входы
 

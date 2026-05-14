@@ -53,7 +53,7 @@ npm install
 npm start
 
 # Открыть в браузере
-# http://localhost:3000/opengovfinancesbook/
+# http://localhost:3000/finguide/
 ```
 
 ## Основные команды
@@ -83,7 +83,7 @@ npm start
 
 ## Деплой
 
-По умолчанию настроен деплой на GitHub Pages с baseUrl `/opengovfinancesbook/`. Публичный адрес: [https://infoculture.github.io/opengovfinancesbook/](https://infoculture.github.io/opengovfinancesbook/).
+По умолчанию настроен деплой на GitHub Pages с baseUrl `/finguide/`. Публичный адрес: [https://infoculture.github.io/finguide/](https://infoculture.github.io/finguide/).
 
 ### Настройка репозитория на GitHub
 

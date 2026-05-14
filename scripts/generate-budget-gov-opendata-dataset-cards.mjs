@@ -48,7 +48,7 @@ function fetchListJson() {
       {
         headers: {
           'User-Agent':
-            'Mozilla/5.0 (compatible; opengovfinancesbook-generator/1.0; +https://github.com/)',
+            'Mozilla/5.0 (compatible; finguide-generator/1.0; +https://github.com/)',
         },
       },
       (res) => {

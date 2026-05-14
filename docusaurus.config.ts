@@ -12,9 +12,9 @@ const config: Config = {
   },
 
   url: 'https://infoculture.github.io',
-  baseUrl: '/opengovfinancesbook/',
+  baseUrl: '/finguide/',
   organizationName: 'infoculture',
-  projectName: 'opengovfinancesbook',
+  projectName: 'finguide',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -49,7 +49,7 @@ const config: Config = {
           numberPrefixParser: false,
           breadcrumbs: true,
           editUrl:
-            'https://github.com/infoculture/opengovfinancesbook/edit/master/',
+            'https://github.com/infoculture/finguide/edit/master/',
         },
         blog: false,
         pages: false,
@@ -140,7 +140,7 @@ const config: Config = {
           ],
         },
         {
-          href: 'https://github.com/infoculture/opengovfinancesbook',
+          href: 'https://github.com/infoculture/finguide',
           label: 'GitHub',
           position: 'right',
         },
@@ -174,7 +174,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/infoculture/opengovfinancesbook',
+              href: 'https://github.com/infoculture/finguide',
             },
           ],
         },

@@ -43,7 +43,7 @@ related_pages:
 
 **ИС или источник?** Для одного проекта в wiki могут быть **две** карточки: ИС (продукт, URL, аудитория) и источник (форматы, лимиты выгрузки). Ссылайтесь между ними вручную.
 
-**Как добавить новую гражданскую систему?** Шаблон: `wiki/information-systems/information-system-card-template.md` ([GitHub](https://github.com/infoculture/opengovfinancesbook/blob/master/wiki/information-systems/information-system-card-template.md)); правила — `AGENTS.md`. Шаблон с `draft: true` в production не собирается.
+**Как добавить новую гражданскую систему?** Шаблон: `wiki/information-systems/information-system-card-template.md` ([GitHub](https://github.com/infoculture/finguide/blob/master/wiki/information-systems/information-system-card-template.md)); правила — `AGENTS.md`. Шаблон с `draft: true` в production не собирается.
 
 ## Карточки
 

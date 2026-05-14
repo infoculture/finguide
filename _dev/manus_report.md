@@ -1,8 +1,8 @@
-# Предложения по улучшению репозитория `infoculture/opengovfinancesbook`
+# Предложения по улучшению репозитория `infoculture/finguide`
 
 **Автор:** Manus AI  
 **Дата:** 11 мая 2026  
-**Объект анализа:** репозиторий [`infoculture/opengovfinancesbook`](https://github.com/infoculture/opengovfinancesbook)  
+**Объект анализа:** репозиторий [`infoculture/finguide`](https://github.com/infoculture/finguide)  
 **Статус параллельного исследования:** использованы завершённые результаты по 12 из 13 пакетов; незавершённый пакет `legal` был пропущен по просьбе пользователя.
 
 ## 1. Краткое резюме
@@ -159,7 +159,7 @@
 
 ## References
 
-[1]: https://github.com/infoculture/opengovfinancesbook "GitHub — infoculture/opengovfinancesbook"
-[2]: https://github.com/infoculture/opengovfinancesbook/tree/master/wiki "Каталог wiki в репозитории opengovfinancesbook"
-[3]: https://github.com/infoculture/opengovfinancesbook/blob/master/sidebars.ts "sidebars.ts — структура навигации Docusaurus"
-[4]: https://github.com/infoculture/opengovfinancesbook/blob/master/AGENTS.md "AGENTS.md — правила для редакторов и ИИ-ассистентов"
+[1]: https://github.com/infoculture/finguide "GitHub — infoculture/finguide"
+[2]: https://github.com/infoculture/finguide/tree/master/wiki "Каталог wiki в репозитории finguide"
+[3]: https://github.com/infoculture/finguide/blob/master/sidebars.ts "sidebars.ts — структура навигации Docusaurus"
+[4]: https://github.com/infoculture/finguide/blob/master/AGENTS.md "AGENTS.md — правила для редакторов и ИИ-ассистентов"

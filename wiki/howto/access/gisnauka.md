@@ -72,7 +72,7 @@ related_pages:
 
 ```bash
 curl -sS -o /dev/null -w "%{http_code}\n" \
-  -A "Mozilla/5.0 (compatible; opengovfinancesbook-howto/1.0)" \
+  -A "Mozilla/5.0 (compatible; finguide-howto/1.0)" \
   "https://gisnauka.ru/global-search"
 ```
 
@@ -80,7 +80,7 @@ curl -sS -o /dev/null -w "%{http_code}\n" \
 
 ```bash
 curl -sS -L -o "ikrbs-2024-04.bin" \
-  -A "Mozilla/5.0 (compatible; opengovfinancesbook-howto/1.0)" \
+  -A "Mozilla/5.0 (compatible; finguide-howto/1.0)" \
   "https://gisnauka.ru/api/egisu/open-data?year=2024&month=04&card_type=ikrbs"
 ```
 
@@ -88,7 +88,7 @@ curl -sS -L -o "ikrbs-2024-04.bin" \
 
 ```bash
 curl -sS -L -o "rid-2024-full.bin" \
-  -A "Mozilla/5.0 (compatible; opengovfinancesbook-howto/1.0)" \
+  -A "Mozilla/5.0 (compatible; finguide-howto/1.0)" \
   "https://gisnauka.ru/api/egisu/open-data?year=2024&month=all_months&card_type=rid"
 ```
 
@@ -96,7 +96,7 @@ curl -sS -L -o "rid-2024-full.bin" \
 
 ```bash
 curl -sS -o /dev/null -w "%{http_code}\n" \
-  -A "Mozilla/5.0 (compatible; opengovfinancesbook-howto/1.0)" \
+  -A "Mozilla/5.0 (compatible; finguide-howto/1.0)" \
   "https://gisnauka.ru/api/egisu/base/search"
 ```
 

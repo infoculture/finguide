@@ -26,7 +26,7 @@ related_pages:
 ## Для кого раздел
 
 - Аналитикам, которым нужно понять **роль ведомства** (владелец витрины, оператор учёта, регулятор раскрытия).
-- Авторам карточек: шаблон — `wiki/organizations/organizations-card-template.md` ([GitHub](https://github.com/infoculture/opengovfinancesbook/blob/master/wiki/organizations/organizations-card-template.md)); у шаблона `draft: true`, страница **не** в production-сборке. Правила — в `AGENTS.md`.
+- Авторам карточек: шаблон — `wiki/organizations/organizations-card-template.md` ([GitHub](https://github.com/infoculture/finguide/blob/master/wiki/organizations/organizations-card-template.md)); у шаблона `draft: true`, страница **не** в production-сборке. Правила — в `AGENTS.md`.
 
 ## Ключевые связки
 

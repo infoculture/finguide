@@ -11,7 +11,7 @@ const WIKI = path.join(process.cwd(), 'wiki');
 const OUT_DIR = path.join(process.cwd(), 'exports');
 const INDEX_PATH = path.join(OUT_DIR, 'knowledge-index.jsonl');
 const GRAPH_PATH = path.join(OUT_DIR, 'knowledge-graph.json');
-const SITE = 'https://infoculture.github.io/opengovfinancesbook';
+const SITE = 'https://infoculture.github.io/finguide';
 
 function walk(dir, out = []) {
   for (const ent of fs.readdirSync(dir, {withFileTypes: true})) {

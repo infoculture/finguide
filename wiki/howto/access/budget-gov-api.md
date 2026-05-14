@@ -61,7 +61,7 @@ import requests
 
 LIST_URL = "https://budget.gov.ru/epbs/opendata/list.json"
 OPENDATA_BASE = "https://budget.gov.ru/epbs/opendata/"
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; opengovfinancesbook-howto/1.0)"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; finguide-howto/1.0)"}
 
 
 def link_to_meta_url(link: str) -> str:

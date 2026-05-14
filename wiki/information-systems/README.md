@@ -28,7 +28,7 @@ related_pages:
 ## Для кого раздел
 
 - Аналитики, которым нужно понять **где заканчивается** функционал портала и что выгружается в open data / API.
-- Авторы wiki: при новой карточке ориентируйтесь на файл шаблона `wiki/information-systems/information-system-card-template.md` в репозитории ([GitHub](https://github.com/infoculture/opengovfinancesbook/blob/master/wiki/information-systems/information-system-card-template.md)) и на правила в `AGENTS.md`. У шаблона стоит `draft: true`: он **не** публикуется в production-сборке и **не** попадает в JSONL-экспорт.
+- Авторы wiki: при новой карточке ориентируйтесь на файл шаблона `wiki/information-systems/information-system-card-template.md` в репозитории ([GitHub](https://github.com/infoculture/finguide/blob/master/wiki/information-systems/information-system-card-template.md)) и на правила в `AGENTS.md`. У шаблона стоит `draft: true`: он **не** публикуется в production-сборке и **не** попадает в JSONL-экспорт.
 
 ## Подразделы
 

@@ -45,7 +45,7 @@ related_pages:
 
 **Где международные официальные витрины?** Раздел [Международные источники](/data-sources/international/).
 
-Новые карточки источников — по шаблону `wiki/data-sources/data-source-card-template.md` ([GitHub](https://github.com/infoculture/opengovfinancesbook/blob/master/wiki/data-sources/data-source-card-template.md)) и `AGENTS.md` (шаблон с `draft: true` не в production-сборке).
+Новые карточки источников — по шаблону `wiki/data-sources/data-source-card-template.md` ([GitHub](https://github.com/infoculture/finguide/blob/master/wiki/data-sources/data-source-card-template.md)) и `AGENTS.md` (шаблон с `draft: true` не в production-сборке).
 
 ## Карточки
 
