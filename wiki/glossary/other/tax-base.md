@@ -5,18 +5,23 @@ tags:
   - glossary
   - budget
 glossary_kind: law
-source_url: >-
-  http://www.consultant.ru/document/Cons_doc_LAW_19671/b29e24e860227047531cd9675998899d4118471d/
+source_url: 'http://www.consultant.ru/document/Cons_doc_LAW_19671/b29e24e860227047531cd9675998899d4118471d/'
 last_updated: 2026-05-11T00:00:00.000Z
 slug: /glossary/tax-base
-description: >-
-  налоговая база — измерение объекта налогообложения (стоимость, физическая
-  величина и т. д.), а налоговая ставка — размер начисления на единицу этой
-  базы. В публичных бюджетных данных вы чаще работаете с агрегированными
-  поступлениями по КБК, а база и ставка появляются в налоговой статистике и
-  методиках ФНС.
+description: 'налоговая база — измерение объекта налогообложения (стоимость, физическая величина и т. д.), а налоговая ставка — размер начисления на единицу этой базы. В публичных бюджетных данных вы чаще работаете с агрегированными поступлениями по КБК, а база и ставка появляются в налоговой статистике и методиках ФНС.'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/kbk
+  - /data-sources/federal/nalog-statistics
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /reporting/tax-and-customs-revenue-statistics
+  - /glossary/object-of-taxation
+  - /glossary/tax-period
+  - /glossary/tax-return
+  - /reference/classification-codes-index
+  - /data-sources/federal/minfin-opendata
+  - /intro/data-map
 ---
 
 # Налоговая база и налоговая ставка (определение НК РФ)

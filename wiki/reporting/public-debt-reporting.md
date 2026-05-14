@@ -12,16 +12,22 @@ jurisdiction: mixed
 periodicity: mixed
 execution_basis: unspecified
 primary_breakdown: 'Вид долга, срок, валюта, заёмщик'
-operator_hint: >-
-  Минфин России (федеральный долг, методика); Казначейство — долговые книги и
-  часть публикаций; субъекты и МО — муниципальный долг в регламентированной
-  отчётности
-description: >-
-  это учёт и раскрытие долговых обязательств публичного сектора; данные
-  дополняют отчёты об исполнении бюджета, но строятся на иной предметной модели,
-  чем формы 0503… по доходам и расходам.
+operator_hint: 'Минфин России (федеральный долг, методика); Казначейство — долговые книги и часть публикаций; субъекты и МО — муниципальный долг в регламентированной отчётности'
+description: 'это учёт и раскрытие долговых обязательств публичного сектора; данные дополняют отчёты об исполнении бюджета, но строятся на иной предметной модели, чем формы 0503… по доходам и расходам.'
 content_type: reporting
 entity_type: reporting-form
+related_pages:
+  - /reporting/0503117
+  - /reporting/0503317
+  - /reporting/fiscal-reserves-reporting
+  - /data-sources/regional/subnational-debt-overview
+  - /data-sources/federal/minfin-debt-constituent-entities
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/roskazna-datamarts
+  - /information-systems/federal/roskazna-portal
+  - /information-systems/federal/minfinsite
+  - /glossary/budget-process
 ---
 
 # Отчётность по государственному и муниципальному долгу

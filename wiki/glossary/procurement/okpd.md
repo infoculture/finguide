@@ -12,14 +12,20 @@ abbreviations:
 last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/okpd
 sidebar_position: 3
-description: >-
-  ОКПД2 — общероссийский иерархический классификатор товаров, работ и услуг
-  (продукции) с привязкой к видам экономической деятельности. В открытых данных
-  он чаще всего нужен, чтобы однозначно описать предмет закупки и строить
-  сопоставимые срезы по рынкам госзаказа, не смешивая разные товары под одним
-  текстовым наимено...
+description: 'ОКПД2 — общероссийский иерархический классификатор товаров, работ и услуг (продукции) с привязкой к видам экономической деятельности. В открытых данных он чаще всего нужен, чтобы однозначно описать предмет закупки и строить сопоставимые срезы по рынкам госзаказа, не смешивая разные товары под одним текстовым наимено...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /information-systems/federal/zakupki
+  - /glossary/kbk
+  - /data-sources/federal/procurement
+  - /data-sources/federal/roskazna-datamarts
+  - /howto/analysis/procurement-analysis
+  - /reference/okpd-budgets
+  - /glossary/okved
+  - /glossary/procurement-44fz
+  - /glossary/procurement-223fz
+  - /legal/44fz
 ---
 
 # ОКПД2 — Классификатор продукции

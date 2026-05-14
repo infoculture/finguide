@@ -11,14 +11,20 @@ last_updated: 2026-05-10T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/state-assignment
 sidebar_position: 8
-description: >-
-  государственное (муниципальное) задание — установленный БК РФ контур услуг и
-  работ, которые бюджетное или автономное учреждение обязано предоставлять
-  гражданам и организациям за счёт финансового обеспечения из бюджета (прежде
-  всего субсидии на выполнение задания). Для открытых данных это связывает
-  bus.gov.ru, госзад...
+description: 'государственное (муниципальное) задание — установленный БК РФ контур услуг и работ, которые бюджетное или автономное учреждение обязано предоставлять гражданам и организациям за счёт финансового обеспечения из бюджета (прежде всего субсидии на выполнение задания). Для открытых данных это связывает bus.gov.ru, госзад...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/institution-types
+  - /glossary/subsidies
+  - /information-systems/federal/bus-gov
+  - /data-sources/federal/govtasks
+  - /glossary/fcd-plan
+  - /glossary/budget-levels
+  - /glossary/budget-estimates
+  - /glossary/lbo
+  - /data-sources/federal/bus-opendata
+  - /reporting/state-assignment-reporting
 ---
 
 # Государственное (муниципальное) задание

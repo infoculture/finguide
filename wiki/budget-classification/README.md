@@ -7,9 +7,11 @@ description: >-
 tags:
   - budget-classification
   - index
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-05-14T00:00:00.000Z
 content_type: reference
 related_pages:
+  - /budget-classification/kbk-worked-examples
+  - /budget-classification/classification-changes-by-year
   - /budget-classification/overview
   - /budget-classification/expense-codes
   - /reference/classification-codes-index
@@ -30,6 +32,8 @@ related_pages:
 ## Содержание
 
 - [Обзор бюджетной классификации](./overview.md) — четыре части БК и роль КБК.
+- [Примеры КБК](./kbk-worked-examples.md) — шесть учебных разборов доходов, расходов, ИФД, трансфертов и КОСГУ.
+- [Хронология изменений классификации](./classification-changes-by-year.md) — редакции по годам и CSV в `assets/`.
 - [Коды доходов](./income-codes.md) — доходный КБК и виды доходов.
 - [Коды расходов](./expense-codes.md) — расходный КБК и функциональные разрезы.
 - [Справочник КОСГУ 2024–2026](./kosgu-reference.md) — операции и статьи расходов.

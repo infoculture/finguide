@@ -8,14 +8,18 @@ glossary_kind: organization
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
 slug: /glossary/london-club
-description: >-
-  Лондонский клуб — неформальное объединение коммерческих банков-кредиторов для
-  переговоров с официальными заёмщиками о реструктуризации коммерческого
-  внешнего долга; для России в глоссарии Минфина указано объединение свыше 600
-  банков, координируемых Банковским консультационным комитетом во главе с «Дойче
-  банком». Для...
+description: 'Лондонский клуб — неформальное объединение коммерческих банков-кредиторов для переговоров с официальными заёмщиками о реструктуризации коммерческого внешнего долга; для России в глоссарии Минфина указано объединение свыше 600 банков, координируемых Банковским консультационным комитетом во главе с «Дойче банком». Для...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /reporting/public-debt-reporting
+  - /data-sources/federal/minfin-opendata
+  - /glossary/paris-club
+  - /glossary/debt-restructuring
+  - /legal/budget-code
+  - /data-sources/federal/roskazna-reports
+  - /intro/russian-budget-overview
+  - /glossary/budget-system
 ---
 
 # Лондонский клуб

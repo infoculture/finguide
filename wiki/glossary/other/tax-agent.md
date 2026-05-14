@@ -5,18 +5,22 @@ tags:
   - glossary
   - budget
 glossary_kind: law
-source_url: >-
-  http://www.consultant.ru/document/Cons_doc_LAW_19671/55353e3cd45cc86d9aa071ef500195a1492506c2/
+source_url: 'http://www.consultant.ru/document/Cons_doc_LAW_19671/55353e3cd45cc86d9aa071ef500195a1492506c2/'
 last_updated: 2026-05-11T00:00:00.000Z
 slug: /glossary/tax-agent
-description: >-
-  налоговый агент — лицо, которое по НК РФ должно исчислить, удержать у
-  налогоплательщика и перечислить налог в бюджетную систему (типичный контур —
-  удержание НДФЛ при выплате доходов). В аналитике зарплат и контрактов важно не
-  приписывать всю сумму налога «работнику» в интерпретации данных, если
-  фактически обязанност...
+description: 'налоговый агент — лицо, которое по НК РФ должно исчислить, удержать у налогоплательщика и перечислить налог в бюджетную систему (типичный контур — удержание НДФЛ при выплате доходов). В аналитике зарплат и контрактов важно не приписывать всю сумму налога «работнику» в интерпретации данных, если фактически обязанност...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /data-sources/federal/nalog-statistics
+  - /reporting/tax-and-customs-revenue-statistics
+  - /glossary/taxpayer
+  - /glossary/tax-authority
+  - /glossary/tax-return
+  - /reference/classification-codes-index
+  - /data-sources/federal/minfin-opendata
+  - /intro/data-map
+  - /glossary/kbk
 ---
 
 # Налоговый агент (определение НК РФ)

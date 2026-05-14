@@ -1,10 +1,7 @@
 ---
 title: Приказы Минфина России по бюджетной классификации
 sidebar_label: Приказы по бюджетной классификации
-description: >-
-  Линейка нормативных актов Минфина, которые детализируют бюджетную
-  классификацию по годам: перечни кодов КБК, КОСГУ, КВР и порядок применения;
-  основа для согласования открытых наборов и отчётности.
+description: 'Линейка нормативных актов Минфина, которые детализируют бюджетную классификацию по годам: перечни кодов КБК, КОСГУ, КВР и порядок применения; основа для согласования открытых наборов и отчётности.'
 tags:
   - legal
   - budget
@@ -14,6 +11,17 @@ doc_kind: overview
 source_url: 'https://minfin.gov.ru/ru/perfomance/budget/classandaccounting/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/giis-eb
+  - /information-systems/federal/roskazna-portal
+  - /information-systems/federal/pravo-gov-ru
+  - /legal/budget-code
+  - /glossary/kbk
+  - /glossary/kosgu
+  - /glossary/kvr
+  - /howto/analysis/kbc-decoding
 ---
 
 # Приказы Минфина России по бюджетной классификации

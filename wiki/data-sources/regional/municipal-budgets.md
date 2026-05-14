@@ -25,6 +25,14 @@ description: >-
   приходится дополнять сайтами самих МО.
 content_type: data_source
 entity_type: data-source
+related_pages:
+  - /data-sources/regional/large-city-budgets
+  - /data-sources/regional/novosibirsk-city-open-budget-mayor
+  - /data-sources/regional/nizhny-novgorod-city-open-budget-budgetnn
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/regional/how-to-find-regional-data
+  - /reporting/municipal-budget-execution
+  - /information-systems/federal/giis-eb
 ---
 
 # Муниципальные бюджеты (единый портал бюджетной системы)
@@ -100,6 +108,7 @@ curl -sS "https://budget.gov.ru/epbs/opendata/list.json" -o opendata-catalog.jso
 - **[ГИИС «Электронный бюджет»](/information-systems/federal/giis-eb)** — операционный контекст портала и публичные разделы.
 - **[Реестр МО / ОКТМО](/information-systems/federal/munbase)** — коды территории и идентификация МО при разборе выгрузок и таблиц.
 - **[Региональные порталы «Открытый бюджет»](/data-sources/regional/regional-portals)** — витрины субъектов РФ; пересекаются по теме прозрачности, но это **иной** уровень и набор операторов.
+- **[Крупные города — обзор](/data-sources/regional/large-city-budgets)**; примеры карточек МО: **[Новосибирск](/data-sources/regional/novosibirsk-city-open-budget-mayor)**, **[Нижний Новгород](/data-sources/regional/nizhny-novgorod-city-open-budget-budgetnn)**.
 - **[Уровни бюджета](/glossary/budget-levels)** и **[ОКТМО](/glossary/oktmo)** — чтобы не смешивать уровни бюджета и ключи территории в данных.
 
 ## Не путать с

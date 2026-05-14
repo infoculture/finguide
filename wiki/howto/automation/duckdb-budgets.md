@@ -4,53 +4,93 @@ sidebar_label: 'DuckDB: аналитика бюджетных данных'
 tags:
   - howto
   - automation
-last_updated: 2026-05-10T00:00:00.000Z
+  - budget
+last_updated: 2026-05-14T00:00:00.000Z
 content_type: howto
 entity_type: howto
-description: '# DuckDB: аналитика бюджетных данных'
+description: >-
+  Локальный SQL к CSV без сервера БД: read_csv_auto, агрегация по региону;
+  учебный файл и pip install duckdb.
+related_pages:
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /howto/automation/pandas-kbc
+  - /howto/automation/data-quality
+  - /howto/analysis/budget-execution
 ---
 
 # DuckDB: аналитика бюджетных данных
 
-## Зачем
+## Назначение и аудитория
 
-DuckDB позволяет анализировать большие XLS/CSV без БД-сервера. Запрос напрямую к Parquet/CSV/Excel.
-
-## Шаги
-
-1. Установить duckdb.
-2. Прочитать CSV/Parquet через read_csv_auto / read_parquet.
-3. Выполнить SQL-агрегации и экспортировать результаты.
-
-## Пример кода
-
-```python
-import requests
-# r = requests.get("https://...")
-# r.raise_for_status()
-# data = r.json()
-```
+Для **аналитиков**, которым нужен **SQL** к большим **CSV/Parquet** выгрузкам бюджета **без развёртывания** СУБД: один файл DuckDB или режим in-process в Python.
 
 ## Входные данные
 
-- Конкретные файлы, URL, коды периодов и реквизиты перечислены в разделах ниже; зафиксируйте дату выгрузки для воспроизводимости.
+- **Файлы** — CSV/Parquet из **[наборов ГИИС](/data-sources/federal/budget-gov-ru-datasets)**, **[Минфина](/data-sources/federal/minfin-opendata)** или **[Казначейства](/data-sources/federal/roskazna-reports)**; кодировка и разделитель — по первым строкам файла или паспорту набора.
+- **Схема** — имена колонок и типы; для «грязных» CSV используйте **`read_csv_auto`** с последующим **`CAST`**.
+- **Установка** — пакет **`duckdb`** для Python: `python3 -m pip install duckdb` (версия в примере не фиксируется жёстко).
 
 ## Инструменты
 
-- Браузер и/или среда из разделов ниже (Python, Excel, SQL, CLI) — в зависимости от выбранного пути.
+- **Python 3** и **`duckdb`**.
+- Опционально **CLI `duckdb`** — те же SQL в интерактивном режиме.
+
+## Шаги
+
+1. **Положите выгрузку** в каталог проекта или укажите абсолютный путь.
+2. **Подключитесь** `duckdb.connect()` (файл БД) или без аргумента для чисто in-memory сессии.
+3. **Прочитайте** `read_csv_auto('…')` / `read_parquet('…')` в **`FROM`**.
+4. **Выполните SQL** — фильтры, `GROUP BY`, оконные функции при необходимости.
+5. **Сохраните результат** — `COPY (SELECT …) TO 'out.parquet' (FORMAT PARQUET)` или выгрузка в CSV.
+
+## Воспроизводимый пример
+
+Учебный **CSV** записывается во временный файл, затем **агрегация** по региону:
+
+```python
+import os
+import tempfile
+
+import duckdb
+
+csv_text = "region,amount\nmsk,100\nspb,200\nmsk,50\n"
+
+fd, path = tempfile.mkstemp(suffix=".csv")
+os.write(fd, csv_text.encode("utf-8"))
+os.close(fd)
+
+try:
+    con = duckdb.connect()
+    rows = con.sql(
+        f"""
+        SELECT region, sum(amount)::DOUBLE AS total
+        FROM read_csv_auto('{path}')
+        GROUP BY 1
+        ORDER BY 1
+        """
+    ).fetchall()
+    print(rows)
+finally:
+    os.unlink(path)
+```
+
+Ожидаемый вывод: **`[('msk', 150.0), ('spb', 200.0)]`**.
 
 ## Проверка результата
 
-Сверьте итоги с официальной отчётностью, контрольными суммами или sanity-check из текста выше.
+- Число строк в результате — **2**; сумма по **msk** равна **150.0**.
+- На реальном файле — сравните **`sum(amount)`** с контрольной суммой из паспорта набора или с **`COUNT(*)`** после фильтра.
+- При чтении **UTF-8 с BOM** проверьте первую колонку на артефакт имени.
 
+## Ограничения и типовые ошибки
 
-## Подводные камни
+- **`read_csv_auto`** может ошибиться в типах; для денег и **КБК** часто безопаснее читать как **`VARCHAR`** и нормализовать (см. **[pandas: КБК](/howto/automation/pandas-kbc)**).
+- **Пути Windows** — экранируйте обратные слэши или используйте **сырые** строки/`pathlib`.
+- **Параллельные записи** в один файл DuckDB на сетевой ФС — избегайте; для пайплайнов — **один писатель** на файл.
+- DuckDB **не заменяет** контроль качества на входе — см. **[контроль качества данных](/howto/automation/data-quality)**.
 
-- Кодировки и формат дат могут различаться между источниками.
-- Ограничения по rate limit — проверяйте документацию.
-- Обновления могут приходить с задержкой по отношению к публикации.
+## Связанные страницы
 
-## Связанные материалы
-
-- [Информационные системы](/information-systems/)
-- [Источники данных](/data-sources/)
+- **[Наборы данных ГИИС «Электронный бюджет»](/data-sources/federal/budget-gov-ru-datasets)**.
+- **[pandas: КБК](/howto/automation/pandas-kbc)** и **[контроль качества данных](/howto/automation/data-quality)**.
+- **[Анализ исполнения бюджета](/howto/analysis/budget-execution)**.

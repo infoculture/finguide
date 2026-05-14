@@ -1,10 +1,7 @@
 ---
 title: Законодательство об открытых данных (обзор)
 sidebar_label: Открытые данные (обзор)
-description: >-
-  Связка норм о публикации общедоступной информации органов власти в виде
-  открытых данных: 8-ФЗ, подзаконные акты и федеральный каталог data.gov.ru в
-  контексте госфинансов и закупок.
+description: 'Связка норм о публикации общедоступной информации органов власти в виде открытых данных: 8-ФЗ, подзаконные акты и федеральный каталог data.gov.ru в контексте госфинансов и закупок.'
 tags:
   - legal
   - open-data
@@ -17,6 +14,17 @@ official_urls:
   - 'https://www.consultant.ru/document/cons_doc_LAW_84602/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /legal/8fz
+  - /information-systems/federal/data-gov-ru
+  - /legal/44fz
+  - /legal/223-fz
+  - /legal/budget-code
+  - /information-systems/federal/zakupki
+  - /information-systems/federal/giis-eb
+  - /information-systems/federal/roskazna-portal
+  - /organizations/minekonomiki
+  - /information-systems/federal/pravo-gov-ru
 ---
 
 # Законодательство об открытых данных

@@ -1,12 +1,7 @@
 ---
-title: >-
-  Постановление Правительства РФ от 26 июня 2015 г. № 640 «О порядке
-  формирования государственного задания…»
+title: Постановление Правительства РФ от 26 июня 2015 г. № 640 «О порядке формирования государственного задания…»
 sidebar_label: ПП № 640 (госзадание)
-description: >-
-  Подзаконный порядок формирования государственного задания для федеральных
-  государственных учреждений; связка с 7-ФЗ, БК РФ и открытыми данными
-  bus.gov.ru.
+description: 'Подзаконный порядок формирования государственного задания для федеральных государственных учреждений; связка с 7-ФЗ, БК РФ и открытыми данными bus.gov.ru.'
 tags:
   - legal
   - budget
@@ -17,6 +12,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /legal/budget-code
+  - /legal/7fz-nko
+  - /data-sources/federal/govtasks
+  - /data-sources/federal/bus-opendata
+  - /data-sources/federal/subsidy
+  - /glossary/subsidies
+  - /legal/174fz-autonomous-institutions
+  - /glossary/state-assignment
+  - /glossary/budget-estimates
+  - /glossary/lbo
 ---
 
 # ПП № 640 о порядке формирования государственного задания

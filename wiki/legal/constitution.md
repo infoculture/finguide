@@ -1,11 +1,7 @@
 ---
 title: Конституция Российской Федерации
 sidebar_label: Конституция РФ
-description: >-
-  Высший законовой акт о государственном устройстве РФ: распределение
-  полномочий, в том числе по федеральному бюджету, налогам, займам и внешнему
-  финансовому контролю; задаёт рамку, в которой действуют Бюджетный кодекс и
-  специальные законы о данных.
+description: 'Высший законовой акт о государственном устройстве РФ: распределение полномочий, в том числе по федеральному бюджету, налогам, займам и внешнему финансовому контролю; задаёт рамку, в которой действуют Бюджетный кодекс и специальные законы о данных.'
 tags:
   - legal
   - budget
@@ -18,6 +14,17 @@ official_urls:
   - 'https://constitution.garant.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /legal/budget-code
+  - /legal/8fz
+  - /glossary/budget-levels
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/accounts-chamber-opendata
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /legal/budgetlaw
+  - /legal/41fz
+  - /organizations/accounts-chamber
+  - /organizations/minfin
 ---
 
 # Конституция Российской Федерации

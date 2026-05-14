@@ -9,12 +9,13 @@ tags:
   - intro
   - navigation
   - rag
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-05-14T00:00:00.000Z
 content_type: reference
 related_pages:
   - /intro/getting-started
   - /intro/how-to-use
   - /intro/rag-guide
+  - /data-sources/regional
   - /howto
   - /glossary
 ---
@@ -78,6 +79,13 @@ flowchart LR
 1. [Организации](/organizations/) — ведомство и его роль (например [Минфин](/organizations/minfin), [Федеральное казначейство](/organizations/federal-treasury)).
 2. [Бюджетная система](/budget-system/) — уровни бюджетов, цикл, доходы и расходы.
 3. [Справочники](/reference/) — коды территорий, ОКПД2 в закупках, идентификаторы в открытых данных.
+
+## Маршрут 5. Субъект РФ, ОМС, долг и региональные закупки
+
+1. [Региональные источники данных](/data-sources/regional/) — оглавление: [консолидированные бюджеты](/data-sources/regional/consolidated-budgets), [матрица раскрытия](/data-sources/regional/regional-disclosure-matrix), [методика поиска](/data-sources/regional/how-to-find-regional-data), [крупные городские бюджеты (обзор)](/data-sources/regional/large-city-budgets); примеры карточек МО: [Новосибирск](/data-sources/regional/novosibirsk-city-open-budget-mayor), [Нижний Новгород](/data-sources/regional/nizhny-novgorod-city-open-budget-budgetnn).
+2. **ОМС и внебюджетные фонды субъекта** — [навигатор по ТФОМС](/data-sources/regional/regional-extrabudgetary-health-overview); примеры: [МГФОМС Москвы](/data-sources/regional/moscow-city-tfoms-mgfoms), [МОФОМС области](/data-sources/regional/moscow-oblast-tfoms-mofoms).
+3. **Субнациональный долг** — [навигатор](/data-sources/regional/subnational-debt-overview) и [отчётность по долгу](/reporting/public-debt-reporting).
+4. **Закупки ниже федерального «только ЕИС»** — [навигатор по региональным закупкам](/data-sources/regional/regional-procurement-sources-overview) и [пилотная матрица субъектов](/data-sources/regional/regional-disclosure-matrix) (в карточках — прямые URL по Москве, СПб, Татарстану, Краснодарскому краю, Свердловской области, Республике Саха (Якутия), Республике Дагестан, Кемеровской области — Кузбассу, ХМАО — Югре, Калининградской области и др.); контракты — в [ЕИС](/information-systems/federal/zakupki).
 
 ## Для ИИ-ассистентов и редакторов
 

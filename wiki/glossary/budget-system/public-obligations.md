@@ -8,14 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/public-obligations
-description: >-
-  публичные обязательства и публичные нормативные обязательства в ст. 6 БК РФ
-  описывают обязанности публично-правового образования перед гражданами и иными
-  лицами, вытекающие из закона (и иных НПА), в том числе денежные выплаты с
-  фиксированным или индексируемым размером. Для аналитика открытых данных это
-  связь между н...
+description: 'публичные обязательства и публичные нормативные обязательства в ст. 6 БК РФ описывают обязанности публично-правового образования перед гражданами и иными лицами, вытекающие из закона (и иных НПА), в том числе денежные выплаты с фиксированным или индексируемым размером. Для аналитика открытых данных это связь между н...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/expenditure-commitments
+  - /data-sources/federal/minfin-opendata
+  - /glossary/transfers
+  - /glossary/interbudgetary-relations
+  - /glossary/budget
+  - /glossary/kbk
+  - /glossary/consolidated-budget
+  - /data-sources/federal/regionalnye-byudzhety
+  - /glossary/budget-appropriations
+  - /glossary/departmental-expense-structure
 ---
 
 # Публичные обязательства

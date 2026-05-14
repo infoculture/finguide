@@ -1,11 +1,7 @@
 ---
-title: >-
-  Федеральный закон от 6 октября 2003 г. № 131-ФЗ «Об общих принципах
-  организации местного самоуправления в Российской Федерации»
+title: Федеральный закон от 6 октября 2003 г. № 131-ФЗ «Об общих принципах организации местного самоуправления в Российской Федерации»
 sidebar_label: 131-ФЗ (МСУ)
-description: >-
-  Общие принципы устройства местного самоуправления, полномочия и финансовая
-  основа МО; контекст для ОКТМО, местных бюджетов и муниципальных данных.
+description: 'Общие принципы устройства местного самоуправления, полномочия и финансовая основа МО; контекст для ОКТМО, местных бюджетов и муниципальных данных.'
 tags:
   - legal
   - budget
@@ -16,6 +12,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /glossary/oktmo
+  - /information-systems/federal/munbase
+  - /information-systems/federal/giis-eb
+  - /legal/budget-code
+  - /legal/8fz
+  - /legal/budgetlaw
+  - /legal/161fz-unitary-enterprises
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/minfin-opendata
 ---
 
 # 131-ФЗ об общих принципах организации местного самоуправления

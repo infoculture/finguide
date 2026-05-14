@@ -1,12 +1,7 @@
 ---
-title: >-
-  Федеральный закон от 21 июля 2005 г. № 94-ФЗ «О размещении заказов на поставки
-  товаров, выполнение работ, оказание услуг для государственных и муниципальных
-  нужд» (исторический контур)
+title: 'Федеральный закон от 21 июля 2005 г. № 94-ФЗ «О размещении заказов на поставки товаров, выполнение работ, оказание услуг для государственных и муниципальных нужд» (исторический контур)'
 sidebar_label: 94-ФЗ (закупки до 2013)
-description: >-
-  Закон о размещении заказов до контрактной системы 44-ФЗ; объясняет разрыв
-  данных и методологии до ЕИС в нынешнем виде.
+description: Закон о размещении заказов до контрактной системы 44-ФЗ; объясняет разрыв данных и методологии до ЕИС в нынешнем виде.
 tags:
   - legal
   - procurement
@@ -18,6 +13,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /legal/44fz
+  - /legal/223-fz
+  - /data-sources/federal/zakupki-xml
+  - /information-systems/federal/zakupki
+  - /glossary/procurement-44fz
+  - /legal/budget-code
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/giis-eb
+  - /reporting/reporting-overview
 ---
 
 # 94-ФЗ — исторический контур закупок до 44-ФЗ

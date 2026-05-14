@@ -1,12 +1,7 @@
 ---
-title: >-
-  Федеральный закон от 31 июля 1998 г. № 145-ФЗ «Бюджетный кодекс Российской
-  Федерации»
+title: Федеральный закон от 31 июля 1998 г. № 145-ФЗ «Бюджетный кодекс Российской Федерации»
 sidebar_label: БК РФ (145-ФЗ)
-description: >-
-  Кодифицированный акт о бюджетной системе, бюджетном процессе, межбюджетных
-  отношениях и исполнении бюджетов; задаёт общие правила, из которых следуют
-  единообразие классификации, отчётности и публичных витрин бюджетных данных.
+description: 'Кодифицированный акт о бюджетной системе, бюджетном процессе, межбюджетных отношениях и исполнении бюджетов; задаёт общие правила, из которых следуют единообразие классификации, отчётности и публичных витрин бюджетных данных.'
 tags:
   - legal
   - budget
@@ -19,6 +14,17 @@ official_urls:
   - 'http://pravo.gov.ru/proxy/ips/?docbody=&nd=102054721'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /glossary/budget-system
+  - /glossary/budget-process
+  - /glossary/interbudgetary-relations
+  - /glossary/kbk
+  - /information-systems/federal/giis-eb
+  - /organizations/minfin
+  - /organizations/federal-treasury
+  - /legal/budgetlaw
+  - /glossary/consolidated-budget
+  - /legal/budget-classification-orders
 ---
 
 # Бюджетный кодекс Российской Федерации (145-ФЗ)

@@ -10,14 +10,20 @@ abbreviations:
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/summary-budget-schedule
-description: >-
-  сводная бюджетная роспись — документ финансового органа (или органа управления
-  ГВФ), которым организуют исполнение соответствующего бюджета по расходам и
-  источникам финансирования дефицита. Для аналитика открытых данных это мост
-  между законом о бюджете и ведомственными бюджетными росписями и кассовыми
-  сводами.
+description: 'сводная бюджетная роспись — документ финансового органа (или органа управления ГВФ), которым организуют исполнение соответствующего бюджета по расходам и источникам финансирования дефицита. Для аналитика открытых данных это мост между законом о бюджете и ведомственными бюджетными росписями и кассовыми сводами.'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/extrabudgetary-funds
+  - /glossary/budget
+  - /glossary/budget-revenues-expenditures
+  - /glossary/deficit-financing
+  - /glossary/budget-schedule
+  - /glossary/budget-appropriations
+  - /organizations/minfin
+  - /organizations/federal-treasury
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/giis-eb
 ---
 
 # Сводная бюджетная роспись

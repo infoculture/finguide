@@ -8,14 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
 slug: /glossary/state-debt-register
-description: >-
-  государственная долговая книга — это регистр, в который в установленном
-  порядке вносится информация о долговых обязательствах Российской Федерации (в
-  том числе по гарантиям): объёмы, даты возникновения, формы обеспечения,
-  исполнение. Для открытых финансов её связывают с отчётностью по долгу и
-  публикациями Казначейст...
+description: 'государственная долговая книга — это регистр, в который в установленном порядке вносится информация о долговых обязательствах Российской Федерации (в том числе по гарантиям): объёмы, даты возникновения, формы обеспечения, исполнение. Для открытых финансов её связывают с отчётностью по долгу и публикациями Казначейст...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /reporting/public-debt-reporting
+  - /data-sources/federal/roskazna-reports
+  - /organizations/minfin
+  - /organizations/federal-treasury
+  - /data-sources/federal/roskazna-datamarts
+  - /glossary/state-municipal-debt
+  - /glossary/forms-of-state-debt
+  - /glossary/state-guarantee
+  - /legal/budget-code
+  - /data-sources/federal/minfin-opendata
 ---
 
 # Государственная долговая книга Российской Федерации

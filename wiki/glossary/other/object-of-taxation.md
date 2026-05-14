@@ -5,18 +5,23 @@ tags:
   - glossary
   - budget
 glossary_kind: law
-source_url: >-
-  http://www.consultant.ru/document/Cons_doc_LAW_19671/de41531cd3f46a7c13a3741494f3b3c0569e3aa3/
+source_url: 'http://www.consultant.ru/document/Cons_doc_LAW_19671/de41531cd3f46a7c13a3741494f3b3c0569e3aa3/'
 last_updated: 2026-05-11T00:00:00.000Z
 slug: /glossary/object-of-taxation
-description: >-
-  объект налогообложения — это факт или величина (реализация, имущество,
-  прибыль, доход и т. п.), с наличием которых законодательство о налогах
-  связывает возникновение обязанности по уплате налога. В открытых рядах бюджета
-  вы чаще видите денежный результат по КБК, а не «объект» в терминах конкретной
-  главы НК РФ.
+description: 'объект налогообложения — это факт или величина (реализация, имущество, прибыль, доход и т. п.), с наличием которых законодательство о налогах связывает возникновение обязанности по уплате налога. В открытых рядах бюджета вы чаще видите денежный результат по КБК, а не «объект» в терминах конкретной главы НК РФ.'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/kbk
+  - /data-sources/federal/nalog-statistics
+  - /reporting/tax-and-customs-revenue-statistics
+  - /data-sources/federal/procurement
+  - /glossary/okpd
+  - /glossary/tax-base
+  - /glossary/tax
+  - /glossary/tax-period
+  - /reference/classification-codes-index
+  - /data-sources/federal/minfin-opendata
 ---
 
 # Объект налогообложения (определение НК РФ)

@@ -1,12 +1,7 @@
 ---
-title: >-
-  Федеральный закон от 14 ноября 2002 г. № 161-ФЗ «О государственных и
-  муниципальных унитарных предприятиях»
+title: Федеральный закон от 14 ноября 2002 г. № 161-ФЗ «О государственных и муниципальных унитарных предприятиях»
 sidebar_label: 161-ФЗ (ГУП/МУП)
-description: >-
-  Правовой режим унитарных предприятий с имуществом учредителя на праве
-  хозяйственного ведения или оперативного управления; отличие от корпораций и
-  госкорпораций в данных о заказчиках и ЕГРЮЛ.
+description: Правовой режим унитарных предприятий с имуществом учредителя на праве хозяйственного ведения или оперативного управления; отличие от корпораций и госкорпораций в данных о заказчиках и ЕГРЮЛ.
 tags:
   - legal
   - budget
@@ -17,6 +12,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /information-systems/federal/egrul
+  - /glossary/state-corporations
+  - /legal/civil-code
+  - /legal/236fz-ppk
+  - /legal/44fz
+  - /legal/223-fz
+  - /information-systems/federal/munbase
+  - /data-sources/federal/zakupki-xml
+  - /glossary/gup-mup
+  - /legal/129fz-egrul
 ---
 
 # 161-ФЗ о государственных и муниципальных унитарных предприятиях

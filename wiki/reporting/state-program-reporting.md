@@ -11,15 +11,21 @@ jurisdiction: federal
 periodicity: mixed
 execution_basis: cash
 primary_breakdown: 'Госпрограмма, целевые показатели, ГРБС, КБК/программная структура'
-operator_hint: >-
-  Минфин и Федеральное казначейство в контуре ГАС «Управление» и открытых
-  данных; ведомства — ответственные исполнители показателей
-description: >-
-  это отчётность о реализации политики, агрегированная по госпрограммам; она
-  связывает бюджетные суммы с целями и индикаторами, но не заменяет построчное
-  исполнение по КБК в казначейских формах без методики сопоставления.
+operator_hint: Минфин и Федеральное казначейство в контуре ГАС «Управление» и открытых данных; ведомства — ответственные исполнители показателей
+description: 'это отчётность о реализации политики, агрегированная по госпрограммам; она связывает бюджетные суммы с целями и индикаторами, но не заменяет построчное исполнение по КБК в казначейских формах без методики сопоставления.'
 content_type: reporting
 entity_type: reporting-form
+related_pages:
+  - /reporting/procurement-contract-reporting
+  - /reporting/0503117
+  - /reporting/grbs-consolidated-reporting
+  - /data-sources/federal/gasu-programs
+  - /data-sources/federal/roskazna-datamarts
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/gasu
+  - /information-systems/federal/giis-eb
+  - /glossary/gov-programs
+  - /glossary/fcp
 ---
 
 # Отчётность по государственным программам Российской Федерации

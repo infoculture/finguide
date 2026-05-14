@@ -5,18 +5,23 @@ tags:
   - glossary
   - budget
 glossary_kind: law
-source_url: >-
-  http://www.consultant.ru/document/Cons_doc_LAW_19671/fd3039f558e14477ce752eb9789b02a023fbc006/
+source_url: 'http://www.consultant.ru/document/Cons_doc_LAW_19671/fd3039f558e14477ce752eb9789b02a023fbc006/'
 last_updated: 2026-05-11T00:00:00.000Z
 slug: /glossary/nk-state-fee
-description: >-
-  сбор в терминологии НК РФ — это обязательный взнос, который закон связывает
-  либо с получением права или разрешения от органов власти, либо с ведением
-  отдельных видов деятельности на территории, где сбор введён. В открытых данных
-  бюджета такие поступления отражаются по КБК наряду с налогами, но юридическая
-  природа пл...
+description: 'сбор в терминологии НК РФ — это обязательный взнос, который закон связывает либо с получением права или разрешения от органов власти, либо с ведением отдельных видов деятельности на территории, где сбор введён. В открытых данных бюджета такие поступления отражаются по КБК наряду с налогами, но юридическая природа пл...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/kbk
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/nalog-statistics
+  - /information-systems/federal/fnssite
+  - /glossary/tax
+  - /glossary/social-insurance-contributions
+  - /glossary/taxpayer
+  - /reference/classification-codes-index
+  - /data-sources/federal/minfin-opendata
+  - /intro/data-map
 ---
 
 # Сбор (определение НК РФ)

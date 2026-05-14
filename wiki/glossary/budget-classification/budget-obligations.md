@@ -9,14 +9,20 @@ last_updated: 2026-05-10T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/budget-obligations
 sidebar_position: 9
-description: >-
-  бюджетное обязательство — возникающее в предусмотренных БК РФ случаях денежное
-  обязательство за счёт средств бюджета, принятое или исполненное получателем
-  средств или иным участником по правилам исполнения бюджета. Для открытых
-  данных это мост между «планом и лимитами» (ЛБО) и фактом кассы в казначейском
-  исполнении ...
+description: 'бюджетное обязательство — возникающее в предусмотренных БК РФ случаях денежное обязательство за счёт средств бюджета, принятое или исполненное получателем средств или иным участником по правилам исполнения бюджета. Для открытых данных это мост между «планом и лимитами» (ЛБО) и фактом кассы в казначейском исполнении ...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/pbs
+  - /glossary/lbo
+  - /glossary/treasury-execution
+  - /glossary/kbk
+  - /glossary/budget-estimates
+  - /information-systems/federal/zakupki
+  - /data-sources/federal/roskazna-reports
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
 ---
 
 # Бюджетное обязательство

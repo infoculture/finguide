@@ -5,18 +5,23 @@ tags:
   - glossary
   - budget
 glossary_kind: law
-source_url: >-
-  http://www.consultant.ru/document/Cons_doc_LAW_19671/fd3039f558e14477ce752eb9789b02a023fbc006/
+source_url: 'http://www.consultant.ru/document/Cons_doc_LAW_19671/fd3039f558e14477ce752eb9789b02a023fbc006/'
 last_updated: 2026-05-11T00:00:00.000Z
 slug: /glossary/tax
-description: >-
-  в НК РФ налог — это обязательный безвозмездный платёж в бюджетную систему,
-  который закон связывает с наличием у плательщика объекта налогообложения. Для
-  аналитики открытых финансов это базовая категория: налоговые поступления в
-  отчётах исполнения бюджета и в КБК соотносятся с администрированием налогов,
-  но не совпад...
+description: 'в НК РФ налог — это обязательный безвозмездный платёж в бюджетную систему, который закон связывает с наличием у плательщика объекта налогообложения. Для аналитики открытых финансов это базовая категория: налоговые поступления в отчётах исполнения бюджета и в КБК соотносятся с администрированием налогов, но не совпад...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/kbk
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/nalog-statistics
+  - /reporting/tax-and-customs-revenue-statistics
+  - /glossary/nk-state-fee
+  - /glossary/social-insurance-contributions
+  - /glossary/taxpayer
+  - /glossary/object-of-taxation
+  - /glossary/tax-base
 ---
 
 # Налог (определение НК РФ)

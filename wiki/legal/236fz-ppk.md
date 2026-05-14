@@ -1,12 +1,7 @@
 ---
-title: >-
-  Федеральный закон от 3 июля 2016 г. № 236-ФЗ «О публично-правовых компаниях в
-  Российской Федерации…»
+title: Федеральный закон от 3 июля 2016 г. № 236-ФЗ «О публично-правовых компаниях в Российской Федерации…»
 sidebar_label: 236-ФЗ (ППК)
-description: >-
-  Правовой режим публично-правовых компаний как унитарных НКО с
-  публично-правовыми полномочиями; отличие от госкорпораций и унитарных
-  предприятий в данных.
+description: Правовой режим публично-правовых компаний как унитарных НКО с публично-правовыми полномочиями; отличие от госкорпораций и унитарных предприятий в данных.
 tags:
   - legal
   - budget
@@ -17,6 +12,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /information-systems/federal/egrul
+  - /data-sources/federal/zakupki-xml
+  - /legal/state-corporation-charter-laws
+  - /legal/161fz-unitary-enterprises
+  - /legal/7fz-nko
+  - /legal/44fz
+  - /glossary/state-corporations
+  - /legal/budget-code
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
 ---
 
 # 236-ФЗ о публично-правовых компаниях

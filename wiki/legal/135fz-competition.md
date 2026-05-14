@@ -1,10 +1,7 @@
 ---
 title: Федеральный закон от 26 июля 2006 г. № 135-ФЗ «О защите конкуренции»
 sidebar_label: 135-ФЗ (ФАС)
-description: >-
-  Антимонопольное регулирование: запреты соглашений и злоупотреблений, контроль
-  концентраций; контекст для закупок, естественных монополий и полномочий ФАС в
-  открытых данных.
+description: 'Антимонопольное регулирование: запреты соглашений и злоупотреблений, контроль концентраций; контекст для закупок, естественных монополий и полномочий ФАС в открытых данных.'
 tags:
   - legal
   - procurement
@@ -15,6 +12,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /information-systems/federal/zakupki
+  - /legal/44fz
+  - /legal/223-fz
+  - /organizations/fas
+  - /data-sources/federal/zakupki-xml
+  - /legal/147fz-natural-monopolies
+  - /glossary/procurement-44fz
+  - /legal/budget-code
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
 ---
 
 # 135-ФЗ о защите конкуренции

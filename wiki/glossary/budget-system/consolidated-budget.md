@@ -9,14 +9,20 @@ last_updated: 2026-05-10T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/consolidated-budget
 sidebar_position: 6
-description: >-
-  консолидированный бюджет — это сводный показатель и соответствующая
-  отчётность, в которой доходы и расходы объединяют бюджет субъекта РФ и
-  включённые по методике местные бюджеты (и иные элементы по правилам БК РФ и
-  инструкций), с исключением внутренних перечислений, чтобы не считать одни и те
-  же суммы дважды. Для ан...
+description: 'консолидированный бюджет — это сводный показатель и соответствующая отчётность, в которой доходы и расходы объединяют бюджет субъекта РФ и включённые по методике местные бюджеты (и иные элементы по правилам БК РФ и инструкций), с исключением внутренних перечислений, чтобы не считать одни и те же суммы дважды. Для ан...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/budget-levels
+  - /organizations/federal-treasury
+  - /glossary/treasury-execution
+  - /reporting/0503317
+  - /reporting/0503387
+  - /glossary/transfers
+  - /glossary/budget-system
+  - /data-sources/regional/consolidated-budgets
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
 ---
 
 # Консолидированный бюджет

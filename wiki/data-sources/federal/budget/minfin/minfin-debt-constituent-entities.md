@@ -29,6 +29,7 @@ related_pages:
   - /information-systems/federal/minfinsite
   - /organizations/minfin
   - /data-sources/federal/minfin-opendata
+  - /data-sources/regional/subnational-debt-overview
   - /budget-system/debt
   - /reporting/public-debt-reporting
   - /data-sources/federal/roskazna-reports

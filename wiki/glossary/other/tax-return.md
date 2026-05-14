@@ -5,18 +5,23 @@ tags:
   - glossary
   - budget
 glossary_kind: law
-source_url: >-
-  http://www.consultant.ru/document/Cons_doc_LAW_19671/b57ec74ce66c7a42202cfb47175a12ea4722bc99/
+source_url: 'http://www.consultant.ru/document/Cons_doc_LAW_19671/b57ec74ce66c7a42202cfb47175a12ea4722bc99/'
 last_updated: 2026-05-11T00:00:00.000Z
 slug: /glossary/tax-return
-description: >-
-  налоговая декларация — заявление налогоплательщика (на бумаге или в
-  электронной форме по правилам НК РФ) о объектах налогообложения, доходах,
-  расходах, базе, льготах и исчисленной сумме налога. В открытых данных агрегаты
-  ФНС воспроизводят содержание отчётности на макроуровне; сами декларации по
-  субъектам как правило...
+description: 'налоговая декларация — заявление налогоплательщика (на бумаге или в электронной форме по правилам НК РФ) о объектах налогообложения, доходах, расходах, базе, льготах и исчисленной сумме налога. В открытых данных агрегаты ФНС воспроизводят содержание отчётности на макроуровне; сами декларации по субъектам как правило...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /data-sources/federal/nalog-statistics
+  - /information-systems/federal/fnssite
+  - /reporting/tax-and-customs-revenue-statistics
+  - /reporting/0503117
+  - /glossary/taxpayer
+  - /glossary/tax-agent
+  - /glossary/tax-period
+  - /glossary/tax-base
+  - /reporting/treasury-reports
+  - /reporting/pfhd
 ---
 
 # Налоговая декларация (определение НК РФ)

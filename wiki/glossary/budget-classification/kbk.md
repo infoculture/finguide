@@ -11,13 +11,20 @@ abbreviations:
 last_updated: 2026-05-12T00:00:00.000Z
 slug: /glossary/kbk
 sidebar_position: 1
-description: >-
-  КБК — единый для бюджетной системы РФ 20-значный код, которым в документах,
-  учёте и открытых наборах маркируют доходы, расходы и источники финансирования
-  дефицита бюджета. Без разбора КБК нельзя надёжно сопоставить план и
-  исполнение, закупки и сводные отчёты в одних и тех же разрезах.
+description: 'КБК — единый для бюджетной системы РФ 20-значный код, которым в документах, учёте и открытых наборах маркируют доходы, расходы и источники финансирования дефицита бюджета. Без разбора КБК нельзя надёжно сопоставить план и исполнение, закупки и сводные отчёты в одних и тех же разрезах.'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /legal/budget-classification-orders
+  - /glossary/kvr
+  - /budget-classification/overview
+  - /budget-classification/income-codes
+  - /glossary/grbs
+  - /budget-classification/target-articles
+  - /budget-classification/expense-codes
+  - /glossary/deficit-financing
+  - /howto/analysis/kbc-decoding
+  - /howto/automation/pandas-kbc
 ---
 
 # КБК — Код бюджетной классификации

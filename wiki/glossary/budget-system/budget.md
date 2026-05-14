@@ -8,14 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/budget
-description: >-
-  в БК РФ бюджет — это не только «цифры в законе», а форма образования и
-  расходования денежных средств, предназначенных для финансового обеспечения
-  задач и функций государства и местного самоуправления. Для открытых данных
-  важно связывать каждую строку с конкретным бюджетом (федеральный, субъекта,
-  местный, бюджет ГВФ)...
+description: 'в БК РФ бюджет — это не только «цифры в законе», а форма образования и расходования денежных средств, предназначенных для финансового обеспечения задач и функций государства и местного самоуправления. Для открытых данных важно связывать каждую строку с конкретным бюджетом (федеральный, субъекта, местный, бюджет ГВФ)...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/extrabudgetary-funds
+  - /glossary/budget-system
+  - /glossary/budget-revenues-expenditures
+  - /glossary/treasury-execution
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/roskazna-reports
+  - /glossary/kbk
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /glossary/transfers
 ---
 
 # Бюджет

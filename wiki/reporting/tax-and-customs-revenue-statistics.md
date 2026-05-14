@@ -16,14 +16,21 @@ pairs_with:
   - /reporting/0503117
   - /reporting/0507011
   - /reporting/extrabudgetary-funds-reporting
-operator_hint: >-
-  ФНС — налоговая статистика; ФТС — таможенные платежи и внешнеторговая
-  статистика; кассовый факт бюджета — у Казначейства
-description: >-
-  это смежный слой для проверки доходной базы бюджета и макропоказателей; он не
-  заменяет казначейские отчёты об исполнении и помесячную картину.
+operator_hint: ФНС — налоговая статистика; ФТС — таможенные платежи и внешнеторговая статистика; кассовый факт бюджета — у Казначейства
+description: это смежный слой для проверки доходной базы бюджета и макропоказателей; он не заменяет казначейские отчёты об исполнении и помесячную картину.
 content_type: reporting
 entity_type: reporting-form
+related_pages:
+  - /reporting/0503117
+  - /reporting/0507011
+  - /reporting/extrabudgetary-funds-reporting
+  - /data-sources/federal/nalog-statistics
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/fts-customs-statistics
+  - /data-sources/civil/hubofdata
+  - /information-systems/federal/fnssite
 ---
 
 # Налоговая и таможенная статистика как зеркало доходной части бюджета

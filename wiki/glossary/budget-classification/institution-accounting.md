@@ -11,14 +11,20 @@ last_updated: 2026-05-10T00:00:00.000Z
 source_url: 'https://minfin.gov.ru/ru/perfomance/accounting/publicsector/'
 slug: /glossary/institution-accounting
 sidebar_position: 11
-description: >-
-  бюджетный учёт и бухгалтерская отчётность государственных и муниципальных
-  учреждений ведутся по инструкциям Минфина России (отдельно для казённых,
-  бюджетных и автономных организаций). Стандарты финансовой отчётности
-  государственных финансов (СФО госфинансов) задают концепцию и форматы
-  отчётности организаций государс...
+description: 'бюджетный учёт и бухгалтерская отчётность государственных и муниципальных учреждений ведутся по инструкциям Минфина России (отдельно для казённых, бюджетных и автономных организаций). Стандарты финансовой отчётности государственных финансов (СФО госфинансов) задают концепцию и форматы отчётности организаций государс...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/institution-types
+  - /glossary/budget-system
+  - /data-sources/federal/bus-opendata
+  - /glossary/kosgu
+  - /reporting/institution-financial-statements
+  - /glossary/state-assignment
+  - /glossary/treasury-execution
+  - /glossary/kbk
+  - /information-systems/federal/bus-gov
+  - /information-systems/federal/giis-eb
 ---
 
 # Учёт и отчётность учреждений (бюджетный учёт и СФО госфинансов)

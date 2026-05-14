@@ -5,17 +5,23 @@ tags:
   - glossary
   - budget
 glossary_kind: law
-source_url: >-
-  http://www.consultant.ru/document/Cons_doc_LAW_19671/ab926e3cf25cdf263476d61b6d8226dcb8a5315a/
+source_url: 'http://www.consultant.ru/document/Cons_doc_LAW_19671/ab926e3cf25cdf263476d61b6d8226dcb8a5315a/'
 last_updated: 2026-05-11T00:00:00.000Z
 slug: /glossary/taxpayer
-description: >-
-  налогоплательщик — участник отношений по НК РФ, на которого закон возлагает
-  обязанность исчислять и уплачивать налог. В данных ИНН и КПП обычно
-  идентифицируют субъект в налоговом контуре; круг налогоплательщиков по
-  конкретному налогу задаётся ч. 2 НК РФ и специальными нормами.
+description: 'налогоплательщик — участник отношений по НК РФ, на которого закон возлагает обязанность исчислять и уплачивать налог. В данных ИНН и КПП обычно идентифицируют субъект в налоговом контуре; круг налогоплательщиков по конкретному налогу задаётся ч. 2 НК РФ и специальными нормами.'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/inn
+  - /glossary/kpp
+  - /information-systems/federal/egrul
+  - /information-systems/federal/zakupki
+  - /data-sources/federal/procurement
+  - /data-sources/federal/nalog-statistics
+  - /glossary/tax-agent
+  - /glossary/tax-authority
+  - /glossary/object-of-taxation
+  - /glossary/grbs
 ---
 
 # Налогоплательщик

@@ -12,6 +12,7 @@ last_updated: 2026-05-12
 slug: /reporting/state-sector-overview
 content_type: reference
 related_pages:
+  - /data-sources/federal/state-owned-enterprises-disclosure
   - /data-sources/federal/e-disclosure-ru
   - /data-sources/federal/gazprom-investor-disclosure
   - /data-sources/federal/rzd-holding-disclosure
@@ -32,6 +33,7 @@ related_pages:
 
 ## Типовые источники раскрытия
 
+- **Навигатор по корпоративному раскрытию и границам бюджета** — [госучастие и открытые данные](/data-sources/federal/state-owned-enterprises-disclosure) (связка с закупками, субсидиями и отчётностью без смешения периметров).
 - **Агрегатор раскрытий эмитентов** — [e-disclosure.ru](/data-sources/federal/e-disclosure-ru) (поиск по эмитенту и типам документов).
 - **Корпоративные витрины** с устойчивым публичным контуром — примеры в книге: [ПАО «Газпром» (инвесторам)](/data-sources/federal/gazprom-investor-disclosure), [ОАО «РЖД» (company.rzd.ru)](/data-sources/federal/rzd-holding-disclosure); полный перечень организаций книга **не** фиксирует — добавляйте карточки по мере стабильных URL.
 - Годовые отчёты и нефинансовое раскрытие на сайтах организаций (вне перечисленных карточек) — по тем же правилам проверки **первичного** URL.

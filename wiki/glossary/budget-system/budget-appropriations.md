@@ -8,14 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/budget-appropriations
-description: >-
-  бюджетные ассигнования — это потолок денег на год (в смысле ст. 6 БК РФ), в
-  пределах которого главные распорядители и распорядители могут доводить лимиты
-  и организовывать исполнение бюджетных обязательств. В открытых данных они
-  ближе всего к строкам закона о бюджете и к плановым таблицам росписей, а не к
-  одному полю...
+description: 'бюджетные ассигнования — это потолок денег на год (в смысле ст. 6 БК РФ), в пределах которого главные распорядители и распорядители могут доводить лимиты и организовывать исполнение бюджетных обязательств. В открытых данных они ближе всего к строкам закона о бюджете и к плановым таблицам росписей, а не к одному полю...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/grbs
+  - /glossary/rbs
+  - /glossary/budget-obligations
+  - /glossary/summary-budget-schedule
+  - /glossary/departmental-expense-structure
+  - /glossary/budget-schedule
+  - /glossary/lbo
+  - /glossary/pbs
+  - /organizations/minfin
+  - /data-sources/federal/minfin-opendata
 ---
 
 # Бюджетные ассигнования

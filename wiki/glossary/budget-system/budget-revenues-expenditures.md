@@ -8,13 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/budget-revenues-expenditures
-description: >-
-  в БК РФ доходы и расходы бюджета — это денежные потоки именно бюджета как
-  кассы, без сумм, которые кодекс относит к источникам финансирования дефицита.
-  В КБК и отчётности это разные группы кодов; смешение ломает баланс «доходы +
-  ИФД = расходы».
+description: 'в БК РФ доходы и расходы бюджета — это денежные потоки именно бюджета как кассы, без сумм, которые кодекс относит к источникам финансирования дефицита. В КБК и отчётности это разные группы кодов; смешение ломает баланс «доходы + ИФД = расходы».'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/deficit-financing
+  - /glossary/kbk
+  - /glossary/budget
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /glossary/treasury-execution
+  - /glossary/budget-process
+  - /glossary/institution-accounting
 ---
 
 # Доходы и расходы бюджета

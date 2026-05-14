@@ -10,19 +10,22 @@ slug: /reporting/grbs-consolidated-reporting
 jurisdiction: federal
 periodicity: mixed
 execution_basis: mixed
-primary_breakdown: >-
-  ГРБС, ведомственная структура расходов, показатели по подведомственным
-  получателям
-operator_hint: >-
-  ГРБС формирует внутреннюю сводку; публичный слой — открытые данные
-  «Электронного бюджета», Минфина и материалы Казначейства
-description: >-
-  это ведомственная проекция федерального бюджета: как главный распорядитель
-  исполнил доведённые суммы и программы; для гражданского аналитика доступ
-  обычно через открытые наборы и витрины, а не через полный внутренний пакет
-  отчётов ГРБС.
+primary_breakdown: 'ГРБС, ведомственная структура расходов, показатели по подведомственным получателям'
+operator_hint: 'ГРБС формирует внутреннюю сводку; публичный слой — открытые данные «Электронного бюджета», Минфина и материалы Казначейства'
+description: 'это ведомственная проекция федерального бюджета: как главный распорядитель исполнил доведённые суммы и программы; для гражданского аналитика доступ обычно через открытые наборы и витрины, а не через полный внутренний пакет отчётов ГРБС.'
 content_type: reporting
 entity_type: reporting-form
+related_pages:
+  - /reporting/0507011
+  - /reporting/state-program-reporting
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budgetrosp
+  - /information-systems/federal/giis-eb
+  - /information-systems/federal/aisfinances
+  - /glossary/grbs
+  - /glossary/pbs
+  - /glossary/kbk
 ---
 
 # Сводная отчётность главных распорядителей средств федерального бюджета (ГРБС)

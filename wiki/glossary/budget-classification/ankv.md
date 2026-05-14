@@ -11,13 +11,18 @@ abbreviations:
   - АнКВИ
 slug: /glossary/ankv
 sidebar_position: 6
-description: >-
-  это дополнительные коды в бюджетном учёте, которые уточняют виды доходов
-  (АнКВД) и виды источников финансирования дефицита бюджета (АнКВИ). Они не
-  являются частью утверждаемой бюджетом структуры КБК, но нужны, чтобы правильно
-  читать учётные и казначейские данные рядом с КБК.
+description: 'это дополнительные коды в бюджетном учёте, которые уточняют виды доходов (АнКВД) и виды источников финансирования дефицита бюджета (АнКВИ). Они не являются частью утверждаемой бюджетом структуры КБК, но нужны, чтобы правильно читать учётные и казначейские данные рядом с КБК.'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/kbk
+  - /information-systems/federal/giis-eb
+  - /glossary/kosgu
+  - /glossary/kvr
+  - /legal/budget-classification-orders
+  - /data-sources/federal/minfin-opendata
+  - /budget-classification/overview
+  - /howto/analysis/kbc-decoding
 ---
 
 # АнКВД / АнКВИ — Аналитический код

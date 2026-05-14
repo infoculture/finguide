@@ -39,6 +39,7 @@ description: >-
 
 ## См. также
 
+- [Россия, GFS, COFOG: обзор для аналитики](./international-gfs-cofog.md)
 - [МВФ](/glossary/imf), [МБРР / Всемирный банк](/glossary/ibrd)
 - [КБК](/glossary/kbk), [КОСГУ](/glossary/kosgu)
 - [Версии и переходные периоды классификаций](./classification-versions.md)

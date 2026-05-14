@@ -19,6 +19,7 @@
     "lint:corpus": "node scripts/corpus-markdown-lint.mjs",
     "lint:related-pages": "node scripts/validate-related-pages.mjs",
     "export:knowledge": "node scripts/export-knowledge-index.mjs",
+    "inject:related-pages": "node scripts/inject-related-pages-wave.mjs",
     "generate:budget-gov-opendata-cards": "node scripts/generate-budget-gov-opendata-dataset-cards.mjs",
     "generate:fns-opendata-cards": "node scripts/generate-fns-opendata-cards.mjs",
     "refresh:budget-gov-opendata-sidebar-labels": "node scripts/refresh-budget-gov-opendata-sidebar-labels.mjs",

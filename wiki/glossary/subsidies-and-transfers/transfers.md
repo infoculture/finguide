@@ -9,14 +9,20 @@ source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/transfers
 sidebar_position: 3
-description: >-
-  это деньги, которые один бюджет бюджетной системы РФ передаёт другому по
-  правилам гл. 16 БК РФ — чтобы выровнять доходную базу, софинансировать
-  полномочия или компенсировать делегированные расходы. В открытых данных термин
-  критичен, чтобы не суммировать дважды одни и те же суммы при сводах
-  «федеральный + региональны...
+description: 'это деньги, которые один бюджет бюджетной системы РФ передаёт другому по правилам гл. 16 БК РФ — чтобы выровнять доходную базу, софинансировать полномочия или компенсировать делегированные расходы. В открытых данных термин критичен, чтобы не суммировать дважды одни и те же суммы при сводах «федеральный + региональны...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /data-sources/federal/subsidy
+  - /glossary/subsidies
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/regionalnye-byudzhety
+  - /data-sources/regional/consolidated-budgets
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /glossary/kvr
+  - /glossary/kbk
 ---
 
 # Межбюджетные трансферты

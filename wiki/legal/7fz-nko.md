@@ -1,9 +1,7 @@
 ---
 title: Федеральный закон от 12 января 1996 г. № 7-ФЗ «О некоммерческих организациях»
 sidebar_label: 7-ФЗ (НКО и учреждения)
-description: >-
-  Общая рамка для некоммерческих организаций, в том числе бюджетных и автономных
-  учреждений; связка с госзаданием, субсидиями и открытыми данными bus.gov.ru.
+description: 'Общая рамка для некоммерческих организаций, в том числе бюджетных и автономных учреждений; связка с госзаданием, субсидиями и открытыми данными bus.gov.ru.'
 tags:
   - legal
   - budget
@@ -14,6 +12,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /glossary/institution-types
+  - /glossary/state-assignment
+  - /glossary/subsidies
+  - /legal/budget-code
+  - /legal/161fz-unitary-enterprises
+  - /legal/236fz-ppk
+  - /glossary/state-corporations
+  - /data-sources/federal/bus-opendata
+  - /data-sources/federal/govtasks
+  - /data-sources/federal/subsidy
 ---
 
 # 7-ФЗ о некоммерческих организациях

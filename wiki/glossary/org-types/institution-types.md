@@ -13,14 +13,20 @@ source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/institution-types
 sidebar_position: 1
-description: >-
-  три юридических режима государственных и муниципальных учреждений
-  (некоммерческих организаций), различающихся полномочиями по имуществу,
-  источниками финансирования и формами бюджетного планирования. Для работы с
-  открытыми финансовыми данными это задаёт, ожидать ли прежде всего бюджетную
-  смету и оплату через казначей...
+description: 'три юридических режима государственных и муниципальных учреждений (некоммерческих организаций), различающихся полномочиями по имуществу, источниками финансирования и формами бюджетного планирования. Для работы с открытыми финансовыми данными это задаёт, ожидать ли прежде всего бюджетную смету и оплату через казначей...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/budget-estimates
+  - /glossary/lbo
+  - /glossary/treasury-execution
+  - /data-sources/federal/govtasks
+  - /glossary/fcd-plan
+  - /information-systems/federal/bus-gov
+  - /glossary/kosgu
+  - /glossary/pbs
+  - /data-sources/federal/subsidy
+  - /data-sources/federal/minfin-opendata
 ---
 
 # КУ / БУ / АУ — Типы государственных и муниципальных учреждений

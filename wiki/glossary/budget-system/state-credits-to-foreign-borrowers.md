@@ -8,14 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
 slug: /glossary/state-credits-to-foreign-borrowers
-description: >-
-  государственные кредиты, предоставляемые Российской Федерацией — это займы и
-  кредиты, по которым задолженность возникает у иностранных государств, их юрлиц
-  и международных организаций перед Российской Федерацией (активная сторона
-  кредитора). Это не то же самое, что бюджетный кредит или внутренние
-  межбюджетные ссуды ...
+description: 'государственные кредиты, предоставляемые Российской Федерацией — это займы и кредиты, по которым задолженность возникает у иностранных государств, их юрлиц и международных организаций перед Российской Федерацией (активная сторона кредитора). Это не то же самое, что бюджетный кредит или внутренние межбюджетные ссуды ...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/budget-credit
+  - /glossary/interbudgetary-relations
+  - /organizations/minfin
+  - /data-sources/federal/minfin-opendata
+  - /reporting/public-debt-reporting
+  - /glossary/state-municipal-debt
+  - /glossary/international-financial-organizations
+  - /legal/budget-code
+  - /data-sources/federal/roskazna-reports
+  - /intro/russian-budget-overview
 ---
 
 # Государственные кредиты, предоставляемые Российской Федерацией

@@ -6,20 +6,38 @@ tags:
   - federal
   - procurement
   - boundary
-last_updated: 2026-05-10T00:00:00.000Z
+last_updated: 2026-05-14T00:00:00.000Z
 slug: /reporting/procurement-contract-reporting
 jurisdiction: mixed
 periodicity: continuous
 execution_basis: mixed
 primary_breakdown: 'Закупка, контрагент, цена, НДС, коды предмета закупки'
-operator_hint: >-
-  ЕИС (контракты и процедуры); для связи с КБК и исполнением бюджета —
-  дополнительная методика сопоставления с Казначейством и «Электронным бюджетом»
-description: >-
-  это операционная трассировка расходов через рынок закупок; для сводной картины
-  бюджета её соединяют с казначейскими формами и плановыми данными.
+operator_hint: ЕИС (контракты и процедуры); для связи с КБК и исполнением бюджета — дополнительная методика сопоставления с Казначейством и «Электронным бюджетом»
+description: это операционная трассировка расходов через рынок закупок; для сводной картины бюджета её соединяют с казначейскими формами и плановыми данными.
 content_type: reporting
 entity_type: reporting-form
+related_pages:
+  - /reporting/0507011
+  - /reporting/0503117
+  - /reporting/grbs-consolidated-reporting
+  - /data-sources/regional/regional-procurement-sources-overview
+  - /data-sources/regional/moscow-city-procurement-tender-mos
+  - /data-sources/regional/saint-petersburg-procurement-gz-spb
+  - /data-sources/regional/tatarstan-procurement-goszakupki-tatarstan
+  - /data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar
+  - /data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural
+  - /data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov
+  - /data-sources/regional/dagestan-procurement-komzak-e-dag
+  - /data-sources/regional/kemerovo-kuzbass-procurement-ugzko
+  - /data-sources/regional/khmao-yugra-procurement-zakupki-admhmao
+  - /data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39
+  - /data-sources/federal/procurement
+  - /data-sources/federal/zakupki-xml
+  - /data-sources/federal/roskazna-datamarts
+  - /information-systems/federal/zakupki
+  - /information-systems/federal/giis-eb
+  - /glossary/procurement-44fz
+  - /glossary/procurement-223fz
 ---
 
 # Раскрытие данных о закупках и контрактах как трассировка бюджетных расходов

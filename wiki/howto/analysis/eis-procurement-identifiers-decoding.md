@@ -13,6 +13,8 @@ description: >-
   ЕИС; отбор 44-ФЗ и 223-ФЗ; связка с гражданскими API (Clearspending) без
   подмены официальной схемы.
 related_pages:
+  - /howto/analysis/procurement-analysis
+  - /howto/automation/python-zakupki
   - /data-sources/federal/procurement
   - /data-sources/federal/zakupki-xml
   - /information-systems/federal/zakupki

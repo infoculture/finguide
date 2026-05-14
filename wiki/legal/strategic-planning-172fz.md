@@ -1,12 +1,7 @@
 ---
-title: >-
-  Федеральный закон от 28 июня 2014 г. № 172-ФЗ «О стратегическом планировании в
-  Российской Федерации»
+title: Федеральный закон от 28 июня 2014 г. № 172-ФЗ «О стратегическом планировании в Российской Федерации»
 sidebar_label: 172-ФЗ (стратегпланирование)
-description: >-
-  Единая модель стратегических документов и программ на федеральном,
-  региональном и муниципальном уровнях; нормативная основа госпрограмм,
-  нацпроектов и связки с бюджетным прогнозом.
+description: 'Единая модель стратегических документов и программ на федеральном, региональном и муниципальном уровнях; нормативная основа госпрограмм, нацпроектов и связки с бюджетным прогнозом.'
 tags:
   - legal
   - budget
@@ -18,6 +13,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /information-systems/federal/programs-gov
+  - /glossary/national-projects
+  - /legal/budget-code
+  - /legal/budgetlaw
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /glossary/kbk
+  - /legal/open-data-law
+  - /organizations/minekonomiki
+  - /data-sources/federal/fcp
+  - /data-sources/federal/gasu-stratdocuments
 ---
 
 # 172-ФЗ о стратегическом планировании

@@ -11,14 +11,20 @@ last_updated: 2026-05-10T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_7120/'
 slug: /glossary/fcp
 sidebar_position: 3
-description: >-
-  Федеральные целевые программы (ФЦП) — исторический инструмент
-  программно-целевого финансирования из федерального бюджета (комплекс
-  мероприятий с целями, показателями и объёмами финансирования по годам). Для
-  работы с открытыми данными термин важен прежде всего при разборе архивных
-  планов и исполнения до перехода к го...
+description: 'Федеральные целевые программы (ФЦП) — исторический инструмент программно-целевого финансирования из федерального бюджета (комплекс мероприятий с целями, показателями и объёмами финансирования по годам). Для работы с открытыми данными термин важен прежде всего при разборе архивных планов и исполнения до перехода к го...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/gov-programs
+  - /glossary/national-projects
+  - /glossary/kbk
+  - /information-systems/federal/zakupki
+  - /information-systems/federal/programs-gov
+  - /information-systems/federal/sistema-fcp
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/fcp
+  - /glossary/grbs
+  - /data-sources/federal/govtasks
 ---
 
 # ФЦП — Федеральные целевые программы

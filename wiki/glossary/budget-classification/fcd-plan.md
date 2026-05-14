@@ -11,14 +11,20 @@ abbreviations:
   - ПФХД
 slug: /glossary/fcd-plan
 sidebar_position: 10
-description: >-
-  это годовой (или год + плановый период) плановый документ бюджетного и
-  автономного учреждения, в котором учреждение раскладывает ожидаемые
-  поступления (в т.ч. по субсидиям на государственное задание) и выплаты по
-  направлениям деятельности, согласуя его с поручением учредителя и правилами
-  финансового обеспечения. Для...
+description: 'это годовой (или год + плановый период) плановый документ бюджетного и автономного учреждения, в котором учреждение раскладывает ожидаемые поступления (в т.ч. по субсидиям на государственное задание) и выплаты по направлениям деятельности, согласуя его с поручением учредителя и правилами финансового обеспечения. Для...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/institution-types
+  - /glossary/subsidies
+  - /data-sources/federal/govtasks
+  - /information-systems/federal/giis-eb
+  - /information-systems/federal/bus-gov
+  - /glossary/kosgu
+  - /glossary/budget-estimates
+  - /data-sources/federal/subsidy
+  - /glossary/inn
+  - /data-sources/federal/bus-opendata
 ---
 
 # План ФХД — План финансово-хозяйственной деятельности

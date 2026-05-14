@@ -11,14 +11,21 @@ last_updated: 2026-05-10T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/extrabudgetary-funds
 sidebar_position: 5
-description: >-
-  государственные внебюджетные фонды (ГВФ) — отдельные «кассы» бюджетной системы
-  РФ вне федерального бюджета и бюджетов субъектов, на которые закреплены доходы
-  и расходы по пенсиям, соцстрахованию и обязательному медстрахованию. В
-  открытых данных их важно не смешивать с федеральным бюджетом и с понятием
-  «внебюджетные ...
+description: 'государственные внебюджетные фонды (ГВФ) — отдельные «кассы» бюджетной системы РФ вне федерального бюджета и бюджетов субъектов, на которые закреплены доходы и расходы по пенсиям, соцстрахованию и обязательному медстрахованию. В открытых данных их важно не смешивать с федеральным бюджетом и с понятием «внебюджетные ...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/regional/regional-extrabudgetary-health-overview
+  - /organizations/sfr
+  - /organizations/ffoms
+  - /glossary/budget-system
+  - /glossary/budget-levels
+  - /glossary/pbs
+  - /glossary/kbk
+  - /glossary/procurement-223fz
 ---
 
 # Государственные внебюджетные фонды

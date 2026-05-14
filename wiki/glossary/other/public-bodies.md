@@ -11,6 +11,17 @@ sidebar_position: 1
 content_type: concept
 entity_type: glossary
 description: '# Государственные и муниципальные учреждения'
+related_pages:
+  - /data-sources/federal/govtasks
+  - /information-systems/federal/zakupki
+  - /information-systems/federal/giis-eb
+  - /information-systems/federal/bus-gov
+  - /glossary/budget-estimates
+  - /glossary/treasury-execution
+  - /glossary/subsidies
+  - /glossary/fcd-plan
+  - /reference/classification-codes-index
+  - /data-sources/federal/minfin-opendata
 ---
 
 # Государственные и муниципальные учреждения

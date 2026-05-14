@@ -26,6 +26,10 @@ content_type: data_source
 entity_type: data-source
 related_pages:
   - /information-systems/federal/giis-eb
+  - /data-sources/regional/municipal-budgets
+  - /data-sources/regional/large-city-budgets
+  - /data-sources/regional/novosibirsk-city-open-budget-mayor
+  - /data-sources/regional/nizhny-novgorod-city-open-budget-budgetnn
   - /data-sources/federal/minfin-opendata
   - /data-sources/federal/roskazna-reports
   - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov

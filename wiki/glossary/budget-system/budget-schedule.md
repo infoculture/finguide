@@ -10,14 +10,20 @@ abbreviations:
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/budget-schedule
-description: >-
-  бюджетная роспись — документ главного распорядителя бюджетных средств или
-  главного администратора источников финансирования дефицита, которым ведомство
-  раскладывает утверждённые бюджетные ассигнования (и связанные с ИФД операции)
-  по подведомственной цепочке. В открытых данных это чаще встречается как
-  плановые таблиц...
+description: 'бюджетная роспись — документ главного распорядителя бюджетных средств или главного администратора источников финансирования дефицита, которым ведомство раскладывает утверждённые бюджетные ассигнования (и связанные с ИФД операции) по подведомственной цепочке. В открытых данных это чаще встречается как плановые таблиц...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/budget-appropriations
+  - /information-systems/federal/giis-eb
+  - /glossary/summary-budget-schedule
+  - /glossary/grbs
+  - /glossary/rbs
+  - /glossary/pbs
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /glossary/kbk
+  - /data-sources/federal/minfin-opendata
+  - /glossary/lbo
 ---
 
 # Бюджетная роспись

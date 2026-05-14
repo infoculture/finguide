@@ -12,14 +12,20 @@ source_url: 'https://rulaws.ru/laws/Federalnyy-zakon-ot-03.07.2016-N-236-FZ/'
 last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/state-corporations
 sidebar_position: 3
-description: >-
-  государственные корпорации (ГК) и публично-правовые компании (ППК) — особые
-  некоммерческие организации, создаваемые федеральными законами (и в случае ППК
-  — в порядке, заданном 236-ФЗ) для выполнения публичных функций и крупных
-  государственных задач. Для открытых финансовых данных важны как режим закупок
-  (чаще 223-ФЗ...
+description: 'государственные корпорации (ГК) и публично-правовые компании (ППК) — особые некоммерческие организации, создаваемые федеральными законами (и в случае ППК — в порядке, заданном 236-ФЗ) для выполнения публичных функций и крупных государственных задач. Для открытых финансовых данных важны как режим закупок (чаще 223-ФЗ...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/procurement-223fz
+  - /glossary/grbs
+  - /information-systems/federal/zakupki
+  - /glossary/procurement-44fz
+  - /glossary/kbk
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/procurement
+  - /data-sources/federal/zakupki-xml
+  - /data-sources/federal/subsidy
+  - /information-systems/federal/aisfns
 ---
 
 # Госкорпорации и публично-правовые компании

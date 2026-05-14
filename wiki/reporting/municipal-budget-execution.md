@@ -11,15 +11,24 @@ jurisdiction: regional
 periodicity: mixed
 execution_basis: cash
 primary_breakdown: 'КБК, участники бюджетного процесса МО'
-operator_hint: >-
-  ФО МО, органы местного самоуправления; сводные публикации — ГИИС «Электронный
-  бюджет»
-description: >-
-  это отчётность о фактических доходах, расходах и источниках финансирования
-  местного бюджета, а также связанных показателях; для открытых данных она часто
-  фрагментарна и распределена между сайтами МО и федеральным порталом.
+operator_hint: 'ФО МО, органы местного самоуправления; сводные публикации — ГИИС «Электронный бюджет»'
+description: 'это отчётность о фактических доходах, расходах и источниках финансирования местного бюджета, а также связанных показателях; для открытых данных она часто фрагментарна и распределена между сайтами МО и федеральным порталом.'
 content_type: reporting
 entity_type: reporting-form
+related_pages:
+  - /reporting/0503317
+  - /reporting/treasury-reports
+  - /data-sources/regional/municipal-budgets
+  - /data-sources/regional/large-city-budgets
+  - /data-sources/regional/novosibirsk-city-open-budget-mayor
+  - /data-sources/regional/nizhny-novgorod-city-open-budget-budgetnn
+  - /data-sources/federal/municipalnye-byudzhety
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/giis-eb
+  - /information-systems/federal/roskazna-portal
+  - /glossary/budget-levels
+  - /glossary/treasury-execution
+  - /glossary/kbk
 ---
 
 # Отчётность об исполнении местных бюджетов

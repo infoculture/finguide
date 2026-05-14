@@ -1,13 +1,7 @@
 ---
-title: >-
-  Федеральный закон от 9 февраля 2009 г. № 8-ФЗ «Об обеспечении доступа к
-  информации о деятельности государственных органов и органов местного
-  самоуправления»
+title: Федеральный закон от 9 февраля 2009 г. № 8-ФЗ «Об обеспечении доступа к информации о деятельности государственных органов и органов местного самоуправления»
 sidebar_label: 8-ФЗ (доступ к информации)
-description: >-
-  Базовый федеральный закон об открытости органов власти и МСУ: запрос
-  информации, перечень сведений для сайтов органов, в том числе о закупках и
-  использовании бюджетных средств.
+description: 'Базовый федеральный закон об открытости органов власти и МСУ: запрос информации, перечень сведений для сайтов органов, в том числе о закупках и использовании бюджетных средств.'
 tags:
   - legal
   - open-data
@@ -19,6 +13,17 @@ official_urls:
   - 'https://base.garant.ru/194874/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /data-sources/federal/zakupki-xml
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /information-systems/federal/data-gov-ru
+  - /legal/open-data-law
+  - /legal/44fz
+  - /information-systems/federal/zakupki
+  - /glossary/procurement-44fz
+  - /glossary/treasury-execution
+  - /data-sources/federal/roskazna-reports
 ---
 
 # 8-ФЗ об обеспечении доступа к информации о деятельности органов власти

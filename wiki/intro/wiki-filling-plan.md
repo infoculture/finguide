@@ -11,11 +11,13 @@ tags:
   - intro
   - roadmap
   - editorial
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-05-14T00:00:00.000Z
 content_type: reference
 related_pages:
+  - /reporting/reporting-overview
   - /reporting/state-sector-overview
   - /data-sources/regional/how-to-find-regional-data
+  - /intro/howto-reproducibility-audit
   - /intro/data-map
   - /data-sources
 ---
@@ -91,6 +93,7 @@ related_pages:
 ### Критерий готовности направления
 
 - Описаны **не менее пяти** крупных муниципалитетов отдельными карточками **или** одна **обзорная** страница с таблицей «МО — URL — форматы — ограничения» и ссылками на карточки; все внешние ссылки проверены на **живость** на момент публикации.
+- **Прогресс (2026-05):** [агрегированный обзор крупных городов](/data-sources/regional/large-city-budgets) (таблица по десяти МО с перекрёстными входами в [муниципальные бюджеты на `budget.gov.ru`](/data-sources/regional/municipal-budgets), [наборы данных портала](/data-sources/federal/budget-gov-ru-datasets) и [методику поиска](/data-sources/regional/how-to-find-regional-data)); карточки по крупным МО: [Новосибирск](/data-sources/regional/novosibirsk-city-open-budget-mayor), [Нижний Новгород](/data-sources/regional/nizhny-novgorod-city-open-budget-budgetnn); далее — по мере стабильных витрин других городов.
 
 ---
 
@@ -101,12 +104,12 @@ related_pages:
 ### Что добавить
 
 - Карточки [источников данных](/data-sources/regional/) и при необходимости [отчётности](/reporting/) про **государственный и муниципальный долг** субъектов и отдельных МО — с явной связью с [отчётностью по долгу](/reporting/public-debt-reporting) и федеральными витринами, где они дают **агрегированный** или **сравнительный** слой.
-- Материалы про **внебюджетные фонды** субъектов (в т.ч. обязательное медицинское страхование регионального звена, иные территориальные внебюджетные фонды) — **отдельно** от контура [отчётности государственных внебюджетных фондов РФ](/reporting/extrabudgetary-funds-reporting), с указанием оператора и границ данных.
-- Обзор или карточки по **типовым региональным публикациям** межбюджетных трансфертов (получатели, виды поддержки) и методическая стыковка с [формой 0503317](/reporting/0503317) и [формой 0503387](/reporting/0503387), плюс перекрёстные ссылки на [глоссарий по трансфертам](/glossary/transfers) при необходимости.
+- Материалы про **внебюджетные фонды** субъектов (в т.ч. обязательное медицинское страхование регионального звена, иные территориальные внебюджетные фонды) — **отдельно** от контура [отчётности государственных внебюджетных фондов РФ](/reporting/extrabudgetary-funds-reporting), с указанием оператора и границ данных. **Частично закрыто (2026-05):** навигатор [региональное ОМС и территориальные внебюджетные фонды](/data-sources/regional/regional-extrabudgetary-health-overview), пример витрины ТФОМС — [МГФОМС Москвы](/data-sources/regional/moscow-city-tfoms-mgfoms).
+- Обзор или карточки по **типовым региональным публикациям** межбюджетных трансфертов (получатели, виды поддержки) и методическая стыковка с [формой 0503317](/reporting/0503317) и [формой 0503387](/reporting/0503387), плюс перекрёстные ссылки на [глоссарий по трансфертам](/glossary/transfers) при необходимости. **Частично закрыто (2026-05):** how-to [межбюджетные трансферты](/howto/analysis/interbudgetary-transfers), [пилотная матрица раскрытия](/data-sources/regional/regional-disclosure-matrix).
 
 ### Критерий готовности направления
 
-- Есть **не менее двух** новых или существенно обновлённых карточек (источник и/или отчётность) по **долгу** или **трансфертам** субъектов **и** краткий обзорный абзац в [региональном оглавлении источников](/data-sources/regional/) **или** в [отчётности](/reporting/), связывающий их с уже существующими формами; по внебюджетным фондам субъектов — хотя бы **одна** устойчивая карточка с официальными URL **или** явное описание отсутствия открытого контура с отсылкой к нормативке.
+- Есть **не менее двух** новых или существенно обновлённых карточек (источник и/или отчётность) по **долгу** или **трансфертам** субъектов **и** краткий обзорный абзац в [региональном оглавлении источников](/data-sources/regional/) **или** в [отчётности](/reporting/), связывающий их с уже существующими формами; по внебюджетным фондам субъектов — хотя бы **одна** устойчивая карточка с официальными URL **или** явное описание отсутствия открытого контура с отсылкой к нормативке. **Прогресс (2026-05):** навигатор [субнациональный долг](/data-sources/regional/subnational-debt-overview), абзац в [оглавлении отчётности](/reporting/); по трансфертам — см. выше.
 
 ---
 
@@ -136,7 +139,7 @@ related_pages:
 
 ### Критерий готовности направления
 
-- **Не менее двух** карточек источников или ИС по **региональным/муниципальным** закупкам с рабочими примерами доступа (URL, формат, ограничения) и перекрёстной ссылкой на [отчётность по закупкам](/reporting/procurement-contract-reporting).
+- **Не менее двух** карточек источников или ИС по **региональным/муниципальным** закупкам с рабочими примерами доступа (URL, формат, ограничения) и перекрёстной ссылкой на [отчётность по закупкам](/reporting/procurement-contract-reporting). **Прогресс (2026-05):** [навигатор](/data-sources/regional/regional-procurement-sources-overview), [Москва (tender.mos.ru)](/data-sources/regional/moscow-city-procurement-tender-mos), [Санкт-Петербург (gz-spb.ru)](/data-sources/regional/saint-petersburg-procurement-gz-spb), [Татарстан (goszakupki.tatarstan.ru)](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan), [Краснодарский край (drcs.krasnodar.ru)](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar), [Свердловская область (goszakaz.midural.ru)](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural), [РС(Я) (zakupki.sakha.gov.ru)](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov), [РД (komzak.e-dag.ru)](/data-sources/regional/dagestan-procurement-komzak-e-dag), [Кузбасс (ugzko.ru)](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko), [ХМАО — Югра (zakupki.admhmao.ru)](/data-sources/regional/khmao-yugra-procurement-zakupki-admhmao), [Калининградская область (zakupki.gov39.ru)](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39).
 
 ---
 
@@ -183,6 +186,10 @@ related_pages:
 ### Критерий готовности направления
 
 - [Карта данных](./data-map.md) содержит **хотя бы один** новый маршрут или подпункт, отражающий материалы разделов **2–3** или **4–6**, после их существенного наполнения; для **политики URL** — согласованная формулировка в `AGENTS.md` **или** в шаблоне карточки источника в репозитории.
+
+## Ближайший горизонт (OpenSpec, 1–2 месяца)
+
+Связка с `openspec/changes/content-plan-2026-05`: **точка входа** [обзор отчётности](/reporting/reporting-overview), **примеры КБК** и [хронология классификации](/budget-classification/classification-changes-by-year), [измерения качества источников](/reference/data-quality-dimensions), [аудит воспроизводимости how-to](./howto-reproducibility-audit.md). Волна **`related_pages`** для карточек отчётности, нормативки и глоссария (пустое поле → набор из внутренних ссылок страницы + хабов): скрипт `scripts/inject-related-pages-wave.mjs`, команда `npm run inject:related-pages` после `npm run export:knowledge`.
 
 ---
 

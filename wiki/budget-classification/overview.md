@@ -32,6 +32,8 @@ content_type: concept
 
 ## Материалы раздела
 
+- [Примеры КБК](/budget-classification/kbk-worked-examples) — учебные разборы кодов и маршруты к формам и наборам.
+- [Хронология изменений классификации](/budget-classification/classification-changes-by-year) — редакции по годам и соответствия между ними.
 - [Коды доходов](/budget-classification/income-codes) — структура доходного КБК и ГАДБ.
 - [Коды расходов](/budget-classification/expense-codes) — расходный КБК, разделы и [КВР](/glossary/kvr).
 - [Целевые статьи расходов](/budget-classification/target-articles) — десять знаков программно-целевого блока в середине расходного кода.

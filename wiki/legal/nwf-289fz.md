@@ -1,12 +1,7 @@
 ---
-title: >-
-  Федеральный закон от 29 декабря 2007 г. № 289-ФЗ «О Фонде национального
-  благосостояния»
+title: Федеральный закон от 29 декабря 2007 г. № 289-ФЗ «О Фонде национального благосостояния»
 sidebar_label: 289-ФЗ (ФНБ)
-description: >-
-  Правовой статус ФНБ, источники и использование средств в связке с БК РФ и
-  законом о федеральном бюджете; основа для открытых рядов Минфина по ФНБ и
-  резервам.
+description: 'Правовой статус ФНБ, источники и использование средств в связке с БК РФ и законом о федеральном бюджете; основа для открытых рядов Минфина по ФНБ и резервам.'
 tags:
   - legal
   - budget
@@ -17,6 +12,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /legal/budget-code
+  - /glossary/nwf
+  - /glossary/extrabudgetary-funds
+  - /data-sources/federal/minfin-opendata
+  - /legal/budgetlaw
+  - /organizations/minfin
+  - /glossary/deficit-financing
+  - /reporting/fiscal-reserves-reporting
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/budget-gov-ru-datasets
 ---
 
 # 289-ФЗ о Фонде национального благосостояния

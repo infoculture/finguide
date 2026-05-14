@@ -5,18 +5,23 @@ tags:
   - glossary
   - budget
 glossary_kind: law
-source_url: >-
-  http://www.consultant.ru/document/Cons_doc_LAW_19671/fd3039f558e14477ce752eb9789b02a023fbc006/
+source_url: 'http://www.consultant.ru/document/Cons_doc_LAW_19671/fd3039f558e14477ce752eb9789b02a023fbc006/'
 last_updated: 2026-05-11T00:00:00.000Z
 slug: /glossary/social-insurance-contributions
-description: >-
-  страховые взносы в НК РФ — обязательные платежи на обязательное пенсионное,
-  социальное (ВНиМ) и медицинское страхование, взимаемые с организаций и граждан
-  и направляемые на финансирование прав застрахованных лиц. В бюджетной
-  аналитике их связывают с доходами государственных внебюджетных фондов и с КБК,
-  отделяя от «ч...
+description: 'страховые взносы в НК РФ — обязательные платежи на обязательное пенсионное, социальное (ВНиМ) и медицинское страхование, взимаемые с организаций и граждан и направляемые на финансирование прав застрахованных лиц. В бюджетной аналитике их связывают с доходами государственных внебюджетных фондов и с КБК, отделяя от «ч...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/kbk
+  - /data-sources/federal/nalog-statistics
+  - /reporting/extrabudgetary-funds-reporting
+  - /glossary/extrabudgetary-funds
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /glossary/tax
+  - /glossary/nk-state-fee
+  - /glossary/taxpayer
+  - /reference/classification-codes-index
+  - /data-sources/federal/minfin-opendata
 ---
 
 # Страховые взносы (определение НК РФ)

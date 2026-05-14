@@ -8,14 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/state-municipal-debt
-description: >-
-  государственный или муниципальный долг — это принятые Российской Федерацией,
-  субъектом РФ или муниципалитетом обязательства из заимствований, гарантий и
-  иных долговых конструкций, виды которых установлены БК РФ. В открытых данных
-  долг связывают с отчётностью о долге и приложениями к законам о бюджете, а не
-  с произво...
+description: 'государственный или муниципальный долг — это принятые Российской Федерацией, субъектом РФ или муниципалитетом обязательства из заимствований, гарантий и иных долговых конструкций, виды которых установлены БК РФ. В открытых данных долг связывают с отчётностью о долге и приложениями к законам о бюджете, а не с произво...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/deficit-financing
+  - /glossary/state-guarantee
+  - /reporting/public-debt-reporting
+  - /data-sources/federal/minfin-opendata
+  - /organizations/minfin
+  - /glossary/forms-of-state-debt
+  - /glossary/state-debt-register
+  - /glossary/state-external-borrowings
+  - /glossary/federal-external-borrowing-program
+  - /glossary/budget-credit
 ---
 
 # Государственный и муниципальный долг

@@ -8,14 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
 slug: /glossary/tied-export-credits
-description: >-
-  связанные кредиты — это привлечение средств на возвратной и возмездной основе
-  для закупок товаров, работ и услуг за счёт средств правительств, банков и фирм
-  иностранных государств преимущественно в стране кредитора. В контексте ПГВЗ
-  они входят в блок целевых иностранных заимствований вместе с нефинансовыми
-  кредитами...
+description: 'связанные кредиты — это привлечение средств на возвратной и возмездной основе для закупок товаров, работ и услуг за счёт средств правительств, банков и фирм иностранных государств преимущественно в стране кредитора. В контексте ПГВЗ они входят в блок целевых иностранных заимствований вместе с нефинансовыми кредитами...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/federal-external-borrowing-program
+  - /glossary/ifi-nonfinancial-credits
+  - /data-sources/federal/minfin-opendata
+  - /reporting/public-debt-reporting
+  - /glossary/targeted-foreign-credit
+  - /glossary/state-external-borrowings
+  - /glossary/international-financial-organizations
+  - /legal/budget-code
+  - /data-sources/federal/roskazna-reports
+  - /intro/russian-budget-overview
 ---
 
 # Связанные кредиты правительств иностранных государств, банков и фирм

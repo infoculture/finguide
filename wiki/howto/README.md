@@ -7,10 +7,11 @@ description: >-
 tags:
   - howto
   - index
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-05-14T00:00:00.000Z
 content_type: reference
 related_pages:
   - /intro/data-map
+  - /intro/howto-reproducibility-audit
   - /data-sources
   - /reporting
   - /reference/tags-taxonomy
@@ -24,7 +25,7 @@ related_pages:
 
 # How-to: инструкции по работе с данными
 
-Инструкции стыкуются с [картой данных](/intro/data-map): от вопроса — к источнику, от источника — к коду и проверке результата.
+Инструкции стыкуются с [картой данных](/intro/data-map): от вопроса — к источнику, от источника — к коду и проверке результата. Сводная таблица воспроизводимости опубликованных how-to — [аудит how-to](/intro/howto-reproducibility-audit).
 
 ## Для кого раздел
 

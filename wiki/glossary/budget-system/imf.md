@@ -11,14 +11,19 @@ abbreviations:
   - МВФ
   - IMF
 slug: /glossary/imf
-description: >-
-  Международный валютный фонд (МВФ) — международная валютно-финансовая
-  организация, созданная по Бреттон-Вудским соглашениям для поддержания
-  стабильности международной валютной системы; финансирует страны-члены,
-  консультирует по экономической политике, выпускает СДР. В глоссарии Минфина по
-  госдолгу термин дан как спра...
+description: 'Международный валютный фонд (МВФ) — международная валютно-финансовая организация, созданная по Бреттон-Вудским соглашениям для поддержания стабильности международной валютной системы; финансирует страны-члены, консультирует по экономической политике, выпускает СДР. В глоссарии Минфина по госдолгу термин дан как спра...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/international-financial-organizations
+  - /data-sources/federal/minfin-opendata
+  - /reporting/public-debt-reporting
+  - /glossary/ibrd
+  - /organizations/cbr
+  - /legal/budget-code
+  - /data-sources/federal/roskazna-reports
+  - /intro/russian-budget-overview
+  - /glossary/budget-system
 ---
 
 # Международный валютный фонд

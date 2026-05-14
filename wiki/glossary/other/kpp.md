@@ -11,13 +11,20 @@ last_updated: 2026-05-10T00:00:00.000Z
 source_url: 'http://www.consultant.ru/document/Cons_doc_LAW_19671/'
 slug: /glossary/kpp
 sidebar_position: 6
-description: >-
-  КПП — девятизначный код, который у организаций уточняет место постановки на
-  налоговый учёт (головная организация, обособленное подразделение и др.). В
-  выгрузках с несколькими подразделениями одного ИНН без КПП строки сливаются в
-  один «контрагент», хотя платежи и договоры относятся к разным местам учёта.
+description: 'КПП — девятизначный код, который у организаций уточняет место постановки на налоговый учёт (головная организация, обособленное подразделение и др.). В выгрузках с несколькими подразделениями одного ИНН без КПП строки сливаются в один «контрагент», хотя платежи и договоры относятся к разным местам учёта.'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/inn
+  - /information-systems/federal/zakupki
+  - /information-systems/federal/egrul
+  - /glossary/ogrn
+  - /glossary/procurement-44fz
+  - /glossary/oktmo
+  - /howto/analysis/tax-org-identifiers-decoding
+  - /reference/classification-codes-index
+  - /data-sources/federal/minfin-opendata
+  - /intro/data-map
 ---
 
 # КПП — Код причины постановки на учёт

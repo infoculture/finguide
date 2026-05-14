@@ -11,15 +11,21 @@ jurisdiction: institution
 periodicity: annual
 execution_basis: accrual
 primary_breakdown: 'КОСГУ, показатели бухгалтерского баланса и отчёта о финансовых результатах'
-operator_hint: >-
-  Учреждение; методику и формы задаёт Минфин России (СГС «Бюджетный учёт»);
-  публикация — bus.gov.ru и др.
-description: >-
-  это учётная картина финансового состояния и результата учреждения; она
-  дополняет План ФХД, но отвечает на другие вопросы (активы/обязательства,
-  финансовый результат по правилам бухгалтерии).
+operator_hint: Учреждение; методику и формы задаёт Минфин России (СГС «Бюджетный учёт»); публикация — bus.gov.ru и др.
+description: 'это учётная картина финансового состояния и результата учреждения; она дополняет План ФХД, но отвечает на другие вопросы (активы/обязательства, финансовый результат по правилам бухгалтерии).'
 content_type: reporting
 entity_type: reporting-form
+related_pages:
+  - /reporting/pfhd
+  - /reporting/state-assignment-reporting
+  - /data-sources/federal/bus-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/subsidy
+  - /information-systems/federal/bus-gov
+  - /information-systems/federal/giis-eb
+  - /glossary/state-assignment
+  - /glossary/institution-types
+  - /glossary/institution-accounting
 ---
 
 # Бухгалтерская (финансовая) отчётность бюджетных и автономных учреждений

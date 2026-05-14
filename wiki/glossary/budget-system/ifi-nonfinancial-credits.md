@@ -8,14 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
 slug: /glossary/ifi-nonfinancial-credits
-description: >-
-  нефинансовые кредиты МФО — это привлечение средств на возвратной основе для
-  закупок преимущественно на конкурсной основе товаров, работ и услуг при
-  инвестиционных и структурных проектах с участием средств международных
-  финансовых организаций. Вместе со связанными кредитами они входят в перечень
-  целевых иностранных з...
+description: 'нефинансовые кредиты МФО — это привлечение средств на возвратной основе для закупок преимущественно на конкурсной основе товаров, работ и услуг при инвестиционных и структурных проектах с участием средств международных финансовых организаций. Вместе со связанными кредитами они входят в перечень целевых иностранных з...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/tied-export-credits
+  - /glossary/federal-external-borrowing-program
+  - /data-sources/federal/minfin-opendata
+  - /reporting/public-debt-reporting
+  - /glossary/targeted-foreign-credit
+  - /glossary/international-financial-organizations
+  - /glossary/ibrd
+  - /legal/budget-code
+  - /data-sources/federal/roskazna-reports
+  - /intro/russian-budget-overview
 ---
 
 # Нефинансовые кредиты международных финансовых организаций

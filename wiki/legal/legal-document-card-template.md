@@ -1,8 +1,10 @@
 ---
-title: "Шаблон карточки нормативного документа"
-sidebar_label: "Шаблон карточки"
-tags: [legal, meta]
-last_updated: 2026-05-11
+title: Шаблон карточки нормативного документа
+sidebar_label: Шаблон карточки
+tags:
+  - legal
+  - meta
+last_updated: 2026-05-11T00:00:00.000Z
 draft: true
 ---
 

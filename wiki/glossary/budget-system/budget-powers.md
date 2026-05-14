@@ -8,14 +8,20 @@ glossary_kind: law
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/budget-powers
-description: >-
-  бюджетные полномочия — это совокупность прав и обязанностей органов власти,
-  местного самоуправления и иных участников бюджетного процесса по регулированию
-  бюджетных правоотношений и по организации и осуществлению этого процесса, как
-  их задаёт БК РФ и принятые в его развитие акты. Для аналитика данных это
-  объясняет, ...
+description: 'бюджетные полномочия — это совокупность прав и обязанностей органов власти, местного самоуправления и иных участников бюджетного процесса по регулированию бюджетных правоотношений и по организации и осуществлению этого процесса, как их задаёт БК РФ и принятые в его развитие акты. Для аналитика данных это объясняет, ...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/budget-process
+  - /glossary/budget-schedule
+  - /glossary/lbo
+  - /glossary/public-bodies
+  - /glossary/budget-system
+  - /organizations/minfin
+  - /glossary/budget-levels
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/minfin-opendata
 ---
 
 # Бюджетные полномочия

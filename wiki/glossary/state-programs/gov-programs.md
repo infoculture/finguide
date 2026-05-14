@@ -9,14 +9,20 @@ source_url: 'https://programs.gov.ru/'
 last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/gov-programs
 sidebar_position: 1
-description: >-
-  Государственные программы Российской Федерации — ключевой документ
-  стратегического планирования на федеральном уровне: цели, задачи,
-  подпрограммы, показатели и объёмы бюджетного финансирования по годам,
-  закреплённые в паспорте программы и реестре на programs.gov.ru. Для открытых
-  финансовых данных термин связывает пл...
+description: 'Государственные программы Российской Федерации — ключевой документ стратегического планирования на федеральном уровне: цели, задачи, подпрограммы, показатели и объёмы бюджетного финансирования по годам, закреплённые в паспорте программы и реестре на programs.gov.ru. Для открытых финансовых данных термин связывает пл...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /information-systems/federal/programs-gov
+  - /glossary/grbs
+  - /glossary/kbk
+  - /information-systems/federal/gasu
+  - /information-systems/federal/zakupki
+  - /data-sources/federal/gasu-programs
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/procurement
+  - /data-sources/federal/fcp
+  - /glossary/national-projects
 ---
 
 # Государственные программы РФ

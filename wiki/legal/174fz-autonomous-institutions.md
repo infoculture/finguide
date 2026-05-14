@@ -1,9 +1,7 @@
 ---
 title: Федеральный закон от 3 ноября 2006 г. № 174-ФЗ «Об автономных учреждениях»
 sidebar_label: 174-ФЗ (АУ)
-description: >-
-  Специальный режим автономных учреждений: имущество, доходы, отчётность
-  учредителю и связь с госзаданием и субсидиями.
+description: 'Специальный режим автономных учреждений: имущество, доходы, отчётность учредителю и связь с госзаданием и субсидиями.'
 tags:
   - legal
   - budget
@@ -14,6 +12,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /data-sources/federal/bus-opendata
+  - /data-sources/federal/subsidy
+  - /legal/7fz-nko
+  - /legal/budget-code
+  - /data-sources/federal/govtasks
+  - /glossary/fcd-plan
+  - /reporting/subsidy-recipient-reporting
+  - /legal/161fz-unitary-enterprises
+  - /legal/pp640-state-assignment
+  - /glossary/institution-types
 ---
 
 # 174-ФЗ об автономных учреждениях

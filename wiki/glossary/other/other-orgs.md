@@ -9,14 +9,20 @@ last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/other-orgs
 sidebar_position: 2
-description: >-
-  разнородные юридические лица, которые создаёт публичный сектор для
-  специализированных функций и которые не сводятся к типовым контурам
-  государственных и муниципальных учреждений, унитарных предприятий и
-  госкорпораций / ППК. Для НКО с доминирующим участием государства в аналитике
-  см. отдельный термин государственные ...
+description: 'разнородные юридические лица, которые создаёт публичный сектор для специализированных функций и которые не сводятся к типовым контурам государственных и муниципальных учреждений, унитарных предприятий и госкорпораций / ППК. Для НКО с доминирующим участием государства в аналитике см. отдельный термин государственные ...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/institution-types
+  - /glossary/gup-mup
+  - /glossary/state-corporations
+  - /glossary/gosudarstvennye-nko
+  - /information-systems/federal/egrul
+  - /information-systems/federal/giis-eb
+  - /glossary/procurement-223fz
+  - /information-systems/federal/zakupki
+  - /glossary/inn
+  - /glossary/subsidies
 ---
 
 # Иные учреждённые государством организации

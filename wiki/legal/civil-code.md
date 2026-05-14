@@ -1,10 +1,7 @@
 ---
 title: Гражданский кодекс Российской Федерации
 sidebar_label: ГК РФ
-description: >-
-  Гражданское законодательство о лицах, сделках, обязательствах и видах
-  юридических лиц; опорный слой для ЕГРЮЛ, унитарных предприятий, ОКВЭД и
-  закупочных контрагентов.
+description: 'Гражданское законодательство о лицах, сделках, обязательствах и видах юридических лиц; опорный слой для ЕГРЮЛ, унитарных предприятий, ОКВЭД и закупочных контрагентов.'
 tags:
   - legal
   - budget
@@ -16,6 +13,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /information-systems/federal/egrul
+  - /glossary/ogrn
+  - /glossary/gup-mup
+  - /legal/44fz
+  - /legal/129fz-egrul
+  - /legal/161fz-unitary-enterprises
+  - /legal/7fz-nko
+  - /legal/budget-code
+  - /glossary/state-corporations
+  - /information-systems/federal/zakupki
 ---
 
 # Гражданский кодекс Российской Федерации

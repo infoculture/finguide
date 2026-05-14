@@ -8,14 +8,20 @@ glossary_kind: organization
 last_updated: 2026-05-11T00:00:00.000Z
 slug: /glossary/gosudarstvennye-nko
 sidebar_position: 4
-description: >-
-  аналитическая категория для некоммерческих организаций, у которых
-  государственный или муниципальный орган (или доминирующая госконтрукция)
-  выступает учредителем, источником основного финансирования или носителем
-  порученных функций — при том что юрлицо не сводится к типовому КУ / БУ / АУ и
-  не обязано совпадать с пере...
+description: 'аналитическая категория для некоммерческих организаций, у которых государственный или муниципальный орган (или доминирующая госконтрукция) выступает учредителем, источником основного финансирования или носителем порученных функций — при том что юрлицо не сводится к типовому КУ / БУ / АУ и не обязано совпадать с пере...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/institution-types
+  - /legal/budget-code
+  - /glossary/kvr-630-nko-subsidies
+  - /legal/7fz-nko
+  - /glossary/gup-mup
+  - /data-sources/federal/subsidy
+  - /data-sources/federal/roskazna-reports
+  - /information-systems/federal/egrul
+  - /glossary/subsidies
+  - /glossary/budget-process
 ---
 
 # Государственные и подведомственные НКО

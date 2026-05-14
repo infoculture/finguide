@@ -12,14 +12,18 @@ abbreviations:
   - IBRD
   - World Bank
 slug: /glossary/ibrd
-description: >-
-  Международный банк реконструкции и развития (МБРР) — международная финансовая
-  организация из «семейства» Всемирного банка; кредитует государства на рыночных
-  условиях под правительственные гарантии, привлекает ресурсы выпуском
-  долгосрочных облигаций. В глоссарии Минфина по госдолгу упоминается группа
-  МБРР вместе с Ме...
+description: 'Международный банк реконструкции и развития (МБРР) — международная финансовая организация из «семейства» Всемирного банка; кредитует государства на рыночных условиях под правительственные гарантии, привлекает ресурсы выпуском долгосрочных облигаций. В глоссарии Минфина по госдолгу упоминается группа МБРР вместе с Ме...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /data-sources/federal/minfin-opendata
+  - /reporting/public-debt-reporting
+  - /glossary/ifi-nonfinancial-credits
+  - /glossary/imf
+  - /legal/budget-code
+  - /data-sources/federal/roskazna-reports
+  - /intro/russian-budget-overview
+  - /glossary/budget-system
 ---
 
 # Международный банк реконструкции и развития

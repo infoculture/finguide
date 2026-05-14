@@ -1,10 +1,7 @@
 ---
 title: Налоговый кодекс Российской Федерации (части первая и вторая)
 sidebar_label: НК РФ
-description: >-
-  Законодательство о налогах и сборах: общие институты, налогоплательщики,
-  отчётность и отдельные налоги; база для открытой налоговой статистики, КБК
-  доходов бюджета и смежных реестров.
+description: 'Законодательство о налогах и сборах: общие институты, налогоплательщики, отчётность и отдельные налоги; база для открытой налоговой статистики, КБК доходов бюджета и смежных реестров.'
 tags:
   - legal
   - budget
@@ -16,6 +13,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /glossary/kbk
+  - /legal/budget-code
+  - /legal/311fz-customs-regulation
+  - /legal/customs-code-eaeu
+  - /legal/budgetlaw
+  - /data-sources/federal/nalog-statistics
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/minfin-opendata
+  - /legal/budget-classification-orders
+  - /reporting/tax-and-customs-revenue-statistics
 ---
 
 # Налоговый кодекс Российской Федерации

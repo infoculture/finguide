@@ -11,15 +11,21 @@ jurisdiction: mixed
 periodicity: mixed
 execution_basis: mixed
 primary_breakdown: 'Цели субсидии, КБК, показатели соглашения, результаты использования средств'
-operator_hint: >-
-  Получатель и распределитель средств; мониторинг — ГРБС/Минфин по контурам
-  соглашений и открытых реестров
-description: >-
-  это отчётность получателя о том, как израсходованы средства и достигнуты
-  условия предоставления; она связывает юридический контур соглашения с
-  публичными реестрами и плановыми документами учреждения.
+operator_hint: Получатель и распределитель средств; мониторинг — ГРБС/Минфин по контурам соглашений и открытых реестров
+description: 'это отчётность получателя о том, как израсходованы средства и достигнуты условия предоставления; она связывает юридический контур соглашения с публичными реестрами и плановыми документами учреждения.'
 content_type: reporting
 entity_type: reporting-form
+related_pages:
+  - /reporting/0503117
+  - /reporting/pfhd
+  - /reporting/institution-financial-statements
+  - /data-sources/federal/subsidy
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/bus-opendata
+  - /information-systems/federal/giis-eb
+  - /information-systems/federal/bus-gov
+  - /glossary/subsidies
+  - /glossary/grants
 ---
 
 # Отчётность получателей бюджетных средств по субсидиям и грантам

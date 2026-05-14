@@ -10,14 +10,20 @@ source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
 abbreviations:
   - ПГВЗ
 slug: /glossary/federal-external-borrowing-program
-description: >-
-  программа государственных внешних заимствований (ПГВЗ) — это перечень внешних
-  заимствований Российской Федерации на очередной финансовый год с разделением
-  на несвязанные (финансовые) и целевые иностранные заимствования. Для аналитики
-  открытых данных её связывают с законом о федеральном бюджете и материалами
-  Минфина ...
+description: программа государственных внешних заимствований (ПГВЗ) — это перечень внешних заимствований Российской Федерации на очередной финансовый год с разделением на несвязанные (финансовые) и целевые иностранные заимствования. Для аналитики открытых данных её связывают с законом о федеральном бюджете и материалами Минфина ...
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /data-sources/federal/minfin-opendata
+  - /organizations/minfin
+  - /reporting/public-debt-reporting
+  - /glossary/state-external-borrowings
+  - /glossary/targeted-foreign-credit
+  - /glossary/state-municipal-debt
+  - /legal/budget-code
+  - /data-sources/federal/roskazna-reports
+  - /intro/russian-budget-overview
+  - /glossary/budget-system
 ---
 
 # Программа государственных внешних заимствований Российской Федерации

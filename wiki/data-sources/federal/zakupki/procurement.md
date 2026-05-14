@@ -26,6 +26,16 @@ content_type: data_source
 entity_type: data-source
 related_pages:
   - /information-systems/federal/zakupki
+  - /data-sources/regional/regional-procurement-sources-overview
+  - /data-sources/regional/saint-petersburg-procurement-gz-spb
+  - /data-sources/regional/tatarstan-procurement-goszakupki-tatarstan
+  - /data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar
+  - /data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural
+  - /data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov
+  - /data-sources/regional/dagestan-procurement-komzak-e-dag
+  - /data-sources/regional/kemerovo-kuzbass-procurement-ugzko
+  - /data-sources/regional/khmao-yugra-procurement-zakupki-admhmao
+  - /data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39
   - /data-sources/federal/zakupki-eis-statistics
   - /data-sources/federal/rosstat-procurement-statistics-archive
   - /data-sources/federal/zakupki-xml

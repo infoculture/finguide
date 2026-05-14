@@ -11,14 +11,20 @@ last_updated: 2026-05-10T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/deficit-financing
 sidebar_position: 7
-description: >-
-  дефицит бюджета — превышение расходов над доходами по утверждённому бюджету (в
-  терминологии и расчётах БК РФ и связанных актов на соответствующий финансовый
-  год). Источники финансирования дефицита — установленные законом о бюджете и
-  кодексом способы покрыть этот разрыв (заём, остатки, безвозмездные поступления
-  и др....
+description: 'дефицит бюджета — превышение расходов над доходами по утверждённому бюджету (в терминологии и расчётах БК РФ и связанных актов на соответствующий финансовый год). Источники финансирования дефицита — установленные законом о бюджете и кодексом способы покрыть этот разрыв (заём, остатки, безвозмездные поступления и др....'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/kbk
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /glossary/consolidated-budget
+  - /glossary/budget-revenues-expenditures
+  - /glossary/budget-process
+  - /glossary/treasury-execution
+  - /glossary/nwf
+  - /glossary/extrabudgetary-funds
 ---
 
 # Дефицит бюджета и источники финансирования дефицита

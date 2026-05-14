@@ -1,7 +1,5 @@
 ---
-title: >-
-  Официальная статистика сектора государственного управления и международная
-  отчётность (СГФ)
+title: Официальная статистика сектора государственного управления и международная отчётность (СГФ)
 sidebar_label: Статистика сектора и СГФ
 tags:
   - reporting
@@ -13,18 +11,22 @@ slug: /reporting/government-sector-statistics
 jurisdiction: mixed
 periodicity: mixed
 execution_basis: mixed
-primary_breakdown: >-
-  Макроагрегаты, международные классификаторы (COFOG, СГФ), отраслевые
-  показатели
-operator_hint: >-
-  Росстат — официальная статистика; Минфин — таблицы соответствия КБК и СГФ;
-  казначейство и «Электронный бюджет» — операционные бюджетные ряды
-description: >-
-  это макро- и международный слой, который используют для сравнения России с
-  другими странами и для анализа структуры сектора; он не подменяет формы
-  Казначейства 0503… при построчном разборе бюджета.
+primary_breakdown: 'Макроагрегаты, международные классификаторы (COFOG, СГФ), отраслевые показатели'
+operator_hint: Росстат — официальная статистика; Минфин — таблицы соответствия КБК и СГФ; казначейство и «Электронный бюджет» — операционные бюджетные ряды
+description: 'это макро- и международный слой, который используют для сравнения России с другими странами и для анализа структуры сектора; он не подменяет формы Казначейства 0503… при построчном разборе бюджета.'
 content_type: reporting
 entity_type: reporting-form
+related_pages:
+  - /reporting/0503117
+  - /reporting/tax-and-customs-revenue-statistics
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/roskazna-datamarts
+  - /information-systems/federal/emiss
+  - /information-systems/federal/giis-eb
+  - /glossary/budget-system
+  - /glossary/kbk
+  - /glossary/treasury-execution
 ---
 
 # Официальная статистика сектора государственного управления и международная отчётность (СГФ)

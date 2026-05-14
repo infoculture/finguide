@@ -8,14 +8,20 @@ glossary_kind: organization
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
 slug: /glossary/paris-club
-description: >-
-  Парижский клуб — неформальное объединение стран-кредиторов для обсуждения и
-  урегулирования проблем задолженности суверенных государств; Российская
-  Федерация — член с 1997 года (перечень стран приведён в глоссарии Минфина).
-  Для открытых финансовых данных текущая работа клуба отражается опосредованно
-  через внешний дол...
+description: Парижский клуб — неформальное объединение стран-кредиторов для обсуждения и урегулирования проблем задолженности суверенных государств; Российская Федерация — член с 1997 года (перечень стран приведён в глоссарии Минфина). Для открытых финансовых данных текущая работа клуба отражается опосредованно через внешний дол...
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/state-municipal-debt
+  - /reporting/public-debt-reporting
+  - /data-sources/federal/minfin-opendata
+  - /glossary/london-club
+  - /glossary/state-external-borrowings
+  - /glossary/debt-restructuring
+  - /legal/budget-code
+  - /data-sources/federal/roskazna-reports
+  - /intro/russian-budget-overview
+  - /glossary/budget-system
 ---
 
 # Парижский клуб

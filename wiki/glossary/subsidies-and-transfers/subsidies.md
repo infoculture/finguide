@@ -9,14 +9,20 @@ source_url: 'https://budget.gov.ru/'
 last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/subsidies
 sidebar_position: 1
-description: >-
-  субсидии в смысле БК РФ — это безвозмездная и безвозвратная поддержка из
-  бюджета не бюджетным единицам в установленных законом случаях: отдельный режим
-  для коммерческих и иных организаций, ИП и отдельных физлиц (ст. 78) и
-  отдельный — для бюджетных и автономных учреждений и иных НКО (ст. 78.1). Для
-  открытых данных ти...
+description: 'субсидии в смысле БК РФ — это безвозмездная и безвозвратная поддержка из бюджета не бюджетным единицам в установленных законом случаях: отдельный режим для коммерческих и иных организаций, ИП и отдельных физлиц (ст. 78) и отдельный — для бюджетных и автономных учреждений и иных НКО (ст. 78.1). Для открытых данных ти...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/subsidy
+  - /glossary/inn
+  - /glossary/kbk
+  - /data-sources/federal/govtasks
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/zakupki
+  - /howto/analysis/subsidy-tracking
+  - /howto/analysis/ngo-funding
+  - /glossary/npa-subsidy
 ---
 
 # Субсидии (ст. 78 и 78.1 БК РФ)

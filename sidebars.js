@@ -19,7 +19,9 @@ const sidebars = {
                 'intro/key-laws',
                 'intro/changelog',
                 'intro/rag-guide',
+                'intro/howto-reproducibility-audit',
                 'intro/wiki-filling-plan',
+                'intro/analytics-scenarios-catalog',
             ],
         },
         {
@@ -84,6 +86,8 @@ const sidebars = {
             link: { type: 'doc', id: 'budget-classification/README' },
             items: [
                 'budget-classification/overview',
+                'budget-classification/kbk-worked-examples',
+                'budget-classification/classification-changes-by-year',
                 'budget-classification/income-codes',
                 'budget-classification/expense-codes',
                 'budget-classification/kosgu-reference',
@@ -204,6 +208,7 @@ const sidebars = {
             label: '📋 Бюджетная отчётность',
             link: { type: 'doc', id: 'reporting/README' },
             items: [
+                'reporting/reporting-overview',
                 'reporting/state-sector-overview',
                 'reporting/0503117',
                 'reporting/0503317',
@@ -232,6 +237,7 @@ const sidebars = {
             link: { type: 'doc', id: 'reference/README' },
             items: [
                 'reference/classification-codes-index',
+                'reference/data-quality-dimensions',
                 'reference/docsearch-setup',
                 'reference/okpd-budgets',
                 'reference/okato-oktmo',
@@ -240,6 +246,7 @@ const sidebars = {
                 'reference/classification-versions',
                 'reference/budget-cycle',
                 'reference/international-standards',
+                'reference/international-gfs-cofog',
                 'reference/links',
                 'reference/openprojects',
                 'reference/tags-taxonomy',

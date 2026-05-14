@@ -18,18 +18,21 @@ pairs_with:
   - /reporting/0507011
   - /reporting/0503317
   - /reporting/0503387
-operator_hint: >-
-  Федеральное казначейство (публикация на roskazna.gov.ru); методика форм — в
-  контуре бюджетного законодательства и нормативных актов по бюджетной
-  отчётности
-description: >-
-  это официальный контур публичных отчётов Федерального казначейства об
-  исполнении бюджетов и смежных сводах (в т.ч. долг) на портале
-  `roskazna.gov.ru`: таблицы и файлы XLS/XLSX/PDF в разделе «Исполнение
-  бюджетов». Карточка задаёт рамку для аналитика; отдельные формы (0503117,
-  0507011 и др.) описаны в своих карточках ...
+operator_hint: Федеральное казначейство (публикация на roskazna.gov.ru); методика форм — в контуре бюджетного законодательства и нормативных актов по бюджетной отчётности
+description: 'это официальный контур публичных отчётов Федерального казначейства об исполнении бюджетов и смежных сводах (в т.ч. долг) на портале `roskazna.gov.ru`: таблицы и файлы XLS/XLSX/PDF в разделе «Исполнение бюджетов». Карточка задаёт рамку для аналитика; отдельные формы (0503117, 0507011 и др.) описаны в своих карточках ...'
 content_type: reporting
 entity_type: reporting-form
+related_pages:
+  - /information-systems/federal/giis-eb
+  - /reporting/0507011
+  - /reporting/0503117
+  - /reporting/0503317
+  - /reporting/0503387
+  - /reporting/public-debt-reporting
+  - /information-systems/federal/roskazna-portal
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/roskazna-datamarts
+  - /data-sources/federal/budget-gov-ru-datasets
 ---
 
 # Регламентированные отчёты Федерального казначейства об исполнении бюджетов

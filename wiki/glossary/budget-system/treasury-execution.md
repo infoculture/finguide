@@ -9,14 +9,20 @@ last_updated: 2026-05-10T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/treasury-execution
 sidebar_position: 4
-description: >-
-  это принцип и режим исполнения бюджетов, при котором кассовые операции и учёт
-  движения бюджетных средств для значительной части участников проходят через
-  органы Федерального казначейства (единый казначейский счёт, лицевые счета,
-  кассовое обслуживание). Для аналитики открытых данных это объясняет, почему
-  фактические ...
+description: 'это принцип и режим исполнения бюджетов, при котором кассовые операции и учёт движения бюджетных средств для значительной части участников проходят через органы Федерального казначейства (единый казначейский счёт, лицевые счета, кассовое обслуживание). Для аналитики открытых данных это объясняет, почему фактические ...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/lbo
+  - /data-sources/federal/roskazna-reports
+  - /glossary/kbk
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /glossary/budget-process
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/roskazna-datamarts
+  - /information-systems/federal/giis-eb
+  - /glossary/unified-budget-account
+  - /glossary/budget-system
 ---
 
 # Казначейское исполнение бюджета

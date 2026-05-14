@@ -11,15 +11,21 @@ jurisdiction: mixed
 periodicity: annual
 execution_basis: mixed
 primary_breakdown: 'Услуги и работы, объёмы, качество, финансовое обеспечение задания'
-operator_hint: >-
-  Заказчик задания (орган власти); учреждение — исполнитель; публикации на
-  bus.gov.ru и в открытых данных
-description: >-
-  это отчётность о выполнении поручения государства учреждению по услугам
-  гражданам и работам; она дополняет План ФХД, но измеряет прежде всего
-  результат и качество, а не только кассу.
+operator_hint: Заказчик задания (орган власти); учреждение — исполнитель; публикации на bus.gov.ru и в открытых данных
+description: 'это отчётность о выполнении поручения государства учреждению по услугам гражданам и работам; она дополняет План ФХД, но измеряет прежде всего результат и качество, а не только кассу.'
 content_type: reporting
 entity_type: reporting-form
+related_pages:
+  - /reporting/pfhd
+  - /reporting/institution-financial-statements
+  - /reporting/subsidy-recipient-reporting
+  - /data-sources/federal/govtasks
+  - /data-sources/federal/bus-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/bus-gov
+  - /information-systems/federal/giis-eb
+  - /glossary/state-assignment
+  - /glossary/institution-types
 ---
 
 # Отчётность об исполнении государственного (муниципального) задания

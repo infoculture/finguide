@@ -9,14 +9,20 @@ last_updated: 2026-05-10T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_144624/'
 slug: /glossary/procurement-participants
 sidebar_position: 5
-description: >-
-  в ЕИС и выгрузках по 44-ФЗ и 223-ФЗ повторяются несколько ролей и объектов:
-  кто обязан закупать (заказчик), кто подаёт заявки (участник), что считается
-  результатом отбора (контракт / договор), как организован отбор (процедура /
-  способ закупки). Карточка задаёт словарь для склейки таблиц, не заменяя текст
-  законов.
+description: 'в ЕИС и выгрузках по 44-ФЗ и 223-ФЗ повторяются несколько ролей и объектов: кто обязан закупать (заказчик), кто подаёт заявки (участник), что считается результатом отбора (контракт / договор), как организован отбор (процедура / способ закупки). Карточка задаёт словарь для склейки таблиц, не заменяя текст законов.'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /information-systems/federal/zakupki
+  - /glossary/procurement-44fz
+  - /glossary/procurement-223fz
+  - /glossary/inn
+  - /glossary/ogrn
+  - /data-sources/federal/zakupki-xml
+  - /data-sources/federal/procurement
+  - /glossary/kbk
+  - /legal/44fz
+  - /reporting/procurement-contract-reporting
 ---
 
 # Закупки: заказчик, участник, контракт и процедура

@@ -9,14 +9,20 @@ source_url: 'https://budget.gov.ru/'
 last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/npa-subsidy
 sidebar_position: 4
-description: >-
-  соглашение о субсидии — это договор между бюджетом (распорядителем) и
-  получателем, где зафиксированы цель, сумма, сроки и отчётность по
-  безвозмездной поддержке из бюджета. В федеральных открытых реестрах к тому же
-  контуру относят и нормативные правовые акты (НПА) о предоставлении средств из
-  федерального бюджета; без...
+description: 'соглашение о субсидии — это договор между бюджетом (распорядителем) и получателем, где зафиксированы цель, сумма, сроки и отчётность по безвозмездной поддержке из бюджета. В федеральных открытых реестрах к тому же контуру относят и нормативные правовые акты (НПА) о предоставлении средств из федерального бюджета; без...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /data-sources/federal/subsidy
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /glossary/inn
+  - /glossary/kbk
+  - /information-systems/federal/zakupki
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/govtasks
+  - /glossary/subsidies
+  - /glossary/grants
+  - /glossary/transfers
 ---
 
 # Соглашения о субсидиях и НПА о предоставлении

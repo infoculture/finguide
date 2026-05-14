@@ -1,11 +1,7 @@
 ---
-title: >-
-  Федеральный закон от 8 августа 2001 г. № 129-ФЗ «О государственной регистрации
-  юридических лиц и индивидуальных предпринимателей»
+title: Федеральный закон от 8 августа 2001 г. № 129-ФЗ «О государственной регистрации юридических лиц и индивидуальных предпринимателей»
 sidebar_label: 129-ФЗ (ЕГРЮЛ/ЕГРИП)
-description: >-
-  Регистрация юрлиц и ИП, ЕГРЮЛ/ЕГРИП, ОГРН и сведения, которые попадают в
-  открытые реестры и закупочные данные.
+description: 'Регистрация юрлиц и ИП, ЕГРЮЛ/ЕГРИП, ОГРН и сведения, которые попадают в открытые реестры и закупочные данные.'
 tags:
   - legal
   - budget
@@ -16,6 +12,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /information-systems/federal/egrul
+  - /glossary/inn
+  - /glossary/ogrn
+  - /glossary/okved
+  - /legal/civil-code
+  - /legal/budget-code
+  - /data-sources/federal/orgsinfo
+  - /information-systems/federal/zakupki
+  - /glossary/oktmo
+  - /legal/131fz-local-self-government
 ---
 
 # 129-ФЗ о государственной регистрации юридических лиц и ИП

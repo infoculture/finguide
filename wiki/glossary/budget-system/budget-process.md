@@ -9,14 +9,20 @@ last_updated: 2026-05-10T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/budget-process
 sidebar_position: 3
-description: >-
-  это упорядоченная цепочка действий органов власти, местного самоуправления и
-  других участников по подготовке проектов бюджетов, их утверждению, исполнению,
-  учёту, отчётности и контролю — в рамках бюджетной системы РФ и по уровням
-  бюджетов. Для аналитики открытых данных важно понимать этап: на стадии
-  планирования чащ...
+description: 'это упорядоченная цепочка действий органов власти, местного самоуправления и других участников по подготовке проектов бюджетов, их утверждению, исполнению, учёту, отчётности и контролю — в рамках бюджетной системы РФ и по уровням бюджетов. Для аналитики открытых данных важно понимать этап: на стадии планирования чащ...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/budget-system
+  - /glossary/budget-levels
+  - /glossary/kbk
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/roskazna-reports
+  - /glossary/lbo
+  - /glossary/grbs
+  - /glossary/pbs
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/minfin-opendata
 ---
 
 # Бюджетный процесс

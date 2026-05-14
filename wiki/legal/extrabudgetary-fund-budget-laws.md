@@ -1,11 +1,7 @@
 ---
-title: >-
-  Законы о бюджетах государственных внебюджетных фондов Российской Федерации
-  (обзор)
+title: Законы о бюджетах государственных внебюджетных фондов Российской Федерации (обзор)
 sidebar_label: Бюджеты ГВФ (обзор)
-description: >-
-  Отдельные законы о бюджете ПФР/СФР, ФФОМС и иных ГВФ на очередной год; как не
-  смешивать их с федеральным бюджетом и ФНБ в открытых данных.
+description: 'Отдельные законы о бюджете ПФР/СФР, ФФОМС и иных ГВФ на очередной год; как не смешивать их с федеральным бюджетом и ФНБ в открытых данных.'
 tags:
   - legal
   - budget
@@ -16,6 +12,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /legal/budget-code
+  - /legal/nwf-289fz
+  - /glossary/nwf
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /reporting/extrabudgetary-funds-reporting
+  - /data-sources/federal/roskazna-reports
+  - /glossary/extrabudgetary-funds
+  - /legal/budgetlaw
+  - /information-systems/federal/giis-eb
 ---
 
 # Законы о бюджетах государственных внебюджетных фондов

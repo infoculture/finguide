@@ -8,14 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/interbudgetary-relations
-description: >-
-  межбюджетные отношения — это вся совокупность правовых и организационных
-  связей между публично-правовыми образованиями по поводу бюджетных
-  правоотношений, бюджетного процесса и исполнения бюджетов. Межбюджетные
-  трансферты — лишь один из видимых в данных проявлений этих отношений, наряду с
-  разграничением полномочий и...
+description: 'межбюджетные отношения — это вся совокупность правовых и организационных связей между публично-правовыми образованиями по поводу бюджетных правоотношений, бюджетного процесса и исполнения бюджетов. Межбюджетные трансферты — лишь один из видимых в данных проявлений этих отношений, наряду с разграничением полномочий и...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/public-bodies
+  - /glossary/budget-powers
+  - /glossary/budget-process
+  - /glossary/transfers
+  - /data-sources/federal/subsidy
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/regionalnye-byudzhety
+  - /data-sources/regional/consolidated-budgets
+  - /glossary/expenditure-commitments
+  - /glossary/budget-system
 ---
 
 # Межбюджетные отношения

@@ -1,11 +1,7 @@
 ---
-title: >-
-  Федеральный закон от 1 июля 2007 г. № 99-ФЗ «Об исполнении федерального
-  бюджета»
+title: Федеральный закон от 1 июля 2007 г. № 99-ФЗ «Об исполнении федерального бюджета»
 sidebar_label: 99-ФЗ (исполнение фед. бюджета)
-description: >-
-  Постоянный закон об исполнении федерального бюджета: казначейство, учёт и
-  контуры отчётности рядом с БК РФ.
+description: 'Постоянный закон об исполнении федерального бюджета: казначейство, учёт и контуры отчётности рядом с БК РФ.'
 tags:
   - legal
   - budget
@@ -16,6 +12,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /legal/budget-code
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /reporting/treasury-reports
+  - /data-sources/federal/roskazna-datamarts
+  - /glossary/treasury-execution
+  - /information-systems/federal/giis-eb
+  - /information-systems/federal/roskazna-portal
+  - /legal/budgetlaw
+  - /legal/accounting-instructions
 ---
 
 # 99-ФЗ об исполнении федерального бюджета

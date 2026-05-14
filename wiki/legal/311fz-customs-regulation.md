@@ -1,11 +1,7 @@
 ---
-title: >-
-  Федеральный закон от 27 ноября 2010 г. № 311-ФЗ «О таможенном регулировании в
-  Российской Федерации»
+title: Федеральный закон от 27 ноября 2010 г. № 311-ФЗ «О таможенном регулировании в Российской Федерации»
 sidebar_label: 311-ФЗ (таможня РФ)
-description: >-
-  Национальное таможенное регулирование в РФ в связке с ТК ЕАЭС: органы,
-  процедуры и данные ФТС.
+description: 'Национальное таможенное регулирование в РФ в связке с ТК ЕАЭС: органы, процедуры и данные ФТС.'
 tags:
   - legal
   - budget
@@ -16,6 +12,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /legal/customs-code-eaeu
+  - /data-sources/federal/fts-customs-statistics
+  - /legal/tax-code
+  - /reporting/tax-and-customs-revenue-statistics
+  - /organizations/fts
+  - /data-sources/federal/roskazna-reports
+  - /legal/budget-code
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/giis-eb
 ---
 
 # 311-ФЗ о таможенном регулировании в Российской Федерации

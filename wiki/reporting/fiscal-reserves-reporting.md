@@ -1,7 +1,5 @@
 ---
-title: >-
-  Отчётность по ФНБ, резервным фондам и управлению ликвидностью средств
-  федерального бюджета
+title: 'Отчётность по ФНБ, резервным фондам и управлению ликвидностью средств федерального бюджета'
 sidebar_label: ФНБ и резервы
 tags:
   - reporting
@@ -13,14 +11,21 @@ jurisdiction: federal
 periodicity: mixed
 execution_basis: mixed
 primary_breakdown: 'Фонд/резерв, показатели активов и операций, валюта'
-operator_hint: >-
-  Минфин России — методика и открытые данные по ФНБ и резервам; часть операций
-  отражается в отчётах Казначейства и Банка России в разных разрезах
-description: >-
-  это отчётность об активах и резервах государства, а не о расходах по
-  госпрограммам в разрезе казначейских форм исполнения бюджета.
+operator_hint: Минфин России — методика и открытые данные по ФНБ и резервам; часть операций отражается в отчётах Казначейства и Банка России в разных разрезах
+description: 'это отчётность об активах и резервах государства, а не о расходах по госпрограммам в разрезе казначейских форм исполнения бюджета.'
 content_type: reporting
 entity_type: reporting-form
+related_pages:
+  - /reporting/0503117
+  - /reporting/public-debt-reporting
+  - /reporting/treasury-reports
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/minfin-fnb-statistics
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/roskazna-reports
+  - /information-systems/federal/minfinsite
+  - /information-systems/federal/roskazna-portal
+  - /glossary/budget-process
 ---
 
 # Отчётность по ФНБ, резервным фондам и управлению ликвидностью средств федерального бюджета

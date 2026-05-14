@@ -10,14 +10,20 @@ abbreviations:
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/rbs
-description: >-
-  распорядитель бюджетных средств (РБС) — участник цепочки между ГРБС и ПБС,
-  который может распределять бюджетные ассигнования и ЛБО подведомственным
-  распорядителям и получателям. В выгрузках встречается реже, чем код ГРБС; без
-  учёта РБС нельзя корректно восстанавливать многоуровневую ведомственную
-  иерархию.
+description: 'распорядитель бюджетных средств (РБС) — участник цепочки между ГРБС и ПБС, который может распределять бюджетные ассигнования и ЛБО подведомственным распорядителям и получателям. В выгрузках встречается реже, чем код ГРБС; без учёта РБС нельзя корректно восстанавливать многоуровневую ведомственную иерархию.'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/grbs
+  - /glossary/pbs
+  - /glossary/budget-appropriations
+  - /glossary/lbo
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/minfin-opendata
+  - /glossary/budget-obligations
+  - /glossary/budget-schedule
+  - /legal/budget-classification-orders
+  - /budget-classification/overview
 ---
 
 # РБС — Распорядитель бюджетных средств

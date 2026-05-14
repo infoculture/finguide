@@ -11,14 +11,20 @@ source_url: 'http://www.consultant.ru/document/Cons_doc_LAW_19702/'
 last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/grbs
 sidebar_position: 4
-description: >-
-  это орган власти или отдельное значимое учреждение (наука, образование,
-  культура, здравоохранение), на который в бюджете «повешены» ассигнования и
-  который распределяет лимиты и средства между подведомственными распорядителями
-  и получателями. В открытых наборах код ГРБС чаще всего нужен как разрез
-  расходов и способ п...
+description: 'это орган власти или отдельное значимое учреждение (наука, образование, культура, здравоохранение), на который в бюджете «повешены» ассигнования и который распределяет лимиты и средства между подведомственными распорядителями и получателями. В открытых наборах код ГРБС чаще всего нужен как разрез расходов и способ п...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/kbk
+  - /budget-classification/overview
+  - /glossary/lbo
+  - /budget-classification/expense-codes
+  - /glossary/kvr
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/fcp
+  - /data-sources/federal/subsidy
+  - /information-systems/federal/giis-eb
+  - /information-systems/federal/zakupki
 ---
 
 # ГРБС — Главный распорядитель бюджетных средств

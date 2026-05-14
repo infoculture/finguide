@@ -11,14 +11,20 @@ source_url: 'http://www.consultant.ru/document/Cons_doc_LAW_19671/'
 last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/inn
 sidebar_position: 3
-description: >-
-  это цифровой код, который ФНС России присваивает при постановке на налоговый
-  учёт юридическим лицам, индивидуальным предпринимателям и физическим лицам в
-  случаях, предусмотренных НК РФ. В данных о закупках, субсидиях и реестрах
-  организаций ИНН — главный способ однозначно сослаться на контрагента при
-  сверке с ЕГРЮЛ/Е...
+description: 'это цифровой код, который ФНС России присваивает при постановке на налоговый учёт юридическим лицам, индивидуальным предпринимателям и физическим лицам в случаях, предусмотренных НК РФ. В данных о закупках, субсидиях и реестрах организаций ИНН — главный способ однозначно сослаться на контрагента при сверке с ЕГРЮЛ/Е...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /information-systems/federal/zakupki
+  - /information-systems/federal/egrul
+  - /data-sources/federal/procurement
+  - /data-sources/federal/subsidy
+  - /glossary/grbs
+  - /glossary/ogrn
+  - /glossary/kpp
+  - /glossary/procurement-44fz
+  - /glossary/kbk
+  - /howto/analysis/tax-org-identifiers-decoding
 ---
 
 # ИНН — Идентификационный номер налогоплательщика

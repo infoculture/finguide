@@ -8,14 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/budget-credit
-description: >-
-  бюджетный кредит — это возвратные и возмездные средства, которые один бюджет
-  предоставляет другому бюджету системы, юридическому лицу (кроме
-  государственных и муниципальных учреждений), иностранному государству или
-  иностранному юрлицу. В открытых данных это отдельные строки соглашений и КБК;
-  смешение с межбюджетными...
+description: 'бюджетный кредит — это возвратные и возмездные средства, которые один бюджет предоставляет другому бюджету системы, юридическому лицу (кроме государственных и муниципальных учреждений), иностранному государству или иностранному юрлицу. В открытых данных это отдельные строки соглашений и КБК; смешение с межбюджетными...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/budget
+  - /glossary/institution-types
+  - /data-sources/federal/subsidy
+  - /glossary/kbk
+  - /glossary/transfers
+  - /glossary/budget-investments
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/roskazna-reports
+  - /glossary/state-municipal-debt
 ---
 
 # Бюджетный кредит

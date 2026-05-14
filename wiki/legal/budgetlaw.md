@@ -1,11 +1,7 @@
 ---
 title: 'Законы о бюджете (федеральный, региональные, местные)'
 sidebar_label: Законы о бюджете
-description: >-
-  Ежегодные законы, которыми утверждаются главные финансовые параметры бюджетов
-  на очередной финансовый год и плановый период; как они связаны с Бюджетным
-  кодексом, законодательным процессом и открытыми данными на портале бюджетной
-  системы.
+description: 'Ежегодные законы, которыми утверждаются главные финансовые параметры бюджетов на очередной финансовый год и плановый период; как они связаны с Бюджетным кодексом, законодательным процессом и открытыми данными на портале бюджетной системы.'
 tags:
   - legal
   - budget
@@ -15,6 +11,17 @@ doc_kind: overview
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /information-systems/federal/giis-eb
+  - /legal/budget-code
+  - /organizations/pravgov
+  - /organizations/minfin
+  - /organizations/gosduma
+  - /organizations/sovfed
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /glossary/budget-process
+  - /glossary/kbk
 ---
 
 # Законы о бюджете (федеральный, региональные, местные)

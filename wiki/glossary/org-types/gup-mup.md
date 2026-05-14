@@ -12,14 +12,20 @@ source_url: 'https://www.consultant.ru/document/cons_doc_LAW_39768/'
 last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/gup-mup
 sidebar_position: 2
-description: >-
-  государственные и муниципальные унитарные предприятия — коммерческие
-  организации, имущество которых принадлежит Российской Федерации, субъекту РФ
-  или муниципальному образованию на праве оперативного управления (казённое
-  предприятие) или хозяйственного ведения. В открытых финансовых данных они чаще
-  всего всплывают ка...
+description: 'государственные и муниципальные унитарные предприятия — коммерческие организации, имущество которых принадлежит Российской Федерации, субъекту РФ или муниципальному образованию на праве оперативного управления (казённое предприятие) или хозяйственного ведения. В открытых финансовых данных они чаще всего всплывают ка...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /information-systems/federal/zakupki
+  - /data-sources/federal/subsidy
+  - /glossary/subsidies
+  - /data-sources/federal/govtasks
+  - /glossary/pbs
+  - /data-sources/federal/procurement
+  - /glossary/procurement-223fz
+  - /data-sources/federal/zakupki-xml
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
 ---
 
 # ГУП / МУП — Унитарные предприятия

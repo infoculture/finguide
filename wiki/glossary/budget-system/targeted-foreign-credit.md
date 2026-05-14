@@ -8,14 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
 slug: /glossary/targeted-foreign-credit
-description: >-
-  целевой иностранный кредит (заимствование) — это проектное финансирование в
-  иностранной валюте по программе государственных внешних заимствований с
-  оплатой товаров, работ и услуг в соответствии с целями проектов. В ст. 6 БК РФ
-  такие операции влияют на границу внутреннего и внешнего долга для субъектов РФ
-  и МО — см. ...
+description: 'целевой иностранный кредит (заимствование) — это проектное финансирование в иностранной валюте по программе государственных внешних заимствований с оплатой товаров, работ и услуг в соответствии с целями проектов. В ст. 6 БК РФ такие операции влияют на границу внутреннего и внешнего долга для субъектов РФ и МО — см. ...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/federal-external-borrowing-program
+  - /glossary/state-municipal-debt
+  - /organizations/minfin
+  - /data-sources/federal/minfin-opendata
+  - /reporting/public-debt-reporting
+  - /glossary/tied-export-credits
+  - /glossary/ifi-nonfinancial-credits
+  - /legal/budget-code
+  - /data-sources/federal/roskazna-reports
+  - /intro/russian-budget-overview
 ---
 
 # Целевой иностранный кредит (заимствование)

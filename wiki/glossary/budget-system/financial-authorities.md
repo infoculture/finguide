@@ -8,14 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/financial-authorities
-description: >-
-  в ст. 6 БК РФ финансовые органы — это Минфин России, финансовые органы
-  субъектов РФ и финансовые органы муниципальных образований, которые ведут
-  составление и организацию исполнения соответствующих бюджетов. Для открытых
-  данных это подсказка, кто утверждает методики и ведёт сводную бюджетную
-  роспись на уровне бюджета.
+description: 'в ст. 6 БК РФ финансовые органы — это Минфин России, финансовые органы субъектов РФ и финансовые органы муниципальных образований, которые ведут составление и организацию исполнения соответствующих бюджетов. Для открытых данных это подсказка, кто утверждает методики и ведёт сводную бюджетную роспись на уровне бюджета.'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/budget-process
+  - /glossary/budget
+  - /glossary/summary-budget-schedule
+  - /organizations/minfin
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /glossary/budget-powers
+  - /organizations/federal-treasury
+  - /glossary/treasury-execution
+  - /legal/budget-code
 ---
 
 # Финансовые органы

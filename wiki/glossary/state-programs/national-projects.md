@@ -9,14 +9,20 @@ last_updated: 2026-05-10T00:00:00.000Z
 source_url: 'https://национальныепроекты.рф/'
 slug: /glossary/national-projects
 sidebar_position: 2
-description: >-
-  Национальные проекты — крупные инициативы реализации национальных целей
-  развития РФ: набор взаимосвязанных мероприятий с целевыми показателями,
-  типично структурированных на федеральные и региональные проекты и
-  финансируемых из федерального бюджета, бюджетов субъектов и иных источников.
-  Для открытых финансовых данных...
+description: 'Национальные проекты — крупные инициативы реализации национальных целей развития РФ: набор взаимосвязанных мероприятий с целевыми показателями, типично структурированных на федеральные и региональные проекты и финансируемых из федерального бюджета, бюджетов субъектов и иных источников. Для открытых финансовых данных...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/gov-programs
+  - /glossary/kbk
+  - /information-systems/federal/gasu
+  - /data-sources/federal/gasu-programs
+  - /glossary/grbs
+  - /information-systems/federal/zakupki
+  - /information-systems/federal/giis-eb
+  - /information-systems/federal/programs-gov
+  - /data-sources/federal/procurement
+  - /glossary/fcp
 ---
 
 # Национальные проекты

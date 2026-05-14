@@ -5,7 +5,7 @@ tags:
   - howto
   - access
   - budget
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-05-14T00:00:00.000Z
 content_type: howto
 entity_type: howto
 description: >-
@@ -14,6 +14,7 @@ description: >-
   описанию REST на витрине открытых данных; User-Agent, 404 на коротких
   путях и сверка с казначейскими отчётами.
 related_pages:
+  - /howto/automation/python-budget-api
   - /data-sources/federal/budget-gov-ru-datasets
   - /information-systems/federal/giis-eb
   - /data-sources/federal/subsidy

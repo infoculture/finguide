@@ -1,9 +1,7 @@
 ---
 title: Индивидуальные федеральные законы о государственных корпорациях (обзор)
 sidebar_label: Законы о ГК (обзор)
-description: >-
-  Перечень типовых индивидуальных законов о каждой государственной корпорации;
-  связка с 223-ФЗ, ЕГРЮЛ и открытыми данными закупок.
+description: 'Перечень типовых индивидуальных законов о каждой государственной корпорации; связка с 223-ФЗ, ЕГРЮЛ и открытыми данными закупок.'
 tags:
   - legal
   - procurement
@@ -14,6 +12,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /legal/7fz-nko
+  - /legal/civil-code
+  - /information-systems/federal/zakupki
+  - /legal/223-fz
+  - /legal/236fz-ppk
+  - /data-sources/federal/zakupki-xml
+  - /legal/129fz-egrul
+  - /glossary/state-corporations
+  - /information-systems/federal/egrul
+  - /legal/161fz-unitary-enterprises
 ---
 
 # Индивидуальные законы о государственных корпорациях

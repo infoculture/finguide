@@ -11,14 +11,20 @@ last_updated: 2026-05-10T00:00:00.000Z
 source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 slug: /glossary/pbs
 sidebar_position: 5
-description: >-
-  это роль участника бюджетного процесса, которому по правилам БК РФ можно
-  принимать и исполнять бюджетные обязательства от имени публично-правового
-  образования — органы власти, органы управления государственным внебюджетным
-  фондом, органы МСУ, органы местной администрации, а также казённое учреждение,
-  находящееся в в...
+description: 'это роль участника бюджетного процесса, которому по правилам БК РФ можно принимать и исполнять бюджетные обязательства от имени публично-правового образования — органы власти, органы управления государственным внебюджетным фондом, органы МСУ, органы местной администрации, а также казённое учреждение, находящееся в в...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/grbs
+  - /glossary/kbk
+  - /glossary/treasury-execution
+  - /information-systems/federal/zakupki
+  - /glossary/lbo
+  - /glossary/rbs
+  - /glossary/budget-estimates
+  - /glossary/inn
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/minfin-opendata
 ---
 
 # ПБС — Получатель бюджетных средств

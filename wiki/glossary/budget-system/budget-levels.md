@@ -9,14 +9,20 @@ source_url: 'https://www.consultant.ru/document/cons_doc_LAW_19702/'
 last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/budget-levels
 sidebar_position: 2
-description: >-
-  это три ступени, на которые по Бюджетному кодексу РФ делится состав бюджетной
-  системы: федеральный контур (федеральный бюджет и бюджеты федеральных
-  государственных внебюджетных фондов), региональный (бюджеты субъектов РФ и
-  территориальных государственных внебюджетных фондов) и местный (бюджеты
-  муниципальных образова...
+description: 'это три ступени, на которые по Бюджетному кодексу РФ делится состав бюджетной системы: федеральный контур (федеральный бюджет и бюджеты федеральных государственных внебюджетных фондов), региональный (бюджеты субъектов РФ и территориальных государственных внебюджетных фондов) и местный (бюджеты муниципальных образова...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /glossary/budget-system
+  - /glossary/transfers
+  - /glossary/grbs
+  - /glossary/extrabudgetary-funds
+  - /information-systems/federal/giis-eb
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/federal/regionalnye-byudzhety
+  - /data-sources/regional/consolidated-budgets
+  - /data-sources/federal/municipalnye-byudzhety
 ---
 
 # Уровни бюджета (федеральный, региональный, местный)

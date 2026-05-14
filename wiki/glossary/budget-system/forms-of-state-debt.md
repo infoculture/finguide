@@ -8,14 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
 slug: /glossary/forms-of-state-debt
-description: >-
-  формы государственного долга — это перечень видов договорных и рыночных
-  конструкций, из которых складывается государственный долг Российской Федерации
-  в смысле БК РФ (в т.ч. ст. 97): кредиты и займы, ценные бумаги, бюджетные
-  ссуды и кредиты между уровнями бюджетной системы, государственные гарантии, а
-  также соглашен...
+description: 'формы государственного долга — это перечень видов договорных и рыночных конструкций, из которых складывается государственный долг Российской Федерации в смысле БК РФ (в т.ч. ст. 97): кредиты и займы, ценные бумаги, бюджетные ссуды и кредиты между уровнями бюджетной системы, государственные гарантии, а также соглашен...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /reporting/public-debt-reporting
+  - /organizations/minfin
+  - /data-sources/federal/roskazna-reports
+  - /data-sources/federal/minfin-opendata
+  - /glossary/kbk
+  - /glossary/state-municipal-debt
+  - /glossary/state-guarantee
+  - /glossary/deficit-financing
+  - /glossary/debt-restructuring
+  - /legal/budget-code
 ---
 
 # Формы государственного долга

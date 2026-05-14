@@ -11,14 +11,20 @@ abbreviations:
 last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/procurement-223fz
 sidebar_position: 2
-description: >-
-  223-ФЗ — отдельный режим закупок госкорпораций, субъектов естественных
-  монополий, компаний с существенным госучастием и иных заказчиков из перечня
-  закона: они действуют не по «контрактной системе» 44-ФЗ, а по собственным
-  положениям о закупке (в рамках требований 223-ФЗ) и публикуют ход закупок и
-  контракты в ЕИС наря...
+description: '223-ФЗ — отдельный режим закупок госкорпораций, субъектов естественных монополий, компаний с существенным госучастием и иных заказчиков из перечня закона: они действуют не по «контрактной системе» 44-ФЗ, а по собственным положениям о закупке (в рамках требований 223-ФЗ) и публикуют ход закупок и контракты в ЕИС наря...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /information-systems/federal/zakupki
+  - /glossary/procurement-44fz
+  - /legal/223-fz
+  - /data-sources/federal/procurement
+  - /data-sources/federal/zakupki-xml
+  - /data-sources/federal/roskazna-datamarts
+  - /glossary/state-corporations
+  - /glossary/gup-mup
+  - /legal/44fz
+  - /reporting/procurement-contract-reporting
 ---
 
 # 223-ФЗ — Закупки отдельных юридических лиц

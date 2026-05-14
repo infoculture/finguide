@@ -11,15 +11,23 @@ jurisdiction: federal
 periodicity: mixed
 execution_basis: mixed
 primary_breakdown: 'Фонд, КБК фонда, показатели доходов и расходов фонда'
-operator_hint: >-
-  Фонды ПФР, ФСС, ФОМС и их открытые отчёты; консолидация с бюджетом субъекта
-  для ТФОМС — см. региональные формы
-description: >-
-  это отчётность специализированных фондов, которые живут по отдельным правилам
-  учёта и отчётности; для аналитики госфинансов их соединяют с бюджетом через
-  методики консолидации и открытые витрины, а не через одну форму 0503117.
+operator_hint: 'Фонды ПФР, ФСС, ФОМС и их открытые отчёты; консолидация с бюджетом субъекта для ТФОМС — см. региональные формы'
+description: 'это отчётность специализированных фондов, которые живут по отдельным правилам учёта и отчётности; для аналитики госфинансов их соединяют с бюджетом через методики консолидации и открытые витрины, а не через одну форму 0503117.'
 content_type: reporting
 entity_type: reporting-form
+related_pages:
+  - /reporting/0503317
+  - /reporting/tax-and-customs-revenue-statistics
+  - /data-sources/regional/regional-extrabudgetary-health-overview
+  - /data-sources/regional/moscow-city-tfoms-mgfoms
+  - /data-sources/federal/minfin-opendata
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /data-sources/regional/consolidated-budgets
+  - /information-systems/federal/giis-eb
+  - /information-systems/federal/roskazna-portal
+  - /glossary/extrabudgetary-funds
+  - /glossary/kbk
+  - /glossary/transfers
 ---
 
 # Отчётность государственных внебюджетных фондов Российской Федерации

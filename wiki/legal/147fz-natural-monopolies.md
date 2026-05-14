@@ -1,9 +1,7 @@
 ---
 title: Федеральный закон от 17 августа 1995 г. № 147-ФЗ «О естественных монополиях»
 sidebar_label: 147-ФЗ (естественные монополии)
-description: >-
-  Режим естественных монополий: реестры, регулирование тарифов и доступа; связка
-  с ФАС, сетевыми отраслями и закупками монополистов по 223-ФЗ.
+description: 'Режим естественных монополий: реестры, регулирование тарифов и доступа; связка с ФАС, сетевыми отраслями и закупками монополистов по 223-ФЗ.'
 tags:
   - legal
   - budget
@@ -14,6 +12,17 @@ official_urls:
   - 'https://publication.pravo.gov.ru/'
 content_type: legal
 entity_type: legal-document
+related_pages:
+  - /legal/223-fz
+  - /organizations/fas
+  - /information-systems/federal/zakupki
+  - /legal/135fz-competition
+  - /data-sources/federal/zakupki-xml
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /glossary/procurement-223fz
+  - /legal/44fz
+  - /legal/budget-code
+  - /data-sources/federal/minfin-opendata
 ---
 
 # 147-ФЗ о естественных монополиях

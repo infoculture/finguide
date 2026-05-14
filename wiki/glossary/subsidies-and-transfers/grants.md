@@ -9,14 +9,20 @@ source_url: 'https://президентскиегранты.рф/'
 last_updated: 2026-05-10T00:00:00.000Z
 slug: /glossary/grants
 sidebar_position: 2
-description: >-
-  гранты в российской практике чаще всего означают конкурсную безвозмездную
-  поддержку проектов (НКО, наука, культура и др.) через специализированных
-  операторов и отдельные правовые режимы. Для открытых финансовых данных важно
-  отличать такой контур от субсидий по ст. 78 и 78.1 БК РФ с соглашениями в ГИИС
-  «Электронный б...
+description: 'гранты в российской практике чаще всего означают конкурсную безвозмездную поддержку проектов (НКО, наука, культура и др.) через специализированных операторов и отдельные правовые режимы. Для открытых финансовых данных важно отличать такой контур от субсидий по ст. 78 и 78.1 БК РФ с соглашениями в ГИИС «Электронный б...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /information-systems/federal/giis-eb
+  - /information-systems/civil/pgrants
+  - /glossary/inn
+  - /data-sources/federal/subsidy
+  - /information-systems/federal/zakupki
+  - /data-sources/civil/pgrants
+  - /data-sources/civil/open-ngo
+  - /information-systems/civil/open-ngo
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /howto/analysis/subsidy-tracking
 ---
 
 # Гранты

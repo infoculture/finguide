@@ -8,13 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
 slug: /glossary/debt-restructuring
-description: >-
-  реструктуризация долга — это соглашённая замена старых долговых обязательств,
-  входящих в государственный или муниципальный долг, на новые с иными условиями
-  обслуживания и погашения. В данных это проявляется как отдельный класс событий
-  в долговой отчётности и реестрах Казначейства.
+description: 'реструктуризация долга — это соглашённая замена старых долговых обязательств, входящих в государственный или муниципальный долг, на новые с иными условиями обслуживания и погашения. В данных это проявляется как отдельный класс событий в долговой отчётности и реестрах Казначейства.'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /reporting/public-debt-reporting
+  - /data-sources/federal/roskazna-reports
+  - /organizations/minfin
+  - /organizations/federal-treasury
+  - /data-sources/federal/minfin-opendata
+  - /glossary/forms-of-state-debt
+  - /glossary/state-municipal-debt
+  - /glossary/state-external-borrowings
+  - /legal/budget-code
+  - /intro/russian-budget-overview
 ---
 
 # Реструктуризация долга

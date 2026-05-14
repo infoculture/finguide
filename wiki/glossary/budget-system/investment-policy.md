@@ -8,14 +8,20 @@ glossary_kind: concept
 last_updated: 2026-05-11T00:00:00.000Z
 source_url: 'https://minfin.gov.ru/ru/perfomance/public_debt/external/glossary/'
 slug: /glossary/investment-policy
-description: >-
-  в глоссарии Минфина по госдолгу инвестиционная политика трактуется как система
-  мероприятий по оптимальному размещению капиталовложений с целью достижения
-  желаемой доходности, безопасности и ликвидности инвестиций. Для раздела
-  открытых госфинансов термин полезен как контекст к управлению государственными
-  финансовыми ...
+description: 'в глоссарии Минфина по госдолгу инвестиционная политика трактуется как система мероприятий по оптимальному размещению капиталовложений с целью достижения желаемой доходности, безопасности и ликвидности инвестиций. Для раздела открытых госфинансов термин полезен как контекст к управлению государственными финансовыми ...'
 content_type: concept
 entity_type: glossary
+related_pages:
+  - /organizations/minfin
+  - /data-sources/federal/minfin-opendata
+  - /glossary/kbk
+  - /information-systems/federal/giis-eb
+  - /glossary/investment-climate
+  - /glossary/budget-investments
+  - /glossary/state-municipal-debt
+  - /legal/budget-code
+  - /data-sources/federal/roskazna-reports
+  - /intro/russian-budget-overview
 ---
 
 # Инвестиционная политика
