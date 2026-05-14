@@ -4,44 +4,47 @@ sidebar_label: "Сахалинская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-14
 content_type: reference
 description: >-
-  Сводная навигация по карточкам источников данных wiki для Сахалинская область: прямые ссылки на
-  опубликованные витрины и контекст поиска по региональному контуру.
+  Сводная навигация по карточкам источников данных wiki для Сахалинской области:
+  бюджет, НПА, контроль, налоги, статистика и ОМС.
 slug: /data-sources/regional/subject-sakhalin-oblast-sources-overview
 related_pages:
   - /data-sources/regional
+  - /data-sources/regional/dfo
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/sakhalin-oblast-fin-1b0f5adc49
-  - /data-sources/regional/sakhalin-oblast-fin-3d19fa375f
-  - /data-sources/regional/sakhalin-oblast-fin-424be1e56c
-  - /data-sources/regional/sakhalin-oblast-fin-6069e0f01a
-  - /data-sources/regional/sakhalin-oblast-fin-84a2e0487a
-  - /data-sources/regional/sakhalin-oblast-fin-ba3c145fbe
-  - /data-sources/regional/sakhalin-oblast-fin-d008fc617f
-  - /data-sources/regional/sakhalin-oblast-fin-d8e301afb2
-  - /data-sources/regional/sakhalin-oblast-fin-f5f2c85978
+  - /data-sources/regional/sakhalin-oblast-account-chamber
+  - /data-sources/regional/sakhalin-oblast-legislature-duma
+  - /data-sources/regional/sakhalin-oblast-minfin
+  - /data-sources/regional/sakhalin-oblast-open-budget
+  - /data-sources/regional/sakhalin-oblast-pravo-gov-region65
+  - /data-sources/regional/sakhalin-oblast-rosstat
+  - /data-sources/regional/sakhalin-oblast-roskazna-ufk
+  - /data-sources/regional/sakhalin-oblast-tfoms
+  - /data-sources/regional/sakhalin-oblast-ufns
 ---
 
 # Сахалинская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: на этой странице собраны **опубликованные** карточки **официальных** витрин по **Сахалинской области**. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не** включают сегменты папки округа/субъекта в репозитории.
 
 ## Карточки источников
 
-- [sakhalin oblast fin 1b0f5adc49](/data-sources/regional/sakhalin-oblast-fin-1b0f5adc49) — карточка источника.
-- [sakhalin oblast fin 3d19fa375f](/data-sources/regional/sakhalin-oblast-fin-3d19fa375f) — карточка источника.
-- [sakhalin oblast fin 424be1e56c](/data-sources/regional/sakhalin-oblast-fin-424be1e56c) — карточка источника.
-- [sakhalin oblast fin 6069e0f01a](/data-sources/regional/sakhalin-oblast-fin-6069e0f01a) — карточка источника.
-- [sakhalin oblast fin 84a2e0487a](/data-sources/regional/sakhalin-oblast-fin-84a2e0487a) — карточка источника.
-- [sakhalin oblast fin ba3c145fbe](/data-sources/regional/sakhalin-oblast-fin-ba3c145fbe) — карточка источника.
-- [sakhalin oblast fin d008fc617f](/data-sources/regional/sakhalin-oblast-fin-d008fc617f) — карточка источника.
-- [sakhalin oblast fin d8e301afb2](/data-sources/regional/sakhalin-oblast-fin-d8e301afb2) — карточка источника.
-- [sakhalin oblast fin f5f2c85978](/data-sources/regional/sakhalin-oblast-fin-f5f2c85978) — карточка источника.
+- [Контрольно-счётная палата области](/data-sources/regional/sakhalin-oblast-account-chamber) — внешний финансовый контроль, заключения на проект бюджета.
+- [Сахалинская областная Дума](/data-sources/regional/sakhalin-oblast-legislature-duma) — законодательный процесс, законопроекты о бюджете.
+- [Министерство финансов области](/data-sources/regional/sakhalin-oblast-minfin) — региональный финансовый орган, бюджет и долг.
+- [Портал «Открытый бюджет»](/data-sources/regional/sakhalin-oblast-open-budget) — гражданская и аналитическая подача бюджетных материалов.
+- [Официальное опубликование НПА (region65, pravo.gov.ru)](/data-sources/regional/sakhalin-oblast-pravo-gov-region65) — дата опубликования региональных актов.
+- [Территориальный орган Росстата (Сахалинстат)](/data-sources/regional/sakhalin-oblast-rosstat) — официальная региональная статистика.
+- [Управление Федерального казначейства (УФК)](/data-sources/regional/sakhalin-oblast-roskazna-ufk) — федеральный казначейский контур на территории области.
+- [Территориальный фонд ОМС](/data-sources/regional/sakhalin-oblast-tfoms) — тарифы, соглашения и отчётность ОМС.
+- [УФНС России по области](/data-sources/regional/sakhalin-oblast-ufns) — налоговое администрирование и публикации ФНС по коду 65.
 
 ## Контекст
 
 - [Региональные источники (оглавление раздела)](/data-sources/regional/)
 - [Дальневосточный федеральный округ](/data-sources/regional/dfo)
+- [Как искать региональные данные](/data-sources/regional/how-to-find-regional-data)
+- [Консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets)
