@@ -72,6 +72,6 @@ related_pages:
 ## Связанные материалы
 
 - [Муниципальные бюджеты](./municipal-budgets.md)
-- [Новосибирск: бюджет для граждан и opendata мэрии](./novosibirsk-city-open-budget-mayor.md)
-- [Нижний Новгород: открытый бюджет (budgetnn.ru)](./nizhny-novgorod-city-open-budget-budgetnn.md)
+- [Новосибирск: бюджет для граждан и opendata мэрии](/data-sources/regional/novosibirsk-city-open-budget-mayor)
+- [Нижний Новгород: открытый бюджет (budgetnn.ru)](/data-sources/regional/nizhny-novgorod-city-open-budget-budgetnn)
 - [Отчётность об исполнении местных бюджетов](/reporting/municipal-budget-execution)

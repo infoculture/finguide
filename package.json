@@ -22,6 +22,7 @@
     "inject:related-pages": "node scripts/inject-related-pages-wave.mjs",
     "generate:budget-gov-opendata-cards": "node scripts/generate-budget-gov-opendata-dataset-cards.mjs",
     "generate:fns-opendata-cards": "node scripts/generate-fns-opendata-cards.mjs",
+    "bootstrap:regional": "node scripts/bootstrap-regional-wiki.mjs",
     "refresh:budget-gov-opendata-sidebar-labels": "node scripts/refresh-budget-gov-opendata-sidebar-labels.mjs",
     "presubmit": "npm run lint:frontmatter && npm run lint:howto && npm run export:knowledge -- --check && npm run lint:qa && npm run qa:retrieval && npm run lint:related-pages && npm run lint:corpus && npm run typecheck && npm run build"
   },

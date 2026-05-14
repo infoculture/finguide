@@ -88,16 +88,15 @@ npm start
 ### Настройка репозитория на GitHub
 
 1. **Settings → Pages** (раздел *Build and deployment*).
-2. Источник: **Deploy from a branch**.
-3. Ветка **`gh-pages`**, папка **`/ (root)`** (так публикует и `docusaurus deploy`, и workflow [`.github/workflows/deploy-pages.yml`](./.github/workflows/deploy-pages.yml)).
+2. Источник: **GitHub Actions** (не «Deploy from a branch»). Workflow: [`.github/workflows/deploy-pages.yml`](./.github/workflows/deploy-pages.yml) собирает статику и публикует через официальные шаги `upload-pages-artifact` / `deploy-pages`.
 
-В **Settings → Actions → General → Workflow permissions** для организационного репозитория включите **Read and write permissions** для `GITHUB_TOKEN`, иначе job «Deploy GitHub Pages» не сможет запушить в `gh-pages`.
+При первом запуске GitHub может запросить подтверждение для среды **`github-pages`** (разрешите деплой для workflow из этого репозитория).
 
-При первом деплое ветка `gh-pages` создаётся автоматически; файл `.nojekyll` добавляет [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages).
+Локальная команда **`npm run deploy`** по-прежнему может пушить в ветку **`gh-pages`** (см. ниже); для CI это не требуется.
 
 ### Публикация из CI
 
-При каждом push в **`master`** или **`main`** в репозитории `infoculture/finguide` workflow **Deploy GitHub Pages** собирает сайт и пушит артефакт в **`gh-pages`**.
+При каждом push в **`master`** или **`main`** (и при ручном **workflow dispatch**) в репозитории **`infoculture/finguide`** workflow **Deploy GitHub Pages** собирает сайт и выкладывает его на **https://infoculture.github.io/finguide/**.
 
 ### Публикация обновлений с машины
 

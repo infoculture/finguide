@@ -7,6 +7,7 @@
 - [`budget-classification-temporal`](../budget-classification-temporal/spec.md) — история классификации и связь с данными;
 - [`reporting-landscape`](../reporting-landscape/spec.md) — обзор и связи форм отчётности;
 - [`regional-municipal-pilot`](../regional-municipal-pilot/spec.md) — пилот регионов и муниципалитетов;
+- [`regional-sources-hierarchy`](../regional-sources-hierarchy/spec.md) — файловая иерархия «федеральный округ → субъект», сводки по субъекту и импорт из `_dev/rf_finance_sources_table_full.md`;
 - [`reproducible-analytics`](../reproducible-analytics/spec.md) — сценарии и воспроизводимость;
 - [`data-source-quality`](../data-source-quality/spec.md) — качество источников;
 - [`state-sector-corporate-disclosure`](../state-sector-corporate-disclosure/spec.md) — корпоративное раскрытие;

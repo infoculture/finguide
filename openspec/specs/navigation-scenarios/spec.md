@@ -24,11 +24,19 @@
 
 README разделов и согласованные **под-хабы** (`wiki/**/README.md`: корень раздела в сайдбаре и логические подгруппы вроде `data-sources/federal`, `howto/access`, `information-systems/civil`) SHOULD содержать: назначение раздела, аудиторию, ключевые страницы (таблица или компактный список без лишнего дублирования) и типовые вопросы. Для обогащения графа экспорта RECOMMENDED поле `related_pages` в frontmatter с каноническими slug; целостность — `npm run lint:related-pages` после согласованного `exports/knowledge-index.jsonl`.
 
+Региональные источники данных: при внедрении [`regional-sources-hierarchy`](../regional-sources-hierarchy/spec.md) хабами SHOULD служить [`wiki/data-sources/regional/README.md`](../../../wiki/data-sources/regional/README.md), README федеральных округов под `wiki/data-sources/regional/<fed_okrug_slug>/` и сводные страницы субъектов (`/data-sources/regional/<overview_basename>`), ведущие на конкретные slug карточек `/data-sources/regional/<slug>`.
+
 ### Scenario: Reader opens a section hub
 
 - **GIVEN** читатель открывает README-хаб раздела или подраздела (например [`wiki/data-sources/README.md`](../../../wiki/data-sources/README.md) или [`wiki/howto/access/README.md`](../../../wiki/howto/access/README.md))
 - **WHEN** он читает вводный текст и таблицу быстрых входов
 - **THEN** он находит ссылку на карточку источника, ИС, how-to или справочник без обхода всего сайдбара
+
+### Scenario: Reader drills down by federal district to subject sources
+
+- **GIVEN** пользователь открывает [`wiki/data-sources/regional/README.md`](../../../wiki/data-sources/regional/README.md) или README федерального округа
+- **WHEN** он переходит к сводной странице субъекта и далее к карточке источника
+- **THEN** он использует только канонические ссылки `/data-sources/regional/...` без ручного составления URL по пути на диске
 
 ## Requirement: Getting started
 

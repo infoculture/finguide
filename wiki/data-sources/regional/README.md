@@ -11,6 +11,27 @@ description: >-
 related_pages:
   - /data-sources
   - /data-sources/federal
+  - /data-sources/regional/cfo
+  - /data-sources/regional/szfo
+  - /data-sources/regional/yufo
+  - /data-sources/regional/skfo
+  - /data-sources/regional/pfo
+  - /data-sources/regional/urfo
+  - /data-sources/regional/sfo
+  - /data-sources/regional/dfo
+  - /data-sources/regional/subject-moscow-sources-overview
+  - /data-sources/regional/subject-moscow-oblast-sources-overview
+  - /data-sources/regional/subject-saint-petersburg-sources-overview
+  - /data-sources/regional/subject-republic-of-tatarstan-sources-overview
+  - /data-sources/regional/subject-krasnodar-krai-sources-overview
+  - /data-sources/regional/subject-sverdlovsk-oblast-sources-overview
+  - /data-sources/regional/subject-republic-of-sakha-yakutia-sources-overview
+  - /data-sources/regional/subject-republic-of-dagestan-sources-overview
+  - /data-sources/regional/subject-kemerovo-oblast-kuzbass-sources-overview
+  - /data-sources/regional/subject-khanty-mansi-autonomous-okrug-yugra-sources-overview
+  - /data-sources/regional/subject-kaliningrad-oblast-sources-overview
+  - /data-sources/regional/subject-novosibirsk-oblast-sources-overview
+  - /data-sources/regional/subject-nizhny-novgorod-oblast-sources-overview
   - /data-sources/regional/subnational-debt-overview
   - /data-sources/regional/regional-extrabudgetary-health-overview
   - /data-sources/regional/moscow-city-tfoms-mgfoms
@@ -43,6 +64,8 @@ related_pages:
 
 Карточки описывают **субнациональный** контур: сайты субъектов РФ, консолидированные и местные бюджеты, открытые наборы и типовые ограничения при сопоставлении с федеральными агрегатами.
 
+Файлы карточек источников в репозитории сгруппированы по **федеральному округу** и **субъекту** (`wiki/data-sources/regional/<округ>/<субъект>/`); публичные URL остаются плоскими: `/data-sources/regional/<slug>`. Оглавление по округам: [ЦФО](/data-sources/regional/cfo), [СЗФО](/data-sources/regional/szfo), [ЮФО](/data-sources/regional/yufo), [СКФО](/data-sources/regional/skfo), [ПФО](/data-sources/regional/pfo), [УрФО](/data-sources/regional/urfo), [СФО](/data-sources/regional/sfo), [ДФО](/data-sources/regional/dfo). Сводная страница субъекта имеет вид `/data-sources/regional/subject-<субъект>-sources-overview` (см. [`_dev/regional-directory.yaml`](../../../_dev/regional-directory.yaml)).
+
 ## Для кого
 
 - Аналитикам региональной и муниципальной тематики, журналистам и исследователям.
@@ -57,8 +80,8 @@ related_pages:
 | Муниципальный уровень | [Муниципальные бюджеты](./municipal-budgets.md) |
 | Порталы «Открытый бюджет» | [Региональные порталы](./regional-portals.md) |
 | Долг субъектов и МО (федеральный свод) | [Навигатор по субнациональному долгу](./subnational-debt-overview.md), [статистика Минфина](/data-sources/federal/minfin-debt-constituent-entities) |
-| ОМС и территориальные внебюджетные фонды | [Навигатор](./regional-extrabudgetary-health-overview.md), [МГФОМС](./moscow-city-tfoms-mgfoms.md), [МОФОМС](./moscow-oblast-tfoms-mofoms.md), [ФФОМС](/organizations/ffoms) |
-| Региональные и муниципальные закупки | [Навигатор](./regional-procurement-sources-overview.md), примеры: [tender.mos.ru](./moscow-city-procurement-tender-mos.md), [gz-spb.ru](./saint-petersburg-procurement-gz-spb.md), [goszakupki.tatarstan.ru](./tatarstan-procurement-goszakupki-tatarstan.md), [drcs.krasnodar.ru](./krasnodar-krai-procurement-drcs-krasnodar.md), [goszakaz.midural.ru](./sverdlovsk-oblast-procurement-goszakaz-midural.md), [zakupki.sakha.gov.ru](./sakha-yakutia-procurement-zakupki-sakha-gov.md), [komzak.e-dag.ru](./dagestan-procurement-komzak-e-dag.md), [ugzko.ru](./kemerovo-kuzbass-procurement-ugzko.md), [zakupki.admhmao.ru](./khmao-yugra-procurement-zakupki-admhmao.md), [zakupki.gov39.ru](./kaliningrad-oblast-procurement-zakupki-gov39.md) |
+| ОМС и территориальные внебюджетные фонды | [Навигатор](./regional-extrabudgetary-health-overview.md), [МГФОМС](/data-sources/regional/moscow-city-tfoms-mgfoms), [МОФОМС](/data-sources/regional/moscow-oblast-tfoms-mofoms), [ФФОМС](/organizations/ffoms) |
+| Региональные и муниципальные закупки | [Навигатор](./regional-procurement-sources-overview.md), примеры: [tender.mos.ru](/data-sources/regional/moscow-city-procurement-tender-mos), [gz-spb.ru](/data-sources/regional/saint-petersburg-procurement-gz-spb), [goszakupki.tatarstan.ru](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan), [drcs.krasnodar.ru](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar), [goszakaz.midural.ru](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural), [zakupki.sakha.gov.ru](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov), [komzak.e-dag.ru](/data-sources/regional/dagestan-procurement-komzak-e-dag), [ugzko.ru](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko), [zakupki.admhmao.ru](/data-sources/regional/khmao-yugra-procurement-zakupki-admhmao), [zakupki.gov39.ru](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39) |
 | Форма и федеральные зеркала | [0503317](/reporting/0503317), how-to [кейс исполнения](/howto/analysis/regional-budget-execution-case), [анализ региональных бюджетов](/howto/analysis/regional-budget-analysis) |
 | Пилот: раскрытие и трансферты (10 субъектов) | [Матрица раскрытия](./regional-disclosure-matrix.md), how-to [межбюджетные трансферты](/howto/analysis/interbudgetary-transfers) |
 | Крупные города (агрегированный вход) | [Крупные городские бюджеты](./large-city-budgets.md) |
@@ -78,20 +101,20 @@ related_pages:
 - [Муниципальные бюджеты](./municipal-budgets.md)
 - [Пилотная матрица раскрытия (10 субъектов)](./regional-disclosure-matrix.md)
 - [Крупные городские бюджеты](./large-city-budgets.md)
-- [Новосибирск: бюджет для граждан и opendata мэрии](./novosibirsk-city-open-budget-mayor.md)
-- [Нижний Новгород: открытый бюджет (budgetnn.ru)](./nizhny-novgorod-city-open-budget-budgetnn.md)
+- [Новосибирск: бюджет для граждан и opendata мэрии](/data-sources/regional/novosibirsk-city-open-budget-mayor)
+- [Нижний Новгород: открытый бюджет (budgetnn.ru)](/data-sources/regional/nizhny-novgorod-city-open-budget-budgetnn)
 - [Субнациональный долг: навигатор](./subnational-debt-overview.md)
 - [Региональное ОМС и территориальные внебюджетные фонды](./regional-extrabudgetary-health-overview.md)
-- [Московский городской фонд ОМС (МГФОМС)](./moscow-city-tfoms-mgfoms.md)
-- [ТФОМС Московской области (МОФОМС)](./moscow-oblast-tfoms-mofoms.md)
+- [Московский городской фонд ОМС (МГФОМС)](/data-sources/regional/moscow-city-tfoms-mgfoms)
+- [ТФОМС Московской области (МОФОМС)](/data-sources/regional/moscow-oblast-tfoms-mofoms)
 - [Региональные и муниципальные закупки (навигатор)](./regional-procurement-sources-overview.md)
-- [Закупки Москвы (tender.mos.ru)](./moscow-city-procurement-tender-mos.md)
-- [Закупки Санкт-Петербурга (gz-spb.ru)](./saint-petersburg-procurement-gz-spb.md)
-- [Закупки Татарстана (goszakupki.tatarstan.ru)](./tatarstan-procurement-goszakupki-tatarstan.md)
-- [Закупки Краснодарского края (drcs.krasnodar.ru)](./krasnodar-krai-procurement-drcs-krasnodar.md)
-- [Закупки Свердловской области (goszakaz.midural.ru)](./sverdlovsk-oblast-procurement-goszakaz-midural.md)
-- [Закупки РС(Я) (zakupki.sakha.gov.ru)](./sakha-yakutia-procurement-zakupki-sakha-gov.md)
-- [Закупки РД (komzak.e-dag.ru)](./dagestan-procurement-komzak-e-dag.md)
-- [Закупки Кузбасса (ugzko.ru)](./kemerovo-kuzbass-procurement-ugzko.md)
-- [Закупки Югры (zakupki.admhmao.ru)](./khmao-yugra-procurement-zakupki-admhmao.md)
-- [Закупки Калининградской области (zakupki.gov39.ru)](./kaliningrad-oblast-procurement-zakupki-gov39.md)
+- [Закупки Москвы (tender.mos.ru)](/data-sources/regional/moscow-city-procurement-tender-mos)
+- [Закупки Санкт-Петербурга (gz-spb.ru)](/data-sources/regional/saint-petersburg-procurement-gz-spb)
+- [Закупки Татарстана (goszakupki.tatarstan.ru)](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan)
+- [Закупки Краснодарского края (drcs.krasnodar.ru)](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar)
+- [Закупки Свердловской области (goszakaz.midural.ru)](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural)
+- [Закупки РС(Я) (zakupki.sakha.gov.ru)](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov)
+- [Закупки РД (komzak.e-dag.ru)](/data-sources/regional/dagestan-procurement-komzak-e-dag)
+- [Закупки Кузбасса (ugzko.ru)](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko)
+- [Закупки Югры (zakupki.admhmao.ru)](/data-sources/regional/khmao-yugra-procurement-zakupki-admhmao)
+- [Закупки Калининградской области (zakupki.gov39.ru)](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39)

@@ -24,6 +24,7 @@
 | `budget-classification-temporal` | [`specs/budget-classification-temporal/spec.md`](../specs/budget-classification-temporal/spec.md) | **ADDED** |
 | `reporting-landscape` | [`specs/reporting-landscape/spec.md`](../specs/reporting-landscape/spec.md) | **ADDED** |
 | `regional-municipal-pilot` | [`specs/regional-municipal-pilot/spec.md`](../specs/regional-municipal-pilot/spec.md) | **ADDED** |
+| `regional-sources-hierarchy` | [`specs/regional-sources-hierarchy/spec.md`](../specs/regional-sources-hierarchy/spec.md) | **ADDED** — см. change [`regional-sources-hierarchy-2026-05`](../regional-sources-hierarchy-2026-05/proposal.md) |
 | `reproducible-analytics` | [`specs/reproducible-analytics/spec.md`](../specs/reproducible-analytics/spec.md) | **ADDED** |
 | `data-source-quality` | [`specs/data-source-quality/spec.md`](../specs/data-source-quality/spec.md) | **ADDED** |
 | `state-sector-corporate-disclosure` | [`specs/state-sector-corporate-disclosure/spec.md`](../specs/state-sector-corporate-disclosure/spec.md) | **ADDED** |
