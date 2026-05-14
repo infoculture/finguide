@@ -1,6 +1,6 @@
-# Открытые государственные финансы России
+# База знаний по государственным финансам в России
 
-Книга-справочник об устройстве государственных финансов в России и о работе с открытыми финансовыми данными. Сайт собирается из этого репозитория с помощью [Docusaurus 3](https://docusaurus.io/).
+<База знаний>-справочник об устройстве государственных финансов в России и о работе с открытыми финансовыми данными. Сайт собирается из этого репозитория с помощью [Docusaurus 3](https://docusaurus.io/).
 
 ## Для редакторов и ИИ-ассистентов
 
@@ -83,15 +83,21 @@ npm start
 
 ## Деплой
 
-По умолчанию настроен деплой на GitHub Pages с baseUrl `/finguide/`. Публичный адрес: [https://infoculture.github.io/finguide/](https://infoculture.github.io/finguide/).
+Сайт: [https://infoculture.github.io/finguide/](https://infoculture.github.io/finguide/) (репозиторий [infoculture/finguide](https://github.com/infoculture/finguide)). В `docusaurus.config.ts` заданы `url`, `baseUrl: /finguide/`, `organizationName: infoculture`, `projectName: finguide`.
 
 ### Настройка репозитория на GitHub
 
 1. **Settings → Pages** (раздел *Build and deployment*).
 2. Источник: **Deploy from a branch**.
-3. Ветка **`gh-pages`**, папка **`/ (root)`** (так работает `docusaurus deploy`).
+3. Ветка **`gh-pages`**, папка **`/ (root)`** (так публикует и `docusaurus deploy`, и workflow [`.github/workflows/deploy-pages.yml`](./.github/workflows/deploy-pages.yml)).
 
-Ветка **`gh-pages`** в этом репозитории уже создана и содержит `.nojekyll` (без хотя бы одного отслеживаемого файла команда `npm run deploy` у Docusaurus может упасть на шаге `git rm -rf .`).
+В **Settings → Actions → General → Workflow permissions** для организационного репозитория включите **Read and write permissions** для `GITHUB_TOKEN`, иначе job «Deploy GitHub Pages» не сможет запушить в `gh-pages`.
+
+При первом деплое ветка `gh-pages` создаётся автоматически; файл `.nojekyll` добавляет [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages).
+
+### Публикация из CI
+
+При каждом push в **`master`** или **`main`** в репозитории `infoculture/finguide` workflow **Deploy GitHub Pages** собирает сайт и пушит артефакт в **`gh-pages`**.
 
 ### Публикация обновлений с машины
 

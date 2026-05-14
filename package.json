@@ -40,7 +40,7 @@
   "bugs": {
     "url": "https://github.com/infoculture/finguide/issues"
   },
-  "homepage": "https://github.com/infoculture/finguide#readme",
+  "homepage": "https://infoculture.github.io/finguide/",
   "dependencies": {
     "@docusaurus/core": "^3.10.1",
     "@docusaurus/faster": "^3.10.1",

@@ -36,3 +36,15 @@
 ## Requirement: Priority backlog
 
 Проект SHOULD содержать не менее **3–5** полноценных инструкций в горизонте фазы 2 и **10–15** в горизонте фазы 3; backlog MAY трассируется через [`wiki/intro/wiki-filling-plan.md`](../../../wiki/intro/wiki-filling-plan.md).
+
+Дополнительно к фазам из сводного отчёта проект SHOULD наращивать **аналитические маршруты** из [`reproducible-analytics`](../reproducible-analytics/spec.md) (исполнение регионального бюджета, госпрограммы, закупки учреждения, трансферты, сравнение регионов).
+
+## Requirement: Reproducibility audit
+
+Редакция SHALL выполнить аудит опубликованных how-to на наличие воспроизводимого примера, входных данных и проверки результата; артефакт аудита и критерии классификации MUST соответствовать [`reproducible-analytics`](../reproducible-analytics/spec.md) (Requirement: How-to reproducibility audit).
+
+### Scenario: Audit drives howto fixes
+
+- **GIVEN** артефикс аудита фиксирует страницу без раздела «Воспроизводимый пример»
+- **WHEN** выполняется приоритизация редакционных задач
+- **THEN** страница попадает в backlog доработок с явной ссылкой на спеку reproducible-analytics

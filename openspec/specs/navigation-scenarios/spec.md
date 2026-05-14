@@ -39,3 +39,21 @@ README разделов и согласованные **под-хабы** (`wiki
 Проект SHOULD включать breadcrumbs для документов (конфигурация Docusaurus) и страницы справочного поиска по кодам ([`wiki/reference/classification-codes-index.md`](../../../wiki/reference/classification-codes-index.md)).
 
 Интеграция Algolia DocSearch SHOULD описана в [`wiki/reference/docsearch-setup.md`](../../../wiki/reference/docsearch-setup.md) до появления ключей.
+
+## Requirement: Editorial package route block
+
+Страницы, относящиеся к **редакционным пакетам** (одна тема: трансферты, региональное исполнение, госпрограмма и т.п.), SHOULD начинаться с явного блока маршрута после вводного абзаца: какие термины глоссария, карточки источников, формы отчётности, НПА и how-to нужны для ответа на вопрос. Блок MUST использовать конкретные ссылки `/glossary/<slug>`, `/data-sources/...`, `/reporting/<slug>`, `/legal/<slug>`, `/howto/...` в соответствии с [`AGENTS.md`](../../../AGENTS.md).
+
+Критерии «пакетной» страницы SHOULD согласовываться с [_dev/content_plan_20260514.md](../../../_dev/content_plan_20260514.md), разд. 8.
+
+### Scenario: Reader collects prerequisites
+
+- **GIVEN** пользователь открывает тематическую страницу пакета
+- **WHEN** он читает блок маршрута
+- **THEN** он может открыть все перечисленные типы страниц без поиска по оглавлению
+
+### Scenario: No glossary-only stub links
+
+- **GIVEN** блок маршрута перечисляет связанные термины
+- **WHEN** читатель переходит по ссылке
+- **THEN** цель — конкретная карточка `/glossary/<slug>`, а не только корень раздела

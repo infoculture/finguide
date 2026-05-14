@@ -10,6 +10,16 @@
 
 Репозиторий SHALL содержать скрипт [`scripts/export-knowledge-index.mjs`](../../../scripts/export-knowledge-index.mjs), генерирующий [`exports/knowledge-index.jsonl`](../../../exports/knowledge-index.jsonl) с полями минимум: `path`, `title`, `description`, `slug`, `url`, `content_type`, `entity_type`, `tags`, `related_pages`, `internal_links`, `draft`, опционально `source_url`, `last_verified`.
 
+При расширении [`corpus-metadata`](../corpus-metadata/spec.md) и [`rag-corpus-navigation`](../rag-corpus-navigation/spec.md) скрипт экспорта SHOULD добавлять в каждую запись JSONL те же дополнительные ключи frontmatter (`audience_level`, `data_domain`, `jurisdiction_level`, поля качества источника), если они заданы в исходнике; отсутствующие ключи SHALL сериализоваться как `null` для стабильности контракта.
+
+Любое изменение набора полей JSONL MUST сопровождаться обновлением данной спеки и успешным `npm run export:knowledge -- --check` в CI.
+
+### Scenario: Export check after schema change
+
+- **GIVEN** в скрипт экспорта добавлено новое поле
+- **WHEN** выполняется CI с `npm run export:knowledge -- --check`
+- **THEN** проверка проходит, а список полей в этом requirement актуален
+
 ### Scenario: Deterministic regeneration
 
 - **GIVEN** зафиксированы версия скрипта и дерево `wiki/`
@@ -39,3 +49,5 @@
 ## Requirement: RAG guide page
 
 Проект SHOULD содержать страницу [`wiki/intro/rag-guide.md`](../../../wiki/intro/rag-guide.md) для разработчиков пайплайнов (чанкинг, приоритеты, метаданные).
+
+Политика исключения черновиков (`draft: true`) из продакшен-RAG MUST быть согласована со спекой [`rag-corpus-navigation`](../rag-corpus-navigation/spec.md) и отражена в [`wiki/intro/rag-guide.md`](../../../wiki/intro/rag-guide.md) / [`KNOWLEDGE.md`](../../../KNOWLEDGE.md) без противоречий.

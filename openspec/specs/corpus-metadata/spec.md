@@ -63,3 +63,28 @@
 - **GIVEN** в `tags` появляется строка, отсутствующая в белом списке
 - **WHEN** выполняется `npm run lint:frontmatter`
 - **THEN** линтер завершается с ошибкой и указывает файл и тег
+
+## Requirement: Discovery and quality adjunct fields
+
+Для повышения предсказуемости retrieval и редакционных выборок страницы под `wiki/` MAY использовать во frontmatter дополнительные поля, согласованные со спеками [`data-source-quality`](../data-source-quality/spec.md) и [`rag-corpus-navigation`](../rag-corpus-navigation/spec.md):
+
+- `audience_level`: `novice` \| `analyst` \| `developer` \| `expert`;
+- `data_domain`: `budget` \| `procurement` \| `state_programs` \| `debt` \| `institutions` \| `transfers` \| `tax` \| `other`;
+- `jurisdiction_level`: `federal` \| `regional` \| `municipal` \| `international` \| `multilevel`;
+- поля качества источника (`data_completeness`, `machine_readability`, `legal_significance`, `update_lag`, `archive_depth`, `license_or_terms`) — по определениям из [`wiki/reference/data-quality-dimensions.md`](../../../wiki/reference/data-quality-dimensions.md) после публикации справочника.
+
+Пока поля не включены в [`scripts/export-knowledge-index.mjs`](../../../scripts/export-knowledge-index.mjs), они живут только во frontmatter исходников. После расширения экспорта спека [`machine-readable-export`](../machine-readable-export/spec.md) MUST перечислить новые ключи JSONL.
+
+Обязательность полей для подтипов документов SHOULD вводиться через обновление [`scripts/frontmatter-lint.mjs`](../../../scripts/frontmatter-lint.mjs) и [`AGENTS.md`](../../../AGENTS.md) с датой волны миграции.
+
+### Scenario: Optional fields do not break CI
+
+- **GIVEN** страница содержит только базовый набор frontmatter без новых полей
+- **WHEN** выполняется `npm run lint:frontmatter`
+- **THEN** проверка проходит, если линтер не объявил поля обязательными
+
+### Scenario: Export documents new keys when enabled
+
+- **GIVEN** скрипт экспорта обновлён для записи `audience_level` в JSONL
+- **WHEN** выполняется `npm run export:knowledge -- --check`
+- **THEN** контракт артефакта согласован со спекой machine-readable-export
