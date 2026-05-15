@@ -17,7 +17,7 @@ related_pages:
   - /data-sources/regional/subject-kurgan-oblast-sources-overview
   - /data-sources/regional/subject-sverdlovsk-oblast-sources-overview
   - /data-sources/regional/subject-tyumen-oblast-sources-overview
-  - /data-sources/regional/subject-khanty-mansi-autonomous-okrug-yugra-sources-overview
+  - /data-sources/regional/subject-khmao-yugra-sources-overview
   - /data-sources/regional/subject-chelyabinsk-oblast-sources-overview
   - /data-sources/regional/subject-yamalo-nenets-autonomous-okrug-sources-overview
 ---
@@ -33,6 +33,6 @@ related_pages:
 - [Курганская область](/data-sources/regional/subject-kurgan-oblast-sources-overview)
 - [Свердловская область](/data-sources/regional/subject-sverdlovsk-oblast-sources-overview)
 - [Тюменская область](/data-sources/regional/subject-tyumen-oblast-sources-overview)
-- [Ханты-Мансийский автономный округ — Югра](/data-sources/regional/subject-khanty-mansi-autonomous-okrug-yugra-sources-overview)
+- [Ханты-Мансийский автономный округ — Югра](/data-sources/regional/subject-khmao-yugra-sources-overview)
 - [Челябинская область](/data-sources/regional/subject-chelyabinsk-oblast-sources-overview)
 - [Ямало-Ненецкий автономный округ](/data-sources/regional/subject-yamalo-nenets-autonomous-okrug-sources-overview)

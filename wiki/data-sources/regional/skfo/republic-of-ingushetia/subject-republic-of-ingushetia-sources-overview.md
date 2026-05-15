@@ -4,7 +4,7 @@ sidebar_label: "Республика Ингушетия"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Республика Ингушетия: прямые ссылки на
@@ -14,36 +14,36 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/republic-of-ingushetia-fin-185765c1fd
-  - /data-sources/regional/republic-of-ingushetia-fin-1b80e0501b
-  - /data-sources/regional/republic-of-ingushetia-fin-5f742a6584
-  - /data-sources/regional/republic-of-ingushetia-fin-69f60f857a
-  - /data-sources/regional/republic-of-ingushetia-fin-74317dbd33
-  - /data-sources/regional/republic-of-ingushetia-fin-840a70c957
-  - /data-sources/regional/republic-of-ingushetia-fin-917d4e5e49
-  - /data-sources/regional/republic-of-ingushetia-fin-975311b1f8
-  - /data-sources/regional/republic-of-ingushetia-fin-add9d07f5f
-  - /data-sources/regional/republic-of-ingushetia-fin-e4b66fdab4
-  - /data-sources/regional/republic-of-ingushetia-fin-e778e33b05
+  - /data-sources/regional/republic-of-ingushetia-fns-nalog-rn06
+  - /data-sources/regional/republic-of-ingushetia-mineconom-state-programs
+  - /data-sources/regional/republic-of-ingushetia-minfin-mfri
+  - /data-sources/regional/republic-of-ingushetia-official-portal-ingushetia-ru
+  - /data-sources/regional/republic-of-ingushetia-open-budget-mfri-downloads
+  - /data-sources/regional/republic-of-ingushetia-parliament-parlamentri-laws
+  - /data-sources/regional/republic-of-ingushetia-pravo-publication-region06
+  - /data-sources/regional/republic-of-ingushetia-rosstat-sevkavkaz-folder-ingushetiya
+  - /data-sources/regional/republic-of-ingushetia-rostender-procurement-mirror
+  - /data-sources/regional/republic-of-ingushetia-tfoms-rifoms
+  - /data-sources/regional/republic-of-ingushetia-treasury-roskazna-ingushetia
 ---
 
 # Республика Ингушетия: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [republic of ingushetia fin 185765c1fd](/data-sources/regional/republic-of-ingushetia-fin-185765c1fd) — карточка источника.
-- [republic of ingushetia fin 1b80e0501b](/data-sources/regional/republic-of-ingushetia-fin-1b80e0501b) — карточка источника.
-- [republic of ingushetia fin 5f742a6584](/data-sources/regional/republic-of-ingushetia-fin-5f742a6584) — карточка источника.
-- [republic of ingushetia fin 69f60f857a](/data-sources/regional/republic-of-ingushetia-fin-69f60f857a) — карточка источника.
-- [republic of ingushetia fin 74317dbd33](/data-sources/regional/republic-of-ingushetia-fin-74317dbd33) — карточка источника.
-- [republic of ingushetia fin 840a70c957](/data-sources/regional/republic-of-ingushetia-fin-840a70c957) — карточка источника.
-- [republic of ingushetia fin 917d4e5e49](/data-sources/regional/republic-of-ingushetia-fin-917d4e5e49) — карточка источника.
-- [republic of ingushetia fin 975311b1f8](/data-sources/regional/republic-of-ingushetia-fin-975311b1f8) — карточка источника.
-- [republic of ingushetia fin add9d07f5f](/data-sources/regional/republic-of-ingushetia-fin-add9d07f5f) — карточка источника.
-- [republic of ingushetia fin e4b66fdab4](/data-sources/regional/republic-of-ingushetia-fin-e4b66fdab4) — карточка источника.
-- [republic of ingushetia fin e778e33b05](/data-sources/regional/republic-of-ingushetia-fin-e778e33b05) — карточка источника.
+- [Республика Ингушетия: УФНС России по Республике Ингушетия (сайт nalog.gov.ru, rn06)](/data-sources/regional/republic-of-ingushetia-fns-nalog-rn06) — карточка источника.
+- [Республика Ингушетия: Минэкономразвития — государственные программы (mineconomri.ru)](/data-sources/regional/republic-of-ingushetia-mineconom-state-programs) — карточка источника.
+- [Республика Ингушетия: Министерство финансов (mfri.ru)](/data-sources/regional/republic-of-ingushetia-minfin-mfri) — карточка источника.
+- [Республика Ингушетия: официальный интернет-портал государственных органов (ingushetia.ru)](/data-sources/regional/republic-of-ingushetia-official-portal-ingushetia-ru) — карточка источника.
+- [Республика Ингушетия: «Открытый бюджет» — раздел загрузок на mfri.ru](/data-sources/regional/republic-of-ingushetia-open-budget-mfri-downloads) — карточка источника.
+- [Республика Ингушетия: Народное Собрание — раздел законов (parlamentri.ru)](/data-sources/regional/republic-of-ingushetia-parliament-parlamentri-laws) — карточка источника.
+- [Республика Ингушетия: официальное опубликование НПА (publication.pravo.gov.ru, region06)](/data-sources/regional/republic-of-ingushetia-pravo-publication-region06) — карточка источника.
+- [Республика Ингушетия: Росстат — материалы по Республике Ингушетия (26.rosstat.gov.ru)](/data-sources/regional/republic-of-ingushetia-rosstat-sevkavkaz-folder-ingushetiya) — карточка источника.
+- [Республика Ингушетия: Ростендер — агрегатор закупок по региону (неофициально)](/data-sources/regional/republic-of-ingushetia-rostender-procurement-mirror) — карточка источника.
+- [Республика Ингушетия: Территориальный фонд ОМС (rifoms.ru)](/data-sources/regional/republic-of-ingushetia-tfoms-rifoms) — карточка источника.
+- [Республика Ингушетия: УФК по Республике Ингушетия (Росказна)](/data-sources/regional/republic-of-ingushetia-treasury-roskazna-ingushetia) — карточка источника.
 
 ## Контекст
 

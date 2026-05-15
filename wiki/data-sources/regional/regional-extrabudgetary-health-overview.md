@@ -31,7 +31,7 @@ related_pages:
   - /organizations/sfr
   - /glossary/extrabudgetary-funds
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/moscow-city-tfoms-mgfoms
+  - /data-sources/regional/moscow-mgfoms
   - /data-sources/regional/moscow-oblast-tfoms-mofoms
   - /data-sources/federal/regionalnye-byudzhety
   - /data-sources/federal/budget-gov-ru-datasets
@@ -67,7 +67,7 @@ related_pages:
 | --- | --- | --- |
 | Федеральная рамка ОМС | [ФФОМС](/organizations/ffoms), сайт https://ffoms.gov.ru/ | Нормативка, федеральный бюджет фонда, методические материалы |
 | Плановый контур регионов | [Региональные бюджеты](/data-sources/federal/regionalnye-byudzhety), [наборы «Электронного бюджета»](/data-sources/federal/budget-gov-ru-datasets) | Законы о бюджете субъекта и **бюджеты ТФОМС** на портале при явном выборе типа бюджета |
-| Пример: ТФОМС г. Москвы | [МГФОМС (портал)](/data-sources/regional/moscow-city-tfoms-mgfoms) | Конкретная устойчивая витрина с документами и показателями |
+| Пример: ТФОМС г. Москвы | [МГФОМС (портал)](/data-sources/regional/moscow-mgfoms) | Конкретная устойчивая витрина с документами и показателями |
 | Пример: ТФОМС Московской области | [МОФОМС (портал)](/data-sources/regional/moscow-oblast-tfoms-mofoms) | Отдельный субъект РФ; не смешивать с Москвой |
 | Исполнение консолидации | [Консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets) | **0503317** как след исполнения с включённым ТФОМС |
 | Федеральная отчётность ГВФ | [Отчётность государственных внебюджетных фондов РФ](/reporting/extrabudgetary-funds-reporting) | СФР/ФФОМС на **федеральном** уровне — не дублирует сайт каждого ТФОМС |

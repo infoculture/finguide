@@ -4,7 +4,7 @@ sidebar_label: "Краснодарский край"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Краснодарский край: прямые ссылки на
@@ -14,36 +14,36 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/krasnodar-krai-fin-21a7fc989a
-  - /data-sources/regional/krasnodar-krai-fin-35bdf258cf
-  - /data-sources/regional/krasnodar-krai-fin-59586acd5d
-  - /data-sources/regional/krasnodar-krai-fin-7c7ae2aa31
-  - /data-sources/regional/krasnodar-krai-fin-866b6ae47a
-  - /data-sources/regional/krasnodar-krai-fin-b4abd10ec6
-  - /data-sources/regional/krasnodar-krai-fin-c22b171eee
-  - /data-sources/regional/krasnodar-krai-fin-cd270884fb
-  - /data-sources/regional/krasnodar-krai-fin-d443679462
-  - /data-sources/regional/krasnodar-krai-fin-f5c4be8c86
+  - /data-sources/regional/krasnodar-krai-city-krasnodar-budget-for-citizens
+  - /data-sources/regional/krasnodar-krai-legislative-assembly-budget-laws
+  - /data-sources/regional/krasnodar-krai-minfin-krasnodar
+  - /data-sources/regional/krasnodar-krai-open-budget-openbudget23region
   - /data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar
+  - /data-sources/regional/krasnodar-krai-procurement-zakupki-krasnodar
+  - /data-sources/regional/krasnodar-krai-rosstat-krasnodar
+  - /data-sources/regional/krasnodar-krai-state-programs-economy
+  - /data-sources/regional/krasnodar-krai-tfoms-kubanoms
+  - /data-sources/regional/krasnodar-krai-ufk-roskazna
+  - /data-sources/regional/krasnodar-krai-ufns-nalog-rn23
 ---
 
 # Краснодарский край: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [krasnodar krai fin 21a7fc989a](/data-sources/regional/krasnodar-krai-fin-21a7fc989a) — карточка источника.
-- [krasnodar krai fin 35bdf258cf](/data-sources/regional/krasnodar-krai-fin-35bdf258cf) — карточка источника.
-- [krasnodar krai fin 59586acd5d](/data-sources/regional/krasnodar-krai-fin-59586acd5d) — карточка источника.
-- [krasnodar krai fin 7c7ae2aa31](/data-sources/regional/krasnodar-krai-fin-7c7ae2aa31) — карточка источника.
-- [krasnodar krai fin 866b6ae47a](/data-sources/regional/krasnodar-krai-fin-866b6ae47a) — карточка источника.
-- [krasnodar krai fin b4abd10ec6](/data-sources/regional/krasnodar-krai-fin-b4abd10ec6) — карточка источника.
-- [krasnodar krai fin c22b171eee](/data-sources/regional/krasnodar-krai-fin-c22b171eee) — карточка источника.
-- [krasnodar krai fin cd270884fb](/data-sources/regional/krasnodar-krai-fin-cd270884fb) — карточка источника.
-- [krasnodar krai fin d443679462](/data-sources/regional/krasnodar-krai-fin-d443679462) — карточка источника.
-- [krasnodar krai fin f5c4be8c86](/data-sources/regional/krasnodar-krai-fin-f5c4be8c86) — карточка источника.
-- [krasnodar krai procurement drcs krasnodar](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar) — карточка источника.
+- [Краснодарский край: бюджет для граждан (г. Краснодар)](/data-sources/regional/krasnodar-krai-city-krasnodar-budget-for-citizens) — карточка источника.
+- [Краснодарский край: Законодательное Собрание — законы о бюджете](/data-sources/regional/krasnodar-krai-legislative-assembly-budget-laws) — карточка источника.
+- [Краснодарский край: Министерство финансов (minfin.krasnodar.ru)](/data-sources/regional/krasnodar-krai-minfin-krasnodar) — карточка источника.
+- [Краснодарский край: открытый бюджет (openbudget23region.ru)](/data-sources/regional/krasnodar-krai-open-budget-openbudget23region) — карточка источника.
+- [Краснодарский край: Департамент по регулированию контрактной системы (drcs.krasnodar.ru)](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar) — карточка источника.
+- [Краснодарский край: портал госзакупок (zakupki.krasnodar.ru)](/data-sources/regional/krasnodar-krai-procurement-zakupki-krasnodar) — карточка источника.
+- [Краснодарский край: Краснодарстат (Территориальный орган Росстата)](/data-sources/regional/krasnodar-krai-rosstat-krasnodar) — карточка источника.
+- [Краснодарский край: государственные программы (Минэкономики КК)](/data-sources/regional/krasnodar-krai-state-programs-economy) — карточка источника.
+- [Краснодарский край: территориальный фонд ОМС (ТФОМС КК)](/data-sources/regional/krasnodar-krai-tfoms-kubanoms) — карточка источника.
+- [Краснодарский край: УФК России (казначейство по КК)](/data-sources/regional/krasnodar-krai-ufk-roskazna) — карточка источника.
+- [Краснодарский край: УФНС России (nalog.gov.ru, код 23)](/data-sources/regional/krasnodar-krai-ufns-nalog-rn23) — карточка источника.
 
 ## Контекст
 

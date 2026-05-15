@@ -4,7 +4,7 @@ sidebar_label: "Республика Тыва"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Республика Тыва: прямые ссылки на
@@ -14,40 +14,40 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/republic-of-tyva-fin-2eee67cee6
-  - /data-sources/regional/republic-of-tyva-fin-3649f0d04d
-  - /data-sources/regional/republic-of-tyva-fin-3ef4e5be5f
-  - /data-sources/regional/republic-of-tyva-fin-4806b62412
-  - /data-sources/regional/republic-of-tyva-fin-4ce2e2f09c
-  - /data-sources/regional/republic-of-tyva-fin-5cbf0a1a0b
-  - /data-sources/regional/republic-of-tyva-fin-7057a62f55
-  - /data-sources/regional/republic-of-tyva-fin-974b477dba
-  - /data-sources/regional/republic-of-tyva-fin-a5c06d89b8
-  - /data-sources/regional/republic-of-tyva-fin-af0d6a211e
-  - /data-sources/regional/republic-of-tyva-fin-c3fb8f9f87
-  - /data-sources/regional/republic-of-tyva-fin-ee2fde2542
-  - /data-sources/regional/republic-of-tyva-fin-ff7dbee31b
+  - /data-sources/regional/republic-of-tyva-accounts-chamber
+  - /data-sources/regional/republic-of-tyva-fns-ufns
+  - /data-sources/regional/republic-of-tyva-kyzyl-citizens-budget
+  - /data-sources/regional/republic-of-tyva-kyzyl-municipal-audit-chamber
+  - /data-sources/regional/republic-of-tyva-mineconomy-state-programs
+  - /data-sources/regional/republic-of-tyva-minfin
+  - /data-sources/regional/republic-of-tyva-minfin-open-budget
+  - /data-sources/regional/republic-of-tyva-official-portal-budget
+  - /data-sources/regional/republic-of-tyva-pravo-gov-publication-acts
+  - /data-sources/regional/republic-of-tyva-rosstat-krasnoyarskstat-tyva
+  - /data-sources/regional/republic-of-tyva-supreme-khural-budget
+  - /data-sources/regional/republic-of-tyva-tfoms
+  - /data-sources/regional/republic-of-tyva-treasury-ufk-roskazna
 ---
 
 # Республика Тыва: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [republic of tyva fin 2eee67cee6](/data-sources/regional/republic-of-tyva-fin-2eee67cee6) — карточка источника.
-- [republic of tyva fin 3649f0d04d](/data-sources/regional/republic-of-tyva-fin-3649f0d04d) — карточка источника.
-- [republic of tyva fin 3ef4e5be5f](/data-sources/regional/republic-of-tyva-fin-3ef4e5be5f) — карточка источника.
-- [republic of tyva fin 4806b62412](/data-sources/regional/republic-of-tyva-fin-4806b62412) — карточка источника.
-- [republic of tyva fin 4ce2e2f09c](/data-sources/regional/republic-of-tyva-fin-4ce2e2f09c) — карточка источника.
-- [republic of tyva fin 5cbf0a1a0b](/data-sources/regional/republic-of-tyva-fin-5cbf0a1a0b) — карточка источника.
-- [republic of tyva fin 7057a62f55](/data-sources/regional/republic-of-tyva-fin-7057a62f55) — карточка источника.
-- [republic of tyva fin 974b477dba](/data-sources/regional/republic-of-tyva-fin-974b477dba) — карточка источника.
-- [republic of tyva fin a5c06d89b8](/data-sources/regional/republic-of-tyva-fin-a5c06d89b8) — карточка источника.
-- [republic of tyva fin af0d6a211e](/data-sources/regional/republic-of-tyva-fin-af0d6a211e) — карточка источника.
-- [republic of tyva fin c3fb8f9f87](/data-sources/regional/republic-of-tyva-fin-c3fb8f9f87) — карточка источника.
-- [republic of tyva fin ee2fde2542](/data-sources/regional/republic-of-tyva-fin-ee2fde2542) — карточка источника.
-- [republic of tyva fin ff7dbee31b](/data-sources/regional/republic-of-tyva-fin-ff7dbee31b) — карточка источника.
+- [Республика Тыва: Счётная палата Республики Тыва](/data-sources/regional/republic-of-tyva-accounts-chamber) — карточка источника.
+- [Республика Тыва: УФНС России по Республике Тыва](/data-sources/regional/republic-of-tyva-fns-ufns) — карточка источника.
+- [Республика Тыва: мэрия города Кызыла — раздел «Бюджет для граждан»](/data-sources/regional/republic-of-tyva-kyzyl-citizens-budget) — карточка источника.
+- [Республика Тыва: контрольно-счётная палата муниципального образования город Кызыл](/data-sources/regional/republic-of-tyva-kyzyl-municipal-audit-chamber) — карточка источника.
+- [Республика Тыва: Министерство экономики — государственные программы (архивный подраздел сайта)](/data-sources/regional/republic-of-tyva-mineconomy-state-programs) — карточка источника.
+- [Республика Тыва: Министерство финансов Республики Тыва](/data-sources/regional/republic-of-tyva-minfin) — карточка источника.
+- [Республика Тыва: Министерство финансов — раздел «Открытый бюджет»](/data-sources/regional/republic-of-tyva-minfin-open-budget) — карточка источника.
+- [Республика Тыва: официальный портал органов власти — раздел «Бюджет»](/data-sources/regional/republic-of-tyva-official-portal-budget) — карточка источника.
+- [Республика Тыва: официальное опубликование правовых актов (ОИППИ, блок региональных актов — Республика Тыва)](/data-sources/regional/republic-of-tyva-pravo-gov-publication-acts) — карточка источника.
+- [Республика Тыва: Росстат — управление по Красноярскому краю, Республике Хакасия и Республике Тыва (Красноярскстат), раздел по Тыве](/data-sources/regional/republic-of-tyva-rosstat-krasnoyarskstat-tyva) — карточка источника.
+- [Республика Тыва: Верховный Хурал — раздел о бюджете и финансах](/data-sources/regional/republic-of-tyva-supreme-khural-budget) — карточка источника.
+- [Республика Тыва: территориальный фонд обязательного медицинского страхования](/data-sources/regional/republic-of-tyva-tfoms) — карточка источника.
+- [Республика Тыва: Управление Федерального казначейства (УФК по Республике Тыва)](/data-sources/regional/republic-of-tyva-treasury-ufk-roskazna) — карточка источника.
 
 ## Контекст
 

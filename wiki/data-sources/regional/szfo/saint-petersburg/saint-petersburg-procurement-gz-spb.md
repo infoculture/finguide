@@ -5,7 +5,7 @@ tags:
   - data-source
   - regional
   - procurement
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 slug: /data-sources/regional/saint-petersburg-procurement-gz-spb
 source_url: 'https://www.gz-spb.ru/'
 data_source_kind: portal
@@ -14,7 +14,7 @@ access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-14
+last_verified: 2026-05-15
 description: >-
   Официальный портал Комитета по государственному заказу Санкт-Петербурга:
   система госзаказа города, АИС ГЗ, методические материалы; дополняет ЕИС, но
@@ -23,8 +23,10 @@ content_type: data_source
 entity_type: data-source
 related_pages:
   - /data-sources/regional/subject-saint-petersburg-sources-overview
+  - /data-sources/regional/saint-petersburg-finance-committee-fincom
+  - /data-sources/regional/saint-petersburg-open-data-gov-spb
   - /data-sources/regional/regional-procurement-sources-overview
-  - /data-sources/regional/moscow-city-procurement-tender-mos
+  - /data-sources/regional/moscow-procurement-tender-mos
   - /data-sources/regional/tatarstan-procurement-goszakupki-tatarstan
   - /data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar
   - /data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural
@@ -73,7 +75,7 @@ related_pages:
 
 | Измерение | Значение |
 | --- | --- |
-| Дата проверки (`last_verified`) | 2026-05-14 |
+| Дата проверки (`last_verified`) | 2026-05-15 |
 | Полнота | **Частичная относительно ЕИС** — акцент на городской политике закупок и АИС |
 | Машиночитаемость | **Преимущественно HTML/PDF** на сайте; **массовые** таблицы контрактов — через **ЕИС** |
 | Юридическая значимость | **Официальный** орган Администрации Санкт-Петербурга |
@@ -102,8 +104,10 @@ curl -fsSL -A "finguide-gz-spb-check/1.0" -o /dev/null -w "%{http_code}\n" \
 
 ## Связанные страницы wiki
 
+- [Комитет финансов СПб](/data-sources/regional/saint-petersburg-finance-committee-fincom) — бюджет и лимиты заказчиков города.
+- [Открытые данные СПб](/data-sources/regional/saint-petersburg-open-data-gov-spb) — смежные наборы по темам Администрации.
 - [Навигатор по региональным закупкам](/data-sources/regional/regional-procurement-sources-overview).
-- [Закупки Москвы (tender.mos.ru)](/data-sources/regional/moscow-city-procurement-tender-mos) — аналогичная роль **городского** оператора закупочной политики.
+- [Закупки Москвы (tender.mos.ru)](/data-sources/regional/moscow-procurement-tender-mos) — аналогичная роль **городского** оператора закупочной политики.
 - [Закупки Татарстана (goszakupki.tatarstan.ru)](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan) — **региональный** комитет по закупкам субъекта РФ.
 - [Закупки Краснодарского края (drcs.krasnodar.ru)](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar) — **краевой** департамент по регулированию контрактной системы.
 - [Закупки Свердловской области (goszakaz.midural.ru)](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural) — **областной** департамент госзаказа и витрина **torgi.egov66.ru**.

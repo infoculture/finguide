@@ -4,7 +4,7 @@ sidebar_label: "Республика Карелия"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Республика Карелия: прямые ссылки на
@@ -14,32 +14,32 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/republic-of-karelia-fin-1a560ac97b
-  - /data-sources/regional/republic-of-karelia-fin-5ffa5295ae
-  - /data-sources/regional/republic-of-karelia-fin-7c20a347c8
-  - /data-sources/regional/republic-of-karelia-fin-84e951537d
-  - /data-sources/regional/republic-of-karelia-fin-873b956f2a
-  - /data-sources/regional/republic-of-karelia-fin-8e5a76fef5
-  - /data-sources/regional/republic-of-karelia-fin-d1e81803f4
-  - /data-sources/regional/republic-of-karelia-fin-e1d031166a
-  - /data-sources/regional/republic-of-karelia-fin-e684e281ff
+  - /data-sources/regional/republic-of-karelia-cntd-npa
+  - /data-sources/regional/republic-of-karelia-kareliastat
+  - /data-sources/regional/republic-of-karelia-legislative-assembly
+  - /data-sources/regional/republic-of-karelia-minfin
+  - /data-sources/regional/republic-of-karelia-open-budget
+  - /data-sources/regional/republic-of-karelia-pravo-publication
+  - /data-sources/regional/republic-of-karelia-roskazna-ufk
+  - /data-sources/regional/republic-of-karelia-tfoms
+  - /data-sources/regional/republic-of-karelia-ufns
 ---
 
 # Республика Карелия: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [republic of karelia fin 1a560ac97b](/data-sources/regional/republic-of-karelia-fin-1a560ac97b) — карточка источника.
-- [republic of karelia fin 5ffa5295ae](/data-sources/regional/republic-of-karelia-fin-5ffa5295ae) — карточка источника.
-- [republic of karelia fin 7c20a347c8](/data-sources/regional/republic-of-karelia-fin-7c20a347c8) — карточка источника.
-- [republic of karelia fin 84e951537d](/data-sources/regional/republic-of-karelia-fin-84e951537d) — карточка источника.
-- [republic of karelia fin 873b956f2a](/data-sources/regional/republic-of-karelia-fin-873b956f2a) — карточка источника.
-- [republic of karelia fin 8e5a76fef5](/data-sources/regional/republic-of-karelia-fin-8e5a76fef5) — карточка источника.
-- [republic of karelia fin d1e81803f4](/data-sources/regional/republic-of-karelia-fin-d1e81803f4) — карточка источника.
-- [republic of karelia fin e1d031166a](/data-sources/regional/republic-of-karelia-fin-e1d031166a) — карточка источника.
-- [republic of karelia fin e684e281ff](/data-sources/regional/republic-of-karelia-fin-e684e281ff) — карточка источника.
+- [Республика Карелия: нормативные акты в ЭФНТД (docs.cntd.ru)](/data-sources/regional/republic-of-karelia-cntd-npa) — карточка источника.
+- [Республика Карелия: Карелиястат (территориальный орган Росстата)](/data-sources/regional/republic-of-karelia-kareliastat) — карточка источника.
+- [Республика Карелия: Законодательное Собрание (официальный сайт)](/data-sources/regional/republic-of-karelia-legislative-assembly) — карточка источника.
+- [Республика Карелия: Министерство финансов (официальный сайт)](/data-sources/regional/republic-of-karelia-minfin) — карточка источника.
+- [Республика Карелия: портал «Открытый бюджет»](/data-sources/regional/republic-of-karelia-open-budget) — карточка источника.
+- [Республика Карелия: официальное опубликование НПА (pravo.gov.ru, регион 10)](/data-sources/regional/republic-of-karelia-pravo-publication) — карточка источника.
+- [Республика Карелия: УФК России по Республике Карелия (Казначейство)](/data-sources/regional/republic-of-karelia-roskazna-ufk) — карточка источника.
+- [Республика Карелия: территориальный фонд обязательного медицинского страхования](/data-sources/regional/republic-of-karelia-tfoms) — карточка источника.
+- [Республика Карелия: УФНС России по Республике Карелия (nalog.gov.ru/rn10)](/data-sources/regional/republic-of-karelia-ufns) — карточка источника.
 
 ## Контекст
 

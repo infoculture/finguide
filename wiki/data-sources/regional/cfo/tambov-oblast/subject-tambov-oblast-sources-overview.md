@@ -4,7 +4,7 @@ sidebar_label: "Тамбовская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Тамбовская область: прямые ссылки на
@@ -14,36 +14,36 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/tambov-oblast-fin-0e75613667
-  - /data-sources/regional/tambov-oblast-fin-1ccd6d4865
-  - /data-sources/regional/tambov-oblast-fin-2da8cd696c
-  - /data-sources/regional/tambov-oblast-fin-503371ee78
-  - /data-sources/regional/tambov-oblast-fin-52af077ba5
-  - /data-sources/regional/tambov-oblast-fin-58270c1747
-  - /data-sources/regional/tambov-oblast-fin-7927abd692
-  - /data-sources/regional/tambov-oblast-fin-84c86978b5
-  - /data-sources/regional/tambov-oblast-fin-aea24d2a73
-  - /data-sources/regional/tambov-oblast-fin-c5cd1a5c9b
-  - /data-sources/regional/tambov-oblast-fin-cdeba36f47
+  - /data-sources/regional/tambov-oblast-accounting-chamber-ksp
+  - /data-sources/regional/tambov-oblast-minfin-budget-for-citizens
+  - /data-sources/regional/tambov-oblast-portal-tambov-gov
+  - /data-sources/regional/tambov-oblast-pravo-gov-region68-npa
+  - /data-sources/regional/tambov-oblast-procurement-kgz-torgi
+  - /data-sources/regional/tambov-oblast-regional-duma
+  - /data-sources/regional/tambov-oblast-rosstat-tambovstat
+  - /data-sources/regional/tambov-oblast-tambov-city-electronic-budget
+  - /data-sources/regional/tambov-oblast-tfoms
+  - /data-sources/regional/tambov-oblast-treasury-roskazna-tambov
+  - /data-sources/regional/tambov-oblast-ufns-nalog-rn68
 ---
 
 # Тамбовская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [tambov oblast fin 0e75613667](/data-sources/regional/tambov-oblast-fin-0e75613667) — карточка источника.
-- [tambov oblast fin 1ccd6d4865](/data-sources/regional/tambov-oblast-fin-1ccd6d4865) — карточка источника.
-- [tambov oblast fin 2da8cd696c](/data-sources/regional/tambov-oblast-fin-2da8cd696c) — карточка источника.
-- [tambov oblast fin 503371ee78](/data-sources/regional/tambov-oblast-fin-503371ee78) — карточка источника.
-- [tambov oblast fin 52af077ba5](/data-sources/regional/tambov-oblast-fin-52af077ba5) — карточка источника.
-- [tambov oblast fin 58270c1747](/data-sources/regional/tambov-oblast-fin-58270c1747) — карточка источника.
-- [tambov oblast fin 7927abd692](/data-sources/regional/tambov-oblast-fin-7927abd692) — карточка источника.
-- [tambov oblast fin 84c86978b5](/data-sources/regional/tambov-oblast-fin-84c86978b5) — карточка источника.
-- [tambov oblast fin aea24d2a73](/data-sources/regional/tambov-oblast-fin-aea24d2a73) — карточка источника.
-- [tambov oblast fin c5cd1a5c9b](/data-sources/regional/tambov-oblast-fin-c5cd1a5c9b) — карточка источника.
-- [tambov oblast fin cdeba36f47](/data-sources/regional/tambov-oblast-fin-cdeba36f47) — карточка источника.
+- [Тамбовская область: контрольно-счётная палата (ksp.tmbreg.ru)](/data-sources/regional/tambov-oblast-accounting-chamber-ksp) — карточка источника.
+- [Тамбовская область: Министерство финансов (fin.tmbreg.ru, бюджет для граждан)](/data-sources/regional/tambov-oblast-minfin-budget-for-citizens) — карточка источника.
+- [Тамбовская область: официальный портал органов власти (tambov.gov.ru)](/data-sources/regional/tambov-oblast-portal-tambov-gov) — карточка источника.
+- [Тамбовская область: опубликование НПА на ОИППИ (блок региона 68)](/data-sources/regional/tambov-oblast-pravo-gov-region68-npa) — карточка источника.
+- [Тамбовская область: информационный сайт комитета госзаказа (torgi.tambov.gov.ru)](/data-sources/regional/tambov-oblast-procurement-kgz-torgi) — карточка источника.
+- [Тамбовская область: Тамбовская областная Дума (tambovoblduma.ru)](/data-sources/regional/tambov-oblast-regional-duma) — карточка источника.
+- [Тамбовская область: Тамбовстат (территориальный орган Росстата, 68.rosstat.gov.ru)](/data-sources/regional/tambov-oblast-rosstat-tambovstat) — карточка источника.
+- [Тамбовская область: город Тамбов — электронный бюджет и бюджет для граждан](/data-sources/regional/tambov-oblast-tambov-city-electronic-budget) — карточка источника.
+- [Тамбовская область: ТФОМС (официальный сайт tofoms.ru)](/data-sources/regional/tambov-oblast-tfoms) — карточка источника.
+- [Тамбовская область: УФК по Тамбовской области (сайт Росказначейства)](/data-sources/regional/tambov-oblast-treasury-roskazna-tambov) — карточка источника.
+- [Тамбовская область: УФНС России (раздел nalog.gov.ru /rn68)](/data-sources/regional/tambov-oblast-ufns-nalog-rn68) — карточка источника.
 
 ## Контекст
 

@@ -4,7 +4,7 @@ sidebar_label: "Московская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Московская область: прямые ссылки на
@@ -14,38 +14,38 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/moscow-oblast-fin-05f31997a4
-  - /data-sources/regional/moscow-oblast-fin-5a621f0c30
-  - /data-sources/regional/moscow-oblast-fin-76f4fc17aa
-  - /data-sources/regional/moscow-oblast-fin-78047b7efd
-  - /data-sources/regional/moscow-oblast-fin-922a309f90
-  - /data-sources/regional/moscow-oblast-fin-94a07540a3
-  - /data-sources/regional/moscow-oblast-fin-9883a18c00
-  - /data-sources/regional/moscow-oblast-fin-9d395fae77
-  - /data-sources/regional/moscow-oblast-fin-a99f5ab27b
-  - /data-sources/regional/moscow-oblast-fin-b314300d7d
-  - /data-sources/regional/moscow-oblast-fin-d9ebcc833b
+  - /data-sources/regional/moscow-oblast-audit-chamber-ksp
+  - /data-sources/regional/moscow-oblast-easuz
+  - /data-sources/regional/moscow-oblast-government-mosreg
+  - /data-sources/regional/moscow-oblast-mef
+  - /data-sources/regional/moscow-oblast-mosoblduma
+  - /data-sources/regional/moscow-oblast-mosoblduma-laws
+  - /data-sources/regional/moscow-oblast-mosoblpravo
+  - /data-sources/regional/moscow-oblast-open-budget
+  - /data-sources/regional/moscow-oblast-rosstat-mo
   - /data-sources/regional/moscow-oblast-tfoms-mofoms
+  - /data-sources/regional/moscow-oblast-ufk-roskazna
+  - /data-sources/regional/moscow-oblast-ufns-nalog-rn50
 ---
 
 # Московская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [moscow oblast fin 05f31997a4](/data-sources/regional/moscow-oblast-fin-05f31997a4) — карточка источника.
-- [moscow oblast fin 5a621f0c30](/data-sources/regional/moscow-oblast-fin-5a621f0c30) — карточка источника.
-- [moscow oblast fin 76f4fc17aa](/data-sources/regional/moscow-oblast-fin-76f4fc17aa) — карточка источника.
-- [moscow oblast fin 78047b7efd](/data-sources/regional/moscow-oblast-fin-78047b7efd) — карточка источника.
-- [moscow oblast fin 922a309f90](/data-sources/regional/moscow-oblast-fin-922a309f90) — карточка источника.
-- [moscow oblast fin 94a07540a3](/data-sources/regional/moscow-oblast-fin-94a07540a3) — карточка источника.
-- [moscow oblast fin 9883a18c00](/data-sources/regional/moscow-oblast-fin-9883a18c00) — карточка источника.
-- [moscow oblast fin 9d395fae77](/data-sources/regional/moscow-oblast-fin-9d395fae77) — карточка источника.
-- [moscow oblast fin a99f5ab27b](/data-sources/regional/moscow-oblast-fin-a99f5ab27b) — карточка источника.
-- [moscow oblast fin b314300d7d](/data-sources/regional/moscow-oblast-fin-b314300d7d) — карточка источника.
-- [moscow oblast fin d9ebcc833b](/data-sources/regional/moscow-oblast-fin-d9ebcc833b) — карточка источника.
-- [moscow oblast tfoms mofoms](/data-sources/regional/moscow-oblast-tfoms-mofoms) — карточка источника.
+- [Московская область: Контрольно-счётная палата Московской области](/data-sources/regional/moscow-oblast-audit-chamber-ksp) — карточка источника.
+- [Московская область: единый портал закупок (ЕПЗ, easuz.mosreg.ru)](/data-sources/regional/moscow-oblast-easuz) — карточка источника.
+- [Московская область: официальный портал Правительства Московской области (mosreg.ru)](/data-sources/regional/moscow-oblast-government-mosreg) — карточка источника.
+- [Московская область: Министерство экономики и финансов (mef.mosreg.ru)](/data-sources/regional/moscow-oblast-mef) — карточка источника.
+- [Московская область: Московская областная Дума (mosoblduma.ru)](/data-sources/regional/moscow-oblast-mosoblduma) — карточка источника.
+- [Московская область: законы на сайте Московской областной Думы](/data-sources/regional/moscow-oblast-mosoblduma-laws) — карточка источника.
+- [Московская область: банк нормативных правовых актов (mosoblpravo.ru)](/data-sources/regional/moscow-oblast-mosoblpravo) — карточка источника.
+- [Московская область: портал «Открытый бюджет» (budget.mosreg.ru)](/data-sources/regional/moscow-oblast-open-budget) — карточка источника.
+- [Московская область: территориальный орган Росстата (77.rosstat.gov.ru)](/data-sources/regional/moscow-oblast-rosstat-mo) — карточка источника.
+- [Территориальный фонд ОМС Московской области (МОФОМС)](/data-sources/regional/moscow-oblast-tfoms-mofoms) — карточка источника.
+- [Московская область: Управление Федерального казначейства по Московской области](/data-sources/regional/moscow-oblast-ufk-roskazna) — карточка источника.
+- [Московская область: УФНС России по Московской области (nalog.gov.ru/rn50)](/data-sources/regional/moscow-oblast-ufns-nalog-rn50) — карточка источника.
 
 ## Контекст
 

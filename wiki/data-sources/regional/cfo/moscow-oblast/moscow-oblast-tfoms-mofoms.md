@@ -24,7 +24,7 @@ content_type: data_source
 entity_type: data-source
 related_pages:
   - /data-sources/regional/subject-moscow-oblast-sources-overview
-  - /data-sources/regional/moscow-city-tfoms-mgfoms
+  - /data-sources/regional/moscow-mgfoms
   - /data-sources/regional/regional-extrabudgetary-health-overview
   - /organizations/ffoms
   - /reporting/extrabudgetary-funds-reporting
@@ -51,7 +51,7 @@ related_pages:
 
 **МОФОМС** — территориальный фонд ОМС субъекта «Московская область». Модель **ОМС** и роль **ФФОМС** — см. **[ФФОМС](/organizations/ffoms)** и **[навигатор по региональному звену ОМС](/data-sources/regional/regional-extrabudgetary-health-overview)**.
 
-**Не путать:** **[МГФОМС](/data-sources/regional/moscow-city-tfoms-mgfoms)** относится к **городу Москва** (отдельный субъект РФ); юридический адрес и зона деятельности **МОФОМС** — **Московская область**.
+**Не путать:** **[МГФОМС](/data-sources/regional/moscow-mgfoms)** относится к **городу Москва** (отдельный субъект РФ); юридический адрес и зона деятельности **МОФОМС** — **Московская область**.
 
 ## Оператор
 
@@ -98,7 +98,7 @@ curl -fsSL -A "finguide-mofoms-check/1.0" -o /dev/null -w "%{http_code}\n" \
 
 ## Связанные страницы wiki
 
-- [МГФОМС (ТФОМС Москвы)](/data-sources/regional/moscow-city-tfoms-mgfoms) — соседний субъект, **другой** фонд.
+- [МГФОМС (ТФОМС Москвы)](/data-sources/regional/moscow-mgfoms) — соседний субъект, **другой** фонд.
 - [Навигатор по региональному звену ОМС](/data-sources/regional/regional-extrabudgetary-health-overview).
 
 ## Частые вопросы

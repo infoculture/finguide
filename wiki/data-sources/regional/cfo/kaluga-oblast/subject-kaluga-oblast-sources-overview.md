@@ -4,7 +4,7 @@ sidebar_label: "Калужская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Калужская область: прямые ссылки на
@@ -14,32 +14,32 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/kaluga-oblast-fin-209da2119e
-  - /data-sources/regional/kaluga-oblast-fin-34ab41c4db
-  - /data-sources/regional/kaluga-oblast-fin-405a5c83af
-  - /data-sources/regional/kaluga-oblast-fin-5edc7390ce
-  - /data-sources/regional/kaluga-oblast-fin-67f82f1090
-  - /data-sources/regional/kaluga-oblast-fin-bd30aff086
-  - /data-sources/regional/kaluga-oblast-fin-c36d2f2c04
-  - /data-sources/regional/kaluga-oblast-fin-e0b9623857
-  - /data-sources/regional/kaluga-oblast-fin-efe38d1118
+  - /data-sources/regional/kaluga-oblast-budget-for-citizens
+  - /data-sources/regional/kaluga-oblast-kalugastat
+  - /data-sources/regional/kaluga-oblast-legislature
+  - /data-sources/regional/kaluga-oblast-minfin
+  - /data-sources/regional/kaluga-oblast-normative-acts
+  - /data-sources/regional/kaluga-oblast-procurement
+  - /data-sources/regional/kaluga-oblast-tfoms
+  - /data-sources/regional/kaluga-oblast-ufk
+  - /data-sources/regional/kaluga-oblast-ufns
 ---
 
 # Калужская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [kaluga oblast fin 209da2119e](/data-sources/regional/kaluga-oblast-fin-209da2119e) — карточка источника.
-- [kaluga oblast fin 34ab41c4db](/data-sources/regional/kaluga-oblast-fin-34ab41c4db) — карточка источника.
-- [kaluga oblast fin 405a5c83af](/data-sources/regional/kaluga-oblast-fin-405a5c83af) — карточка источника.
-- [kaluga oblast fin 5edc7390ce](/data-sources/regional/kaluga-oblast-fin-5edc7390ce) — карточка источника.
-- [kaluga oblast fin 67f82f1090](/data-sources/regional/kaluga-oblast-fin-67f82f1090) — карточка источника.
-- [kaluga oblast fin bd30aff086](/data-sources/regional/kaluga-oblast-fin-bd30aff086) — карточка источника.
-- [kaluga oblast fin c36d2f2c04](/data-sources/regional/kaluga-oblast-fin-c36d2f2c04) — карточка источника.
-- [kaluga oblast fin e0b9623857](/data-sources/regional/kaluga-oblast-fin-e0b9623857) — карточка источника.
-- [kaluga oblast fin efe38d1118](/data-sources/regional/kaluga-oblast-fin-efe38d1118) — карточка источника.
+- [Калужская область: бюджет для граждан (Минфин области)](/data-sources/regional/kaluga-oblast-budget-for-citizens) — карточка источника.
+- [Калужская область: Калугастат (Территориальный орган Росстата)](/data-sources/regional/kaluga-oblast-kalugastat) — карточка источника.
+- [Калужская область: Законодательное Собрание (zskaluga.ru)](/data-sources/regional/kaluga-oblast-legislature) — карточка источника.
+- [Калужская область: Министерство финансов Калужской области](/data-sources/regional/kaluga-oblast-minfin) — карточка источника.
+- [Калужская область: нормативные правовые акты на портале органов власти](/data-sources/regional/kaluga-oblast-normative-acts) — карточка источника.
+- [Калужская область: государственные и муниципальные закупки (региональный портал)](/data-sources/regional/kaluga-oblast-procurement) — карточка источника.
+- [Калужская область: Территориальный фонд обязательного медицинского страхования](/data-sources/regional/kaluga-oblast-tfoms) — карточка источника.
+- [Калужская область: Управление Федерального казначейства по Калужской области](/data-sources/regional/kaluga-oblast-ufk) — карточка источника.
+- [Калужская область: УФНС России по Калужской области (nalog.gov.ru/rn29)](/data-sources/regional/kaluga-oblast-ufns) — карточка источника.
 
 ## Контекст
 

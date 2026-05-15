@@ -4,7 +4,7 @@ sidebar_label: "Ярославская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Ярославская область: прямые ссылки на
@@ -14,32 +14,32 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/yaroslavl-oblast-fin-380e4ad73b
-  - /data-sources/regional/yaroslavl-oblast-fin-52230381b7
-  - /data-sources/regional/yaroslavl-oblast-fin-57bc4b603b
-  - /data-sources/regional/yaroslavl-oblast-fin-5e559ab3ec
-  - /data-sources/regional/yaroslavl-oblast-fin-a1b4294fed
-  - /data-sources/regional/yaroslavl-oblast-fin-d9dbe9be0f
-  - /data-sources/regional/yaroslavl-oblast-fin-f389ed6a32
-  - /data-sources/regional/yaroslavl-oblast-fin-fbe925e136
-  - /data-sources/regional/yaroslavl-oblast-fin-ffd8857ac1
+  - /data-sources/regional/yaroslavl-oblast-federal-treasury-yaroslavl
+  - /data-sources/regional/yaroslavl-oblast-fns-ufns-yaroslavl
+  - /data-sources/regional/yaroslavl-oblast-legislature-yarduma
+  - /data-sources/regional/yaroslavl-oblast-minfin-portal-yarregion
+  - /data-sources/regional/yaroslavl-oblast-moifinansy-partner-yarregion
+  - /data-sources/regional/yaroslavl-oblast-official-legal-acts-npa-yarregion
+  - /data-sources/regional/yaroslavl-oblast-open-budget-budget76
+  - /data-sources/regional/yaroslavl-oblast-rosstat-yaroslavlobl
+  - /data-sources/regional/yaroslavl-oblast-tfoms-yartfoms
 ---
 
 # Ярославская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [yaroslavl oblast fin 380e4ad73b](/data-sources/regional/yaroslavl-oblast-fin-380e4ad73b) — карточка источника.
-- [yaroslavl oblast fin 52230381b7](/data-sources/regional/yaroslavl-oblast-fin-52230381b7) — карточка источника.
-- [yaroslavl oblast fin 57bc4b603b](/data-sources/regional/yaroslavl-oblast-fin-57bc4b603b) — карточка источника.
-- [yaroslavl oblast fin 5e559ab3ec](/data-sources/regional/yaroslavl-oblast-fin-5e559ab3ec) — карточка источника.
-- [yaroslavl oblast fin a1b4294fed](/data-sources/regional/yaroslavl-oblast-fin-a1b4294fed) — карточка источника.
-- [yaroslavl oblast fin d9dbe9be0f](/data-sources/regional/yaroslavl-oblast-fin-d9dbe9be0f) — карточка источника.
-- [yaroslavl oblast fin f389ed6a32](/data-sources/regional/yaroslavl-oblast-fin-f389ed6a32) — карточка источника.
-- [yaroslavl oblast fin fbe925e136](/data-sources/regional/yaroslavl-oblast-fin-fbe925e136) — карточка источника.
-- [yaroslavl oblast fin ffd8857ac1](/data-sources/regional/yaroslavl-oblast-fin-ffd8857ac1) — карточка источника.
+- [Ярославская область: Управление Федерального казначейства (yaroslavl.roskazna.gov.ru)](/data-sources/regional/yaroslavl-oblast-federal-treasury-yaroslavl) — карточка источника.
+- [Ярославская область: УФНС России по Ярославской области (сайт)](/data-sources/regional/yaroslavl-oblast-fns-ufns-yaroslavl) — карточка источника.
+- [Ярославская область: Ярославская областная Дума (yarduma.ru)](/data-sources/regional/yaroslavl-oblast-legislature-yarduma) — карточка источника.
+- [Ярославская область: Министерство финансов Ярославской области (портал yarregion.ru)](/data-sources/regional/yaroslavl-oblast-minfin-portal-yarregion) — карточка источника.
+- [Ярославская область: раздел Департамента финансов на портале «Мои финансы»](/data-sources/regional/yaroslavl-oblast-moifinansy-partner-yarregion) — карточка источника.
+- [Ярославская область: государственная эталонная база НПА (npa.yarregion.ru)](/data-sources/regional/yaroslavl-oblast-official-legal-acts-npa-yarregion) — карточка источника.
+- [Ярославская область: «Открытый бюджет» (budget76.ru)](/data-sources/regional/yaroslavl-oblast-open-budget-budget76) — карточка источника.
+- [Ярославская область: Ярославльстат (территориальный орган Росстата, 76.rosstat.gov.ru)](/data-sources/regional/yaroslavl-oblast-rosstat-yaroslavlobl) — карточка источника.
+- [Ярославская область: ТФОМС Ярославской области (yartfoms.ru)](/data-sources/regional/yaroslavl-oblast-tfoms-yartfoms) — карточка источника.
 
 ## Контекст
 

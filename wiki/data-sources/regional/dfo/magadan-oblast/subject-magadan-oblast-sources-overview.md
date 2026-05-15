@@ -4,7 +4,7 @@ sidebar_label: "Магаданская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Магаданская область: прямые ссылки на
@@ -14,34 +14,34 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/magadan-oblast-fin-202c477372
-  - /data-sources/regional/magadan-oblast-fin-4523db3be4
-  - /data-sources/regional/magadan-oblast-fin-484d98c998
-  - /data-sources/regional/magadan-oblast-fin-5489001d0d
-  - /data-sources/regional/magadan-oblast-fin-5a8ccc9aa8
-  - /data-sources/regional/magadan-oblast-fin-73e9f3cd8a
-  - /data-sources/regional/magadan-oblast-fin-a66b28d979
-  - /data-sources/regional/magadan-oblast-fin-cffefc02a8
-  - /data-sources/regional/magadan-oblast-fin-dff5f97c58
-  - /data-sources/regional/magadan-oblast-fin-f6252f5545
+  - /data-sources/regional/magadan-oblast-eis-zakupki
+  - /data-sources/regional/magadan-oblast-government-portal
+  - /data-sources/regional/magadan-oblast-minfin
+  - /data-sources/regional/magadan-oblast-oblastnaya-duma
+  - /data-sources/regional/magadan-oblast-open-budget
+  - /data-sources/regional/magadan-oblast-pravo-gov-npa
+  - /data-sources/regional/magadan-oblast-roskazna
+  - /data-sources/regional/magadan-oblast-rosstat-magadan-section
+  - /data-sources/regional/magadan-oblast-tfoms
+  - /data-sources/regional/magadan-oblast-ufns
 ---
 
 # Магаданская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [magadan oblast fin 202c477372](/data-sources/regional/magadan-oblast-fin-202c477372) — карточка источника.
-- [magadan oblast fin 4523db3be4](/data-sources/regional/magadan-oblast-fin-4523db3be4) — карточка источника.
-- [magadan oblast fin 484d98c998](/data-sources/regional/magadan-oblast-fin-484d98c998) — карточка источника.
-- [magadan oblast fin 5489001d0d](/data-sources/regional/magadan-oblast-fin-5489001d0d) — карточка источника.
-- [magadan oblast fin 5a8ccc9aa8](/data-sources/regional/magadan-oblast-fin-5a8ccc9aa8) — карточка источника.
-- [magadan oblast fin 73e9f3cd8a](/data-sources/regional/magadan-oblast-fin-73e9f3cd8a) — карточка источника.
-- [magadan oblast fin a66b28d979](/data-sources/regional/magadan-oblast-fin-a66b28d979) — карточка источника.
-- [magadan oblast fin cffefc02a8](/data-sources/regional/magadan-oblast-fin-cffefc02a8) — карточка источника.
-- [magadan oblast fin dff5f97c58](/data-sources/regional/magadan-oblast-fin-dff5f97c58) — карточка источника.
-- [magadan oblast fin f6252f5545](/data-sources/regional/magadan-oblast-fin-f6252f5545) — карточка источника.
+- [Магаданская область: закупки в ЕИС (федеральная витрина)](/data-sources/regional/magadan-oblast-eis-zakupki) — карточка источника.
+- [Магаданская область: Портал Правительства (49gov.ru)](/data-sources/regional/magadan-oblast-government-portal) — карточка источника.
+- [Магаданская область: Министерство финансов Магаданской области](/data-sources/regional/magadan-oblast-minfin) — карточка источника.
+- [Магаданская область: Магаданская областная Дума](/data-sources/regional/magadan-oblast-oblastnaya-duma) — карточка источника.
+- [Магаданская область: Открытый бюджет (openbudget.49gov.ru)](/data-sources/regional/magadan-oblast-open-budget) — карточка источника.
+- [Магаданская область: Официальный интернет-портал правовой информации (раздел субъекта)](/data-sources/regional/magadan-oblast-pravo-gov-npa) — карточка источника.
+- [Магаданская область: Управление Федерального казначейства (Росказна)](/data-sources/regional/magadan-oblast-roskazna) — карточка источника.
+- [Магаданская область: Росстат (Магаданская область в составе межрегионального управления)](/data-sources/regional/magadan-oblast-rosstat-magadan-section) — карточка источника.
+- [Магаданская область: Территориальный фонд ОМС](/data-sources/regional/magadan-oblast-tfoms) — карточка источника.
+- [Магаданская область: УФНС России по Магаданской области](/data-sources/regional/magadan-oblast-ufns) — карточка источника.
 
 ## Контекст
 

@@ -5,7 +5,7 @@ tags:
   - data-source
   - regional
   - procurement
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 slug: /data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39
 source_url: 'https://www.zakupki.gov39.ru/'
 data_source_kind: mixed
@@ -14,7 +14,7 @@ access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-14
+last_verified: 2026-05-15
 description: >-
   Официальная региональная информационная система закупок Калининградской
   области на домене gov39.ru (интеграция с федеральным контуром закупок);
@@ -22,9 +22,10 @@ description: >-
 content_type: data_source
 entity_type: data-source
 related_pages:
+  - /data-sources/regional/kaliningrad-oblast-minfin
   - /data-sources/regional/subject-kaliningrad-oblast-sources-overview
   - /data-sources/regional/regional-procurement-sources-overview
-  - /data-sources/regional/moscow-city-procurement-tender-mos
+  - /data-sources/regional/moscow-procurement-tender-mos
   - /data-sources/regional/saint-petersburg-procurement-gz-spb
   - /data-sources/regional/tatarstan-procurement-goszakupki-tatarstan
   - /data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar
@@ -107,7 +108,7 @@ curl -fsSL --connect-timeout 20 -A "finguide-gov39-check/1.0" -o /dev/null -w "%
 ## Связанные страницы wiki
 
 - [Навигатор по региональным закупкам](/data-sources/regional/regional-procurement-sources-overview).
-- [Закупки Москвы](/data-sources/regional/moscow-city-procurement-tender-mos), [СПб](/data-sources/regional/saint-petersburg-procurement-gz-spb), [Татарстан](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan), [Краснодарский край](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar), [Свердловская область](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural), [РС(Я)](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov), [РД](/data-sources/regional/dagestan-procurement-komzak-e-dag), [Кузбасс](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko), [ХМАО — Югра](/data-sources/regional/khmao-yugra-procurement-zakupki-admhmao) — другие **субнациональные** витрины.
+- [Закупки Москвы](/data-sources/regional/moscow-procurement-tender-mos), [СПб](/data-sources/regional/saint-petersburg-procurement-gz-spb), [Татарстан](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan), [Краснодарский край](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar), [Свердловская область](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural), [РС(Я)](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov), [РД](/data-sources/regional/dagestan-procurement-komzak-e-dag), [Кузбасс](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko), [ХМАО — Югра](/data-sources/regional/khmao-yugra-procurement-zakupki-admhmao) — другие **субнациональные** витрины.
 
 ## Не путать с
 

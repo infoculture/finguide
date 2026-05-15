@@ -15,7 +15,7 @@ related_pages:
   - /data-sources/regional/subnational-debt-overview
   - /data-sources/regional/regional-extrabudgetary-health-overview
   - /data-sources/regional/regional-procurement-sources-overview
-  - /data-sources/regional/moscow-city-procurement-tender-mos
+  - /data-sources/regional/moscow-procurement-tender-mos
   - /data-sources/regional/saint-petersburg-procurement-gz-spb
   - /data-sources/regional/tatarstan-procurement-goszakupki-tatarstan
   - /data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar
@@ -99,7 +99,7 @@ related_pages:
 - [Налоговая и таможенная статистика как зеркало доходов](./tax-and-customs-revenue-statistics.md)
 - [Закупки и контракты как трассировка расходов](./procurement-contract-reporting.md)
 - [Региональные закупки: навигатор](/data-sources/regional/regional-procurement-sources-overview)
-- [Закупки Москвы (tender.mos.ru)](/data-sources/regional/moscow-city-procurement-tender-mos)
+- [Закупки Москвы (tender.mos.ru)](/data-sources/regional/moscow-procurement-tender-mos)
 - [Закупки Санкт-Петербурга (gz-spb.ru)](/data-sources/regional/saint-petersburg-procurement-gz-spb)
 - [Закупки Татарстана (goszakupki.tatarstan.ru)](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan)
 - [Закупки Краснодарского края (drcs.krasnodar.ru)](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar)

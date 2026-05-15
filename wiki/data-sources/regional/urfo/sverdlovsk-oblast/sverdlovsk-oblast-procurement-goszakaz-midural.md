@@ -5,7 +5,7 @@ tags:
   - data-source
   - regional
   - procurement
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 slug: /data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural
 source_url: 'https://goszakaz.midural.ru/'
 data_source_kind: mixed
@@ -23,8 +23,9 @@ content_type: data_source
 entity_type: data-source
 related_pages:
   - /data-sources/regional/subject-sverdlovsk-oblast-sources-overview
+  - /data-sources/regional/sverdlovsk-oblast-minfin
   - /data-sources/regional/regional-procurement-sources-overview
-  - /data-sources/regional/moscow-city-procurement-tender-mos
+  - /data-sources/regional/moscow-procurement-tender-mos
   - /data-sources/regional/saint-petersburg-procurement-gz-spb
   - /data-sources/regional/tatarstan-procurement-goszakupki-tatarstan
   - /data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar
@@ -104,7 +105,7 @@ curl -fsSL -A "finguide-goszakaz66-check/1.0" -o /dev/null -w "%{http_code}\n" \
 ## Связанные страницы wiki
 
 - [Навигатор по региональным закупкам](/data-sources/regional/regional-procurement-sources-overview).
-- [Закупки Москвы (tender.mos.ru)](/data-sources/regional/moscow-city-procurement-tender-mos), [СПб (gz-spb.ru)](/data-sources/regional/saint-petersburg-procurement-gz-spb), [Татарстан](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan), [Краснодарский край](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar), [РС(Я) (zakupki.sakha.gov.ru)](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov), [РД (komzak.e-dag.ru)](/data-sources/regional/dagestan-procurement-komzak-e-dag), [Кузбасс (ugzko.ru)](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko), [Югра (zakupki.admhmao.ru)](/data-sources/regional/khmao-yugra-procurement-zakupki-admhmao), [Калининградская область (zakupki.gov39.ru)](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39) — другие **субнациональные** витрины.
+- [Закупки Москвы (tender.mos.ru)](/data-sources/regional/moscow-procurement-tender-mos), [СПб (gz-spb.ru)](/data-sources/regional/saint-petersburg-procurement-gz-spb), [Татарстан](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan), [Краснодарский край](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar), [РС(Я) (zakupki.sakha.gov.ru)](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov), [РД (komzak.e-dag.ru)](/data-sources/regional/dagestan-procurement-komzak-e-dag), [Кузбасс (ugzko.ru)](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko), [Югра (zakupki.admhmao.ru)](/data-sources/regional/khmao-yugra-procurement-zakupki-admhmao), [Калининградская область (zakupki.gov39.ru)](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39) — другие **субнациональные** витрины.
 
 ## Не путать с
 

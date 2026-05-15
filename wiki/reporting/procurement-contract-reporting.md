@@ -21,7 +21,7 @@ related_pages:
   - /reporting/0503117
   - /reporting/grbs-consolidated-reporting
   - /data-sources/regional/regional-procurement-sources-overview
-  - /data-sources/regional/moscow-city-procurement-tender-mos
+  - /data-sources/regional/moscow-procurement-tender-mos
   - /data-sources/regional/saint-petersburg-procurement-gz-spb
   - /data-sources/regional/tatarstan-procurement-goszakupki-tatarstan
   - /data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar

@@ -4,7 +4,7 @@ sidebar_label: "Калининградская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Калининградская область: прямые ссылки на
@@ -14,40 +14,38 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/kaliningrad-oblast-fin-0765ae5f60
-  - /data-sources/regional/kaliningrad-oblast-fin-0cf1091d03
-  - /data-sources/regional/kaliningrad-oblast-fin-16612c703b
-  - /data-sources/regional/kaliningrad-oblast-fin-1b40542f5f
-  - /data-sources/regional/kaliningrad-oblast-fin-343b34d586
-  - /data-sources/regional/kaliningrad-oblast-fin-39bb42a50d
-  - /data-sources/regional/kaliningrad-oblast-fin-3a6f45beff
-  - /data-sources/regional/kaliningrad-oblast-fin-4580ae9fad
-  - /data-sources/regional/kaliningrad-oblast-fin-90b6ad9c81
-  - /data-sources/regional/kaliningrad-oblast-fin-b197b53a76
-  - /data-sources/regional/kaliningrad-oblast-fin-c74e7c8834
-  - /data-sources/regional/kaliningrad-oblast-fin-cfd2d487a2
+  - /data-sources/regional/kaliningrad-oblast-control-accounting-chamber
+  - /data-sources/regional/kaliningrad-oblast-gov39-consolidated-budget-execution
+  - /data-sources/regional/kaliningrad-oblast-gov39-npa
+  - /data-sources/regional/kaliningrad-oblast-kaliningrad-city-budget
+  - /data-sources/regional/kaliningrad-oblast-legislative-assembly
+  - /data-sources/regional/kaliningrad-oblast-minfin
+  - /data-sources/regional/kaliningrad-oblast-minfin-budget-process
   - /data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39
+  - /data-sources/regional/kaliningrad-oblast-roskazna-kaliningrad
+  - /data-sources/regional/kaliningrad-oblast-rosstat-39
+  - /data-sources/regional/kaliningrad-oblast-tfoms-oms
+  - /data-sources/regional/kaliningrad-oblast-ufns-nalog-rn39
 ---
 
 # Калининградская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [kaliningrad oblast fin 0765ae5f60](/data-sources/regional/kaliningrad-oblast-fin-0765ae5f60) — карточка источника.
-- [kaliningrad oblast fin 0cf1091d03](/data-sources/regional/kaliningrad-oblast-fin-0cf1091d03) — карточка источника.
-- [kaliningrad oblast fin 16612c703b](/data-sources/regional/kaliningrad-oblast-fin-16612c703b) — карточка источника.
-- [kaliningrad oblast fin 1b40542f5f](/data-sources/regional/kaliningrad-oblast-fin-1b40542f5f) — карточка источника.
-- [kaliningrad oblast fin 343b34d586](/data-sources/regional/kaliningrad-oblast-fin-343b34d586) — карточка источника.
-- [kaliningrad oblast fin 39bb42a50d](/data-sources/regional/kaliningrad-oblast-fin-39bb42a50d) — карточка источника.
-- [kaliningrad oblast fin 3a6f45beff](/data-sources/regional/kaliningrad-oblast-fin-3a6f45beff) — карточка источника.
-- [kaliningrad oblast fin 4580ae9fad](/data-sources/regional/kaliningrad-oblast-fin-4580ae9fad) — карточка источника.
-- [kaliningrad oblast fin 90b6ad9c81](/data-sources/regional/kaliningrad-oblast-fin-90b6ad9c81) — карточка источника.
-- [kaliningrad oblast fin b197b53a76](/data-sources/regional/kaliningrad-oblast-fin-b197b53a76) — карточка источника.
-- [kaliningrad oblast fin c74e7c8834](/data-sources/regional/kaliningrad-oblast-fin-c74e7c8834) — карточка источника.
-- [kaliningrad oblast fin cfd2d487a2](/data-sources/regional/kaliningrad-oblast-fin-cfd2d487a2) — карточка источника.
-- [kaliningrad oblast procurement zakupki gov39](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39) — карточка источника.
+- [Калининградская область: контрольно-счётная палата](/data-sources/regional/kaliningrad-oblast-control-accounting-chamber) — карточка источника.
+- [Калининградская область: исполнение консолидированного бюджета (gov39.ru)](/data-sources/regional/kaliningrad-oblast-gov39-consolidated-budget-execution) — карточка источника.
+- [Калининградская область: нормативные правовые акты (gov39.ru)](/data-sources/regional/kaliningrad-oblast-gov39-npa) — карточка источника.
+- [Калининград: раздел «Бюджет» (сайт администрации ГО)](/data-sources/regional/kaliningrad-oblast-kaliningrad-city-budget) — карточка источника.
+- [Калининградская область: Законодательное Собрание](/data-sources/regional/kaliningrad-oblast-legislative-assembly) — карточка источника.
+- [Калининградская область: Министерство финансов](/data-sources/regional/kaliningrad-oblast-minfin) — карточка источника.
+- [Калининградская область: Минфин — раздел «Бюджетный процесс»](/data-sources/regional/kaliningrad-oblast-minfin-budget-process) — карточка источника.
+- [Калининградская область: региональная ИС госзаказа (zakupki.gov39.ru)](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39) — карточка источника.
+- [Калининградская область: Управление Федерального казначейства](/data-sources/regional/kaliningrad-oblast-roskazna-kaliningrad) — карточка источника.
+- [Калининградская область: Калининградстат (39.rosstat.gov.ru)](/data-sources/regional/kaliningrad-oblast-rosstat-39) — карточка источника.
+- [Калининградская область: территориальный фонд ОМС](/data-sources/regional/kaliningrad-oblast-tfoms-oms) — карточка источника.
+- [Калининградская область: УФНС России (раздел nalog.gov.ru / rn39)](/data-sources/regional/kaliningrad-oblast-ufns-nalog-rn39) — карточка источника.
 
 ## Контекст
 

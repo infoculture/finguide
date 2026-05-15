@@ -4,7 +4,7 @@ sidebar_label: "Ненецкий автономный округ"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Ненецкий автономный округ: прямые ссылки на
@@ -14,22 +14,22 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/nenets-autonomous-okrug-fin-37bf12c7a6
-  - /data-sources/regional/nenets-autonomous-okrug-fin-eb87f75427
-  - /data-sources/regional/nenets-autonomous-okrug-fin-eed74acac2
-  - /data-sources/regional/nenets-autonomous-okrug-fin-f59d5e8297
+  - /data-sources/regional/nenets-autonomous-okrug-budget-for-citizens
+  - /data-sources/regional/nenets-autonomous-okrug-budget-laws
+  - /data-sources/regional/nenets-autonomous-okrug-dfei
+  - /data-sources/regional/nenets-autonomous-okrug-tfoms
 ---
 
 # Ненецкий автономный округ: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [nenets autonomous okrug fin 37bf12c7a6](/data-sources/regional/nenets-autonomous-okrug-fin-37bf12c7a6) — карточка источника.
-- [nenets autonomous okrug fin eb87f75427](/data-sources/regional/nenets-autonomous-okrug-fin-eb87f75427) — карточка источника.
-- [nenets autonomous okrug fin eed74acac2](/data-sources/regional/nenets-autonomous-okrug-fin-eed74acac2) — карточка источника.
-- [nenets autonomous okrug fin f59d5e8297](/data-sources/regional/nenets-autonomous-okrug-fin-f59d5e8297) — карточка источника.
+- [Ненецкий автономный округ: «Бюджет для граждан» (Департамент финансов и экономического развития НАО)](/data-sources/regional/nenets-autonomous-okrug-budget-for-citizens) — карточка источника.
+- [Ненецкий автономный округ: законы об окружном бюджете (Департамент финансов и экономического развития НАО)](/data-sources/regional/nenets-autonomous-okrug-budget-laws) — карточка источника.
+- [Ненецкий автономный округ: Департамент финансов и экономического развития](/data-sources/regional/nenets-autonomous-okrug-dfei) — карточка источника.
+- [Ненецкий автономный округ: территориальный фонд обязательного медицинского страхования](/data-sources/regional/nenets-autonomous-okrug-tfoms) — карточка источника.
 
 ## Контекст
 

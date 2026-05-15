@@ -4,7 +4,7 @@ sidebar_label: "Новгородская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Новгородская область: прямые ссылки на
@@ -14,32 +14,32 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/novgorod-oblast-fin-121c243e42
-  - /data-sources/regional/novgorod-oblast-fin-17e846ba32
-  - /data-sources/regional/novgorod-oblast-fin-5ed1f4175a
-  - /data-sources/regional/novgorod-oblast-fin-68d3d1eb6a
-  - /data-sources/regional/novgorod-oblast-fin-76aad48810
-  - /data-sources/regional/novgorod-oblast-fin-e937ea084f
-  - /data-sources/regional/novgorod-oblast-fin-f1a052e635
-  - /data-sources/regional/novgorod-oblast-fin-f91d7f0722
-  - /data-sources/regional/novgorod-oblast-fin-fcec4e1366
+  - /data-sources/regional/novgorod-oblast-budget-for-citizens-minfin
+  - /data-sources/regional/novgorod-oblast-minfin
+  - /data-sources/regional/novgorod-oblast-npa-portal
+  - /data-sources/regional/novgorod-oblast-regional-duma
+  - /data-sources/regional/novgorod-oblast-roskazna
+  - /data-sources/regional/novgorod-oblast-rosstat
+  - /data-sources/regional/novgorod-oblast-tfoms
+  - /data-sources/regional/novgorod-oblast-ufns
+  - /data-sources/regional/novgorod-oblast-veliky-novgorod-budget-for-citizens
 ---
 
 # Новгородская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [novgorod oblast fin 121c243e42](/data-sources/regional/novgorod-oblast-fin-121c243e42) — карточка источника.
-- [novgorod oblast fin 17e846ba32](/data-sources/regional/novgorod-oblast-fin-17e846ba32) — карточка источника.
-- [novgorod oblast fin 5ed1f4175a](/data-sources/regional/novgorod-oblast-fin-5ed1f4175a) — карточка источника.
-- [novgorod oblast fin 68d3d1eb6a](/data-sources/regional/novgorod-oblast-fin-68d3d1eb6a) — карточка источника.
-- [novgorod oblast fin 76aad48810](/data-sources/regional/novgorod-oblast-fin-76aad48810) — карточка источника.
-- [novgorod oblast fin e937ea084f](/data-sources/regional/novgorod-oblast-fin-e937ea084f) — карточка источника.
-- [novgorod oblast fin f1a052e635](/data-sources/regional/novgorod-oblast-fin-f1a052e635) — карточка источника.
-- [novgorod oblast fin f91d7f0722](/data-sources/regional/novgorod-oblast-fin-f91d7f0722) — карточка источника.
-- [novgorod oblast fin fcec4e1366](/data-sources/regional/novgorod-oblast-fin-fcec4e1366) — карточка источника.
+- [Новгородская область: «Бюджет для граждан» на сайте Минфина](/data-sources/regional/novgorod-oblast-budget-for-citizens-minfin) — карточка источника.
+- [Новгородская область: Министерство финансов Новгородской области](/data-sources/regional/novgorod-oblast-minfin) — карточка источника.
+- [Новгородская область: портал нормативных правовых актов (novolaws.ru)](/data-sources/regional/novgorod-oblast-npa-portal) — карточка источника.
+- [Новгородская область: Новгородская областная Дума](/data-sources/regional/novgorod-oblast-regional-duma) — карточка источника.
+- [Новгородская область: Управление Федерального казначейства (Росказна)](/data-sources/regional/novgorod-oblast-roskazna) — карточка источника.
+- [Новгородская область: Новгородстат (ТО Росстата)](/data-sources/regional/novgorod-oblast-rosstat) — карточка источника.
+- [Новгородская область: Территориальный фонд обязательного медицинского страхования](/data-sources/regional/novgorod-oblast-tfoms) — карточка источника.
+- [Новгородская область: УФНС России по Новгородской области](/data-sources/regional/novgorod-oblast-ufns) — карточка источника.
+- [Великий Новгород: «Открытый бюджет для граждан» (сайт администрации)](/data-sources/regional/novgorod-oblast-veliky-novgorod-budget-for-citizens) — карточка источника.
 
 ## Контекст
 

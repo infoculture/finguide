@@ -23,9 +23,9 @@ description: >-
 content_type: data_source
 entity_type: data-source
 related_pages:
-  - /data-sources/regional/subject-khanty-mansi-autonomous-okrug-yugra-sources-overview
+  - /data-sources/regional/subject-khmao-yugra-sources-overview
   - /data-sources/regional/regional-procurement-sources-overview
-  - /data-sources/regional/moscow-city-procurement-tender-mos
+  - /data-sources/regional/moscow-procurement-tender-mos
   - /data-sources/regional/saint-petersburg-procurement-gz-spb
   - /data-sources/regional/tatarstan-procurement-goszakupki-tatarstan
   - /data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar
@@ -107,7 +107,7 @@ curl -fsSL -A "finguide-zakupki-admhmao-check/1.0" -o /dev/null -w "%{http_code}
 ## Связанные страницы wiki
 
 - [Навигатор по региональным закупкам](/data-sources/regional/regional-procurement-sources-overview).
-- [Закупки Москвы](/data-sources/regional/moscow-city-procurement-tender-mos), [СПб](/data-sources/regional/saint-petersburg-procurement-gz-spb), [Татарстан](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan), [Краснодарский край](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar), [Свердловская область](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural), [РС(Я)](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov), [РД](/data-sources/regional/dagestan-procurement-komzak-e-dag), [Кузбасс](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko), [Калининградская область](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39) — другие **субнациональные** витрины.
+- [Закупки Москвы](/data-sources/regional/moscow-procurement-tender-mos), [СПб](/data-sources/regional/saint-petersburg-procurement-gz-spb), [Татарстан](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan), [Краснодарский край](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar), [Свердловская область](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural), [РС(Я)](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov), [РД](/data-sources/regional/dagestan-procurement-komzak-e-dag), [Кузбасс](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko), [Калининградская область](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39) — другие **субнациональные** витрины.
 
 ## Не путать с
 

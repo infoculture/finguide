@@ -4,7 +4,7 @@ sidebar_label: "Челябинская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Челябинская область: прямые ссылки на
@@ -14,32 +14,32 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/chelyabinsk-oblast-fin-2aa8ae104e
-  - /data-sources/regional/chelyabinsk-oblast-fin-4f958bd32e
-  - /data-sources/regional/chelyabinsk-oblast-fin-6cc5ae9aae
-  - /data-sources/regional/chelyabinsk-oblast-fin-80fac1f2fe
-  - /data-sources/regional/chelyabinsk-oblast-fin-943653fa71
-  - /data-sources/regional/chelyabinsk-oblast-fin-b251ca4d1e
-  - /data-sources/regional/chelyabinsk-oblast-fin-e2b0d397e9
-  - /data-sources/regional/chelyabinsk-oblast-fin-f462017de2
-  - /data-sources/regional/chelyabinsk-oblast-fin-f480b60fd8
+  - /data-sources/regional/chelyabinsk-oblast-gov-npa-pravmin
+  - /data-sources/regional/chelyabinsk-oblast-ksp
+  - /data-sources/regional/chelyabinsk-oblast-legislative-assembly
+  - /data-sources/regional/chelyabinsk-oblast-minfin
+  - /data-sources/regional/chelyabinsk-oblast-open-budget
+  - /data-sources/regional/chelyabinsk-oblast-rosstat
+  - /data-sources/regional/chelyabinsk-oblast-tfoms
+  - /data-sources/regional/chelyabinsk-oblast-treasury-roskazna
+  - /data-sources/regional/chelyabinsk-oblast-ufns
 ---
 
 # Челябинская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [chelyabinsk oblast fin 2aa8ae104e](/data-sources/regional/chelyabinsk-oblast-fin-2aa8ae104e) — карточка источника.
-- [chelyabinsk oblast fin 4f958bd32e](/data-sources/regional/chelyabinsk-oblast-fin-4f958bd32e) — карточка источника.
-- [chelyabinsk oblast fin 6cc5ae9aae](/data-sources/regional/chelyabinsk-oblast-fin-6cc5ae9aae) — карточка источника.
-- [chelyabinsk oblast fin 80fac1f2fe](/data-sources/regional/chelyabinsk-oblast-fin-80fac1f2fe) — карточка источника.
-- [chelyabinsk oblast fin 943653fa71](/data-sources/regional/chelyabinsk-oblast-fin-943653fa71) — карточка источника.
-- [chelyabinsk oblast fin b251ca4d1e](/data-sources/regional/chelyabinsk-oblast-fin-b251ca4d1e) — карточка источника.
-- [chelyabinsk oblast fin e2b0d397e9](/data-sources/regional/chelyabinsk-oblast-fin-e2b0d397e9) — карточка источника.
-- [chelyabinsk oblast fin f462017de2](/data-sources/regional/chelyabinsk-oblast-fin-f462017de2) — карточка источника.
-- [chelyabinsk oblast fin f480b60fd8](/data-sources/regional/chelyabinsk-oblast-fin-f480b60fd8) — карточка источника.
+- [Челябинская область: банк НПА Правительства (pravmin.gov74.ru)](/data-sources/regional/chelyabinsk-oblast-gov-npa-pravmin) — карточка источника.
+- [Челябинская область: Контрольно-счётная палата (ksp.gov74.ru)](/data-sources/regional/chelyabinsk-oblast-ksp) — карточка источника.
+- [Челябинская область: Законодательное Собрание (zs74.ru)](/data-sources/regional/chelyabinsk-oblast-legislative-assembly) — карточка источника.
+- [Челябинская область: Министерство финансов (minfin.gov74.ru)](/data-sources/regional/chelyabinsk-oblast-minfin) — карточка источника.
+- [Челябинская область: «Бюджет для граждан» (minfin.gov74.ru)](/data-sources/regional/chelyabinsk-oblast-open-budget) — карточка источника.
+- [Челябинская область: Челябинскстат (74.rosstat.gov.ru)](/data-sources/regional/chelyabinsk-oblast-rosstat) — карточка источника.
+- [Челябинская область: ТФОМС (foms74.ru)](/data-sources/regional/chelyabinsk-oblast-tfoms) — карточка источника.
+- [Челябинская область: УФК / Росказначейство (chelyabinsk.roskazna.gov.ru)](/data-sources/regional/chelyabinsk-oblast-treasury-roskazna) — карточка источника.
+- [Челябинская область: УФНС (nalog.gov.ru/rn74)](/data-sources/regional/chelyabinsk-oblast-ufns) — карточка источника.
 
 ## Контекст
 

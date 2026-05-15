@@ -4,7 +4,7 @@ sidebar_label: "Запорожская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Запорожская область: прямые ссылки на
@@ -14,38 +14,38 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/zaporozhye-oblast-fin-09e0c5639d
-  - /data-sources/regional/zaporozhye-oblast-fin-203fc95e4a
-  - /data-sources/regional/zaporozhye-oblast-fin-223d794082
-  - /data-sources/regional/zaporozhye-oblast-fin-23fce2ce07
-  - /data-sources/regional/zaporozhye-oblast-fin-29ccd5dae7
-  - /data-sources/regional/zaporozhye-oblast-fin-2b0839f539
-  - /data-sources/regional/zaporozhye-oblast-fin-3a0702d2aa
-  - /data-sources/regional/zaporozhye-oblast-fin-4b9706f93b
-  - /data-sources/regional/zaporozhye-oblast-fin-5422f366c4
-  - /data-sources/regional/zaporozhye-oblast-fin-5a4c80003d
-  - /data-sources/regional/zaporozhye-oblast-fin-8602963713
-  - /data-sources/regional/zaporozhye-oblast-fin-fa9abeddf1
+  - /data-sources/regional/zaporozhye-oblast-gov-laws
+  - /data-sources/regional/zaporozhye-oblast-government
+  - /data-sources/regional/zaporozhye-oblast-legislative-assembly
+  - /data-sources/regional/zaporozhye-oblast-mihailovsky-mun-open-budget
+  - /data-sources/regional/zaporozhye-oblast-minfin
+  - /data-sources/regional/zaporozhye-oblast-open-budget-budget-gov-ru
+  - /data-sources/regional/zaporozhye-oblast-procurement-komzakaz
+  - /data-sources/regional/zaporozhye-oblast-rosstat
+  - /data-sources/regional/zaporozhye-oblast-state-programs
+  - /data-sources/regional/zaporozhye-oblast-tfoms
+  - /data-sources/regional/zaporozhye-oblast-treasury-roskazna
+  - /data-sources/regional/zaporozhye-oblast-ufns
 ---
 
 # Запорожская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [zaporozhye oblast fin 09e0c5639d](/data-sources/regional/zaporozhye-oblast-fin-09e0c5639d) — карточка источника.
-- [zaporozhye oblast fin 203fc95e4a](/data-sources/regional/zaporozhye-oblast-fin-203fc95e4a) — карточка источника.
-- [zaporozhye oblast fin 223d794082](/data-sources/regional/zaporozhye-oblast-fin-223d794082) — карточка источника.
-- [zaporozhye oblast fin 23fce2ce07](/data-sources/regional/zaporozhye-oblast-fin-23fce2ce07) — карточка источника.
-- [zaporozhye oblast fin 29ccd5dae7](/data-sources/regional/zaporozhye-oblast-fin-29ccd5dae7) — карточка источника.
-- [zaporozhye oblast fin 2b0839f539](/data-sources/regional/zaporozhye-oblast-fin-2b0839f539) — карточка источника.
-- [zaporozhye oblast fin 3a0702d2aa](/data-sources/regional/zaporozhye-oblast-fin-3a0702d2aa) — карточка источника.
-- [zaporozhye oblast fin 4b9706f93b](/data-sources/regional/zaporozhye-oblast-fin-4b9706f93b) — карточка источника.
-- [zaporozhye oblast fin 5422f366c4](/data-sources/regional/zaporozhye-oblast-fin-5422f366c4) — карточка источника.
-- [zaporozhye oblast fin 5a4c80003d](/data-sources/regional/zaporozhye-oblast-fin-5a4c80003d) — карточка источника.
-- [zaporozhye oblast fin 8602963713](/data-sources/regional/zaporozhye-oblast-fin-8602963713) — карточка источника.
-- [zaporozhye oblast fin fa9abeddf1](/data-sources/regional/zaporozhye-oblast-fin-fa9abeddf1) — карточка источника.
+- [Запорожская область: банк законов на портале Правительства (zo.gov.ru)](/data-sources/regional/zaporozhye-oblast-gov-laws) — карточка источника.
+- [Запорожская область: Правительство (zo.gov.ru)](/data-sources/regional/zaporozhye-oblast-government) — карточка источника.
+- [Запорожская область: Законодательное Собрание (zs.zo.gov.ru)](/data-sources/regional/zaporozhye-oblast-legislative-assembly) — карточка источника.
+- [Запорожская область: бюджет для граждан — Михайловский МО (gosuslugi.ru)](/data-sources/regional/zaporozhye-oblast-mihailovsky-mun-open-budget) — карточка источника.
+- [Запорожская область: Министерство финансов (minfin.zo.gov.ru)](/data-sources/regional/zaporozhye-oblast-minfin) — карточка источника.
+- [Запорожская область: Электронный бюджет — раздел «Регионы» (budget.gov.ru)](/data-sources/regional/zaporozhye-oblast-open-budget-budget-gov-ru) — карточка источника.
+- [Запорожская область: комитет по закупкам (komzakaz.zo.gov.ru)](/data-sources/regional/zaporozhye-oblast-procurement-komzakaz) — карточка источника.
+- [Запорожская область: Запорожстат (85.rosstat.gov.ru)](/data-sources/regional/zaporozhye-oblast-rosstat) — карточка источника.
+- [Запорожская область: государственные программы (mineconom.zo.gov.ru)](/data-sources/regional/zaporozhye-oblast-state-programs) — карточка источника.
+- [Запорожская область: ТФОМС (tfomszo.ru)](/data-sources/regional/zaporozhye-oblast-tfoms) — карточка источника.
+- [Запорожская область: Управление Федерального казначейства (zaporozhye.roskazna.gov.ru)](/data-sources/regional/zaporozhye-oblast-treasury-roskazna) — карточка источника.
+- [Запорожская область: УФНС России (nalog.gov.ru/rn90)](/data-sources/regional/zaporozhye-oblast-ufns) — карточка источника.
 
 ## Контекст
 

@@ -16,7 +16,7 @@ related_pages:
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
   - /data-sources/regional/regional-portals
-  - /data-sources/regional/moscow-city-tfoms-mgfoms
+  - /data-sources/regional/moscow-mgfoms
   - /data-sources/regional/saint-petersburg-procurement-gz-spb
   - /data-sources/regional/tatarstan-procurement-goszakupki-tatarstan
   - /data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar
@@ -54,7 +54,7 @@ related_pages:
 
 | Субъект | Открытый бюджет | Открытые данные | API | Законы о бюджете | Исполнение | Поиск | Карточка органа в wiki |
 | --- | --- | --- | --- | --- | --- | ---: | --- |
-| Москва | частично | частично | ad hoc | да | да | 3 | [МГФОМС](/data-sources/regional/moscow-city-tfoms-mgfoms); региональный Минфин — см. [порталы](./regional-portals.md) |
+| Москва | частично | частично | ad hoc | да | да | 3 | [МГФОМС](/data-sources/regional/moscow-mgfoms); региональный Минфин — см. [порталы](./regional-portals.md) |
 | Санкт-Петербург | частично | частично | ad hoc | да | да | 3 | [Комитет по госзаказу (gz-spb.ru)](/data-sources/regional/saint-petersburg-procurement-gz-spb); региональный Минфин — см. [порталы](./regional-portals.md) |
 | Республика Татарстан | частично | частично | нет | да | частично | 2 | [Госкомитет по закупкам РТ (goszakupki.tatarstan.ru)](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan); региональный Минфин — см. [порталы](./regional-portals.md) |
 | Краснодарский край | частично | частично | нет | да | частично | 2 | [Департамент по регулированию контрактной системы (drcs.krasnodar.ru)](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar); региональный Минфин — см. [порталы](./regional-portals.md) |

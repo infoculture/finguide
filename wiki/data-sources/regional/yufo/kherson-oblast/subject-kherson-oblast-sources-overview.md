@@ -4,7 +4,7 @@ sidebar_label: "Херсонская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Херсонская область: прямые ссылки на
@@ -14,34 +14,36 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/kherson-oblast-fin-104223b4ea
-  - /data-sources/regional/kherson-oblast-fin-25998249e0
-  - /data-sources/regional/kherson-oblast-fin-42b6e070be
-  - /data-sources/regional/kherson-oblast-fin-97dce2616f
-  - /data-sources/regional/kherson-oblast-fin-a0532a384d
-  - /data-sources/regional/kherson-oblast-fin-e498b895fd
-  - /data-sources/regional/kherson-oblast-fin-e5b736f423
-  - /data-sources/regional/kherson-oblast-fin-e5e21bb2ee
-  - /data-sources/regional/kherson-oblast-fin-ea663e270e
-  - /data-sources/regional/kherson-oblast-fin-f0e8c45765
+  - /data-sources/regional/kherson-oblast-duma
+  - /data-sources/regional/kherson-oblast-gov-npa-documents
+  - /data-sources/regional/kherson-oblast-ksp
+  - /data-sources/regional/kherson-oblast-minfin
+  - /data-sources/regional/kherson-oblast-open-budget-budget-gov-ru
+  - /data-sources/regional/kherson-oblast-pravo-publication-region95
+  - /data-sources/regional/kherson-oblast-rosstat
+  - /data-sources/regional/kherson-oblast-skadovsk-mun-kso
+  - /data-sources/regional/kherson-oblast-tfoms
+  - /data-sources/regional/kherson-oblast-treasury-roskazna
+  - /data-sources/regional/kherson-oblast-ufns
 ---
 
 # Херсонская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [kherson oblast fin 104223b4ea](/data-sources/regional/kherson-oblast-fin-104223b4ea) — карточка источника.
-- [kherson oblast fin 25998249e0](/data-sources/regional/kherson-oblast-fin-25998249e0) — карточка источника.
-- [kherson oblast fin 42b6e070be](/data-sources/regional/kherson-oblast-fin-42b6e070be) — карточка источника.
-- [kherson oblast fin 97dce2616f](/data-sources/regional/kherson-oblast-fin-97dce2616f) — карточка источника.
-- [kherson oblast fin a0532a384d](/data-sources/regional/kherson-oblast-fin-a0532a384d) — карточка источника.
-- [kherson oblast fin e498b895fd](/data-sources/regional/kherson-oblast-fin-e498b895fd) — карточка источника.
-- [kherson oblast fin e5b736f423](/data-sources/regional/kherson-oblast-fin-e5b736f423) — карточка источника.
-- [kherson oblast fin e5e21bb2ee](/data-sources/regional/kherson-oblast-fin-e5e21bb2ee) — карточка источника.
-- [kherson oblast fin ea663e270e](/data-sources/regional/kherson-oblast-fin-ea663e270e) — карточка источника.
-- [kherson oblast fin f0e8c45765](/data-sources/regional/kherson-oblast-fin-f0e8c45765) — карточка источника.
+- [Херсонская область: Херсонская областная Дума (khogov.ru)](/data-sources/regional/kherson-oblast-duma) — карточка источника.
+- [Херсонская область: раздел документов Правительства (khogov.ru/documents)](/data-sources/regional/kherson-oblast-gov-npa-documents) — карточка источника.
+- [Херсонская область: Контрольно-счётная палата (ksp.khogov.ru)](/data-sources/regional/kherson-oblast-ksp) — карточка источника.
+- [Херсонская область: Министерство финансов (minfin.khogov.ru)](/data-sources/regional/kherson-oblast-minfin) — карточка источника.
+- [Херсонская область: Электронный бюджет — раздел «Регионы» (budget.gov.ru)](/data-sources/regional/kherson-oblast-open-budget-budget-gov-ru) — карточка источника.
+- [Херсонская область: официальное опубликование правовых актов (ОИППИ, блок региональных актов, код 95)](/data-sources/regional/kherson-oblast-pravo-publication-region95) — карточка источника.
+- [Херсонская область: Херсонстат (84.rosstat.gov.ru)](/data-sources/regional/kherson-oblast-rosstat) — карточка источника.
+- [Херсонская область: КСО Скадовского муниципального округа (gosweb.gosuslugi.ru)](/data-sources/regional/kherson-oblast-skadovsk-mun-kso) — карточка источника.
+- [Херсонская область: ТФОМС (tfomskho.ru)](/data-sources/regional/kherson-oblast-tfoms) — карточка источника.
+- [Херсонская область: Управление Федерального казначейства (kherson.roskazna.gov.ru)](/data-sources/regional/kherson-oblast-treasury-roskazna) — карточка источника.
+- [Херсонская область: УФНС России (nalog.gov.ru/rn95)](/data-sources/regional/kherson-oblast-ufns) — карточка источника.
 
 ## Контекст
 

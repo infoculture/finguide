@@ -4,7 +4,7 @@ sidebar_label: "Республика Марий Эл"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Республика Марий Эл: прямые ссылки на
@@ -26,18 +26,18 @@ related_pages:
 
 # Республика Марий Эл: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [republic of mari el fin 12384e35e8](/data-sources/regional/republic-of-mari-el-fin-12384e35e8) — карточка источника.
-- [republic of mari el fin 60f0325bd0](/data-sources/regional/republic-of-mari-el-fin-60f0325bd0) — карточка источника.
-- [republic of mari el fin 8d3f679bd9](/data-sources/regional/republic-of-mari-el-fin-8d3f679bd9) — карточка источника.
-- [republic of mari el fin 9a1de26c4a](/data-sources/regional/republic-of-mari-el-fin-9a1de26c4a) — карточка источника.
-- [republic of mari el fin a3f5b37fd4](/data-sources/regional/republic-of-mari-el-fin-a3f5b37fd4) — карточка источника.
-- [republic of mari el fin ca8acd1e75](/data-sources/regional/republic-of-mari-el-fin-ca8acd1e75) — карточка источника.
-- [republic of mari el fin ca96246c2d](/data-sources/regional/republic-of-mari-el-fin-ca96246c2d) — карточка источника.
-- [republic of mari el fin f942e83747](/data-sources/regional/republic-of-mari-el-fin-f942e83747) — карточка источника.
+- [Республика Марий Эл: Территориальный фонд обязательного медицинского страхования Республики Марий Эл](/data-sources/regional/republic-of-mari-el-fin-12384e35e8) — карточка источника.
+- [Республика Марий Эл: Государственное Собрание Республики Марий Эл](/data-sources/regional/republic-of-mari-el-fin-60f0325bd0) — карточка источника.
+- [Республика Марий Эл: Министерство финансов Республики Марий Эл](/data-sources/regional/republic-of-mari-el-fin-8d3f679bd9) — карточка источника.
+- [Республика Марий Эл: Управление Федерального казначейства по Республике Марий Эл](/data-sources/regional/republic-of-mari-el-fin-9a1de26c4a) — карточка источника.
+- [Республика Марий Эл: УФНС России по Республике Марий Эл](/data-sources/regional/republic-of-mari-el-fin-a3f5b37fd4) — карточка источника.
+- [Республика Марий Эл: Территориальный орган Федеральной службы государственной статистики по Республике Марий Эл (Маристат)](/data-sources/regional/republic-of-mari-el-fin-ca8acd1e75) — карточка источника.
+- [Республика Марий Эл: Раздел "Документы" на портале Правительства Республики Марий Эл](/data-sources/regional/republic-of-mari-el-fin-ca96246c2d) — карточка источника.
+- [Республика Марий Эл: Раздел "Бюджет для граждан" на сайте Минфина Республики Марий Эл](/data-sources/regional/republic-of-mari-el-fin-f942e83747) — карточка источника.
 
 ## Контекст
 

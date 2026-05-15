@@ -24,7 +24,7 @@ entity_type: data-source
 related_pages:
   - /data-sources/regional/subject-republic-of-tatarstan-sources-overview
   - /data-sources/regional/regional-procurement-sources-overview
-  - /data-sources/regional/moscow-city-procurement-tender-mos
+  - /data-sources/regional/moscow-procurement-tender-mos
   - /data-sources/regional/saint-petersburg-procurement-gz-spb
   - /data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar
   - /data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural
@@ -103,7 +103,7 @@ curl -fsSL -A "finguide-goszakupki-rt-check/1.0" -o /dev/null -w "%{http_code}\n
 ## Связанные страницы wiki
 
 - [Навигатор по региональным закупкам](/data-sources/regional/regional-procurement-sources-overview).
-- [Закупки Москвы (tender.mos.ru)](/data-sources/regional/moscow-city-procurement-tender-mos), [закупки СПб (gz-spb.ru)](/data-sources/regional/saint-petersburg-procurement-gz-spb), [закупки Краснодарского края (drcs.krasnodar.ru)](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar), [закупки Свердловской области (goszakaz.midural.ru)](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural), [закупки РС(Я) (zakupki.sakha.gov.ru)](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov), [закупки РД (komzak.e-dag.ru)](/data-sources/regional/dagestan-procurement-komzak-e-dag), [закупки Кузбасса (ugzko.ru)](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko), [закупки Югры (zakupki.admhmao.ru)](/data-sources/regional/khmao-yugra-procurement-zakupki-admhmao), [закупки Калининградской области (zakupki.gov39.ru)](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39) — аналогичная роль **субнационального** оператора закупочной политики.
+- [Закупки Москвы (tender.mos.ru)](/data-sources/regional/moscow-procurement-tender-mos), [закупки СПб (gz-spb.ru)](/data-sources/regional/saint-petersburg-procurement-gz-spb), [закупки Краснодарского края (drcs.krasnodar.ru)](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar), [закупки Свердловской области (goszakaz.midural.ru)](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural), [закупки РС(Я) (zakupki.sakha.gov.ru)](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov), [закупки РД (komzak.e-dag.ru)](/data-sources/regional/dagestan-procurement-komzak-e-dag), [закупки Кузбасса (ugzko.ru)](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko), [закупки Югры (zakupki.admhmao.ru)](/data-sources/regional/khmao-yugra-procurement-zakupki-admhmao), [закупки Калининградской области (zakupki.gov39.ru)](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39) — аналогичная роль **субнационального** оператора закупочной политики.
 
 ## Не путать с
 

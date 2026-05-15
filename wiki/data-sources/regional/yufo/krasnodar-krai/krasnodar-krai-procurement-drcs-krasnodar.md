@@ -5,7 +5,7 @@ tags:
   - data-source
   - regional
   - procurement
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 slug: /data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar
 source_url: 'https://drcs.krasnodar.ru/'
 data_source_kind: portal
@@ -23,8 +23,10 @@ content_type: data_source
 entity_type: data-source
 related_pages:
   - /data-sources/regional/subject-krasnodar-krai-sources-overview
+  - /data-sources/regional/krasnodar-krai-procurement-zakupki-krasnodar
+  - /data-sources/regional/krasnodar-krai-minfin-krasnodar
   - /data-sources/regional/regional-procurement-sources-overview
-  - /data-sources/regional/moscow-city-procurement-tender-mos
+  - /data-sources/regional/moscow-procurement-tender-mos
   - /data-sources/regional/saint-petersburg-procurement-gz-spb
   - /data-sources/regional/tatarstan-procurement-goszakupki-tatarstan
   - /data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural
@@ -103,11 +105,13 @@ curl -fsSL -A "finguide-drcs-krasnodar-check/1.0" -o /dev/null -w "%{http_code}\
 
 ## Связанные страницы wiki
 
+- [Портал госзакупок КК (zakupki.krasnodar.ru)](/data-sources/regional/krasnodar-krai-procurement-zakupki-krasnodar) — **отдельный** региональный **портал** закупок края.
 - [Навигатор по региональным закупкам](/data-sources/regional/regional-procurement-sources-overview).
-- [Закупки Москвы (tender.mos.ru)](/data-sources/regional/moscow-city-procurement-tender-mos), [СПб (gz-spb.ru)](/data-sources/regional/saint-petersburg-procurement-gz-spb), [Татарстан (goszakupki.tatarstan.ru)](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan), [Свердловская область (goszakaz.midural.ru)](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural), [РС(Я) (zakupki.sakha.gov.ru)](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov), [РД (komzak.e-dag.ru)](/data-sources/regional/dagestan-procurement-komzak-e-dag), [Кузбасс (ugzko.ru)](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko), [Югра (zakupki.admhmao.ru)](/data-sources/regional/khmao-yugra-procurement-zakupki-admhmao), [Калининградская область (zakupki.gov39.ru)](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39) — другие **субнациональные** витрины закупочной политики.
+- [Закупки Москвы (tender.mos.ru)](/data-sources/regional/moscow-procurement-tender-mos), [СПб (gz-spb.ru)](/data-sources/regional/saint-petersburg-procurement-gz-spb), [Татарстан (goszakupki.tatarstan.ru)](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan), [Свердловская область (goszakaz.midural.ru)](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural), [РС(Я) (zakupki.sakha.gov.ru)](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov), [РД (komzak.e-dag.ru)](/data-sources/regional/dagestan-procurement-komzak-e-dag), [Кузбасс (ugzko.ru)](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko), [Югра (zakupki.admhmao.ru)](/data-sources/regional/khmao-yugra-procurement-zakupki-admhmao), [Калининградская область (zakupki.gov39.ru)](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39) — другие **субнациональные** витрины закупочной политики.
 
 ## Не путать с
 
+- **[Портал госзакупок (zakupki.krasnodar.ru)](/data-sources/regional/krasnodar-krai-procurement-zakupki-krasnodar)** — **иной** региональный **портал**; **drcs.krasnodar.ru** — **департамент** **регулирования** контрактной системы.
 - **[ЕИС](/information-systems/federal/zakupki)** — федеральный **контрактный** контур; департамент **не** заменяет реестр извещений и контрактов.
 
 ## Частые вопросы

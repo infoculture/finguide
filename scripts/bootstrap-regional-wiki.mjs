@@ -7,6 +7,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import matter from 'gray-matter';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, '..');
@@ -45,15 +46,25 @@ const SOURCE_CARD_MOVES = [
   ['moscow-city-tfoms-mgfoms', 'moscow'],
 ];
 
-function collectSourceCardBasenames(fedOkrugSlug, subjectSlug) {
+/** Published card slugs (tail after /data-sources/regional/) from frontmatter, not filenames. */
+function collectSourceCardEntries(fedOkrugSlug, subjectSlug) {
   const dir = path.join(WIKI_REGIONAL, fedOkrugSlug, subjectSlug);
   if (!fs.existsSync(dir)) return [];
   const overview = `subject-${subjectSlug}-sources-overview.md`;
-  return fs
-    .readdirSync(dir)
-    .filter((f) => f.endsWith('.md') && f !== overview)
-    .map((f) => f.replace(/\.md$/, ''))
-    .sort();
+  const entries = [];
+  for (const f of fs.readdirSync(dir)) {
+    if (!f.endsWith('.md') || f === overview) continue;
+    const { data } = matter(fs.readFileSync(path.join(dir, f), 'utf8'));
+    if (data.draft === true) continue;
+    const slug = data.slug || `/data-sources/regional/${f.replace(/\.md$/, '')}`;
+    const tail = slug.replace(/^\/data-sources\/regional\//, '');
+    entries.push({
+      tail,
+      title: data.title || data.sidebar_label || tail.replace(/-/g, ' '),
+    });
+  }
+  entries.sort((a, b) => a.tail.localeCompare(b.tail));
+  return entries;
 }
 
 function yqStr(s) {
@@ -91,6 +102,25 @@ function writeRegionalDirectoryYaml() {
 
 function subjectBySlug(slug) {
   return subjects.find((s) => s.subject_slug === slug);
+}
+
+function writeSubjectCategoryFiles() {
+  let count = 0;
+  const positionByDistrict = new Map();
+  for (const s of subjects) {
+    const fed = s.fed_okrug_slug;
+    const pos = (positionByDistrict.get(fed) ?? 0) + 1;
+    positionByDistrict.set(fed, pos);
+    const dir = path.join(WIKI_REGIONAL, fed, s.subject_slug);
+    fs.mkdirSync(dir, { recursive: true });
+    fs.writeFileSync(
+      path.join(dir, '_category_.json'),
+      JSON.stringify({ label: s.name_ru, position: pos }, null, 2) + '\n',
+      'utf8',
+    );
+    count++;
+  }
+  console.log(`Wrote _category_.json for ${count} subject folders.`);
 }
 
 function writeDistrictHubs() {
@@ -146,14 +176,14 @@ ${lines}
   console.log('Wrote federal district README + _category_.json under wiki/data-sources/regional/<okrug>/');
 }
 
-function overviewFrontmatter(s, cardBasenames) {
+function overviewFrontmatter(s, cards) {
   const ob = `subject-${s.subject_slug}-sources-overview`;
   const slug = `/data-sources/regional/${ob}`;
   const related = [
     '/data-sources/regional',
     '/data-sources/regional/how-to-find-regional-data',
     '/data-sources/regional/consolidated-budgets',
-    ...cardBasenames.map((b) => `/data-sources/regional/${b}`),
+    ...cards.map((c) => `/data-sources/regional/${c.tail}`),
   ];
   const relatedYaml = related.map((p) => `  - ${p}`).join('\n');
   return `---
@@ -179,12 +209,9 @@ ${relatedYaml}
 ## Карточки источников
 
 ${
-  cardBasenames.length
-    ? cardBasenames
-        .map((b) => {
-          const label = b.replace(/-/g, ' ');
-          return `- [${label}](/data-sources/regional/${b}) — карточка источника.`;
-        })
+  cards.length
+    ? cards
+        .map((c) => `- [${c.title}](/data-sources/regional/${c.tail}) — карточка источника.`)
         .join('\n')
     : '_Пока нет опубликованных карточек источников для этого субъекта; материалы добавляются по мере наполнения корпуса._ См. также [как искать региональные данные](/data-sources/regional/how-to-find-regional-data) и [консолидированные бюджеты субъектов](/data-sources/regional/consolidated-budgets).'
 }
@@ -200,7 +227,7 @@ function writeSubjectOverviews() {
   for (const s of subjects) {
     const dir = path.join(WIKI_REGIONAL, s.fed_okrug_slug, s.subject_slug);
     fs.mkdirSync(dir, { recursive: true });
-    const cards = collectSourceCardBasenames(s.fed_okrug_slug, s.subject_slug);
+    const cards = collectSourceCardEntries(s.fed_okrug_slug, s.subject_slug);
     const ob = `subject-${s.subject_slug}-sources-overview.md`;
     fs.writeFileSync(path.join(dir, ob), overviewFrontmatter(s, cards), 'utf8');
   }
@@ -237,6 +264,10 @@ function main() {
     writeDistrictHubs();
     return;
   }
+  if (cmd === 'categories') {
+    writeSubjectCategoryFiles();
+    return;
+  }
   if (cmd === 'overviews' || cmd === 'refresh-overviews') {
     writeSubjectOverviews();
     return;
@@ -247,6 +278,7 @@ function main() {
   }
   writeRegionalDirectoryYaml();
   writeDistrictHubs();
+  writeSubjectCategoryFiles();
   writeSubjectOverviews();
   moveSourceCards();
   console.log('Done. Next: patch card related_pages for overview slugs, update AGENTS/README, run export:knowledge.');

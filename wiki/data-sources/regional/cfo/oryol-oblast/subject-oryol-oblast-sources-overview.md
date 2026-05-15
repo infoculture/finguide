@@ -4,7 +4,7 @@ sidebar_label: "Орловская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Орловская область: прямые ссылки на
@@ -14,38 +14,38 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/oryol-oblast-fin-050ccb496e
-  - /data-sources/regional/oryol-oblast-fin-05a3986a46
-  - /data-sources/regional/oryol-oblast-fin-1e600b62ba
-  - /data-sources/regional/oryol-oblast-fin-2da686151f
-  - /data-sources/regional/oryol-oblast-fin-35ee565f2d
-  - /data-sources/regional/oryol-oblast-fin-3eb6a5799e
-  - /data-sources/regional/oryol-oblast-fin-3f0f5d6932
-  - /data-sources/regional/oryol-oblast-fin-50e9ac7b1f
-  - /data-sources/regional/oryol-oblast-fin-c11901d084
-  - /data-sources/regional/oryol-oblast-fin-cd9232d2d4
-  - /data-sources/regional/oryol-oblast-fin-d10c25bd5a
-  - /data-sources/regional/oryol-oblast-fin-f89653363a
+  - /data-sources/regional/oryol-city-peoples-budget
+  - /data-sources/regional/oryol-oblast-accounting-chamber-ksp-plans
+  - /data-sources/regional/oryol-oblast-department-of-finance
+  - /data-sources/regional/oryol-oblast-federal-treasury-roskazna
+  - /data-sources/regional/oryol-oblast-fns-documents
+  - /data-sources/regional/oryol-oblast-legislative-assembly-laws
+  - /data-sources/regional/oryol-oblast-mandatory-health-insurance-fund
+  - /data-sources/regional/oryol-oblast-oip-pravo-publication
+  - /data-sources/regional/oryol-oblast-open-budget-for-citizens
+  - /data-sources/regional/oryol-oblast-procurement-portal-goszakupki
+  - /data-sources/regional/oryol-oblast-rosstat-financial-statistics
+  - /data-sources/regional/oryol-oblast-state-programs-registry-cntd
 ---
 
 # Орловская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [oryol oblast fin 050ccb496e](/data-sources/regional/oryol-oblast-fin-050ccb496e) — карточка источника.
-- [oryol oblast fin 05a3986a46](/data-sources/regional/oryol-oblast-fin-05a3986a46) — карточка источника.
-- [oryol oblast fin 1e600b62ba](/data-sources/regional/oryol-oblast-fin-1e600b62ba) — карточка источника.
-- [oryol oblast fin 2da686151f](/data-sources/regional/oryol-oblast-fin-2da686151f) — карточка источника.
-- [oryol oblast fin 35ee565f2d](/data-sources/regional/oryol-oblast-fin-35ee565f2d) — карточка источника.
-- [oryol oblast fin 3eb6a5799e](/data-sources/regional/oryol-oblast-fin-3eb6a5799e) — карточка источника.
-- [oryol oblast fin 3f0f5d6932](/data-sources/regional/oryol-oblast-fin-3f0f5d6932) — карточка источника.
-- [oryol oblast fin 50e9ac7b1f](/data-sources/regional/oryol-oblast-fin-50e9ac7b1f) — карточка источника.
-- [oryol oblast fin c11901d084](/data-sources/regional/oryol-oblast-fin-c11901d084) — карточка источника.
-- [oryol oblast fin cd9232d2d4](/data-sources/regional/oryol-oblast-fin-cd9232d2d4) — карточка источника.
-- [oryol oblast fin d10c25bd5a](/data-sources/regional/oryol-oblast-fin-d10c25bd5a) — карточка источника.
-- [oryol oblast fin f89653363a](/data-sources/regional/oryol-oblast-fin-f89653363a) — карточка источника.
+- [Город Орёл: раздел «Народный бюджет» на сайте администрации](/data-sources/regional/oryol-city-peoples-budget) — карточка источника.
+- [Орловская область: Контрольно-счётная палата — планы и отчёты о контроле](/data-sources/regional/oryol-oblast-accounting-chamber-ksp-plans) — карточка источника.
+- [Орловская область: Департамент финансов — официальный сайт](/data-sources/regional/oryol-oblast-department-of-finance) — карточка источника.
+- [Орловская область: Управление Федерального казначейства (Росказна)](/data-sources/regional/oryol-oblast-federal-treasury-roskazna) — карточка источника.
+- [Орловская область: УФНС России — документы и разъяснения по региональному контуру](/data-sources/regional/oryol-oblast-fns-documents) — карточка источника.
+- [Орловская область: законодательство на сайте областного Совета народных депутатов](/data-sources/regional/oryol-oblast-legislative-assembly-laws) — карточка источника.
+- [Орловская область: ТФОМС — нормативные акты и материалы по ОМС](/data-sources/regional/oryol-oblast-mandatory-health-insurance-fund) — карточка источника.
+- [Орловская область: официальное опубликование НПА (ОИППИ, блок региона 57)](/data-sources/regional/oryol-oblast-oip-pravo-publication) — карточка источника.
+- [Орловская область: «Открытый бюджет» (витрина для граждан)](/data-sources/regional/oryol-oblast-open-budget-for-citizens) — карточка источника.
+- [Орловская область: Региональный портал государственных закупок](/data-sources/regional/oryol-oblast-procurement-portal-goszakupki) — карточка источника.
+- [Орловская область: Орёлстат — раздел финансовой статистики](/data-sources/regional/oryol-oblast-rosstat-financial-statistics) — карточка источника.
+- [Орловская область: перечень государственных программ (публикация на КонсультантПлюс)](/data-sources/regional/oryol-oblast-state-programs-registry-cntd) — карточка источника.
 
 ## Контекст
 

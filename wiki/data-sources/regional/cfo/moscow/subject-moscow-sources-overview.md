@@ -4,7 +4,7 @@ sidebar_label: "город Москва"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для город Москва: прямые ссылки на
@@ -14,44 +14,42 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/moscow-city-procurement-tender-mos
-  - /data-sources/regional/moscow-city-tfoms-mgfoms
-  - /data-sources/regional/moscow-fin-1252efce42
-  - /data-sources/regional/moscow-fin-1332aa941b
-  - /data-sources/regional/moscow-fin-33520a7fcc
-  - /data-sources/regional/moscow-fin-4b60215563
-  - /data-sources/regional/moscow-fin-4ecd9d48c0
-  - /data-sources/regional/moscow-fin-5345ce8d5b
-  - /data-sources/regional/moscow-fin-59f1b7e4dc
-  - /data-sources/regional/moscow-fin-72d1e03ab5
-  - /data-sources/regional/moscow-fin-d6a0598750
-  - /data-sources/regional/moscow-fin-e493efb2a4
-  - /data-sources/regional/moscow-fin-e6f685b3cd
-  - /data-sources/regional/moscow-fin-ec9dce7107
-  - /data-sources/regional/moscow-fin-fad6a59b32
+  - /data-sources/regional/moscow-accounts-chamber-ksp
+  - /data-sources/regional/moscow-city-duma
+  - /data-sources/regional/moscow-findep
+  - /data-sources/regional/moscow-findep-internal-control
+  - /data-sources/regional/moscow-government-authorities-directory
+  - /data-sources/regional/moscow-legal-acts-mosopen
+  - /data-sources/regional/moscow-mgfoms
+  - /data-sources/regional/moscow-open-budget
+  - /data-sources/regional/moscow-open-budget-state-programs
+  - /data-sources/regional/moscow-open-data-portal
+  - /data-sources/regional/moscow-procurement-tender-mos
+  - /data-sources/regional/moscow-rosstat-territorial-77
+  - /data-sources/regional/moscow-ufk-roskazna
+  - /data-sources/regional/moscow-ufns-rn77
 ---
 
 # город Москва: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [moscow city procurement tender mos](/data-sources/regional/moscow-city-procurement-tender-mos) — карточка источника.
-- [moscow city tfoms mgfoms](/data-sources/regional/moscow-city-tfoms-mgfoms) — карточка источника.
-- [moscow fin 1252efce42](/data-sources/regional/moscow-fin-1252efce42) — карточка источника.
-- [moscow fin 1332aa941b](/data-sources/regional/moscow-fin-1332aa941b) — карточка источника.
-- [moscow fin 33520a7fcc](/data-sources/regional/moscow-fin-33520a7fcc) — карточка источника.
-- [moscow fin 4b60215563](/data-sources/regional/moscow-fin-4b60215563) — карточка источника.
-- [moscow fin 4ecd9d48c0](/data-sources/regional/moscow-fin-4ecd9d48c0) — карточка источника.
-- [moscow fin 5345ce8d5b](/data-sources/regional/moscow-fin-5345ce8d5b) — карточка источника.
-- [moscow fin 59f1b7e4dc](/data-sources/regional/moscow-fin-59f1b7e4dc) — карточка источника.
-- [moscow fin 72d1e03ab5](/data-sources/regional/moscow-fin-72d1e03ab5) — карточка источника.
-- [moscow fin d6a0598750](/data-sources/regional/moscow-fin-d6a0598750) — карточка источника.
-- [moscow fin e493efb2a4](/data-sources/regional/moscow-fin-e493efb2a4) — карточка источника.
-- [moscow fin e6f685b3cd](/data-sources/regional/moscow-fin-e6f685b3cd) — карточка источника.
-- [moscow fin ec9dce7107](/data-sources/regional/moscow-fin-ec9dce7107) — карточка источника.
-- [moscow fin fad6a59b32](/data-sources/regional/moscow-fin-fad6a59b32) — карточка источника.
+- [Город Москва: контрольно-счётная палата Москвы (ksp.mos.ru)](/data-sources/regional/moscow-accounts-chamber-ksp) — карточка источника.
+- [Город Москва: Московская городская Дума (duma.mos.ru)](/data-sources/regional/moscow-city-duma) — карточка источника.
+- [Город Москва: департамент финансов (mos.ru/findep)](/data-sources/regional/moscow-findep) — карточка источника.
+- [Город Москва: департамент финансов — внутренний финансовый аудит и ведомственный контроль](/data-sources/regional/moscow-findep-internal-control) — карточка источника.
+- [Город Москва: портал органов власти — перечень департаментов и комитетов (mos.ru)](/data-sources/regional/moscow-government-authorities-directory) — карточка источника.
+- [Город Москва: система правовых актов (MosOpen / mosopen.ru)](/data-sources/regional/moscow-legal-acts-mosopen) — карточка источника.
+- [Московский городской фонд обязательного медицинского страхования (МГФОМС)](/data-sources/regional/moscow-mgfoms) — карточка источника.
+- [Город Москва: портал «Открытый бюджет города Москвы» (budget.mos.ru)](/data-sources/regional/moscow-open-budget) — карточка источника.
+- [Город Москва: государственные программы на портале «Открытый бюджет»](/data-sources/regional/moscow-open-budget-state-programs) — карточка источника.
+- [Город Москва: портал открытых данных Правительства Москвы (data.mos.ru)](/data-sources/regional/moscow-open-data-portal) — карточка источника.
+- [Москва: Департамент города Москвы по конкурентной политике (закупки и торги)](/data-sources/regional/moscow-procurement-tender-mos) — карточка источника.
+- [Город Москва и Московская область: территориальный орган Росстата (77.rosstat.gov.ru)](/data-sources/regional/moscow-rosstat-territorial-77) — карточка источника.
+- [Город Москва: Управление Федерального казначейства (moscow.roskazna.gov.ru)](/data-sources/regional/moscow-ufk-roskazna) — карточка источника.
+- [Город Москва: УФНС России по г. Москве (nalog.gov.ru/rn77)](/data-sources/regional/moscow-ufns-rn77) — карточка источника.
 
 ## Контекст
 

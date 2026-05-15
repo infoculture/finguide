@@ -4,7 +4,7 @@ sidebar_label: "Рязанская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Рязанская область: прямые ссылки на
@@ -14,38 +14,38 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/ryazan-oblast-fin-12e466b598
-  - /data-sources/regional/ryazan-oblast-fin-4f62335f99
-  - /data-sources/regional/ryazan-oblast-fin-621a86fa73
-  - /data-sources/regional/ryazan-oblast-fin-6933386d1e
-  - /data-sources/regional/ryazan-oblast-fin-806e16474f
-  - /data-sources/regional/ryazan-oblast-fin-822c45546b
-  - /data-sources/regional/ryazan-oblast-fin-adc99c2359
-  - /data-sources/regional/ryazan-oblast-fin-ba2d1ea219
-  - /data-sources/regional/ryazan-oblast-fin-d213e100eb
-  - /data-sources/regional/ryazan-oblast-fin-dd6845686c
-  - /data-sources/regional/ryazan-oblast-fin-ddb19b6608
-  - /data-sources/regional/ryazan-oblast-fin-f2df6a3ba7
+  - /data-sources/regional/ryazan-city-ksp
+  - /data-sources/regional/ryazan-oblast-ksp
+  - /data-sources/regional/ryazan-oblast-minfin
+  - /data-sources/regional/ryazan-oblast-minfin-normative-acts
+  - /data-sources/regional/ryazan-oblast-oblast-duma-zakony
+  - /data-sources/regional/ryazan-oblast-open-budget
+  - /data-sources/regional/ryazan-oblast-rosstat-tom62
+  - /data-sources/regional/ryazan-oblast-state-programs-mineconom
+  - /data-sources/regional/ryazan-oblast-tfoms
+  - /data-sources/regional/ryazan-oblast-ufk-roskazna
+  - /data-sources/regional/ryazan-oblast-ufns
+  - /data-sources/regional/ryazan-oblast-zakupki-portal-czro
 ---
 
 # Рязанская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [ryazan oblast fin 12e466b598](/data-sources/regional/ryazan-oblast-fin-12e466b598) — карточка источника.
-- [ryazan oblast fin 4f62335f99](/data-sources/regional/ryazan-oblast-fin-4f62335f99) — карточка источника.
-- [ryazan oblast fin 621a86fa73](/data-sources/regional/ryazan-oblast-fin-621a86fa73) — карточка источника.
-- [ryazan oblast fin 6933386d1e](/data-sources/regional/ryazan-oblast-fin-6933386d1e) — карточка источника.
-- [ryazan oblast fin 806e16474f](/data-sources/regional/ryazan-oblast-fin-806e16474f) — карточка источника.
-- [ryazan oblast fin 822c45546b](/data-sources/regional/ryazan-oblast-fin-822c45546b) — карточка источника.
-- [ryazan oblast fin adc99c2359](/data-sources/regional/ryazan-oblast-fin-adc99c2359) — карточка источника.
-- [ryazan oblast fin ba2d1ea219](/data-sources/regional/ryazan-oblast-fin-ba2d1ea219) — карточка источника.
-- [ryazan oblast fin d213e100eb](/data-sources/regional/ryazan-oblast-fin-d213e100eb) — карточка источника.
-- [ryazan oblast fin dd6845686c](/data-sources/regional/ryazan-oblast-fin-dd6845686c) — карточка источника.
-- [ryazan oblast fin ddb19b6608](/data-sources/regional/ryazan-oblast-fin-ddb19b6608) — карточка источника.
-- [ryazan oblast fin f2df6a3ba7](/data-sources/regional/ryazan-oblast-fin-f2df6a3ba7) — карточка источника.
+- [Рязань: контрольно-счётная палата города Рязани](/data-sources/regional/ryazan-city-ksp) — карточка источника.
+- [Рязанская область: контрольно-счётная палата Рязанской области](/data-sources/regional/ryazan-oblast-ksp) — карточка источника.
+- [Рязанская область: Министерство финансов Рязанской области](/data-sources/regional/ryazan-oblast-minfin) — карточка источника.
+- [Рязанская область: нормативные правовые акты на сайте Минфина](/data-sources/regional/ryazan-oblast-minfin-normative-acts) — карточка источника.
+- [Рязанская область: Рязанская областная Дума — законы](/data-sources/regional/ryazan-oblast-oblast-duma-zakony) — карточка источника.
+- [Рязанская область: открытый бюджет (Минфин Рязанской области)](/data-sources/regional/ryazan-oblast-open-budget) — карточка источника.
+- [Рязанская область: территориальный орган Росстата (ТОМ №62)](/data-sources/regional/ryazan-oblast-rosstat-tom62) — карточка источника.
+- [Рязанская область: государственные программы (Минэкономразвития)](/data-sources/regional/ryazan-oblast-state-programs-mineconom) — карточка источника.
+- [Рязанская область: территориальный фонд ОМС](/data-sources/regional/ryazan-oblast-tfoms) — карточка источника.
+- [Рязанская область: Управление Федерального казначейства по Рязанской области](/data-sources/regional/ryazan-oblast-ufk-roskazna) — карточка источника.
+- [Рязанская область: УФНС России по Рязанской области](/data-sources/regional/ryazan-oblast-ufns) — карточка источника.
+- [Рязанская область: портал государственных закупок (czro.ru)](/data-sources/regional/ryazan-oblast-zakupki-portal-czro) — карточка источника.
 
 ## Контекст
 

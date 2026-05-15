@@ -4,7 +4,7 @@ sidebar_label: "Чеченская Республика"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Чеченская Республика: прямые ссылки на
@@ -14,32 +14,32 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/chechen-republic-fin-113fe37838
-  - /data-sources/regional/chechen-republic-fin-1719d76fba
-  - /data-sources/regional/chechen-republic-fin-191b330c6f
-  - /data-sources/regional/chechen-republic-fin-33660bddca
-  - /data-sources/regional/chechen-republic-fin-448d4ed08b
-  - /data-sources/regional/chechen-republic-fin-48ac5a8048
-  - /data-sources/regional/chechen-republic-fin-843c6ecc08
-  - /data-sources/regional/chechen-republic-fin-91d80a06a5
-  - /data-sources/regional/chechen-republic-fin-a8c95f2383
+  - /data-sources/regional/chechen-republic-budget-for-citizens
+  - /data-sources/regional/chechen-republic-gostorgi-chr
+  - /data-sources/regional/chechen-republic-minfin
+  - /data-sources/regional/chechen-republic-npa-pravo-gov
+  - /data-sources/regional/chechen-republic-parliament
+  - /data-sources/regional/chechen-republic-roskazna-chechnya
+  - /data-sources/regional/chechen-republic-rosstat
+  - /data-sources/regional/chechen-republic-tfoms
+  - /data-sources/regional/chechen-republic-ufns
 ---
 
 # Чеченская Республика: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [chechen republic fin 113fe37838](/data-sources/regional/chechen-republic-fin-113fe37838) — карточка источника.
-- [chechen republic fin 1719d76fba](/data-sources/regional/chechen-republic-fin-1719d76fba) — карточка источника.
-- [chechen republic fin 191b330c6f](/data-sources/regional/chechen-republic-fin-191b330c6f) — карточка источника.
-- [chechen republic fin 33660bddca](/data-sources/regional/chechen-republic-fin-33660bddca) — карточка источника.
-- [chechen republic fin 448d4ed08b](/data-sources/regional/chechen-republic-fin-448d4ed08b) — карточка источника.
-- [chechen republic fin 48ac5a8048](/data-sources/regional/chechen-republic-fin-48ac5a8048) — карточка источника.
-- [chechen republic fin 843c6ecc08](/data-sources/regional/chechen-republic-fin-843c6ecc08) — карточка источника.
-- [chechen republic fin 91d80a06a5](/data-sources/regional/chechen-republic-fin-91d80a06a5) — карточка источника.
-- [chechen republic fin a8c95f2383](/data-sources/regional/chechen-republic-fin-a8c95f2383) — карточка источника.
+- [Чеченская Республика: «Бюджет для граждан» (сайт Минфина ЧР)](/data-sources/regional/chechen-republic-budget-for-citizens) — карточка источника.
+- [Чеченская Республика: Комитет Правительства по госзаказу (госторги ЧР)](/data-sources/regional/chechen-republic-gostorgi-chr) — карточка источника.
+- [Чеченская Республика: Министерство финансов Чеченской Республики](/data-sources/regional/chechen-republic-minfin) — карточка источника.
+- [Чеченская Республика: публикация правовых актов на pravo.gov.ru (блок region20)](/data-sources/regional/chechen-republic-npa-pravo-gov) — карточка источника.
+- [Чеченская Республика: Парламент Чеченской Республики](/data-sources/regional/chechen-republic-parliament) — карточка источника.
+- [Чеченская Республика: Управление Федерального казначейства по Чеченской Республике](/data-sources/regional/chechen-republic-roskazna-chechnya) — карточка источника.
+- [Чеченская Республика: Чеченстат (территориальный орган Росстата, 95.rosstat.gov.ru)](/data-sources/regional/chechen-republic-rosstat) — карточка источника.
+- [Чеченская Республика: Территориальный фонд ОМС (tfoms-chr.ru)](/data-sources/regional/chechen-republic-tfoms) — карточка источника.
+- [Чеченская Республика: УФНС России по Чеченской Республике](/data-sources/regional/chechen-republic-ufns) — карточка источника.
 
 ## Контекст
 

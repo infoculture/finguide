@@ -28,7 +28,7 @@ related_pages:
   - /reporting/procurement-contract-reporting
   - /legal/44fz
   - /legal/223-fz
-  - /data-sources/regional/moscow-city-procurement-tender-mos
+  - /data-sources/regional/moscow-procurement-tender-mos
   - /data-sources/regional/saint-petersburg-procurement-gz-spb
   - /data-sources/regional/tatarstan-procurement-goszakupki-tatarstan
   - /data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar
@@ -63,7 +63,7 @@ related_pages:
 ### Региональный и муниципальный слой
 
 - Часть заказчиков публикует **дополнительные** материалы (отчёты, реестры муниципальных контрактов) на **сайте субъекта** или **МО** — их нужно искать по **[методике регионального поиска](./how-to-find-regional-data.md)**.
-- **Крупные города** и **субъекты РФ** иногда имеют **отдельный** портал органа по закупкам (примеры в wiki: **[Департамент по конкурентной политике Москвы](/data-sources/regional/moscow-city-procurement-tender-mos)**, **[Комитет по госзаказу СПб](/data-sources/regional/saint-petersburg-procurement-gz-spb)**, **[Госкомитет по закупкам Татарстана](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan)**, **[Департамент по регулированию контрактной системы Краснодарского края](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar)**, **[Департамент госзаказа Свердловской области](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural)**, **[РС(Я): zakupki.sakha.gov.ru](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov)**, **[Комитет по государственным закупкам РД (komzak.e-dag.ru)](/data-sources/regional/dagestan-procurement-komzak-e-dag)**, **[Департамент контрактной системы Кузбасса (ugzko.ru)](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko)**, **[Закупки Югры (zakupki.admhmao.ru)](/data-sources/regional/khmao-yugra-procurement-zakupki-admhmao)**, **[Региональная ИС Калининградской области (zakupki.gov39.ru)](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39)**).
+- **Крупные города** и **субъекты РФ** иногда имеют **отдельный** портал органа по закупкам (примеры в wiki: **[Департамент по конкурентной политике Москвы](/data-sources/regional/moscow-procurement-tender-mos)**, **[Комитет по госзаказу СПб](/data-sources/regional/saint-petersburg-procurement-gz-spb)**, **[Госкомитет по закупкам Татарстана](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan)**, **[Департамент по регулированию контрактной системы Краснодарского края](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar)**, **[Департамент госзаказа Свердловской области](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural)**, **[РС(Я): zakupki.sakha.gov.ru](/data-sources/regional/sakha-yakutia-procurement-zakupki-sakha-gov)**, **[Комитет по государственным закупкам РД (komzak.e-dag.ru)](/data-sources/regional/dagestan-procurement-komzak-e-dag)**, **[Департамент контрактной системы Кузбасса (ugzko.ru)](/data-sources/regional/kemerovo-kuzbass-procurement-ugzko)**, **[Закупки Югры (zakupki.admhmao.ru)](/data-sources/regional/khmao-yugra-procurement-zakupki-admhmao)**, **[Региональная ИС Калининградской области (zakupki.gov39.ru)](/data-sources/regional/kaliningrad-oblast-procurement-zakupki-gov39)**).
 
 ### Типовые ошибки
 
@@ -76,7 +76,7 @@ related_pages:
 | --- | --- | --- |
 | Федеральный контрактный реестр | [ЕИС](/information-systems/federal/zakupki), https://zakupki.gov.ru/ | Общероссийский поиск и выгрузки |
 | Нормативка | [44-ФЗ](/legal/44fz), [223-ФЗ](/legal/223-fz) | Рамки процедур |
-| Пример городского портала (Москва) | [Закупки Москвы (tender.mos.ru)](/data-sources/regional/moscow-city-procurement-tender-mos) | Региональный вход для столицы |
+| Пример городского портала (Москва) | [Закупки Москвы (tender.mos.ru)](/data-sources/regional/moscow-procurement-tender-mos) | Региональный вход для столицы |
 | Пример городского портала (Санкт-Петербург) | [Комитет по госзаказу СПб (gz-spb.ru)](/data-sources/regional/saint-petersburg-procurement-gz-spb) | Региональный вход для СПб |
 | Пример регионального портала (Татарстан) | [Госкомитет по закупкам РТ (goszakupki.tatarstan.ru)](/data-sources/regional/tatarstan-procurement-goszakupki-tatarstan) | Региональный вход для Республики Татарстан |
 | Пример регионального портала (Краснодарский край) | [Департамент по регулированию контрактной системы (drcs.krasnodar.ru)](/data-sources/regional/krasnodar-krai-procurement-drcs-krasnodar) | Краевой орган регулирования закупок |

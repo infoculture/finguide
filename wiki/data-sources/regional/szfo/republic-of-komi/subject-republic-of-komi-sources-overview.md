@@ -4,7 +4,7 @@ sidebar_label: "Республика Коми"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Республика Коми: прямые ссылки на
@@ -14,32 +14,32 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/republic-of-komi-fin-0d89be7624
-  - /data-sources/regional/republic-of-komi-fin-13d8a20f3e
-  - /data-sources/regional/republic-of-komi-fin-287207244c
-  - /data-sources/regional/republic-of-komi-fin-36a3141998
-  - /data-sources/regional/republic-of-komi-fin-3aeef4ff91
-  - /data-sources/regional/republic-of-komi-fin-3de0c0b06f
-  - /data-sources/regional/republic-of-komi-fin-98394e0e0d
-  - /data-sources/regional/republic-of-komi-fin-cf4a253d72
-  - /data-sources/regional/republic-of-komi-fin-dfe94f8dbd
+  - /data-sources/regional/republic-of-komi-budget-gov-ru-open-data
+  - /data-sources/regional/republic-of-komi-initiative-budgeting
+  - /data-sources/regional/republic-of-komi-minfin
+  - /data-sources/regional/republic-of-komi-npa-portal
+  - /data-sources/regional/republic-of-komi-rosstat-territorial
+  - /data-sources/regional/republic-of-komi-state-council
+  - /data-sources/regional/republic-of-komi-tfoms
+  - /data-sources/regional/republic-of-komi-treasury-roskazna
+  - /data-sources/regional/republic-of-komi-ufns
 ---
 
 # Республика Коми: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [republic of komi fin 0d89be7624](/data-sources/regional/republic-of-komi-fin-0d89be7624) — карточка источника.
-- [republic of komi fin 13d8a20f3e](/data-sources/regional/republic-of-komi-fin-13d8a20f3e) — карточка источника.
-- [republic of komi fin 287207244c](/data-sources/regional/republic-of-komi-fin-287207244c) — карточка источника.
-- [republic of komi fin 36a3141998](/data-sources/regional/republic-of-komi-fin-36a3141998) — карточка источника.
-- [republic of komi fin 3aeef4ff91](/data-sources/regional/republic-of-komi-fin-3aeef4ff91) — карточка источника.
-- [republic of komi fin 3de0c0b06f](/data-sources/regional/republic-of-komi-fin-3de0c0b06f) — карточка источника.
-- [republic of komi fin 98394e0e0d](/data-sources/regional/republic-of-komi-fin-98394e0e0d) — карточка источника.
-- [republic of komi fin cf4a253d72](/data-sources/regional/republic-of-komi-fin-cf4a253d72) — карточка источника.
-- [republic of komi fin dfe94f8dbd](/data-sources/regional/republic-of-komi-fin-dfe94f8dbd) — карточка источника.
+- [Республика Коми: открытые данные ГИИС «Электронный бюджет» (федеральный портал, срезы по субъекту)](/data-sources/regional/republic-of-komi-budget-gov-ru-open-data) — карточка источника.
+- [Республика Коми: портал инициативного бюджетирования («Народный бюджет»)](/data-sources/regional/republic-of-komi-initiative-budgeting) — карточка источника.
+- [Республика Коми: Министерство финансов Республики Коми](/data-sources/regional/republic-of-komi-minfin) — карточка источника.
+- [Республика Коми: Банк правовых актов (law.rkomi.ru)](/data-sources/regional/republic-of-komi-npa-portal) — карточка источника.
+- [Республика Коми: Территориальный орган Росстата (Комистат, код территории 11)](/data-sources/regional/republic-of-komi-rosstat-territorial) — карточка источника.
+- [Республика Коми: Государственный Совет Республики Коми](/data-sources/regional/republic-of-komi-state-council) — карточка источника.
+- [Республика Коми: Территориальный фонд ОМС (ТФОМС Республики Коми)](/data-sources/regional/republic-of-komi-tfoms) — карточка источника.
+- [Республика Коми: Управление Федерального казначейства по Республике Коми (сайт Росказначейства)](/data-sources/regional/republic-of-komi-treasury-roskazna) — карточка источника.
+- [Республика Коми: УФНС России (официальный сайт, код региона 11)](/data-sources/regional/republic-of-komi-ufns) — карточка источника.
 
 ## Контекст
 

@@ -19,7 +19,7 @@ related_pages:
   - /reporting/0503317
   - /reporting/tax-and-customs-revenue-statistics
   - /data-sources/regional/regional-extrabudgetary-health-overview
-  - /data-sources/regional/moscow-city-tfoms-mgfoms
+  - /data-sources/regional/moscow-mgfoms
   - /data-sources/federal/minfin-opendata
   - /data-sources/federal/budget-gov-ru-datasets
   - /data-sources/regional/consolidated-budgets

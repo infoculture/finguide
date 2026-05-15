@@ -4,7 +4,7 @@ sidebar_label: "город Санкт-Петербург"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для город Санкт-Петербург: прямые ссылки на
@@ -14,42 +14,42 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/saint-petersburg-fin-232b1690ab
-  - /data-sources/regional/saint-petersburg-fin-3809351b63
-  - /data-sources/regional/saint-petersburg-fin-38102d9fa2
-  - /data-sources/regional/saint-petersburg-fin-46c50eb2fc
-  - /data-sources/regional/saint-petersburg-fin-5b8c6e720c
-  - /data-sources/regional/saint-petersburg-fin-5cf50bcb7d
-  - /data-sources/regional/saint-petersburg-fin-60b1b9c1cc
-  - /data-sources/regional/saint-petersburg-fin-6ea1d5e928
-  - /data-sources/regional/saint-petersburg-fin-82a845f7fd
-  - /data-sources/regional/saint-petersburg-fin-9087be98d9
-  - /data-sources/regional/saint-petersburg-fin-a33defce49
-  - /data-sources/regional/saint-petersburg-fin-c769da6466
-  - /data-sources/regional/saint-petersburg-fin-c98be7f0ba
+  - /data-sources/regional/saint-petersburg-control-auditing-chamber-ksp
+  - /data-sources/regional/saint-petersburg-finance-committee-fincom
+  - /data-sources/regional/saint-petersburg-financial-control-committee
+  - /data-sources/regional/saint-petersburg-legislative-assembly-budget
+  - /data-sources/regional/saint-petersburg-open-budget-budget-gov-spb
+  - /data-sources/regional/saint-petersburg-open-data-gov-spb
+  - /data-sources/regional/saint-petersburg-petrostat-rosstat-78
+  - /data-sources/regional/saint-petersburg-pravo-publication-region78
   - /data-sources/regional/saint-petersburg-procurement-gz-spb
+  - /data-sources/regional/saint-petersburg-roskazna-piter
+  - /data-sources/regional/saint-petersburg-state-programs-gov-spb
+  - /data-sources/regional/saint-petersburg-tfoms-spboms
+  - /data-sources/regional/saint-petersburg-tvoy-budget-participatory
+  - /data-sources/regional/saint-petersburg-ufns-nalog-rn78
 ---
 
 # город Санкт-Петербург: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [saint petersburg fin 232b1690ab](/data-sources/regional/saint-petersburg-fin-232b1690ab) — карточка источника.
-- [saint petersburg fin 3809351b63](/data-sources/regional/saint-petersburg-fin-3809351b63) — карточка источника.
-- [saint petersburg fin 38102d9fa2](/data-sources/regional/saint-petersburg-fin-38102d9fa2) — карточка источника.
-- [saint petersburg fin 46c50eb2fc](/data-sources/regional/saint-petersburg-fin-46c50eb2fc) — карточка источника.
-- [saint petersburg fin 5b8c6e720c](/data-sources/regional/saint-petersburg-fin-5b8c6e720c) — карточка источника.
-- [saint petersburg fin 5cf50bcb7d](/data-sources/regional/saint-petersburg-fin-5cf50bcb7d) — карточка источника.
-- [saint petersburg fin 60b1b9c1cc](/data-sources/regional/saint-petersburg-fin-60b1b9c1cc) — карточка источника.
-- [saint petersburg fin 6ea1d5e928](/data-sources/regional/saint-petersburg-fin-6ea1d5e928) — карточка источника.
-- [saint petersburg fin 82a845f7fd](/data-sources/regional/saint-petersburg-fin-82a845f7fd) — карточка источника.
-- [saint petersburg fin 9087be98d9](/data-sources/regional/saint-petersburg-fin-9087be98d9) — карточка источника.
-- [saint petersburg fin a33defce49](/data-sources/regional/saint-petersburg-fin-a33defce49) — карточка источника.
-- [saint petersburg fin c769da6466](/data-sources/regional/saint-petersburg-fin-c769da6466) — карточка источника.
-- [saint petersburg fin c98be7f0ba](/data-sources/regional/saint-petersburg-fin-c98be7f0ba) — карточка источника.
-- [saint petersburg procurement gz spb](/data-sources/regional/saint-petersburg-procurement-gz-spb) — карточка источника.
+- [Санкт-Петербург: Контрольно-счётная палата (ksp.org.ru)](/data-sources/regional/saint-petersburg-control-auditing-chamber-ksp) — карточка источника.
+- [Санкт-Петербург: Комитет финансов (fincom.gov.spb.ru)](/data-sources/regional/saint-petersburg-finance-committee-fincom) — карточка источника.
+- [Санкт-Петербург: Комитет финансового контроля (КФК)](/data-sources/regional/saint-petersburg-financial-control-committee) — карточка источника.
+- [Санкт-Петербург: Законодательное Собрание — раздел о бюджете](/data-sources/regional/saint-petersburg-legislative-assembly-budget) — карточка источника.
+- [Санкт-Петербург: Открытый бюджет (budget.gov.spb.ru)](/data-sources/regional/saint-petersburg-open-budget-budget-gov-spb) — карточка источника.
+- [Санкт-Петербург: открытые данные (раздел на gov.spb.ru)](/data-sources/regional/saint-petersburg-open-data-gov-spb) — карточка источника.
+- [Санкт-Петербург и Ленинградская область: Петростат (78.rosstat.gov.ru)](/data-sources/regional/saint-petersburg-petrostat-rosstat-78) — карточка источника.
+- [Санкт-Петербург: официальное опубликование НПА (publication.pravo.gov.ru, region78)](/data-sources/regional/saint-petersburg-pravo-publication-region78) — карточка источника.
+- [Санкт-Петербург: Комитет по государственному заказу (gz-spb.ru)](/data-sources/regional/saint-petersburg-procurement-gz-spb) — карточка источника.
+- [Санкт-Петербург: Управление Федерального казначейства (piter.roskazna.gov.ru)](/data-sources/regional/saint-petersburg-roskazna-piter) — карточка источника.
+- [Санкт-Петербург: государственные программы города (gov.spb.ru)](/data-sources/regional/saint-petersburg-state-programs-gov-spb) — карточка источника.
+- [Санкт-Петербург: территориальный фонд ОМС (spboms.ru)](/data-sources/regional/saint-petersburg-tfoms-spboms) — карточка источника.
+- [Санкт-Петербург: проект «Твой бюджет» (tvoybudget.spb.ru)](/data-sources/regional/saint-petersburg-tvoy-budget-participatory) — карточка источника.
+- [Санкт-Петербург: УФНС России (nalog.gov.ru, код региона 78)](/data-sources/regional/saint-petersburg-ufns-nalog-rn78) — карточка источника.
 
 ## Контекст
 

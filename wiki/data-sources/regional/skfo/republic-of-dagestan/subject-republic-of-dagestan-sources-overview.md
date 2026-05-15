@@ -4,7 +4,7 @@ sidebar_label: "Республика Дагестан"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Республика Дагестан: прямые ссылки на
@@ -15,33 +15,33 @@ related_pages:
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
   - /data-sources/regional/dagestan-procurement-komzak-e-dag
-  - /data-sources/regional/republic-of-dagestan-fin-10defaaaaa
-  - /data-sources/regional/republic-of-dagestan-fin-2becc98ee8
-  - /data-sources/regional/republic-of-dagestan-fin-2cd2d283bf
-  - /data-sources/regional/republic-of-dagestan-fin-3ed011932e
-  - /data-sources/regional/republic-of-dagestan-fin-506256d0b5
-  - /data-sources/regional/republic-of-dagestan-fin-b5c768a379
-  - /data-sources/regional/republic-of-dagestan-fin-c46fc6e24e
-  - /data-sources/regional/republic-of-dagestan-fin-cf3c98e8e3
-  - /data-sources/regional/republic-of-dagestan-fin-d10f81b47f
+  - /data-sources/regional/republic-of-dagestan-budget-for-citizens-minfinrd
+  - /data-sources/regional/republic-of-dagestan-fns-nalog-rn05
+  - /data-sources/regional/republic-of-dagestan-legal-portal-pravo-e-dag
+  - /data-sources/regional/republic-of-dagestan-minfin-minfinrd
+  - /data-sources/regional/republic-of-dagestan-open-budget-portal-minfinrd
+  - /data-sources/regional/republic-of-dagestan-parliament-nsrd
+  - /data-sources/regional/republic-of-dagestan-rosstat-05
+  - /data-sources/regional/republic-of-dagestan-tfoms-fomsrd
+  - /data-sources/regional/republic-of-dagestan-treasury-roskazna-dagestan
 ---
 
 # Республика Дагестан: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [dagestan procurement komzak e dag](/data-sources/regional/dagestan-procurement-komzak-e-dag) — карточка источника.
-- [republic of dagestan fin 10defaaaaa](/data-sources/regional/republic-of-dagestan-fin-10defaaaaa) — карточка источника.
-- [republic of dagestan fin 2becc98ee8](/data-sources/regional/republic-of-dagestan-fin-2becc98ee8) — карточка источника.
-- [republic of dagestan fin 2cd2d283bf](/data-sources/regional/republic-of-dagestan-fin-2cd2d283bf) — карточка источника.
-- [republic of dagestan fin 3ed011932e](/data-sources/regional/republic-of-dagestan-fin-3ed011932e) — карточка источника.
-- [republic of dagestan fin 506256d0b5](/data-sources/regional/republic-of-dagestan-fin-506256d0b5) — карточка источника.
-- [republic of dagestan fin b5c768a379](/data-sources/regional/republic-of-dagestan-fin-b5c768a379) — карточка источника.
-- [republic of dagestan fin c46fc6e24e](/data-sources/regional/republic-of-dagestan-fin-c46fc6e24e) — карточка источника.
-- [republic of dagestan fin cf3c98e8e3](/data-sources/regional/republic-of-dagestan-fin-cf3c98e8e3) — карточка источника.
-- [republic of dagestan fin d10f81b47f](/data-sources/regional/republic-of-dagestan-fin-d10f81b47f) — карточка источника.
+- [Республика Дагестан: Комитет по государственным закупкам (komzak.e-dag.ru)](/data-sources/regional/dagestan-procurement-komzak-e-dag) — карточка источника.
+- [Республика Дагестан: бюджет для граждан (раздел minfinrd.ru)](/data-sources/regional/republic-of-dagestan-budget-for-citizens-minfinrd) — карточка источника.
+- [Республика Дагестан: УФНС России по Республике Дагестан (nalog.gov.ru/rn05)](/data-sources/regional/republic-of-dagestan-fns-nalog-rn05) — карточка источника.
+- [Республика Дагестан: официальный портал правовой информации (pravo.e-dag.ru)](/data-sources/regional/republic-of-dagestan-legal-portal-pravo-e-dag) — карточка источника.
+- [Республика Дагестан: Министерство финансов (minfinrd.ru)](/data-sources/regional/republic-of-dagestan-minfin-minfinrd) — карточка источника.
+- [Республика Дагестан: портал «Открытый бюджет» (portal.minfinrd.ru)](/data-sources/regional/republic-of-dagestan-open-budget-portal-minfinrd) — карточка источника.
+- [Республика Дагестан: Народное Собрание (nsrd.ru)](/data-sources/regional/republic-of-dagestan-parliament-nsrd) — карточка источника.
+- [Республика Дагестан: территориальный орган Росстата (Дагестанстат)](/data-sources/regional/republic-of-dagestan-rosstat-05) — карточка источника.
+- [Республика Дагестан: территориальный фонд ОМС (официальный сайт)](/data-sources/regional/republic-of-dagestan-tfoms-fomsrd) — карточка источника.
+- [Республика Дагестан: Управление Федерального казначейства по Республике Дагестан](/data-sources/regional/republic-of-dagestan-treasury-roskazna-dagestan) — карточка источника.
 
 ## Контекст
 

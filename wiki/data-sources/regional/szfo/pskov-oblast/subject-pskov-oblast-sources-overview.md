@@ -4,7 +4,7 @@ sidebar_label: "Псковская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Псковская область: прямые ссылки на
@@ -14,34 +14,34 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/pskov-oblast-fin-082dc03f61
-  - /data-sources/regional/pskov-oblast-fin-0b1091de55
-  - /data-sources/regional/pskov-oblast-fin-83cce50f82
-  - /data-sources/regional/pskov-oblast-fin-8c9f789a26
-  - /data-sources/regional/pskov-oblast-fin-94e61f456a
-  - /data-sources/regional/pskov-oblast-fin-a00f5716bd
-  - /data-sources/regional/pskov-oblast-fin-a4988177f9
-  - /data-sources/regional/pskov-oblast-fin-a6843bc897
-  - /data-sources/regional/pskov-oblast-fin-a9606c706c
-  - /data-sources/regional/pskov-oblast-fin-d0c9ba5f41
+  - /data-sources/regional/pskov-oblast-control-chamber
+  - /data-sources/regional/pskov-oblast-minfin
+  - /data-sources/regional/pskov-oblast-npa-bank-pravo
+  - /data-sources/regional/pskov-oblast-open-budget
+  - /data-sources/regional/pskov-oblast-regional-assembly
+  - /data-sources/regional/pskov-oblast-roskazna
+  - /data-sources/regional/pskov-oblast-rosstat-territorial
+  - /data-sources/regional/pskov-oblast-tfoms
+  - /data-sources/regional/pskov-oblast-ufns
+  - /data-sources/regional/pskov-oblast-zakupki-portal
 ---
 
 # Псковская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [pskov oblast fin 082dc03f61](/data-sources/regional/pskov-oblast-fin-082dc03f61) — карточка источника.
-- [pskov oblast fin 0b1091de55](/data-sources/regional/pskov-oblast-fin-0b1091de55) — карточка источника.
-- [pskov oblast fin 83cce50f82](/data-sources/regional/pskov-oblast-fin-83cce50f82) — карточка источника.
-- [pskov oblast fin 8c9f789a26](/data-sources/regional/pskov-oblast-fin-8c9f789a26) — карточка источника.
-- [pskov oblast fin 94e61f456a](/data-sources/regional/pskov-oblast-fin-94e61f456a) — карточка источника.
-- [pskov oblast fin a00f5716bd](/data-sources/regional/pskov-oblast-fin-a00f5716bd) — карточка источника.
-- [pskov oblast fin a4988177f9](/data-sources/regional/pskov-oblast-fin-a4988177f9) — карточка источника.
-- [pskov oblast fin a6843bc897](/data-sources/regional/pskov-oblast-fin-a6843bc897) — карточка источника.
-- [pskov oblast fin a9606c706c](/data-sources/regional/pskov-oblast-fin-a9606c706c) — карточка источника.
-- [pskov oblast fin d0c9ba5f41](/data-sources/regional/pskov-oblast-fin-d0c9ba5f41) — карточка источника.
+- [Псковская область: контрольно-счётная палата](/data-sources/regional/pskov-oblast-control-chamber) — карточка источника.
+- [Псковская область: Министерство финансов](/data-sources/regional/pskov-oblast-minfin) — карточка источника.
+- [Псковская область: банк нормативных правовых актов (pravo.pskov.ru)](/data-sources/regional/pskov-oblast-npa-bank-pravo) — карточка источника.
+- [Псковская область: открытый бюджет и «бюджет для граждан»](/data-sources/regional/pskov-oblast-open-budget) — карточка источника.
+- [Псковская область: Псковское областное Собрание депутатов](/data-sources/regional/pskov-oblast-regional-assembly) — карточка источника.
+- [Псковская область: Управление Федерального казначейства](/data-sources/regional/pskov-oblast-roskazna) — карточка источника.
+- [Псковская область: Псковстат (территориальный орган Росстата)](/data-sources/regional/pskov-oblast-rosstat-territorial) — карточка источника.
+- [Псковская область: территориальный фонд ОМС](/data-sources/regional/pskov-oblast-tfoms) — карточка источника.
+- [Псковская область: УФНС России (официальный сайт, код региона 60)](/data-sources/regional/pskov-oblast-ufns) — карточка источника.
+- [Псковская область: портал государственных и муниципальных закупок](/data-sources/regional/pskov-oblast-zakupki-portal) — карточка источника.
 
 ## Контекст
 

@@ -4,7 +4,7 @@ sidebar_label: "Луганская Народная Республика"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Луганская Народная Республика: прямые ссылки на
@@ -14,32 +14,32 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/lugansk-people-republic-fin-45940799ef
-  - /data-sources/regional/lugansk-people-republic-fin-461c484fc1
-  - /data-sources/regional/lugansk-people-republic-fin-93b4c68661
-  - /data-sources/regional/lugansk-people-republic-fin-9582aff4f1
-  - /data-sources/regional/lugansk-people-republic-fin-e08576aed4
-  - /data-sources/regional/lugansk-people-republic-fin-e5536bd217
-  - /data-sources/regional/lugansk-people-republic-fin-eb17ee6276
-  - /data-sources/regional/lugansk-people-republic-fin-f452a46d9b
-  - /data-sources/regional/lugansk-people-republic-fin-f7d1320148
+  - /data-sources/regional/lugansk-people-republic-gov-sovmin
+  - /data-sources/regional/lugansk-people-republic-lugansk-mo
+  - /data-sources/regional/lugansk-people-republic-luganskstat
+  - /data-sources/regional/lugansk-people-republic-minfin
+  - /data-sources/regional/lugansk-people-republic-peoples-council
+  - /data-sources/regional/lugansk-people-republic-rostender-procurement-mirror
+  - /data-sources/regional/lugansk-people-republic-tfoms
+  - /data-sources/regional/lugansk-people-republic-ufk-lugansk
+  - /data-sources/regional/lugansk-people-republic-ufns
 ---
 
 # Луганская Народная Республика: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [lugansk people republic fin 45940799ef](/data-sources/regional/lugansk-people-republic-fin-45940799ef) — карточка источника.
-- [lugansk people republic fin 461c484fc1](/data-sources/regional/lugansk-people-republic-fin-461c484fc1) — карточка источника.
-- [lugansk people republic fin 93b4c68661](/data-sources/regional/lugansk-people-republic-fin-93b4c68661) — карточка источника.
-- [lugansk people republic fin 9582aff4f1](/data-sources/regional/lugansk-people-republic-fin-9582aff4f1) — карточка источника.
-- [lugansk people republic fin e08576aed4](/data-sources/regional/lugansk-people-republic-fin-e08576aed4) — карточка источника.
-- [lugansk people republic fin e5536bd217](/data-sources/regional/lugansk-people-republic-fin-e5536bd217) — карточка источника.
-- [lugansk people republic fin eb17ee6276](/data-sources/regional/lugansk-people-republic-fin-eb17ee6276) — карточка источника.
-- [lugansk people republic fin f452a46d9b](/data-sources/regional/lugansk-people-republic-fin-f452a46d9b) — карточка источника.
-- [lugansk people republic fin f7d1320148](/data-sources/regional/lugansk-people-republic-fin-f7d1320148) — карточка источника.
+- [Луганская Народная Республика: Правительство Луганской Народной Республики (sovminlnr.ru)](/data-sources/regional/lugansk-people-republic-gov-sovmin) — карточка источника.
+- [Луганская Народная Республика: городской округ город Луганск (gosuslugi.ru)](/data-sources/regional/lugansk-people-republic-lugansk-mo) — карточка источника.
+- [Луганская Народная Республика: Луганскстат (территориальный орган Росстата по ЛНР)](/data-sources/regional/lugansk-people-republic-luganskstat) — карточка источника.
+- [Луганская Народная Республика: Министерство финансов Луганской Народной Республики](/data-sources/regional/lugansk-people-republic-minfin) — карточка источника.
+- [Луганская Народная Республика: Народный Совет Луганской Народной Республики](/data-sources/regional/lugansk-people-republic-peoples-council) — карточка источника.
+- [Луганская Народная Республика: Ростендер — агрегатор закупок по региону (неофициально)](/data-sources/regional/lugansk-people-republic-rostender-procurement-mirror) — карточка источника.
+- [Луганская Народная Республика: Территориальный фонд ОМС Луганской Народной Республики](/data-sources/regional/lugansk-people-republic-tfoms) — карточка источника.
+- [Луганская Народная Республика: УФК по Луганской Народной Республике (сайт Росказначейства)](/data-sources/regional/lugansk-people-republic-ufk-lugansk) — карточка источника.
+- [Луганская Народная Республика: УФНС России по Луганской Народной Республике (nalog.gov.ru, код 94)](/data-sources/regional/lugansk-people-republic-ufns) — карточка источника.
 
 ## Контекст
 

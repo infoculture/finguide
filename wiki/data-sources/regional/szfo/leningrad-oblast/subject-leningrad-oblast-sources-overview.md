@@ -4,7 +4,7 @@ sidebar_label: "Ленинградская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Ленинградская область: прямые ссылки на
@@ -14,32 +14,32 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/leningrad-oblast-fin-15f0b83a0b
-  - /data-sources/regional/leningrad-oblast-fin-25999d9c53
-  - /data-sources/regional/leningrad-oblast-fin-2e03956e91
-  - /data-sources/regional/leningrad-oblast-fin-32c1438fa9
-  - /data-sources/regional/leningrad-oblast-fin-3b9c0957d5
-  - /data-sources/regional/leningrad-oblast-fin-9a464a162d
-  - /data-sources/regional/leningrad-oblast-fin-9dc249d26a
-  - /data-sources/regional/leningrad-oblast-fin-afe6a44b7c
-  - /data-sources/regional/leningrad-oblast-fin-d78b8a03e5
+  - /data-sources/regional/leningrad-oblast-e-store-small-procurement
+  - /data-sources/regional/leningrad-oblast-finance-committee
+  - /data-sources/regional/leningrad-oblast-fns-rn47-budgetary-funds
+  - /data-sources/regional/leningrad-oblast-legislative-assembly
+  - /data-sources/regional/leningrad-oblast-open-budget
+  - /data-sources/regional/leningrad-oblast-petrostat
+  - /data-sources/regional/leningrad-oblast-regional-npa-portal
+  - /data-sources/regional/leningrad-oblast-roskazna
+  - /data-sources/regional/leningrad-oblast-tfoms
 ---
 
 # Ленинградская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [leningrad oblast fin 15f0b83a0b](/data-sources/regional/leningrad-oblast-fin-15f0b83a0b) — карточка источника.
-- [leningrad oblast fin 25999d9c53](/data-sources/regional/leningrad-oblast-fin-25999d9c53) — карточка источника.
-- [leningrad oblast fin 2e03956e91](/data-sources/regional/leningrad-oblast-fin-2e03956e91) — карточка источника.
-- [leningrad oblast fin 32c1438fa9](/data-sources/regional/leningrad-oblast-fin-32c1438fa9) — карточка источника.
-- [leningrad oblast fin 3b9c0957d5](/data-sources/regional/leningrad-oblast-fin-3b9c0957d5) — карточка источника.
-- [leningrad oblast fin 9a464a162d](/data-sources/regional/leningrad-oblast-fin-9a464a162d) — карточка источника.
-- [leningrad oblast fin 9dc249d26a](/data-sources/regional/leningrad-oblast-fin-9dc249d26a) — карточка источника.
-- [leningrad oblast fin afe6a44b7c](/data-sources/regional/leningrad-oblast-fin-afe6a44b7c) — карточка источника.
-- [leningrad oblast fin d78b8a03e5](/data-sources/regional/leningrad-oblast-fin-d78b8a03e5) — карточка источника.
+- [Ленинградская область: Электронный магазин (закупки малого объёма)](/data-sources/regional/leningrad-oblast-e-store-small-procurement) — карточка источника.
+- [Ленинградская область: Комитет финансов](/data-sources/regional/leningrad-oblast-finance-committee) — карточка источника.
+- [Ленинградская область: УФНС — раздел о бюджетных средствах (rn47)](/data-sources/regional/leningrad-oblast-fns-rn47-budgetary-funds) — карточка источника.
+- [Ленинградская область: Законодательное собрание](/data-sources/regional/leningrad-oblast-legislative-assembly) — карточка источника.
+- [Ленинградская область: Открытый бюджет](/data-sources/regional/leningrad-oblast-open-budget) — карточка источника.
+- [Ленинградская область: Петростат (территориальный орган Росстата)](/data-sources/regional/leningrad-oblast-petrostat) — карточка источника.
+- [Ленинградская область: Портал правовых актов (lenoblpravo.ru)](/data-sources/regional/leningrad-oblast-regional-npa-portal) — карточка источника.
+- [Ленинградская область: Управление Федерального казначейства](/data-sources/regional/leningrad-oblast-roskazna) — карточка источника.
+- [Ленинградская область: Территориальный фонд ОМС](/data-sources/regional/leningrad-oblast-tfoms) — карточка источника.
 
 ## Контекст
 

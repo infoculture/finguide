@@ -4,7 +4,7 @@ sidebar_label: "Волгоградская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Волгоградская область: прямые ссылки на
@@ -14,36 +14,38 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/volgograd-oblast-fin-1a59a69174
-  - /data-sources/regional/volgograd-oblast-fin-38ceb94771
-  - /data-sources/regional/volgograd-oblast-fin-4c4e7fb1dd
-  - /data-sources/regional/volgograd-oblast-fin-86d0b4b4d0
-  - /data-sources/regional/volgograd-oblast-fin-a2de8d9186
-  - /data-sources/regional/volgograd-oblast-fin-b560ec0c40
-  - /data-sources/regional/volgograd-oblast-fin-beb71d9392
-  - /data-sources/regional/volgograd-oblast-fin-c0e5c58a1c
-  - /data-sources/regional/volgograd-oblast-fin-cf577d8334
-  - /data-sources/regional/volgograd-oblast-fin-eb5e3e37cd
-  - /data-sources/regional/volgograd-oblast-fin-f44e189a60
+  - /data-sources/regional/volgograd-city-finance-department
+  - /data-sources/regional/volgograd-city-procurement-volgzakaz
+  - /data-sources/regional/volgograd-oblast-duma
+  - /data-sources/regional/volgograd-oblast-eis-zakupki
+  - /data-sources/regional/volgograd-oblast-finance-committee
+  - /data-sources/regional/volgograd-oblast-interactive-budget
+  - /data-sources/regional/volgograd-oblast-ksp
+  - /data-sources/regional/volgograd-oblast-pravo-publication-region34
+  - /data-sources/regional/volgograd-oblast-rosstat
+  - /data-sources/regional/volgograd-oblast-tfoms
+  - /data-sources/regional/volgograd-oblast-treasury-roskazna
+  - /data-sources/regional/volgograd-oblast-ufns
 ---
 
 # Волгоградская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [volgograd oblast fin 1a59a69174](/data-sources/regional/volgograd-oblast-fin-1a59a69174) — карточка источника.
-- [volgograd oblast fin 38ceb94771](/data-sources/regional/volgograd-oblast-fin-38ceb94771) — карточка источника.
-- [volgograd oblast fin 4c4e7fb1dd](/data-sources/regional/volgograd-oblast-fin-4c4e7fb1dd) — карточка источника.
-- [volgograd oblast fin 86d0b4b4d0](/data-sources/regional/volgograd-oblast-fin-86d0b4b4d0) — карточка источника.
-- [volgograd oblast fin a2de8d9186](/data-sources/regional/volgograd-oblast-fin-a2de8d9186) — карточка источника.
-- [volgograd oblast fin b560ec0c40](/data-sources/regional/volgograd-oblast-fin-b560ec0c40) — карточка источника.
-- [volgograd oblast fin beb71d9392](/data-sources/regional/volgograd-oblast-fin-beb71d9392) — карточка источника.
-- [volgograd oblast fin c0e5c58a1c](/data-sources/regional/volgograd-oblast-fin-c0e5c58a1c) — карточка источника.
-- [volgograd oblast fin cf577d8334](/data-sources/regional/volgograd-oblast-fin-cf577d8334) — карточка источника.
-- [volgograd oblast fin eb5e3e37cd](/data-sources/regional/volgograd-oblast-fin-eb5e3e37cd) — карточка источника.
-- [volgograd oblast fin f44e189a60](/data-sources/regional/volgograd-oblast-fin-f44e189a60) — карточка источника.
+- [Волгоград: Департамент финансов администрации города (volgadmin.ru)](/data-sources/regional/volgograd-city-finance-department) — карточка источника.
+- [Волгоград: муниципальные закупки (volgzakaz.ru)](/data-sources/regional/volgograd-city-procurement-volgzakaz) — карточка источника.
+- [Волгоградская область: Волгоградская областная Дума (volgoduma.ru)](/data-sources/regional/volgograd-oblast-duma) — карточка источника.
+- [Волгоградская область: ЕИС в сфере закупок (zakupki.gov.ru)](/data-sources/regional/volgograd-oblast-eis-zakupki) — карточка источника.
+- [Волгоградская область: Комитет финансов (volgafin.volgograd.ru)](/data-sources/regional/volgograd-oblast-finance-committee) — карточка источника.
+- [Волгоградская область: Интерактивный бюджет для граждан (34.interactive-budget.ru)](/data-sources/regional/volgograd-oblast-interactive-budget) — карточка источника.
+- [Волгоградская область: Контрольно-счётная палата (ksp34.ru)](/data-sources/regional/volgograd-oblast-ksp) — карточка источника.
+- [Волгоградская область: Официальное опубликование НПА (pravo.gov.ru, регион 34)](/data-sources/regional/volgograd-oblast-pravo-publication-region34) — карточка источника.
+- [Волгоградская область: Волгоградстат (34.rosstat.gov.ru)](/data-sources/regional/volgograd-oblast-rosstat) — карточка источника.
+- [Волгоградская область: ТФОМС (volgatfoms.ru)](/data-sources/regional/volgograd-oblast-tfoms) — карточка источника.
+- [Волгоградская область: УФК (volgograd.roskazna.gov.ru)](/data-sources/regional/volgograd-oblast-treasury-roskazna) — карточка источника.
+- [Волгоградская область: УФНС России (nalog.gov.ru/rn34)](/data-sources/regional/volgograd-oblast-ufns) — карточка источника.
 
 ## Контекст
 

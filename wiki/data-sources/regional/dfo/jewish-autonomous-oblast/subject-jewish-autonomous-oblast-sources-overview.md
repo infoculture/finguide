@@ -4,7 +4,7 @@ sidebar_label: "Еврейская автономная область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Еврейская автономная область: прямые ссылки на
@@ -14,30 +14,30 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/jewish-autonomous-oblast-fin-13eeb5558b
-  - /data-sources/regional/jewish-autonomous-oblast-fin-188ec475d3
-  - /data-sources/regional/jewish-autonomous-oblast-fin-260cd38794
-  - /data-sources/regional/jewish-autonomous-oblast-fin-6fa745c477
-  - /data-sources/regional/jewish-autonomous-oblast-fin-8db58af9b0
-  - /data-sources/regional/jewish-autonomous-oblast-fin-a1cdd49560
-  - /data-sources/regional/jewish-autonomous-oblast-fin-a7040d5a97
-  - /data-sources/regional/jewish-autonomous-oblast-fin-e676a4c710
+  - /data-sources/regional/jewish-autonomous-oblast-legal-acts-pravo-gov
+  - /data-sources/regional/jewish-autonomous-oblast-legislature-zseao
+  - /data-sources/regional/jewish-autonomous-oblast-minfin
+  - /data-sources/regional/jewish-autonomous-oblast-open-budget-portal
+  - /data-sources/regional/jewish-autonomous-oblast-roskazna-birobidzhan
+  - /data-sources/regional/jewish-autonomous-oblast-tfoms
+  - /data-sources/regional/jewish-autonomous-oblast-ufns-nalog
+  - /data-sources/regional/jewish-autonomous-oblast-zakupki-eis
 ---
 
 # Еврейская автономная область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [jewish autonomous oblast fin 13eeb5558b](/data-sources/regional/jewish-autonomous-oblast-fin-13eeb5558b) — карточка источника.
-- [jewish autonomous oblast fin 188ec475d3](/data-sources/regional/jewish-autonomous-oblast-fin-188ec475d3) — карточка источника.
-- [jewish autonomous oblast fin 260cd38794](/data-sources/regional/jewish-autonomous-oblast-fin-260cd38794) — карточка источника.
-- [jewish autonomous oblast fin 6fa745c477](/data-sources/regional/jewish-autonomous-oblast-fin-6fa745c477) — карточка источника.
-- [jewish autonomous oblast fin 8db58af9b0](/data-sources/regional/jewish-autonomous-oblast-fin-8db58af9b0) — карточка источника.
-- [jewish autonomous oblast fin a1cdd49560](/data-sources/regional/jewish-autonomous-oblast-fin-a1cdd49560) — карточка источника.
-- [jewish autonomous oblast fin a7040d5a97](/data-sources/regional/jewish-autonomous-oblast-fin-a7040d5a97) — карточка источника.
-- [jewish autonomous oblast fin e676a4c710](/data-sources/regional/jewish-autonomous-oblast-fin-e676a4c710) — карточка источника.
+- [Еврейская автономная область: нормативные акты на Официальном интернет-портале правовой информации (region79)](/data-sources/regional/jewish-autonomous-oblast-legal-acts-pravo-gov) — карточка источника.
+- [Еврейская автономная область: Законодательное Собрание (zseao.ru)](/data-sources/regional/jewish-autonomous-oblast-legislature-zseao) — карточка источника.
+- [Еврейская автономная область: департамент финансов правительства (портал eao.ru)](/data-sources/regional/jewish-autonomous-oblast-minfin) — карточка источника.
+- [Еврейская автономная область: открытый бюджет (портал органов власти)](/data-sources/regional/jewish-autonomous-oblast-open-budget-portal) — карточка источника.
+- [Еврейская автономная область: Управление Федерального казначейства (Биробиджан)](/data-sources/regional/jewish-autonomous-oblast-roskazna-birobidzhan) — карточка источника.
+- [Еврейская автономная область: территориальный фонд ОМС (tfomseao.ru)](/data-sources/regional/jewish-autonomous-oblast-tfoms) — карточка источника.
+- [Еврейская автономная область: УФНС России (nalog.gov.ru, rn79)](/data-sources/regional/jewish-autonomous-oblast-ufns-nalog) — карточка источника.
+- [Еврейская автономная область: закупки и ЕИС (zakupki.gov.ru)](/data-sources/regional/jewish-autonomous-oblast-zakupki-eis) — карточка источника.
 
 ## Контекст
 

@@ -4,7 +4,7 @@ sidebar_label: "Ямало-Ненецкий автономный округ"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Ямало-Ненецкий автономный округ: прямые ссылки на
@@ -14,36 +14,37 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/yamalo-nenets-autonomous-okrug-fin-032dcce61d
-  - /data-sources/regional/yamalo-nenets-autonomous-okrug-fin-0d40342024
-  - /data-sources/regional/yamalo-nenets-autonomous-okrug-fin-12b7c8f14b
-  - /data-sources/regional/yamalo-nenets-autonomous-okrug-fin-1c2cab37cd
-  - /data-sources/regional/yamalo-nenets-autonomous-okrug-fin-1cd9987d32
-  - /data-sources/regional/yamalo-nenets-autonomous-okrug-fin-26598d28d6
-  - /data-sources/regional/yamalo-nenets-autonomous-okrug-fin-799b04407d
-  - /data-sources/regional/yamalo-nenets-autonomous-okrug-fin-939e67bbba
-  - /data-sources/regional/yamalo-nenets-autonomous-okrug-fin-947ed56089
-  - /data-sources/regional/yamalo-nenets-autonomous-okrug-fin-9d9f9f8b2e
+  - /data-sources/regional/yamalo-nenets-autonomous-okrug-depfin
+  - /data-sources/regional/yamalo-nenets-autonomous-okrug-depfin-active-documents
+  - /data-sources/regional/yamalo-nenets-autonomous-okrug-fea-portal
+  - /data-sources/regional/yamalo-nenets-autonomous-okrug-budget-for-citizens-fa
+  - /data-sources/regional/yamalo-nenets-autonomous-okrug-government-npa
+  - /data-sources/regional/yamalo-nenets-autonomous-okrug-legislative-assembly
+  - /data-sources/regional/yamalo-nenets-autonomous-okrug-treasury-roskazna
+  - /data-sources/regional/yamalo-nenets-autonomous-okrug-rosstat-tumenstat-ynao
+  - /data-sources/regional/yamalo-nenets-autonomous-okrug-tfoms-webfoms
+  - /data-sources/regional/yamalo-nenets-autonomous-okrug-ufns
 ---
 
 # Ямало-Ненецкий автономный округ: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [yamalo nenets autonomous okrug fin 032dcce61d](/data-sources/regional/yamalo-nenets-autonomous-okrug-fin-032dcce61d) — карточка источника.
-- [yamalo nenets autonomous okrug fin 0d40342024](/data-sources/regional/yamalo-nenets-autonomous-okrug-fin-0d40342024) — карточка источника.
-- [yamalo nenets autonomous okrug fin 12b7c8f14b](/data-sources/regional/yamalo-nenets-autonomous-okrug-fin-12b7c8f14b) — карточка источника.
-- [yamalo nenets autonomous okrug fin 1c2cab37cd](/data-sources/regional/yamalo-nenets-autonomous-okrug-fin-1c2cab37cd) — карточка источника.
-- [yamalo nenets autonomous okrug fin 1cd9987d32](/data-sources/regional/yamalo-nenets-autonomous-okrug-fin-1cd9987d32) — карточка источника.
-- [yamalo nenets autonomous okrug fin 26598d28d6](/data-sources/regional/yamalo-nenets-autonomous-okrug-fin-26598d28d6) — карточка источника.
-- [yamalo nenets autonomous okrug fin 799b04407d](/data-sources/regional/yamalo-nenets-autonomous-okrug-fin-799b04407d) — карточка источника.
-- [yamalo nenets autonomous okrug fin 939e67bbba](/data-sources/regional/yamalo-nenets-autonomous-okrug-fin-939e67bbba) — карточка источника.
-- [yamalo nenets autonomous okrug fin 947ed56089](/data-sources/regional/yamalo-nenets-autonomous-okrug-fin-947ed56089) — карточка источника.
-- [yamalo nenets autonomous okrug fin 9d9f9f8b2e](/data-sources/regional/yamalo-nenets-autonomous-okrug-fin-9d9f9f8b2e) — карточка источника.
+- [Ямало-Ненецкий автономный округ: Департамент финансов (fin.yanao.ru)](/data-sources/regional/yamalo-nenets-autonomous-okrug-depfin) — бюджет округа, исполнение, государственный долг.
+- [Ямало-Ненецкий автономный округ: действующие документы Депфина](/data-sources/regional/yamalo-nenets-autonomous-okrug-depfin-active-documents) — ведомственные НПА департамента финансов.
+- [Ямало-Ненецкий автономный округ: портал «Финансово-экономический анализ» (fa.yanao.ru)](/data-sources/regional/yamalo-nenets-autonomous-okrug-fea-portal) — аналитика, долг, налоговая отчётность.
+- [Ямало-Ненецкий автономный округ: «Бюджет для граждан» (fa.yanao.ru)](/data-sources/regional/yamalo-nenets-autonomous-okrug-budget-for-citizens-fa) — гражданская наглядность по бюджету.
+- [Ямало-Ненецкий автономный округ: официальное опубликование документов (yanao.ru)](/data-sources/regional/yamalo-nenets-autonomous-okrug-government-npa) — постановления и распоряжения Правительства.
+- [Ямало-Ненецкий автономный округ: Законодательное Собрание (zs.yanao.ru)](/data-sources/regional/yamalo-nenets-autonomous-okrug-legislative-assembly) — законы о бюджете и законодательный процесс.
+- [Ямало-Ненецкий автономный округ: Управление Федерального казначейства (Росказна)](/data-sources/regional/yamalo-nenets-autonomous-okrug-treasury-roskazna) — казначейское сопровождение на территории округа.
+- [Ямало-Ненецкий автономный округ: Тюменьстат, раздел по ЯНАО](/data-sources/regional/yamalo-nenets-autonomous-okrug-rosstat-tumenstat-ynao) — официальная статистика по округу.
+- [Ямало-Ненецкий автономный округ: ТФОМС (webfoms.ru)](/data-sources/regional/yamalo-nenets-autonomous-okrug-tfoms-webfoms) — бюджет и показатели ОМС.
+- [Ямало-Ненецкий автономный округ: УФНС России (nalog.gov.ru/rn89)](/data-sources/regional/yamalo-nenets-autonomous-okrug-ufns) — региональный контур ФНС.
 
 ## Контекст
 
 - [Региональные источники (оглавление раздела)](/data-sources/regional/)
 - [Уральский федеральный округ](/data-sources/regional/urfo)
+- [Тюменская область: Тюменьстат](/data-sources/regional/tyumen-oblast-rosstat-tumenstat) — общий контур территориального органа Росстата на три субъекта

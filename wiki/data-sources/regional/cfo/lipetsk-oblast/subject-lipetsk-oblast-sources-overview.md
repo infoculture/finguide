@@ -4,7 +4,7 @@ sidebar_label: "Липецкая область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Липецкая область: прямые ссылки на
@@ -14,32 +14,32 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/lipetsk-oblast-fin-08ecd01716
-  - /data-sources/regional/lipetsk-oblast-fin-35f503ffaa
-  - /data-sources/regional/lipetsk-oblast-fin-382b35deec
-  - /data-sources/regional/lipetsk-oblast-fin-5971aff61a
-  - /data-sources/regional/lipetsk-oblast-fin-6f23ea2e58
-  - /data-sources/regional/lipetsk-oblast-fin-9b42811201
-  - /data-sources/regional/lipetsk-oblast-fin-dcfd99d0fe
-  - /data-sources/regional/lipetsk-oblast-fin-eca297fbe1
-  - /data-sources/regional/lipetsk-oblast-fin-fccbfd6219
+  - /data-sources/regional/lipetsk-oblast-legislature-oblsovet
+  - /data-sources/regional/lipetsk-oblast-lipetsk-city-budget-for-citizens
+  - /data-sources/regional/lipetsk-oblast-lipetskstat
+  - /data-sources/regional/lipetsk-oblast-min-socpol-npa
+  - /data-sources/regional/lipetsk-oblast-minfin-open-budget
+  - /data-sources/regional/lipetsk-oblast-minfin-ufin48
+  - /data-sources/regional/lipetsk-oblast-tfoms
+  - /data-sources/regional/lipetsk-oblast-ufk-lipetsk
+  - /data-sources/regional/lipetsk-oblast-ufns-lipetsk
 ---
 
 # Липецкая область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [lipetsk oblast fin 08ecd01716](/data-sources/regional/lipetsk-oblast-fin-08ecd01716) — карточка источника.
-- [lipetsk oblast fin 35f503ffaa](/data-sources/regional/lipetsk-oblast-fin-35f503ffaa) — карточка источника.
-- [lipetsk oblast fin 382b35deec](/data-sources/regional/lipetsk-oblast-fin-382b35deec) — карточка источника.
-- [lipetsk oblast fin 5971aff61a](/data-sources/regional/lipetsk-oblast-fin-5971aff61a) — карточка источника.
-- [lipetsk oblast fin 6f23ea2e58](/data-sources/regional/lipetsk-oblast-fin-6f23ea2e58) — карточка источника.
-- [lipetsk oblast fin 9b42811201](/data-sources/regional/lipetsk-oblast-fin-9b42811201) — карточка источника.
-- [lipetsk oblast fin dcfd99d0fe](/data-sources/regional/lipetsk-oblast-fin-dcfd99d0fe) — карточка источника.
-- [lipetsk oblast fin eca297fbe1](/data-sources/regional/lipetsk-oblast-fin-eca297fbe1) — карточка источника.
-- [lipetsk oblast fin fccbfd6219](/data-sources/regional/lipetsk-oblast-fin-fccbfd6219) — карточка источника.
+- [Липецкая область: Липецкий областной Совет депутатов (oblsovet.ru)](/data-sources/regional/lipetsk-oblast-legislature-oblsovet) — карточка источника.
+- [Липецкая область: «Бюджет для граждан» (департамент финансов администрации города Липецка)](/data-sources/regional/lipetsk-oblast-lipetsk-city-budget-for-citizens) — карточка источника.
+- [Липецкая область: Липецкстат (территориальный орган Росстата, 48.rosstat.gov.ru)](/data-sources/regional/lipetsk-oblast-lipetskstat) — карточка источника.
+- [Липецкая область: НПА Липецкой области (раздел Минсоцполитики, admlr.lipetsk.ru)](/data-sources/regional/lipetsk-oblast-min-socpol-npa) — карточка источника.
+- [Липецкая область: «Открытый бюджет» на сайте Минфина (ufin48.ru)](/data-sources/regional/lipetsk-oblast-minfin-open-budget) — карточка источника.
+- [Липецкая область: Министерство финансов Липецкой области (ufin48.ru)](/data-sources/regional/lipetsk-oblast-minfin-ufin48) — карточка источника.
+- [Липецкая область: ТФОМС Липецкой области (ofoms48.ru)](/data-sources/regional/lipetsk-oblast-tfoms) — карточка источника.
+- [Липецкая область: Управление Федерального казначейства (lipetsk.roskazna.gov.ru)](/data-sources/regional/lipetsk-oblast-ufk-lipetsk) — карточка источника.
+- [Липецкая область: УФНС России по Липецкой области (nalog.gov.ru/rn48)](/data-sources/regional/lipetsk-oblast-ufns-lipetsk) — карточка источника.
 
 ## Контекст
 

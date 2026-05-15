@@ -4,7 +4,7 @@ sidebar_label: "Вологодская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Вологодская область: прямые ссылки на
@@ -14,40 +14,40 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/vologda-oblast-fin-0759cf63de
-  - /data-sources/regional/vologda-oblast-fin-0df5748392
-  - /data-sources/regional/vologda-oblast-fin-0e60c0f783
-  - /data-sources/regional/vologda-oblast-fin-3f1eebf4b1
-  - /data-sources/regional/vologda-oblast-fin-4f376739d4
-  - /data-sources/regional/vologda-oblast-fin-7ffc836b47
-  - /data-sources/regional/vologda-oblast-fin-8443c5a604
-  - /data-sources/regional/vologda-oblast-fin-863d432901
-  - /data-sources/regional/vologda-oblast-fin-8d2d06531a
-  - /data-sources/regional/vologda-oblast-fin-acc45250d7
-  - /data-sources/regional/vologda-oblast-fin-c36c37e072
-  - /data-sources/regional/vologda-oblast-fin-e886a8c257
-  - /data-sources/regional/vologda-oblast-fin-f6f753ec2f
+  - /data-sources/regional/vologda-oblast-account-chamber
+  - /data-sources/regional/vologda-oblast-legislative-assembly
+  - /data-sources/regional/vologda-oblast-minfin
+  - /data-sources/regional/vologda-oblast-minfin-municipal-budgets
+  - /data-sources/regional/vologda-oblast-npa-portal
+  - /data-sources/regional/vologda-oblast-open-budget
+  - /data-sources/regional/vologda-oblast-procurement-portal
+  - /data-sources/regional/vologda-oblast-regional-electronic-budget
+  - /data-sources/regional/vologda-oblast-rosstat
+  - /data-sources/regional/vologda-oblast-state-programs-portal
+  - /data-sources/regional/vologda-oblast-tfoms
+  - /data-sources/regional/vologda-oblast-treasury-ufk
+  - /data-sources/regional/vologda-oblast-ufns
 ---
 
 # Вологодская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [vologda oblast fin 0759cf63de](/data-sources/regional/vologda-oblast-fin-0759cf63de) — карточка источника.
-- [vologda oblast fin 0df5748392](/data-sources/regional/vologda-oblast-fin-0df5748392) — карточка источника.
-- [vologda oblast fin 0e60c0f783](/data-sources/regional/vologda-oblast-fin-0e60c0f783) — карточка источника.
-- [vologda oblast fin 3f1eebf4b1](/data-sources/regional/vologda-oblast-fin-3f1eebf4b1) — карточка источника.
-- [vologda oblast fin 4f376739d4](/data-sources/regional/vologda-oblast-fin-4f376739d4) — карточка источника.
-- [vologda oblast fin 7ffc836b47](/data-sources/regional/vologda-oblast-fin-7ffc836b47) — карточка источника.
-- [vologda oblast fin 8443c5a604](/data-sources/regional/vologda-oblast-fin-8443c5a604) — карточка источника.
-- [vologda oblast fin 863d432901](/data-sources/regional/vologda-oblast-fin-863d432901) — карточка источника.
-- [vologda oblast fin 8d2d06531a](/data-sources/regional/vologda-oblast-fin-8d2d06531a) — карточка источника.
-- [vologda oblast fin acc45250d7](/data-sources/regional/vologda-oblast-fin-acc45250d7) — карточка источника.
-- [vologda oblast fin c36c37e072](/data-sources/regional/vologda-oblast-fin-c36c37e072) — карточка источника.
-- [vologda oblast fin e886a8c257](/data-sources/regional/vologda-oblast-fin-e886a8c257) — карточка источника.
-- [vologda oblast fin f6f753ec2f](/data-sources/regional/vologda-oblast-fin-f6f753ec2f) — карточка источника.
+- [Вологодская область: Контрольно-счётная палата](/data-sources/regional/vologda-oblast-account-chamber) — карточка источника.
+- [Вологодская область: Законодательное Собрание](/data-sources/regional/vologda-oblast-legislative-assembly) — карточка источника.
+- [Вологодская область: Министерство финансов](/data-sources/regional/vologda-oblast-minfin) — карточка источника.
+- [Вологодская область: Информация о местных бюджетах (Минфин)](/data-sources/regional/vologda-oblast-minfin-municipal-budgets) — карточка источника.
+- [Вологодская область: Портал правовой информации (НПА)](/data-sources/regional/vologda-oblast-npa-portal) — карточка источника.
+- [Вологодская область: Открытый бюджет](/data-sources/regional/vologda-oblast-open-budget) — карточка источника.
+- [Вологодская область: региональный портал закупок](/data-sources/regional/vologda-oblast-procurement-portal) — карточка источника.
+- [Вологодская область: Региональный электронный бюджет](/data-sources/regional/vologda-oblast-regional-electronic-budget) — карточка источника.
+- [Вологодская область: Вологдастат (ТО Росстата)](/data-sources/regional/vologda-oblast-rosstat) — карточка источника.
+- [Вологодская область: Портал государственных программ](/data-sources/regional/vologda-oblast-state-programs-portal) — карточка источника.
+- [Вологодская область: ТФОМС](/data-sources/regional/vologda-oblast-tfoms) — карточка источника.
+- [Вологодская область: УФК по Вологодской области (Казначейство)](/data-sources/regional/vologda-oblast-treasury-ufk) — карточка источника.
+- [Вологодская область: сайт УФНС (регион 35)](/data-sources/regional/vologda-oblast-ufns) — карточка источника.
 
 ## Контекст
 

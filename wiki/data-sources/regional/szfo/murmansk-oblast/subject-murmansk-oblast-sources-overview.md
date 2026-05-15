@@ -4,7 +4,7 @@ sidebar_label: "Мурманская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Мурманская область: прямые ссылки на
@@ -14,44 +14,44 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/murmansk-oblast-fin-0838440fb6
-  - /data-sources/regional/murmansk-oblast-fin-17e9aec2fa
-  - /data-sources/regional/murmansk-oblast-fin-33490936b4
-  - /data-sources/regional/murmansk-oblast-fin-3656929409
-  - /data-sources/regional/murmansk-oblast-fin-36678cb4fc
-  - /data-sources/regional/murmansk-oblast-fin-387854562d
-  - /data-sources/regional/murmansk-oblast-fin-3bfedf9240
-  - /data-sources/regional/murmansk-oblast-fin-65f8bf1414
-  - /data-sources/regional/murmansk-oblast-fin-6a780febc3
-  - /data-sources/regional/murmansk-oblast-fin-a7ffca04cc
-  - /data-sources/regional/murmansk-oblast-fin-caf8a6cc4c
-  - /data-sources/regional/murmansk-oblast-fin-d0472baf28
-  - /data-sources/regional/murmansk-oblast-fin-d8b5b3b8fb
-  - /data-sources/regional/murmansk-oblast-fin-df1453014b
-  - /data-sources/regional/murmansk-oblast-fin-f74cc6ed82
+  - /data-sources/regional/murmansk-oblast-b4u-budget-portal
+  - /data-sources/regional/murmansk-oblast-budget-gov-ru
+  - /data-sources/regional/murmansk-oblast-gosfincontrol
+  - /data-sources/regional/murmansk-oblast-gov-murman-portal
+  - /data-sources/regional/murmansk-oblast-gz-murman
+  - /data-sources/regional/murmansk-oblast-ksp
+  - /data-sources/regional/murmansk-oblast-minec-state-programs
+  - /data-sources/regional/murmansk-oblast-minfin
+  - /data-sources/regional/murmansk-oblast-open-data-data-gov-ru
+  - /data-sources/regional/murmansk-oblast-pravo-gov-npa
+  - /data-sources/regional/murmansk-oblast-regional-duma
+  - /data-sources/regional/murmansk-oblast-rosstat-tom51
+  - /data-sources/regional/murmansk-oblast-tfoms
+  - /data-sources/regional/murmansk-oblast-ufk-roskazna
+  - /data-sources/regional/murmansk-oblast-ufns-rn51
 ---
 
 # Мурманская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [murmansk oblast fin 0838440fb6](/data-sources/regional/murmansk-oblast-fin-0838440fb6) — карточка источника.
-- [murmansk oblast fin 17e9aec2fa](/data-sources/regional/murmansk-oblast-fin-17e9aec2fa) — карточка источника.
-- [murmansk oblast fin 33490936b4](/data-sources/regional/murmansk-oblast-fin-33490936b4) — карточка источника.
-- [murmansk oblast fin 3656929409](/data-sources/regional/murmansk-oblast-fin-3656929409) — карточка источника.
-- [murmansk oblast fin 36678cb4fc](/data-sources/regional/murmansk-oblast-fin-36678cb4fc) — карточка источника.
-- [murmansk oblast fin 387854562d](/data-sources/regional/murmansk-oblast-fin-387854562d) — карточка источника.
-- [murmansk oblast fin 3bfedf9240](/data-sources/regional/murmansk-oblast-fin-3bfedf9240) — карточка источника.
-- [murmansk oblast fin 65f8bf1414](/data-sources/regional/murmansk-oblast-fin-65f8bf1414) — карточка источника.
-- [murmansk oblast fin 6a780febc3](/data-sources/regional/murmansk-oblast-fin-6a780febc3) — карточка источника.
-- [murmansk oblast fin a7ffca04cc](/data-sources/regional/murmansk-oblast-fin-a7ffca04cc) — карточка источника.
-- [murmansk oblast fin caf8a6cc4c](/data-sources/regional/murmansk-oblast-fin-caf8a6cc4c) — карточка источника.
-- [murmansk oblast fin d0472baf28](/data-sources/regional/murmansk-oblast-fin-d0472baf28) — карточка источника.
-- [murmansk oblast fin d8b5b3b8fb](/data-sources/regional/murmansk-oblast-fin-d8b5b3b8fb) — карточка источника.
-- [murmansk oblast fin df1453014b](/data-sources/regional/murmansk-oblast-fin-df1453014b) — карточка источника.
-- [murmansk oblast fin f74cc6ed82](/data-sources/regional/murmansk-oblast-fin-f74cc6ed82) — карточка источника.
+- [Мурманская область: информационно-аналитический портал бюджетной системы (B4U)](/data-sources/regional/murmansk-oblast-b4u-budget-portal) — карточка источника.
+- [Мурманская область: Единый портал бюджетной системы РФ (budget.gov.ru)](/data-sources/regional/murmansk-oblast-budget-gov-ru) — карточка источника.
+- [Мурманская область: Комитет государственного и финансового контроля](/data-sources/regional/murmansk-oblast-gosfincontrol) — карточка источника.
+- [Мурманская область: официальный портал органов государственной власти](/data-sources/regional/murmansk-oblast-gov-murman-portal) — карточка источника.
+- [Мурманская область: электронная площадка «Закупки Мурманской области»](/data-sources/regional/murmansk-oblast-gz-murman) — карточка источника.
+- [Мурманская область: Контрольно-счётная палата](/data-sources/regional/murmansk-oblast-ksp) — карточка источника.
+- [Мурманская область: государственные программы (Минэкономразвития)](/data-sources/regional/murmansk-oblast-minec-state-programs) — карточка источника.
+- [Мурманская область: Министерство финансов](/data-sources/regional/murmansk-oblast-minfin) — карточка источника.
+- [Мурманская область: открытые данные на data.gov.ru (карточка организации)](/data-sources/regional/murmansk-oblast-open-data-data-gov-ru) — карточка источника.
+- [Мурманская область: официальное опубликование НПА (ОИППИ, региональный срез)](/data-sources/regional/murmansk-oblast-pravo-gov-npa) — карточка источника.
+- [Мурманская область: Мурманская областная Дума](/data-sources/regional/murmansk-oblast-regional-duma) — карточка источника.
+- [Мурманская область: Росстат (территориальный орган, код 51)](/data-sources/regional/murmansk-oblast-rosstat-tom51) — карточка источника.
+- [Мурманская область: территориальный фонд ОМС](/data-sources/regional/murmansk-oblast-tfoms) — карточка источника.
+- [Мурманская область: УФК по Мурманской области (Росказна)](/data-sources/regional/murmansk-oblast-ufk-roskazna) — карточка источника.
+- [Мурманская область: УФНС России (код субъекта 51)](/data-sources/regional/murmansk-oblast-ufns-rn51) — карточка источника.
 
 ## Контекст
 

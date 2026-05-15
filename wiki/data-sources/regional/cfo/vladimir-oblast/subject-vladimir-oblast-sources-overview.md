@@ -4,7 +4,7 @@ sidebar_label: "Владимирская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Владимирская область: прямые ссылки на
@@ -14,46 +14,46 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/vladimir-oblast-fin-01af8c3a4d
-  - /data-sources/regional/vladimir-oblast-fin-09d4c5e78a
-  - /data-sources/regional/vladimir-oblast-fin-28c37b3fa5
-  - /data-sources/regional/vladimir-oblast-fin-2a0c4f9ea3
-  - /data-sources/regional/vladimir-oblast-fin-32d524ab04
-  - /data-sources/regional/vladimir-oblast-fin-3e50a5cac7
-  - /data-sources/regional/vladimir-oblast-fin-3ff1693f82
-  - /data-sources/regional/vladimir-oblast-fin-727cda2921
-  - /data-sources/regional/vladimir-oblast-fin-95c410d662
-  - /data-sources/regional/vladimir-oblast-fin-98867f1936
-  - /data-sources/regional/vladimir-oblast-fin-a5125266de
-  - /data-sources/regional/vladimir-oblast-fin-b3e1ba9dbe
-  - /data-sources/regional/vladimir-oblast-fin-b5ffe5b5ce
-  - /data-sources/regional/vladimir-oblast-fin-bb4bdab18f
-  - /data-sources/regional/vladimir-oblast-fin-c3073971a5
-  - /data-sources/regional/vladimir-oblast-fin-fb0b58038d
+  - /data-sources/regional/vladimir-city-budget-for-citizens
+  - /data-sources/regional/vladimir-city-open-data-portal
+  - /data-sources/regional/vladimir-oblast-account-chamber-spvo
+  - /data-sources/regional/vladimir-oblast-government-budget-system
+  - /data-sources/regional/vladimir-oblast-government-legal-acts
+  - /data-sources/regional/vladimir-oblast-government-programs-portal
+  - /data-sources/regional/vladimir-oblast-legislative-assembly
+  - /data-sources/regional/vladimir-oblast-legislative-assembly-laws
+  - /data-sources/regional/vladimir-oblast-minfin
+  - /data-sources/regional/vladimir-oblast-minfin-budget-for-citizens
+  - /data-sources/regional/vladimir-oblast-minfin-internal-financial-control
+  - /data-sources/regional/vladimir-oblast-rosstat-territorial
+  - /data-sources/regional/vladimir-oblast-tfoms
+  - /data-sources/regional/vladimir-oblast-ufk-roskazna
+  - /data-sources/regional/vladimir-oblast-ufns-nalog-rn33
+  - /data-sources/regional/vladimir-oblast-zakupki-eis
 ---
 
 # Владимирская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [vladimir oblast fin 01af8c3a4d](/data-sources/regional/vladimir-oblast-fin-01af8c3a4d) — карточка источника.
-- [vladimir oblast fin 09d4c5e78a](/data-sources/regional/vladimir-oblast-fin-09d4c5e78a) — карточка источника.
-- [vladimir oblast fin 28c37b3fa5](/data-sources/regional/vladimir-oblast-fin-28c37b3fa5) — карточка источника.
-- [vladimir oblast fin 2a0c4f9ea3](/data-sources/regional/vladimir-oblast-fin-2a0c4f9ea3) — карточка источника.
-- [vladimir oblast fin 32d524ab04](/data-sources/regional/vladimir-oblast-fin-32d524ab04) — карточка источника.
-- [vladimir oblast fin 3e50a5cac7](/data-sources/regional/vladimir-oblast-fin-3e50a5cac7) — карточка источника.
-- [vladimir oblast fin 3ff1693f82](/data-sources/regional/vladimir-oblast-fin-3ff1693f82) — карточка источника.
-- [vladimir oblast fin 727cda2921](/data-sources/regional/vladimir-oblast-fin-727cda2921) — карточка источника.
-- [vladimir oblast fin 95c410d662](/data-sources/regional/vladimir-oblast-fin-95c410d662) — карточка источника.
-- [vladimir oblast fin 98867f1936](/data-sources/regional/vladimir-oblast-fin-98867f1936) — карточка источника.
-- [vladimir oblast fin a5125266de](/data-sources/regional/vladimir-oblast-fin-a5125266de) — карточка источника.
-- [vladimir oblast fin b3e1ba9dbe](/data-sources/regional/vladimir-oblast-fin-b3e1ba9dbe) — карточка источника.
-- [vladimir oblast fin b5ffe5b5ce](/data-sources/regional/vladimir-oblast-fin-b5ffe5b5ce) — карточка источника.
-- [vladimir oblast fin bb4bdab18f](/data-sources/regional/vladimir-oblast-fin-bb4bdab18f) — карточка источника.
-- [vladimir oblast fin c3073971a5](/data-sources/regional/vladimir-oblast-fin-c3073971a5) — карточка источника.
-- [vladimir oblast fin fb0b58038d](/data-sources/regional/vladimir-oblast-fin-fb0b58038d) — карточка источника.
+- [Город Владимир: «Бюджет для граждан» (администрация)](/data-sources/regional/vladimir-city-budget-for-citizens) — карточка источника.
+- [Город Владимир: портал открытых данных](/data-sources/regional/vladimir-city-open-data-portal) — карточка источника.
+- [Владимирская область: Счётная палата Владимирской области](/data-sources/regional/vladimir-oblast-account-chamber-spvo) — карточка источника.
+- [Владимирская область: бюджетная система (сайт правительства)](/data-sources/regional/vladimir-oblast-government-budget-system) — карточка источника.
+- [Владимирская область: нормативные акты (сайт правительства)](/data-sources/regional/vladimir-oblast-government-legal-acts) — карточка источника.
+- [Владимирская область: портал государственных программ (Минэкономразвития)](/data-sources/regional/vladimir-oblast-government-programs-portal) — карточка источника.
+- [Владимирская область: Законодательное Собрание (официальный сайт)](/data-sources/regional/vladimir-oblast-legislative-assembly) — карточка источника.
+- [Владимирская область: законы и постановления (Законодательное Собрание)](/data-sources/regional/vladimir-oblast-legislative-assembly-laws) — карточка источника.
+- [Владимирская область: Министерство финансов](/data-sources/regional/vladimir-oblast-minfin) — карточка источника.
+- [Владимирская область: «Бюджет для граждан» (Минфин)](/data-sources/regional/vladimir-oblast-minfin-budget-for-citizens) — карточка источника.
+- [Владимирская область: внутренний финансовый контроль (Минфин)](/data-sources/regional/vladimir-oblast-minfin-internal-financial-control) — карточка источника.
+- [Владимирская область: Владимирстат (территориальный орган Росстата)](/data-sources/regional/vladimir-oblast-rosstat-territorial) — карточка источника.
+- [Владимирская область: территориальный фонд ОМС (ТФОМС)](/data-sources/regional/vladimir-oblast-tfoms) — карточка источника.
+- [Владимирская область: УФК по Владимирской области (Росказначейство)](/data-sources/regional/vladimir-oblast-ufk-roskazna) — карточка источника.
+- [Владимирская область: УФНС России по Владимирской области (nalog.gov.ru/rn33)](/data-sources/regional/vladimir-oblast-ufns-nalog-rn33) — карточка источника.
+- [ЕИС в сфере закупок: вход для анализа закупок (в т.ч. Владимирская область)](/data-sources/regional/vladimir-oblast-zakupki-eis) — карточка источника.
 
 ## Контекст
 

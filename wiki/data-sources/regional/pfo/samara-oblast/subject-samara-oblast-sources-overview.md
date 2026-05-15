@@ -4,7 +4,7 @@ sidebar_label: "Самарская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Самарская область: прямые ссылки на
@@ -14,34 +14,34 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/samara-oblast-fin-06adb74d93
-  - /data-sources/regional/samara-oblast-fin-08b2872f27
-  - /data-sources/regional/samara-oblast-fin-1710b5f461
-  - /data-sources/regional/samara-oblast-fin-1712e6ed9e
-  - /data-sources/regional/samara-oblast-fin-1a8d86276e
-  - /data-sources/regional/samara-oblast-fin-23bb4e315b
-  - /data-sources/regional/samara-oblast-fin-6ee1ce73fd
-  - /data-sources/regional/samara-oblast-fin-9dae54b605
-  - /data-sources/regional/samara-oblast-fin-a2deb05ccf
-  - /data-sources/regional/samara-oblast-fin-b5d737a3d5
+  - /data-sources/regional/samara-oblast-budget-for-citizens
+  - /data-sources/regional/samara-oblast-legislature-samgd
+  - /data-sources/regional/samara-oblast-minfin
+  - /data-sources/regional/samara-oblast-nalog-ufns-statistics
+  - /data-sources/regional/samara-oblast-narodny-budget
+  - /data-sources/regional/samara-oblast-rosstat
+  - /data-sources/regional/samara-oblast-sam-pravo
+  - /data-sources/regional/samara-oblast-state-programs
+  - /data-sources/regional/samara-oblast-tfoms
+  - /data-sources/regional/samara-oblast-treasury-roskazna
 ---
 
 # Самарская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [samara oblast fin 06adb74d93](/data-sources/regional/samara-oblast-fin-06adb74d93) — карточка источника.
-- [samara oblast fin 08b2872f27](/data-sources/regional/samara-oblast-fin-08b2872f27) — карточка источника.
-- [samara oblast fin 1710b5f461](/data-sources/regional/samara-oblast-fin-1710b5f461) — карточка источника.
-- [samara oblast fin 1712e6ed9e](/data-sources/regional/samara-oblast-fin-1712e6ed9e) — карточка источника.
-- [samara oblast fin 1a8d86276e](/data-sources/regional/samara-oblast-fin-1a8d86276e) — карточка источника.
-- [samara oblast fin 23bb4e315b](/data-sources/regional/samara-oblast-fin-23bb4e315b) — карточка источника.
-- [samara oblast fin 6ee1ce73fd](/data-sources/regional/samara-oblast-fin-6ee1ce73fd) — карточка источника.
-- [samara oblast fin 9dae54b605](/data-sources/regional/samara-oblast-fin-9dae54b605) — карточка источника.
-- [samara oblast fin a2deb05ccf](/data-sources/regional/samara-oblast-fin-a2deb05ccf) — карточка источника.
-- [samara oblast fin b5d737a3d5](/data-sources/regional/samara-oblast-fin-b5d737a3d5) — карточка источника.
+- [Самарская область: Бюджет для граждан (budget.minfin-samara.ru)](/data-sources/regional/samara-oblast-budget-for-citizens) — карточка источника.
+- [Самарская область: Самарская Губернская Дума (samgd.ru)](/data-sources/regional/samara-oblast-legislature-samgd) — карточка источника.
+- [Самарская область: Министерство финансов (minfin-samara.ru)](/data-sources/regional/samara-oblast-minfin) — карточка источника.
+- [Самарская область: УФНС — статистика и аналитика (nalog.gov.ru, код 63)](/data-sources/regional/samara-oblast-nalog-ufns-statistics) — карточка источника.
+- [Самарская область: Народный бюджет (портал samregion.ru)](/data-sources/regional/samara-oblast-narodny-budget) — карточка источника.
+- [Самарская область: Территориальный орган Росстата — Самарастат (63.rosstat.gov.ru)](/data-sources/regional/samara-oblast-rosstat) — карточка источника.
+- [Самарская область: Банк нормативных правовых актов (sam-pravo.ru)](/data-sources/regional/samara-oblast-sam-pravo) — карточка источника.
+- [Самарская область: Государственные программы (раздел Минфина)](/data-sources/regional/samara-oblast-state-programs) — карточка источника.
+- [Самарская область: Территориальный фонд ОМС (samtfoms.ru)](/data-sources/regional/samara-oblast-tfoms) — карточка источника.
+- [Самарская область: Управление Федерального казначейства (samara.roskazna.gov.ru)](/data-sources/regional/samara-oblast-treasury-roskazna) — карточка источника.
 
 ## Контекст
 

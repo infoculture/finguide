@@ -4,7 +4,7 @@ sidebar_label: "Чукотский автономный округ"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Чукотский автономный округ: прямые ссылки на
@@ -14,38 +14,38 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/chukotka-autonomous-okrug-fin-150e1c0b6b
-  - /data-sources/regional/chukotka-autonomous-okrug-fin-35bf04ac5e
-  - /data-sources/regional/chukotka-autonomous-okrug-fin-494d5f7df7
-  - /data-sources/regional/chukotka-autonomous-okrug-fin-4ff5996a95
-  - /data-sources/regional/chukotka-autonomous-okrug-fin-7b0d2c6088
-  - /data-sources/regional/chukotka-autonomous-okrug-fin-83fca39f24
-  - /data-sources/regional/chukotka-autonomous-okrug-fin-9aa19c69a3
-  - /data-sources/regional/chukotka-autonomous-okrug-fin-afcef9a427
-  - /data-sources/regional/chukotka-autonomous-okrug-fin-bbc80aee38
-  - /data-sources/regional/chukotka-autonomous-okrug-fin-bfde8768e9
-  - /data-sources/regional/chukotka-autonomous-okrug-fin-dd3c6c2a39
-  - /data-sources/regional/chukotka-autonomous-okrug-fin-e98f7877af
+  - /data-sources/regional/chukotka-control-chamber
+  - /data-sources/regional/chukotka-depfin
+  - /data-sources/regional/chukotka-depfin-internal-financial-control
+  - /data-sources/regional/chukotka-depfin-open-budget
+  - /data-sources/regional/chukotka-depfin-public-procurement
+  - /data-sources/regional/chukotka-duma
+  - /data-sources/regional/chukotka-gov-portal-npa
+  - /data-sources/regional/chukotka-gov-portal-state-programs
+  - /data-sources/regional/chukotka-pravo-gov-regional-acts
+  - /data-sources/regional/chukotka-tfoms
+  - /data-sources/regional/chukotka-ufk-roskazna
+  - /data-sources/regional/chukotka-ufns
 ---
 
 # Чукотский автономный округ: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [chukotka autonomous okrug fin 150e1c0b6b](/data-sources/regional/chukotka-autonomous-okrug-fin-150e1c0b6b) — карточка источника.
-- [chukotka autonomous okrug fin 35bf04ac5e](/data-sources/regional/chukotka-autonomous-okrug-fin-35bf04ac5e) — карточка источника.
-- [chukotka autonomous okrug fin 494d5f7df7](/data-sources/regional/chukotka-autonomous-okrug-fin-494d5f7df7) — карточка источника.
-- [chukotka autonomous okrug fin 4ff5996a95](/data-sources/regional/chukotka-autonomous-okrug-fin-4ff5996a95) — карточка источника.
-- [chukotka autonomous okrug fin 7b0d2c6088](/data-sources/regional/chukotka-autonomous-okrug-fin-7b0d2c6088) — карточка источника.
-- [chukotka autonomous okrug fin 83fca39f24](/data-sources/regional/chukotka-autonomous-okrug-fin-83fca39f24) — карточка источника.
-- [chukotka autonomous okrug fin 9aa19c69a3](/data-sources/regional/chukotka-autonomous-okrug-fin-9aa19c69a3) — карточка источника.
-- [chukotka autonomous okrug fin afcef9a427](/data-sources/regional/chukotka-autonomous-okrug-fin-afcef9a427) — карточка источника.
-- [chukotka autonomous okrug fin bbc80aee38](/data-sources/regional/chukotka-autonomous-okrug-fin-bbc80aee38) — карточка источника.
-- [chukotka autonomous okrug fin bfde8768e9](/data-sources/regional/chukotka-autonomous-okrug-fin-bfde8768e9) — карточка источника.
-- [chukotka autonomous okrug fin dd3c6c2a39](/data-sources/regional/chukotka-autonomous-okrug-fin-dd3c6c2a39) — карточка источника.
-- [chukotka autonomous okrug fin e98f7877af](/data-sources/regional/chukotka-autonomous-okrug-fin-e98f7877af) — карточка источника.
+- [Чукотский автономный округ: Счётная палата](/data-sources/regional/chukotka-control-chamber) — карточка источника.
+- [Чукотский автономный округ: Департамент финансов и имущественных отношений](/data-sources/regional/chukotka-depfin) — карточка источника.
+- [Чукотский автономный округ: внутриведомственный финансовый контроль (Депфин)](/data-sources/regional/chukotka-depfin-internal-financial-control) — карточка источника.
+- [Чукотский автономный округ: открытый бюджет (Департамент финансов)](/data-sources/regional/chukotka-depfin-open-budget) — карточка источника.
+- [Чукотский автономный округ: госзакупки (структура Депфина)](/data-sources/regional/chukotka-depfin-public-procurement) — карточка источника.
+- [Чукотский автономный округ: Дума Чукотского АО](/data-sources/regional/chukotka-duma) — карточка источника.
+- [Чукотский автономный округ: НПА на портале госорганов](/data-sources/regional/chukotka-gov-portal-npa) — карточка источника.
+- [Чукотский автономный округ: государственные программы (портал)](/data-sources/regional/chukotka-gov-portal-state-programs) — карточка источника.
+- [Чукотский автономный округ: правовые акты (pravo.gov.ru)](/data-sources/regional/chukotka-pravo-gov-regional-acts) — карточка источника.
+- [Чукотский автономный округ: территориальный фонд ОМС](/data-sources/regional/chukotka-tfoms) — карточка источника.
+- [Чукотский автономный округ: УФК (Росказна)](/data-sources/regional/chukotka-ufk-roskazna) — карточка источника.
+- [Чукотский автономный округ: УФНС России](/data-sources/regional/chukotka-ufns) — карточка источника.
 
 ## Контекст
 

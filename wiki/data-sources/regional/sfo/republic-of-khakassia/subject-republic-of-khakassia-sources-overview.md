@@ -4,7 +4,7 @@ sidebar_label: "Республика Хакасия"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Республика Хакасия: прямые ссылки на
@@ -14,52 +14,42 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/republic-of-khakassia-minfin-portal-r19
-  - /data-sources/regional/republic-of-khakassia-krasnoyarskstat-khakassia-folder
-  - /data-sources/regional/republic-of-khakassia-treasury-roskazna-hakasia
-  - /data-sources/regional/republic-of-khakassia-supreme-council-npa-bank
-  - /data-sources/regional/republic-of-khakassia-budget-gov-ru-regions
   - /data-sources/regional/republic-of-khakassia-accounts-chamber-ksp19
-  - /data-sources/regional/republic-of-khakassia-government-citizen-budget-r19
-  - /data-sources/regional/republic-of-khakassia-supreme-council-open-data-vs19
-  - /data-sources/regional/republic-of-khakassia-fts-ofd-nalog-rn19
-  - /data-sources/regional/republic-of-khakassia-tfoms-oms-tfomsrh
   - /data-sources/regional/republic-of-khakassia-balyksa-selsoviet-opendata
+  - /data-sources/regional/republic-of-khakassia-budget-gov-ru-regions
+  - /data-sources/regional/republic-of-khakassia-fts-ofd-nalog-rn19
+  - /data-sources/regional/republic-of-khakassia-government-citizen-budget-r19
   - /data-sources/regional/republic-of-khakassia-kommunar-selsoviet-opendata
+  - /data-sources/regional/republic-of-khakassia-krasnoyarskstat-khakassia-folder
+  - /data-sources/regional/republic-of-khakassia-minfin-portal-r19
   - /data-sources/regional/republic-of-khakassia-supreme-council-finances-vskhakasia
+  - /data-sources/regional/republic-of-khakassia-supreme-council-npa-bank
+  - /data-sources/regional/republic-of-khakassia-supreme-council-open-data-vs19
+  - /data-sources/regional/republic-of-khakassia-tfoms-oms-tfomsrh
+  - /data-sources/regional/republic-of-khakassia-treasury-roskazna-hakasia
 ---
 
 # Республика Хакасия: источники данных
 
-Коротко: страница перечисляет **опубликованные** карточки источников по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не** включают путь `sfo/republic-of-khakassia/` из файловой структуры репозитория.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
-## Региональный контур
+## Карточки источников
 
-- [Минфин: раздел на портале r-19.ru](/data-sources/regional/republic-of-khakassia-minfin-portal-r19) — страница финансового блока исполнительной власти.
-- [Портал Правительства: «Бюджет для граждан»](/data-sources/regional/republic-of-khakassia-government-citizen-budget-r19) — корень официального портала и материалы для граждан.
-- [Верховный Совет: раздел «Финансы»](/data-sources/regional/republic-of-khakassia-supreme-council-finances-vskhakasia) — бюджетное законодательство и сопутствующие материалы на vskhakasia.ru.
-- [Верховный Совет: банк НПА](/data-sources/regional/republic-of-khakassia-supreme-council-npa-bank) — тексты нормативных актов, в том числе бюджетного блока.
-- [Верховный Совет: открытые данные (vs19.ru)](/data-sources/regional/republic-of-khakassia-supreme-council-open-data-vs19) — перечень наборов открытых данных парламента.
-- [УФК по Республике Хакасия (Росказна)](/data-sources/regional/republic-of-khakassia-treasury-roskazna-hakasia) — территориальное управление Федерального казначейства.
-- [Контрольно-счётная палата](/data-sources/regional/republic-of-khakassia-accounts-chamber-ksp19) — внешний муниципальный финансовый контроль и отчётность о проверках.
-- [ТФОМС](/data-sources/regional/republic-of-khakassia-tfoms-oms-tfomsrh) — обязательное медицинское страхование и отчётность фонда.
-- [УФНС по Республике Хакасия](/data-sources/regional/republic-of-khakassia-fts-ofd-nalog-rn19) — региональная страница на nalog.gov.ru.
-
-## Федеральные витрины с разрезом по субъекту
-
-- [Единый портал бюджетной системы: раздел «Регионы»](/data-sources/regional/republic-of-khakassia-budget-gov-ru-regions) — budget.gov.ru, выбор субъекта для открытых бюджетных наборов.
-
-## Статистика
-
-- [Росстат: Красноярскстат, папка по Республике Хакасия](/data-sources/regional/republic-of-khakassia-krasnoyarskstat-khakassia-folder) — территориальный орган Росстата, обслуживающий край, Хакасию и Тыву.
-
-## Муниципальные примеры открытых данных
-
-- [Балыксинский сельсовет (Аскизский район)](/data-sources/regional/republic-of-khakassia-balyksa-selsoviet-opendata) — портал открытых данных ОМСУ.
-- [Коммунаровский сельсовет (Ширинский район)](/data-sources/regional/republic-of-khakassia-kommunar-selsoviet-opendata) — портал открытых данных ОМСУ.
+- [Республика Хакасия: контрольно-счётная палата (ksp19.ru)](/data-sources/regional/republic-of-khakassia-accounts-chamber-ksp19) — карточка источника.
+- [Республика Хакасия: открытые данные Балыксинского сельсовета (Аскизский район)](/data-sources/regional/republic-of-khakassia-balyksa-selsoviet-opendata) — карточка источника.
+- [Республика Хакасия: Единый портал бюджетной системы (budget.gov.ru — регионы)](/data-sources/regional/republic-of-khakassia-budget-gov-ru-regions) — карточка источника.
+- [Республика Хакасия: УФНС России по Республике Хакасия (nalog.gov.ru)](/data-sources/regional/republic-of-khakassia-fts-ofd-nalog-rn19) — карточка источника.
+- [Республика Хакасия: портал Правительства (r-19.ru) и «Бюджет для граждан»](/data-sources/regional/republic-of-khakassia-government-citizen-budget-r19) — карточка источника.
+- [Республика Хакасия: открытые данные Коммунаровского сельсовета (Ширинский район)](/data-sources/regional/republic-of-khakassia-kommunar-selsoviet-opendata) — карточка источника.
+- [Республика Хакасия: Росстат — Красноярскстат (раздел по Хакасии)](/data-sources/regional/republic-of-khakassia-krasnoyarskstat-khakassia-folder) — карточка источника.
+- [Республика Хакасия: Министерство финансов (портал r-19.ru)](/data-sources/regional/republic-of-khakassia-minfin-portal-r19) — карточка источника.
+- [Республика Хакасия: Верховный Совет — раздел «Финансы» (vskhakasia.ru)](/data-sources/regional/republic-of-khakassia-supreme-council-finances-vskhakasia) — карточка источника.
+- [Республика Хакасия: Верховный Совет — банк нормативных правовых актов](/data-sources/regional/republic-of-khakassia-supreme-council-npa-bank) — карточка источника.
+- [Республика Хакасия: Верховный Совет — открытые данные (vs19.ru)](/data-sources/regional/republic-of-khakassia-supreme-council-open-data-vs19) — карточка источника.
+- [Республика Хакасия: ТФОМС (tfomsrh.ru)](/data-sources/regional/republic-of-khakassia-tfoms-oms-tfomsrh) — карточка источника.
+- [Республика Хакасия: УФК — hakasia.roskazna.gov.ru](/data-sources/regional/republic-of-khakassia-treasury-roskazna-hakasia) — карточка источника.
 
 ## Контекст
 
 - [Региональные источники (оглавление раздела)](/data-sources/regional/)
 - [Сибирский федеральный округ](/data-sources/regional/sfo)
-- [Как искать региональные данные](/data-sources/regional/how-to-find-regional-data)

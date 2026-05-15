@@ -4,44 +4,44 @@ sidebar_label: "Свердловская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
-  Сводная навигация по карточкам источников данных wiki для Свердловская область: прямые ссылки на
-  опубликованные витрины и контекст поиска по региональному контуру.
+  Сводная навигация по карточкам источников данных wiki для Свердловской области: прямые
+  ссылки на опубликованные витрины и контекст поиска по региональному контуру.
 slug: /data-sources/regional/subject-sverdlovsk-oblast-sources-overview
 related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/sverdlovsk-oblast-fin-01eadda1c8
-  - /data-sources/regional/sverdlovsk-oblast-fin-0b7607d08b
-  - /data-sources/regional/sverdlovsk-oblast-fin-3d25833acc
-  - /data-sources/regional/sverdlovsk-oblast-fin-4f124822f3
-  - /data-sources/regional/sverdlovsk-oblast-fin-b217009082
-  - /data-sources/regional/sverdlovsk-oblast-fin-b77e7ff2b4
-  - /data-sources/regional/sverdlovsk-oblast-fin-e84e59124d
-  - /data-sources/regional/sverdlovsk-oblast-fin-f5e7469ac5
-  - /data-sources/regional/sverdlovsk-oblast-fin-fa12cafd0a
+  - /data-sources/regional/sverdlovsk-oblast-accounts-chamber
+  - /data-sources/regional/sverdlovsk-oblast-legislative-assembly
+  - /data-sources/regional/sverdlovsk-oblast-minfin
+  - /data-sources/regional/sverdlovsk-oblast-npa-portal-pravo-gov66
+  - /data-sources/regional/sverdlovsk-oblast-open-budget
   - /data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural
+  - /data-sources/regional/sverdlovsk-oblast-rosstat-66
+  - /data-sources/regional/sverdlovsk-oblast-tfoms-oms66
+  - /data-sources/regional/sverdlovsk-oblast-treasury-roskazna
+  - /data-sources/regional/sverdlovsk-oblast-ufns
 ---
 
 # Свердловская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [sverdlovsk oblast fin 01eadda1c8](/data-sources/regional/sverdlovsk-oblast-fin-01eadda1c8) — карточка источника.
-- [sverdlovsk oblast fin 0b7607d08b](/data-sources/regional/sverdlovsk-oblast-fin-0b7607d08b) — карточка источника.
-- [sverdlovsk oblast fin 3d25833acc](/data-sources/regional/sverdlovsk-oblast-fin-3d25833acc) — карточка источника.
-- [sverdlovsk oblast fin 4f124822f3](/data-sources/regional/sverdlovsk-oblast-fin-4f124822f3) — карточка источника.
-- [sverdlovsk oblast fin b217009082](/data-sources/regional/sverdlovsk-oblast-fin-b217009082) — карточка источника.
-- [sverdlovsk oblast fin b77e7ff2b4](/data-sources/regional/sverdlovsk-oblast-fin-b77e7ff2b4) — карточка источника.
-- [sverdlovsk oblast fin e84e59124d](/data-sources/regional/sverdlovsk-oblast-fin-e84e59124d) — карточка источника.
-- [sverdlovsk oblast fin f5e7469ac5](/data-sources/regional/sverdlovsk-oblast-fin-f5e7469ac5) — карточка источника.
-- [sverdlovsk oblast fin fa12cafd0a](/data-sources/regional/sverdlovsk-oblast-fin-fa12cafd0a) — карточка источника.
-- [sverdlovsk oblast procurement goszakaz midural](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural) — карточка источника.
+- [Свердловская область: Счётная палата (spso66.ru)](/data-sources/regional/sverdlovsk-oblast-accounts-chamber) — внешний финансовый контроль, заключения и отчёты о проверках.
+- [Свердловская область: Законодательное Собрание (zsso.ru)](/data-sources/regional/sverdlovsk-oblast-legislative-assembly) — законодательный этап бюджетного процесса.
+- [Свердловская область: Министерство финансов (minfin.midural.ru)](/data-sources/regional/sverdlovsk-oblast-minfin) — областной бюджет, исполнение, госдолг.
+- [Свердловская область: портал правовой информации (pravo.gov66.ru)](/data-sources/regional/sverdlovsk-oblast-npa-portal-pravo-gov66) — банк НПА субъекта.
+- [Свердловская область: «Открытый бюджет» (smart.mfural.ru)](/data-sources/regional/sverdlovsk-oblast-open-budget) — бюджет для граждан.
+- [Свердловская область: Департамент государственных закупок (goszakaz.midural.ru)](/data-sources/regional/sverdlovsk-oblast-procurement-goszakaz-midural) — региональный контур госзаказа и torgi.egov66.ru.
+- [Свердловская область: Свердловскстат (66.rosstat.gov.ru)](/data-sources/regional/sverdlovsk-oblast-rosstat-66) — официальная статистика (Свердловская и Курганская области).
+- [Свердловская область: Территориальный фонд ОМС (oms66.ru)](/data-sources/regional/sverdlovsk-oblast-tfoms-oms66) — программа ОМС и отчётность ТФОМС.
+- [Свердловская область: Управление Федерального казначейства (Росказна)](/data-sources/regional/sverdlovsk-oblast-treasury-roskazna) — казначейское сопровождение на территории субъекта.
+- [Свердловская область: УФНС России (nalog.gov.ru/rn66)](/data-sources/regional/sverdlovsk-oblast-ufns) — региональный контур ФНС.
 
 ## Контекст
 

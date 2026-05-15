@@ -4,7 +4,7 @@ sidebar_label: "Саратовская область"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Саратовская область: прямые ссылки на
@@ -14,30 +14,30 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/saratov-oblast-fin-1a5a258d23
-  - /data-sources/regional/saratov-oblast-fin-2e14e17a83
-  - /data-sources/regional/saratov-oblast-fin-57b400a600
-  - /data-sources/regional/saratov-oblast-fin-649ef269e6
-  - /data-sources/regional/saratov-oblast-fin-969d3a8afe
-  - /data-sources/regional/saratov-oblast-fin-e27a152fd0
-  - /data-sources/regional/saratov-oblast-fin-e452444518
-  - /data-sources/regional/saratov-oblast-fin-fb85935c10
+  - /data-sources/regional/saratov-oblast-minfin
+  - /data-sources/regional/saratov-oblast-npa-pravo-region64
+  - /data-sources/regional/saratov-oblast-oblduma-srd
+  - /data-sources/regional/saratov-oblast-open-budget-minfin
+  - /data-sources/regional/saratov-oblast-roskazna-ufk
+  - /data-sources/regional/saratov-oblast-saratovstat
+  - /data-sources/regional/saratov-oblast-tfoms
+  - /data-sources/regional/saratov-oblast-ufns
 ---
 
 # Саратовская область: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [saratov oblast fin 1a5a258d23](/data-sources/regional/saratov-oblast-fin-1a5a258d23) — карточка источника.
-- [saratov oblast fin 2e14e17a83](/data-sources/regional/saratov-oblast-fin-2e14e17a83) — карточка источника.
-- [saratov oblast fin 57b400a600](/data-sources/regional/saratov-oblast-fin-57b400a600) — карточка источника.
-- [saratov oblast fin 649ef269e6](/data-sources/regional/saratov-oblast-fin-649ef269e6) — карточка источника.
-- [saratov oblast fin 969d3a8afe](/data-sources/regional/saratov-oblast-fin-969d3a8afe) — карточка источника.
-- [saratov oblast fin e27a152fd0](/data-sources/regional/saratov-oblast-fin-e27a152fd0) — карточка источника.
-- [saratov oblast fin e452444518](/data-sources/regional/saratov-oblast-fin-e452444518) — карточка источника.
-- [saratov oblast fin fb85935c10](/data-sources/regional/saratov-oblast-fin-fb85935c10) — карточка источника.
+- [Саратовская область: Министерство финансов (minfin.saratov.gov.ru)](/data-sources/regional/saratov-oblast-minfin) — карточка источника.
+- [Саратовская область: опубликование НПА (publication.pravo.gov.ru, region64)](/data-sources/regional/saratov-oblast-npa-pravo-region64) — карточка источника.
+- [Саратовская область: Саратовская областная Дума (srd.ru)](/data-sources/regional/saratov-oblast-oblduma-srd) — карточка источника.
+- [Саратовская область: открытый бюджет (раздел Минфина, /budget)](/data-sources/regional/saratov-oblast-open-budget-minfin) — карточка источника.
+- [Саратовская область: УФК Росказны (saratov.roskazna.gov.ru)](/data-sources/regional/saratov-oblast-roskazna-ufk) — карточка источника.
+- [Саратовская область: Саратовстат (64.rosstat.gov.ru)](/data-sources/regional/saratov-oblast-saratovstat) — карточка источника.
+- [Саратовская область: ТФОМС (sartfoms.ru)](/data-sources/regional/saratov-oblast-tfoms) — карточка источника.
+- [Саратовская область: Управление ФНС России (nalog.gov.ru/rn64)](/data-sources/regional/saratov-oblast-ufns) — карточка источника.
 
 ## Контекст
 

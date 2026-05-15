@@ -4,7 +4,7 @@ sidebar_label: "Республика Крым"
 tags:
   - data-source
   - regional
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-05-15
 content_type: reference
 description: >-
   Сводная навигация по карточкам источников данных wiki для Республика Крым: прямые ссылки на
@@ -14,34 +14,34 @@ related_pages:
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
-  - /data-sources/regional/republic-of-crimea-fin-1710af89bf
-  - /data-sources/regional/republic-of-crimea-fin-26b5747827
-  - /data-sources/regional/republic-of-crimea-fin-2f6caa45b3
-  - /data-sources/regional/republic-of-crimea-fin-6de00f8b60
-  - /data-sources/regional/republic-of-crimea-fin-8bfa746848
-  - /data-sources/regional/republic-of-crimea-fin-a2d4f7901f
-  - /data-sources/regional/republic-of-crimea-fin-bd29f7c468
-  - /data-sources/regional/republic-of-crimea-fin-d3326523d3
-  - /data-sources/regional/republic-of-crimea-fin-e5effa0c77
-  - /data-sources/regional/republic-of-crimea-fin-fb47a53c53
+  - /data-sources/regional/republic-of-crimea-minfin
+  - /data-sources/regional/republic-of-crimea-minfin-municipal-budget-revenues
+  - /data-sources/regional/republic-of-crimea-minfin-normative-acts
+  - /data-sources/regional/republic-of-crimea-open-budget-ifinmon
+  - /data-sources/regional/republic-of-crimea-rosstat-crimea
+  - /data-sources/regional/republic-of-crimea-state-council-budget-lawmaking
+  - /data-sources/regional/republic-of-crimea-state-council-portal
+  - /data-sources/regional/republic-of-crimea-tfoms
+  - /data-sources/regional/republic-of-crimea-ufk-roskazna
+  - /data-sources/regional/republic-of-crimea-ufns-nalog-rn91
 ---
 
 # Республика Крым: источники данных
 
-Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек остаются вида `/data-sources/regional/<slug>` независимо от папки файла в репозитории.
+Коротко: эта страница перечисляет **опубликованные** карточки источников данных по субъекту. Публичные URL карточек имеют вид `/data-sources/regional/<slug>` и **не включают** сегменты федерального округа или субъекта в пути (см. правила в [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) в репозитории).
 
 ## Карточки источников
 
-- [republic of crimea fin 1710af89bf](/data-sources/regional/republic-of-crimea-fin-1710af89bf) — карточка источника.
-- [republic of crimea fin 26b5747827](/data-sources/regional/republic-of-crimea-fin-26b5747827) — карточка источника.
-- [republic of crimea fin 2f6caa45b3](/data-sources/regional/republic-of-crimea-fin-2f6caa45b3) — карточка источника.
-- [republic of crimea fin 6de00f8b60](/data-sources/regional/republic-of-crimea-fin-6de00f8b60) — карточка источника.
-- [republic of crimea fin 8bfa746848](/data-sources/regional/republic-of-crimea-fin-8bfa746848) — карточка источника.
-- [republic of crimea fin a2d4f7901f](/data-sources/regional/republic-of-crimea-fin-a2d4f7901f) — карточка источника.
-- [republic of crimea fin bd29f7c468](/data-sources/regional/republic-of-crimea-fin-bd29f7c468) — карточка источника.
-- [republic of crimea fin d3326523d3](/data-sources/regional/republic-of-crimea-fin-d3326523d3) — карточка источника.
-- [republic of crimea fin e5effa0c77](/data-sources/regional/republic-of-crimea-fin-e5effa0c77) — карточка источника.
-- [republic of crimea fin fb47a53c53](/data-sources/regional/republic-of-crimea-fin-fb47a53c53) — карточка источника.
+- [Республика Крым: Министерство финансов Республики Крым (minfin.rk.gov.ru)](/data-sources/regional/republic-of-crimea-minfin) — карточка источника.
+- [Республика Крым: Минфин — статья о доходах местных бюджетов (minfin.rk.gov.ru)](/data-sources/regional/republic-of-crimea-minfin-municipal-budget-revenues) — карточка источника.
+- [Республика Крым: нормативные документы Министерства финансов (раздел на minfin.rk.gov.ru)](/data-sources/regional/republic-of-crimea-minfin-normative-acts) — карточка источника.
+- [Республика Крым: проект «Открытый бюджет» (budget.rk.ifinmon.ru)](/data-sources/regional/republic-of-crimea-open-budget-ifinmon) — карточка источника.
+- [Республика Крым и Севастополь: Крымстат — территориальный орган Росстата (82.rosstat.gov.ru)](/data-sources/regional/republic-of-crimea-rosstat-crimea) — карточка источника.
+- [Республика Крым: Государственный Совет — законотворчество по бюджету (crimea.gov.ru)](/data-sources/regional/republic-of-crimea-state-council-budget-lawmaking) — карточка источника.
+- [Республика Крым: Государственный Совет Республики Крым (официальный портал crimea.gov.ru)](/data-sources/regional/republic-of-crimea-state-council-portal) — карточка источника.
+- [Республика Крым: Территориальный фонд ОМС (tfomsrk.ru)](/data-sources/regional/republic-of-crimea-tfoms) — карточка источника.
+- [Республика Крым: УФК по Республике Крым (krym.roskazna.gov.ru)](/data-sources/regional/republic-of-crimea-ufk-roskazna) — карточка источника.
+- [Республика Крым: УФНС России по Республике Крым (nalog.gov.ru / rn91)](/data-sources/regional/republic-of-crimea-ufns-nalog-rn91) — карточка источника.
 
 ## Контекст
 
