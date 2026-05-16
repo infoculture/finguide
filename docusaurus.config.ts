@@ -9,6 +9,11 @@ const config: Config = {
 
   future: {
     v4: true,
+    // Persistent Rspack cache can panic (ModuleGraphModule not found) after upgrades
+    // or interrupted builds; disabling keeps other "faster" optimizations.
+    faster: {
+      rspackPersistentCache: false,
+    },
   },
 
   url: 'https://infoculture.github.io',

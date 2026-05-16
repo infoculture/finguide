@@ -24,7 +24,7 @@ related_pages:
 
 Открытые данные федеральных органов власти и операторов государственных информационных систем.
 
-Карточки сгруппированы по подпапкам в репозитории (`catalog/`, `budget/`, `zakupki/`, `programs-orgs/`, `statistics/`, `rosstat/`, `cbr/`, `nalog/`, `legacy/`); публичные URL вида `/data-sources/federal/<slug>` сохранены через поле `slug` в frontmatter.
+Карточки сгруппированы по подпапкам в репозитории (`catalog/`, `budget/`, `zakupki/`, `programs-orgs/`, `enterprises/` с подгруппами `goscorp/`, `ppk/`, `ao/`, `gosnko/`, `other/`, `statistics/`, `rosstat/`, `cbr/`, `nalog/`, `legacy/`); публичные URL вида `/data-sources/federal/<slug>` сохранены через поле `slug` в frontmatter.
 
 ## Для кого
 
@@ -51,8 +51,16 @@ related_pages:
 
 - [Портал data.gov.ru](./catalog/data-gov-ru.md)
 - [e-disclosure.ru — раскрытие эмитентов (Интерфакс)](./catalog/e-disclosure-ru.md)
-- [ПАО «Газпром»: раскрытие для инвесторов](./catalog/gazprom-investor-disclosure.md)
-- [РЖД: корпоративное раскрытие (company.rzd.ru)](./catalog/rzd-holding-disclosure.md)
+
+## Госкомпании и раскрытие
+
+Навигатор сектора: [корпоративное раскрытие и госкомпании](./programs-orgs/state-owned-enterprises-disclosure.md). Карточки по организациям — в подпапке `enterprises/` (импорт из `_dev/federal_gov_orgs_links_table.xlsx`); пары с разделом [Организации — госучастие](/organizations/state-sector).
+
+- [ПАО «Газпром»: раскрытие для инвесторов](./enterprises/ao/gazprom-investor-disclosure.md)
+- [РЖД: корпоративное раскрытие (company.rzd.ru)](./enterprises/ao/rzd-holding-disclosure.md)
+- [Росатом: витрины отчётности и раскрытия](./enterprises/goscorp/rosatom-disclosure.md)
+- [ВТБ: раскрытие для инвесторов](./enterprises/ao/vtb-disclosure.md)
+- [Роснефть: раскрытие](./enterprises/ao/rosneft-disclosure.md)
 
 ## Бюджетные данные
 

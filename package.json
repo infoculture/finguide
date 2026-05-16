@@ -24,6 +24,12 @@
     "generate:fns-opendata-cards": "node scripts/generate-fns-opendata-cards.mjs",
     "bootstrap:regional": "node scripts/bootstrap-regional-wiki.mjs",
     "import:regional-table": "node scripts/import-regional-sources-from-table.mjs",
+    "import:federal-gov-orgs": "node scripts/import-federal-gov-orgs-from-xlsx.mjs",
+    "reorganize:enterprises-subgroups": "node scripts/reorganize-enterprises-subgroups.mjs",
+    "import:federal-gos-ngo": "node scripts/import-federal-gos-ngo-from-xlsx.mjs",
+    "patch:gosnko-org-about": "node scripts/patch-gosnko-org-about.mjs",
+    "build:federal-gos-ngo-registry": "node scripts/build-federal-gos-ngo-registry.mjs",
+    "write:federal-gos-ngo-indexes": "node scripts/write-federal-gos-ngo-indexes.mjs",
     "fix:regional-fin-sidebar-labels": "node scripts/fix-regional-fin-sidebar-labels.mjs",
     "refresh:budget-gov-opendata-sidebar-labels": "node scripts/refresh-budget-gov-opendata-sidebar-labels.mjs",
     "presubmit": "npm run lint:frontmatter && npm run lint:howto && npm run export:knowledge -- --check && npm run lint:qa && npm run qa:retrieval && npm run lint:related-pages && npm run lint:corpus && npm run typecheck && npm run build"

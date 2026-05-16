@@ -1,0 +1,256 @@
+{
+  "agentstvo-dalnego-vostoka-po-privlecheniyu-investitsiy-i-podderz": {
+    "site": "https://erdc.ru/",
+    "disclosure": ["https://erdc.ru/about/"]
+  },
+  "agentstvo-investitsionnogo-razvitiya": {
+    "site": "https://www.exportcenter.ru/",
+    "disclosure": ["https://www.exportcenter.ru/press/news/"],
+    "note": "Агентство инвестиционного развития; публичные материалы — на портале РЭЦ"
+  },
+  "agentstvo-po-razvitiyu-chelovecheskogo-kapitala-na-dalnem-vostok": {
+    "site": "https://erdc.ru/",
+    "disclosure": ["https://erdc.ru/about/"]
+  },
+  "agentstvo-po-tehnologicheskomu-razvitiyu": {
+    "site": "https://asi.org/",
+    "disclosure": ["https://asi.org/projects/"],
+    "note": "Связано с контуром АСИ; отдельный сайт оператора уточняйте по ИНН"
+  },
+  "agentstvo-razvitiya-professionalnogo-masterstva-vorldskills-ross": {
+    "site": "https://worldskills.ru/",
+    "disclosure": ["https://worldskills.ru/about/"]
+  },
+  "agentstvo-strategicheskikh-initsiativ-ano": {
+    "site": "https://asi.org/",
+    "disclosure": ["https://asi.org/projects/"]
+  },
+  "analiticheskiy-tsentr-pri-pravitelstve": {
+    "site": "https://ac.gov.ru/",
+    "disclosure": ["https://ac.gov.ru/reports"]
+  },
+  "arena-2018": {
+    "site": "https://www.minsport.gov.ru/",
+    "disclosure": ["https://www.minsport.gov.ru/press_center/news/"],
+    "note": "Организация событийного периода ЧМ-2018; актуальные публикации — у профильного ведомства"
+  },
+  "direktsiya-mezhdunarodnyh-transportnyh-koridorov": {
+    "site": "https://mintrans.gov.ru/",
+    "disclosure": ["https://mintrans.gov.ru/press-center/news"],
+    "note": "Событийная/проектная структура; первичные публикации — Минтранс России"
+  },
+  "direktsiya-po-razvitiyu-transportnoy-sistemy-sankt-peterburga-i-": {
+    "site": "https://mintrans.gov.ru/",
+    "disclosure": ["https://mintrans.gov.ru/press-center/news"],
+    "note": "Проектная дирекция; публичные материалы — Минтранс России"
+  },
+  "direktsiya-po-upravleniyu-federalnoy-tselevoy-programmoy": {
+    "site": "https://mintrans.gov.ru/",
+    "disclosure": ["https://mintrans.gov.ru/press-center/news"],
+    "note": "Проектная дирекция ФЦП; публикации — Минтранс России"
+  },
+  "edinaya-transportnaya-direktsiya": {
+    "site": "https://mintrans.gov.ru/",
+    "disclosure": ["https://mintrans.gov.ru/press-center/news"],
+    "note": "Транспортная дирекция; публикации — Минтранс России"
+  },
+  "institut-razvitiya-interneta": {
+    "site": "https://iri.org.ru/",
+    "disclosure": ["https://iri.org.ru/about/"]
+  },
+  "informatsionno-analiticheskiy-tsentr-po-voprosam-vneshnetorgovoy": {
+    "site": "https://mcx.gov.ru/",
+    "disclosure": ["https://mcx.gov.ru/press-center/news/"],
+    "note": "ИАЦ ВЭД; публичные материалы — Минсельхоз России (учредительный контур среза)"
+  },
+  "ispolnitelnaya-direktsiya": {
+    "site": "https://minsport.gov.ru/",
+    "disclosure": ["https://minsport.gov.ru/press_center/news/"],
+    "note": "Исполнительная дирекция спортивного мероприятия; публикации — Минспорт России"
+  },
+  "ispolnitelnaya-direktsiya-xxix-vsemirnoy-zimney-universiady-2019": {
+    "site": "https://minsport.gov.ru/",
+    "disclosure": ["https://minsport.gov.ru/press_center/news/"],
+    "note": "Исполнительная дирекция Универсиады-2019; публикации — Минспорт России"
+  },
+  "koordinatsionnyy-tsentr-natsionalnogo-domena-seti-internet": {
+    "site": "https://cctld.ru/",
+    "disclosure": ["https://cctld.ru/about/"]
+  },
+  "nark": {
+    "site": "https://nark.ru/",
+    "disclosure": ["https://nark.ru/about/"]
+  },
+  "natsionalnye-prioritety": {
+    "site": "https://nationalpriority.ru/",
+    "disclosure": ["https://nationalpriority.ru/about/"]
+  },
+  "natsionalnyy-nauchno-obrazovatelnyy-tsentr": {
+    "site": "https://bigenc.ru/",
+    "disclosure": ["https://bigenc.ru/about"]
+  },
+  "natsionalnyy-nauchnyy-tsentr-kompetentsiy-v-sfere-protivodeystvi": {
+    "site": "https://rospotrebnadzor.ru/",
+    "disclosure": ["https://rospotrebnadzor.ru/about/info/news/"],
+    "note": "ННЦК; публичные материалы — Роспотребнадзор"
+  },
+  "obschestvennoe-televidenie-rossii": {
+    "site": "https://otr-online.ru/",
+    "disclosure": ["https://otr-online.ru/about/"]
+  },
+  "platforma-dlya-raboty-s-obrascheniyami-predprinimateley": {
+    "site": "https://www.business.gov.ru/",
+    "disclosure": ["https://www.business.gov.ru/opendata"],
+    "note": "Платформа обращений предпринимателей; публичный контур — портал МСП"
+  },
+  "redaktsiya-telekanala-soveta-federatsii": {
+    "site": "https://council.gov.ru/",
+    "disclosure": ["https://council.gov.ru/news/"],
+    "note": "Редакция телеканала СФ; публикации — Совет Федерации"
+  },
+  "rossiyskaya-sistema-kachestva": {
+    "site": "https://rsq.ru/",
+    "disclosure": ["https://rsq.ru/about/"]
+  },
+  "rossiya-strana-vozmozhnostey": {
+    "site": "https://rsv.ru/",
+    "disclosure": ["https://rsv.ru/about/"]
+  },
+  "tv-novosti": {
+    "site": "https://tvnovosti.ru/",
+    "disclosure": ["https://tvnovosti.ru/about/"]
+  },
+  "transportnaya-direktsiya-chempionata-mira-po-futbolu-2018-goda-v": {
+    "site": "https://mintrans.gov.ru/",
+    "disclosure": ["https://mintrans.gov.ru/press-center/news"],
+    "note": "Транспортная дирекция ЧМ-2018; публикации — Минтранс России"
+  },
+  "universitet-natsionalnoy-tehnologicheskoy-initsiativy-2035": {
+    "site": "https://2035.university/",
+    "disclosure": ["https://2035.university/about/"]
+  },
+  "federalnyy-tsentr-kompetentsiy-v-sfere-proizvoditelnosti-truda": {
+    "site": "https://fcktr.ru/",
+    "disclosure": ["https://fcktr.ru/about/"]
+  },
+  "tsentr-planirovaniya-i-monitoringa-programmy-podgotovki-k-proved": {
+    "site": "https://minsport.gov.ru/",
+    "disclosure": ["https://minsport.gov.ru/press_center/news/"],
+    "note": "Центр планирования ЧМ-2018; публикации — Минспорт России"
+  },
+  "tsentr-ekspertizy-po-voprosam-vsemirnoy-torgovoy-organizatsii": {
+    "site": "https://www.economy.gov.ru/",
+    "disclosure": ["https://www.economy.gov.ru/material/news/"],
+    "note": "Центр экспертизы ВТО; публикации — Минэкономразвития России"
+  },
+  "tsifrovaya-ekonomika": {
+    "site": "https://digital.gov.ru/",
+    "disclosure": ["https://digital.gov.ru/ru/activity/directions/858/"]
+  },
+  "lokalnaya-organizatsionnaya-struktura-uefa-evro-2020": {
+    "site": "https://minsport.gov.ru/",
+    "disclosure": ["https://minsport.gov.ru/press_center/news/"],
+    "note": "ЛОС Евро-2020; публикации — Минспорт России"
+  },
+  "organizatsionnyy-komitet-po-podgotovke-i-provedeniyu-v-2022-godu": {
+    "site": "https://minsport.gov.ru/",
+    "disclosure": ["https://minsport.gov.ru/press_center/news/"],
+    "note": "Оргкомитет ЧМ по волейболу 2022; публикации — Минспорт России"
+  },
+  "platforma-natsionalnaya-tekhnologiya": {
+    "site": "https://xn----7sbauboseoccignp9a6cvfij.xn--p1ai/",
+    "disclosure": ["https://xn----7sbauboseoccignp9a6cvfij.xn--p1ai/"]
+  },
+  "tsentr-izucheniya-i-setevogo-monitoringa-molodezhnoy-sredy": {
+    "site": "https://fadm.gov.ru/",
+    "disclosure": ["https://fadm.gov.ru/press_center/news/"],
+    "note": "Центр мониторинга молодёжной среды; публикации — Росмолодёжь"
+  },
+  "tsentr-razvitiya-kulturnyh-initsiativ": {
+    "site": "https://xn--80aeeqaabljrdbg6a3ahhcl4ay9hsa.xn--p1ai/",
+    "disclosure": ["https://xn--80aeeqaabljrdbg6a3ahhcl4ay9hsa.xn--p1ai/"]
+  },
+  "universitet-innopolis": {
+    "site": "https://innopolis.university/",
+    "disclosure": ["https://innopolis.university/university/reports/"]
+  },
+  "zhkh-zaschita": {
+    "site": "https://zhkh-zashchita.ru/",
+    "disclosure": ["https://zhkh-zashchita.ru/about/"]
+  },
+  "institut-strategii-ustoychivogo-razvitiya": {
+    "site": "https://issd.ru/",
+    "disclosure": ["https://issd.ru/about/"]
+  },
+  "fond-zhkh-reform": {
+    "site": "https://dom.gosuslugi.ru/",
+    "disclosure": ["https://dom.gosuslugi.ru/#/news"],
+    "note": "Фонд содействия реформированию ЖКХ; публичный контур — платформа «Госуслуги.Дом»"
+  },
+  "fond-razvitiya-monogorodov": {
+    "site": "https://fondmonogorod.ru/",
+    "disclosure": ["https://fondmonogorod.ru/about/"]
+  },
+  "nekommercheskaya-organizatsiya-fond-razvitiya-tsentra-razrabotki": {
+    "site": "https://iidf.ru/",
+    "disclosure": ["https://iidf.ru/about/"]
+  },
+  "rossiyskoe-dvizhenie-shkolnikov": {
+    "site": "https://rdsh.ru/",
+    "disclosure": ["https://rdsh.ru/about/"]
+  },
+  "yunost-rossii": {
+    "site": "https://yunostrossii.ru/",
+    "disclosure": ["https://yunostrossii.ru/about/"]
+  },
+  "fond-zashchity-ddu": {
+    "site": "https://xn----gtbba5bf4bb.xn--p1ai/",
+    "disclosure": ["https://xn----gtbba5bf4bb.xn--p1ai/"]
+  },
+  "ppk-obrashchenie-s-otkhodami": {
+    "site": "https://reo.ru/",
+    "disclosure": ["https://reo.ru/about/"]
+  },
+  "rosnauchnyy-fond": {
+    "site": "https://rscf.ru/",
+    "disclosure": ["https://rscf.ru/about/"]
+  },
+  "rfrit": {
+    "site": "https://rfrit.ru/",
+    "disclosure": ["https://rfrit.ru/about/"]
+  },
+  "fond-istoriya-otechestva": {
+    "site": "https://xn--h1aaridg8g.xn--p1ai/",
+    "disclosure": ["https://xn--h1aaridg8g.xn--p1ai/"]
+  },
+  "tsentr-strategicheskih-razrabotok": {
+    "site": "https://www.csr.ru/",
+    "disclosure": ["https://www.csr.ru/"]
+  },
+  "fond-zashchity-ddu-legacy": {
+    "site": "https://xn----gtbba5bf4bb.xn--p1ai/",
+    "disclosure": ["https://xn----gtbba5bf4bb.xn--p1ai/"],
+    "note": "Исторический контур фонда ДДУ; см. также [ППК «Фонд защиты ДДУ»](/data-sources/federal/fond-zashchity-ddu-disclosure)"
+  },
+  "fond-perspektivnyh-issledovaniy": {
+    "site": "https://fpi.gov.ru/",
+    "disclosure": ["https://fpi.gov.ru/"]
+  },
+  "fond-solovki": {
+    "site": "https://solovki-monastyr.ru/",
+    "disclosure": ["https://solovki-monastyr.ru/"]
+  },
+  "fond-podderzhki-islamskoy-kultury-nauki-i-obrazovaniya": {
+    "site": "https://islamfund.ru/",
+    "disclosure": ["https://islamfund.ru/"]
+  },
+  "fond-spetsializirovannyh-programm-podderzhki-razvitiya-i-stimuli": {
+    "site": "https://fondvp.gov.ru/",
+    "disclosure": ["https://fondvp.gov.ru/"]
+  },
+  "gk-razrabotka-proizvodstvo": {
+    "site": "https://rostec.ru/",
+    "disclosure": ["https://rostec.ru/investors/reports/"],
+    "note": "Госкорпорация «Ростех»; полный навигатор — [Ростех: раскрытие](/data-sources/federal/rostech-disclosure)"
+  }
+}

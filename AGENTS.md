@@ -1,6 +1,27 @@
+<!-- OPENSPEC:START -->
+# OpenSpec Instructions
+
+These instructions are for AI assistants working in this project.
+
+Always open `@/openspec/AGENTS.md` when the request:
+- Mentions planning or proposals (words like proposal, spec, change, plan)
+- Introduces new capabilities, breaking changes, architecture shifts, or big performance/security work
+- Sounds ambiguous and you need the authoritative spec before coding
+
+Use `@/openspec/AGENTS.md` to learn:
+- How to create and apply change proposals
+- Spec format and conventions
+- Project structure and guidelines
+
+Keep this managed block so 'openspec update' can refresh the instructions.
+
+<!-- OPENSPEC:END -->
+
 # Инструкции для агента (репозиторий)
 
 ## Глоссарий (`wiki/glossary/`)
+
+Нормативный стандарт **содержания** карточек (полнота «Коротко» и «Определение», расшифровка кодов для `glossary_kind: classification`, блоки **происхождения** и **ведение перечня vs применение в данных**, согласованность с «Правовой основой», содержательные «Примеры»): OpenSpec **[`glossary-card-content`](openspec/changes/update-glossary-editorial-depth/specs/glossary-card-content/spec.md)** — после архивации соответствующего change канонический путь **[`openspec/specs/glossary-card-content/spec.md`](openspec/specs/glossary-card-content/spec.md)**. Чеклист волн миграции: [`openspec/changes/update-glossary-editorial-depth/tasks.md`](openspec/changes/update-glossary-editorial-depth/tasks.md).
 
 При **создании новой** или **обновлении существующей** карточки термина в каталоге `wiki/glossary/`:
 
@@ -37,7 +58,7 @@ Slug страницы совпадает с именем файла без `.md`
 5. **«Примеры доступа»**: не оставляй только закомментированный шаблон без рабочего примера — либо минимальный проверенный код или команда, либо удали раздел целиком.
 6. Файлы **не** считаются карточками источника: `README.md` в подкаталогах и корне раздела, `data-source-card-template.md` (шаблон), `_category_.json` в подпапках федерального раздела и в подпапках `wiki/data-sources/regional/<fed_okrug_slug>/` (метаданные группы сайдбара), а также сводные страницы `subject-<subject_slug>-sources-overview.md` (оглавление по субъекту, `content_type: reference`).
 
-Новую **федеральную** карточку клади в тематическую подпапку: `wiki/data-sources/federal/catalog/`, `budget/`, `zakupki/`, `programs-orgs/`, `statistics/`, `cbr/`, `nalog/` или `legacy/` (в корне `wiki/data-sources/federal/` остаётся только `README.md`). **Региональные** карточки источников клади в `wiki/data-sources/regional/<fed_okrug_slug>/<subject_slug>/<slug>.md`, где пары `<fed_okrug_slug>` и `<subject_slug>` берутся из канонического справочника [`_dev/regional-directory.yaml`](_dev/regional-directory.yaml) (см. OpenSpec `regional-sources-hierarchy`). Обзорно-методические страницы (`how-to-find-regional-data`, `consolidated-budgets`, матрица пилота и т.п.) остаются в корне `wiki/data-sources/regional/`. **Международные** и **гражданские** карточки — в `wiki/data-sources/international/` или `wiki/data-sources/civil/` соответственно (без дополнительного уровня внутри этих папок, если не оговорено отдельно). В frontmatter указывай `slug: /data-sources/<подраздел>/<slug>`, где для федеральных источников публичный путь **без** имени подпапки: `slug: /data-sources/federal/<slug>`, а для региональных карточек и сводок субъекта — **плоский** путь `slug: /data-sources/regional/<basename>` (без сегментов округа и субъекта в URL), а `<basename>` — имя файла без `.md`, чтобы URL не менялся при переносе между папками. Для `international` и `civil`: `slug: /data-sources/international/<slug>` и `slug: /data-sources/civil/<slug>` соответственно. Карточки, созданные скриптом `npm run import:regional-table` из `_dev/rf_finance_sources_table_full.md`, по умолчанию получают `rag_priority: low` (снижает шум в лексическом baseline `npm run qa:retrieval`); после редакционной проверки приведите приоритет к обычной политике корпуса или удалите поле. Для пересчёта `sidebar_label` у уже импортированных `*-fin-*` после смены правил обрезки используйте `npm run fix:regional-fin-sidebar-labels`.
+Новую **федеральную** карточку клади в тематическую подпапку: `wiki/data-sources/federal/catalog/`, `budget/`, `zakupki/`, `programs-orgs/`, `enterprises/`, `statistics/`, `cbr/`, `nalog/` или `legacy/` (в корне `wiki/data-sources/federal/` остаётся только `README.md`). Карточки раскрытия госкомпаний и парные карточки организаций сектора госучастия — в `enterprises/` (подпапки `goscorp/`, `ppk/`, `ao/`, `gosnko/`, `other/`; публичный URL без сегмента подпапки) и `wiki/organizations/state-sector/` соответственно (импорт: `npm run import:federal-gov-orgs` из `_dev/federal_gov_orgs_links_table.xlsx`; переразложение: `npm run reorganize:enterprises-subgroups`). **Региональные** карточки источников клади в `wiki/data-sources/regional/<fed_okrug_slug>/<subject_slug>/<slug>.md`, где пары `<fed_okrug_slug>` и `<subject_slug>` берутся из канонического справочника [`_dev/regional-directory.yaml`](_dev/regional-directory.yaml) (см. OpenSpec `regional-sources-hierarchy`). Обзорно-методические страницы (`how-to-find-regional-data`, `consolidated-budgets`, матрица пилота и т.п.) остаются в корне `wiki/data-sources/regional/`. **Международные** и **гражданские** карточки — в `wiki/data-sources/international/` или `wiki/data-sources/civil/` соответственно (без дополнительного уровня внутри этих папок, если не оговорено отдельно). В frontmatter указывай `slug: /data-sources/<подраздел>/<slug>`, где для федеральных источников публичный путь **без** имени подпапки: `slug: /data-sources/federal/<slug>`, а для региональных карточек и сводок субъекта — **плоский** путь `slug: /data-sources/regional/<basename>` (без сегментов округа и субъекта в URL), а `<basename>` — имя файла без `.md`, чтобы URL не менялся при переносе между папками. Для `international` и `civil`: `slug: /data-sources/international/<slug>` и `slug: /data-sources/civil/<slug>` соответственно. Карточки, созданные скриптом `npm run import:regional-table` из `_dev/rf_finance_sources_table_full.md`, по умолчанию получают `rag_priority: low` (снижает шум в лексическом baseline `npm run qa:retrieval`); после редакционной проверки приведите приоритет к обычной политике корпуса или удалите поле. Для пересчёта `sidebar_label` у уже импортированных `*-fin-*` после смены правил обрезки используйте `npm run fix:regional-fin-sidebar-labels`.
 
 ## Организации (`wiki/organizations/`)
 
@@ -49,8 +70,9 @@ Slug страницы совпадает с именем файла без `.md`
 4. В **«Связанные организации»** и **«Связанные термины глоссария»** давай конкретные ссылки `/organizations/<slug>` и `/glossary/<slug>` с пояснением строки; не заменяй их общими отсылками к разделам.
 5. **Частые вопросы**: добавляй только если ответ даёт специфику организации; избегай повторения одних и тех же двух вопросов во всех карточках, если ответ не добавляет ничего к **Коротко**, **Роль в данных и учёте** и **Витрины и входы**.
 6. Файлы **не** считаются карточками организации: `README.md` (оглавление раздела), `organizations-card-template.md` (шаблон).
+7. Карточки **сектора госучастия** (госкорпорации, ППК, крупные эмитенты с госучастием) — в `wiki/organizations/state-sector/`; парные навигаторы витрин отчётности — в `wiki/data-sources/federal/enterprises/<goscorp|ppk|ao|gosnko|other>/`. Массовый импорт из `_dev/federal_gov_orgs_links_table.xlsx`: `npm run import:federal-gov-orgs`.
 
-Slug страницы совпадает с именем файла без `.md` (как в ссылках Docusaurus: `/organizations/minfin`).
+Slug страницы совпадает с именем файла без `.md` (как в ссылках Docusaurus: `/organizations/minfin`; для state-sector: `/organizations/<slug>`).
 
 ## Отчётность и формы (`wiki/reporting/`)
 

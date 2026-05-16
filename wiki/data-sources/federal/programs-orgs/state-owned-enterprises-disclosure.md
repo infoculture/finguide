@@ -66,7 +66,8 @@ related_pages:
 | Тип | URL / страница wiki | Зачем |
 | --- | --- | --- |
 | Агрегатор раскрытий | [e-disclosure.ru](/data-sources/federal/e-disclosure-ru) | Поиск по эмитенту, архив годовых отчётов |
-| Примеры витрин | [Газпром](/data-sources/federal/gazprom-investor-disclosure), [РЖД](/data-sources/federal/rzd-holding-disclosure) | Устойчивые корпоративные входы (дополняйте карточками) |
+| Каталог по организациям | [Госкомпании и раскрытие](/data-sources/federal/enterprises) — **30** пар «организация + витрины» (импорт из `_dev/federal_gov_orgs_links_table.xlsx`) | Таблицы URL по категориям отчётности, закупок, ESG |
+| Примеры витрин | [Газпром](/data-sources/federal/gazprom-investor-disclosure), [РЖД](/data-sources/federal/rzd-holding-disclosure), [Росатом](/data-sources/federal/rosatom-disclosure), [Роснефть](/data-sources/federal/rosneft-disclosure), [ВТБ](/data-sources/federal/vtb-disclosure) | Устойчивые корпоративные входы |
 | Закупки | [ЕИС и данные закупок](/data-sources/federal/procurement), [223-ФЗ](/legal/223-fz), [44-ФЗ](/legal/44fz) | Трассировка расходов и контрактов |
 | Субсидии и соглашения | [Реестр соглашений](/data-sources/federal/subsidy) | Связка бюджета с получателем |
 | Госпрограммы | [govtasks / открытые наборы](/data-sources/federal/govtasks) | Программный контекст расходов |
@@ -76,7 +77,7 @@ related_pages:
 | Измерение | Значение |
 | --- | --- |
 | Дата проверки (`last_verified`) | 2026-05-14 |
-| Полнота | **Частичная** — перечень эмитентов в wiki намеренно короткий; дополняйте карточками по стабильным URL |
+| Полнота | **Частичная** — в каталоге [enterprises](/data-sources/federal/enterprises) зафиксированы **30** организаций из таблицы ссылок; URL требуют точечной вычитки |
 | Машиночитаемость | **Смешанная** — PDF/HTML по эмитенту; единого API по всем нет |
 | Юридическая значимость | **Первично** корпоративные и биржевые правила раскрытия; e-disclosure — **агрегатор** |
 | Задержка обновления | Зависит от эмитента и оператора портала |

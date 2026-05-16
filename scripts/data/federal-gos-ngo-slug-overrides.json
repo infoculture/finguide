@@ -1,0 +1,77 @@
+{
+  "by_inn": {
+    "7710475530": {
+      "org_slug": "nark",
+      "short_name": "НАРК"
+    },
+    "9710077036": {
+      "org_slug": "rfrit",
+      "short_name": "РФРИТ"
+    },
+    "9710063040": {
+      "org_slug": "rossiya-strana-vozmozhnostey",
+      "short_name": "Россия — страна возможностей"
+    },
+    "7704446429": {
+      "org_slug": "fond-zashchity-ddu",
+      "short_name": "Фонд защиты прав граждан — участников долевого строительства"
+    },
+    "7704384518": {
+      "org_slug": "fond-zashchity-ddu-legacy",
+      "short_name": "Фонд защиты прав граждан — участников ДДУ (фонд)"
+    },
+    "7709473426": {
+      "org_slug": "rosnauchnyy-fond",
+      "short_name": "Российский научный фонд"
+    },
+    "7736243140": {
+      "org_slug": "fond-zhkh-reform",
+      "short_name": "Фонд содействия реформированию ЖКХ"
+    },
+    "7717151380": {
+      "existing_state_sector_slug": "avtodor"
+    },
+    "7750004150": {
+      "existing_state_sector_slug": "veb-rf"
+    },
+    "7706413348": {
+      "existing_state_sector_slug": "rosatom"
+    },
+    "7704274402": {
+      "org_slug": "gk-razrabotka-proizvodstvo",
+      "short_name": "ГК по содействию разработке и производству"
+    },
+    "7704278735": {
+      "org_slug": "agentstvo-strategicheskikh-initsiativ-ano",
+      "short_name": "Агентство стратегических инициатив (АНО)"
+    },
+    "7703474222": {
+      "org_slug": "ppk-obrashchenie-s-otkhodami",
+      "short_name": "ППК по обращению с отходами"
+    },
+    "7708244720": {
+      "org_slug": "analiticheskiy-tsentr-pri-pravitelstve",
+      "short_name": "Аналитический центр при Правительстве РФ"
+    },
+    "7728273542": {
+      "org_slug": "yunost-rossii",
+      "short_name": "Юность России"
+    },
+    "7703469180": {
+      "org_slug": "platforma-natsionalnaya-tekhnologiya",
+      "short_name": "Платформа «Национальная технология»"
+    },
+    "9704007633": {
+      "org_slug": "natsionalnye-prioritety",
+      "short_name": "Национальные приоритеты"
+    },
+    "7743180130": {
+      "org_slug": "fond-istoriya-otechestva",
+      "short_name": "Фонд «История Отечества»"
+    },
+    "7704455367": {
+      "org_slug": "fond-solovki",
+      "short_name": "Фонд Соловецкого архипелага"
+    }
+  }
+}

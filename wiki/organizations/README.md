@@ -65,6 +65,12 @@ related_pages:
 - [Социальный фонд России (СФР)](./sfr.md)
 - [Федеральный фонд обязательного медицинского страхования (ФФОМС)](./ffoms.md)
 
+## Госучастие и госкорпорации
+
+Карточки **30** крупнейших госкомпаний, госкорпораций, ППК и институтов развития — в [каталоге госучастия](/organizations/state-sector). Парные **навигаторы по витринам отчётности** — в [источниках данных: enterprises](/data-sources/federal/enterprises). Навигатор сектора: [корпоративное раскрытие](/data-sources/federal/state-owned-enterprises-disclosure).
+
+Примеры: [Газпром](/organizations/gazprom), [РЖД](/organizations/rzd), [Росатом](/organizations/rosatom), [ВЭБ.РФ](/organizations/veb-rf), [ВТБ](/organizations/vtb).
+
 ## Связанные разделы
 
 - [Информационные системы](/information-systems/) — оператором ИС часто выступают ведомства из этого раздела.
