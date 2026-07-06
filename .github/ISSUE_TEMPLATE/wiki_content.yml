@@ -1,0 +1,38 @@
+---
+name: Контент wiki
+description: Новая или обновлённая страница в каталоге wiki/
+labels: ['content']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Перед созданием карточки сверьтесь с [`AGENTS.md`](https://github.com/infoculture/finguide/blob/master/AGENTS.md) и чеклистом в [`CONTRIBUTING.md`](https://github.com/infoculture/finguide/blob/master/CONTRIBUTING.md).
+  - type: textarea
+    id: summary
+    attributes:
+      label: Кратко — что добавить или изменить
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Раздел
+      options:
+        - glossary
+        - data-sources
+        - information-systems
+        - organizations
+        - reporting
+        - legal
+        - howto
+        - intro
+        - reference
+        - другое
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Первоисточники и ссылки (URL)
+    validations:
+      required: false

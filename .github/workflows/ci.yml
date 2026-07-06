@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+    branches: [master, main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: No duplicate Docusaurus config (canonical .ts only)
+        run: |
+          if test -f docusaurus.config.js; then echo '::error::Remove docusaurus.config.js — use docusaurus.config.ts only (prevents wrong baseUrl in CI).'; exit 1; fi
+          if test -f sidebars.js; then echo '::error::Remove sidebars.js — use sidebars.ts only.'; exit 1; fi
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - run: npm ci
+      - run: npm run lint:frontmatter
+      - run: npm run lint:howto
+      - run: npm run export:knowledge -- --check
+      - run: npm run lint:qa
+      - run: npm run qa:retrieval
+      - run: npm run lint:related-pages
+      - run: npm run lint:corpus
+      # Сборка падает при битых внутренних ссылках и якорях (см. docusaurus.config.ts).
+      - run: npm run typecheck
+      - run: npm run build

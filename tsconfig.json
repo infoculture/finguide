@@ -8,7 +8,8 @@
     "skipLibCheck": true,
     "resolveJsonModule": true,
     "jsx": "react-jsx",
-    "types": ["node"]
+    "types": ["node"],
+    "noEmit": true
   },
   "include": ["docusaurus.config.ts", "sidebars.ts", "src"],
   "exclude": ["build", ".docusaurus", "node_modules"]
