@@ -1,0 +1,29 @@
+# Необязательная проверка внешних ссылок на PR (информационный сигнал, не блокирует merge).
+name: External links (PR advisory)
+
+on:
+  pull_request:
+    branches: [master, main]
+
+jobs:
+  lychee-advisory:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Link checker (advisory)
+        uses: lycheeverse/lychee-action@v2
+        continue-on-error: true
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --max-concurrency 4
+            --exclude-mail
+            --timeout 25
+            './wiki/**/*.md'
+            './README.md'
+            './CONTRIBUTING.md'
+            './AGENTS.md'
+            './KNOWLEDGE.md'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

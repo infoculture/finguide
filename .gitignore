@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output & caches
+build/
+dist/
+.docusaurus/
+
+# Generated HTML / sitemap from the old gh-pages commit strategy
+# (deployment is now via GitHub Actions, see .github/workflows/deploy-pages.yml)
+/*.html
+sitemap.xml
+tags/
+
+# OS / editor
+.DS_Store
+
+# Prevent accidental duplication of the canonical TypeScript config
+# (CI hard-fails if the .js siblings exist — see .github/workflows/ci.yml)
+docusaurus.config.js
+sidebars.js
+
+# Logs
+*.log
+npm-debug.log*
