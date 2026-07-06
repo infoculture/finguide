@@ -62,8 +62,6 @@ rag_priority: low
 
 **Статус исследования:** найдено
 
-**Комментарий:** nan
-
 ## Оператор
 
 Государственные программы - Администрация Томской области — канонический вход: https://tomsk.gov.ru/gosudarstvennye-programmy-i-vedomstvennye-tselevye-programmy

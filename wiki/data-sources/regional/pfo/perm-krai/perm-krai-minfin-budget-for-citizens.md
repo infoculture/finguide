@@ -62,8 +62,6 @@ rag_priority: low
 
 **Статус исследования:** найдено
 
-**Комментарий:** nan
-
 ## Оператор
 
 Бюджет для граждан (Министерство финансов Пермского края) — канонический вход: https://mfin.permkrai.ru/dokumenty/deyatelnost/byudzhet-permskogo-kraya/byudzhet-dlya-grazhdan

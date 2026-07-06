@@ -62,8 +62,6 @@ rag_priority: low
 
 **Статус исследования:** найдено
 
-**Комментарий:** nan
-
 ## Оператор
 
 Администрация города Омска (Бюджет для граждан) — канонический вход: https://admomsk.gosuslugi.ru/ofitsialno/ekonomika-i-finansy/byudzhet-goroda/byudzhet-dlya-grazhdan/byudzhet-goroda-omska
