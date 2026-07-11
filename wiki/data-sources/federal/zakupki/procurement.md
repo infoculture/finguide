@@ -5,6 +5,11 @@ tags:
   - data-source
   - federal
   - procurement
+aliases:
+  - закупки для госнужд
+  - закупки для государственных нужд
+  - ГИС Торги соотношение
+  - контрактная система
 last_updated: 2026-05-13T00:00:00.000Z
 slug: /data-sources/federal/procurement
 source_url: 'https://zakupki.gov.ru/'
@@ -18,12 +23,21 @@ formats:
 status: current
 related_information_system: /information-systems/federal/zakupki
 description: >-
-  официальный источник контрактного следа и планов закупок: извещения,
+  официальный источник контрактного следа и планов закупок для государственных нужд (госнужд): извещения,
   протоколы, контракты, планы-графики, реестровые сведения — с идентификаторами
   сторон (ИНН, ОГРН), ОКПД2, при наличии в схеме — КБК и иные бюджетные
-  реквизиты.
+  реквизиты. Соотношение с ГИС «Торги».
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: available_in
+    target: /information-systems/federal/zakupki
+  - type: published_by
+    target: /organizations/federal-treasury
+  - type: governed_by
+    target: /legal/44fz
+  - type: governed_by
+    target: /legal/223-fz
 related_pages:
   - /information-systems/federal/zakupki
   - /data-sources/regional/regional-procurement-sources-overview

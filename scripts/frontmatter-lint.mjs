@@ -2,11 +2,13 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import {loadRelationshipTypes, validateRelationshipList} from './lib/knowledge-export.mjs';
 
 const ROOT = path.join(process.cwd(), 'wiki');
 const ALLOW = new Set(
   JSON.parse(fs.readFileSync(path.join(process.cwd(), 'scripts/tag-allowlist.json'), 'utf8')),
 );
+const RELATIONSHIP_TYPES = loadRelationshipTypes();
 
 const CONTENT_TYPES = new Set([
   'concept',
@@ -101,6 +103,13 @@ for (const file of walk(ROOT)) {
         errors++;
       }
     }
+  }
+
+  try {
+    validateRelationshipList(data.relationships, rel, RELATIONSHIP_TYPES);
+  } catch (e) {
+    console.error(e.message);
+    errors++;
   }
 
   void content;

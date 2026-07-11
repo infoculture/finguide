@@ -22,6 +22,7 @@ draft: true
 | `last_updated` | да | `2026-05-10` |
 | `content_type` | да | `reference` |
 | `entity_type` | да | `information-system` |
+| `relationships` | опционально | например `operated_by` → карточка организации, `governed_by` → карточка НПА |
 | `source_url` | по возможности | канонический URL портала или страницы об ИС |
 | `system_kind` | рекомендуется | `government_is` — ведомственная ИС (часто закрытая); `public_portal` — официальная публичная витрина/портал; `civil_aggregator` — гражданский агрегатор/зеркало; `registry` — реестр; `statistics_portal` — статистика; `parliament_control` — парламент/контроль |
 | `access` | рекомендуется | `open` \| `restricted` \| `mixed` |
@@ -36,6 +37,9 @@ tags: [information-system, federal]
 last_updated: YYYY-MM-DD
 content_type: reference
 entity_type: information-system
+# relationships:
+#   - type: operated_by
+#     target: /organizations/example
 source_url: "https://..."
 system_kind: public_portal
 access: open

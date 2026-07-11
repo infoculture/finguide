@@ -27,6 +27,7 @@ draft: true
 | `slug` | да для новых карточек | `/data-sources/<подраздел>/<slug>` — тот же `<slug>`, что имя файла (для `federal` путь в файловой системе может быть `federal/<группа>/<slug>.md`, в `slug` — всё равно `/data-sources/federal/<slug>`) |
 | `content_type` | да | `data_source` |
 | `entity_type` | да | `data-source` |
+| `relationships` | опционально | например `available_in`, `published_by`, `derived_from`, `governed_by` с каноническим target slug |
 | `source_url` | по возможности | Канонический URL витрины, каталога наборов или главной страницы источника |
 | `data_source_kind` | рекомендуется | `portal` — веб-витрина; `api` — программный интерфейс; `files` — файловые наборы по ссылкам; `ftp` — FTP/SFTP; `mixed` — несколько каналов; `ui_only` — только интерфейс без стабильных выгрузок |
 | `jurisdiction` | рекомендуется | `federal` \| `regional` \| `municipal` \| `civil` \| `multilevel` |
@@ -47,6 +48,9 @@ last_updated: YYYY-MM-DD
 slug: /data-sources/<подраздел>/<slug>
 content_type: data_source
 entity_type: data-source
+# relationships:
+#   - type: available_in
+#     target: /information-systems/federal/example
 source_url: "https://..."
 data_source_kind: mixed
 jurisdiction: federal

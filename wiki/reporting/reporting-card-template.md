@@ -22,6 +22,7 @@ last_updated: 2026-05-10
 | `slug` | да для новых карточек | `/reporting/<slug>` — тот же `<slug>`, что имя файла |
 | `content_type` | да | `reporting` |
 | `entity_type` | да | `reporting-form` |
+| `relationships` | опционально | например `governed_by`, `available_in`, `derived_from` с каноническим target slug |
 | `report_code` | по возможности | Код формы: `0503117`, `ПФХД`, текстовый идентификатор свода |
 | `jurisdiction` | рекомендуется | `federal` \| `regional` \| `institution` \| `mixed` |
 | `periodicity` | рекомендуется | `monthly` \| `quarterly` \| `annual` \| `on_demand` \| `mixed` |
@@ -39,6 +40,9 @@ last_updated: YYYY-MM-DD
 slug: /reporting/<slug>
 content_type: reporting
 entity_type: reporting-form
+# relationships:
+#   - type: governed_by
+#     target: /legal/example
 # report_code: "0503117"
 # jurisdiction: federal
 # periodicity: annual

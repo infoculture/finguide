@@ -103,10 +103,24 @@ Slug страницы совпадает с именем файла без `.md`
 
 Новую карточку клади в `wiki/legal/`. Добавь документ в `sidebars.ts` в группу «Нормативная база» и при необходимости строку в `wiki/legal/README.md`.
 
+## Типизированные связи (`relationships`)
+
+Для карточек под `wiki/` можно опционально задавать во frontmatter машиночитаемые предметные связи. Поле не заменяет содержательные Markdown-ссылки и `related_pages`:
+
+```yaml
+relationships:
+  - type: operated_by
+    target: /organizations/federal-treasury
+  - type: governed_by
+    target: /legal/44fz
+```
+
+Направление всегда читается как «текущая карточка → `target`». Допустимые типы заданы в [`scripts/relationship-types.json`](scripts/relationship-types.json): `related_to`, `part_of`, `operated_by`, `published_by`, `governed_by`, `derived_from`, `available_in`, `replaces`, `uses`. `target` должен быть каноническим slug существующей страницы. Не добавляйте обратную связь автоматически: указывайте только предметно верное направление; одинаковые пары `(type, target)` запрещены.
+
 ## Метаданные, машинный экспорт и PR (OpenSpec)
 
 1. Для страниц под `wiki/` (кроме `*-template.md`) поддерживайте поля `description`, `last_updated`, `tags` из белого списка [`scripts/tag-allowlist.json`](scripts/tag-allowlist.json), `content_type` (`concept` \| `organization` \| `data_source` \| `howto` \| `legal` \| `reporting` \| `reference`) и при необходимости `entity_type` (`glossary` \| `organization` \| `information-system` \| `data-source` \| `reporting-form` \| `legal-document` \| `howto`).
 2. Для карточек источников и фактологических страниц по возможности заполняйте `source_authority`, `rag_priority`, `related_pages`, `last_verified` — см. [`openspec/specs/corpus-metadata/spec.md`](openspec/specs/corpus-metadata/spec.md).
-3. После крупных правок корпуса выполняйте `npm run export:knowledge` и коммитьте обновлённые [`exports/knowledge-index.jsonl`](exports/knowledge-index.jsonl) и [`exports/knowledge-graph.json`](exports/knowledge-graph.json).
+3. После крупных правок корпуса выполняйте `npm run export:knowledge` и коммитьте обновлённые [`exports/knowledge-index.jsonl`](exports/knowledge-index.jsonl), [`exports/knowledge-chunks.jsonl`](exports/knowledge-chunks.jsonl) и [`exports/knowledge-graph.json`](exports/knowledge-graph.json). Эти файлы производны от `wiki/` и не редактируются вручную.
 4. Автоматические проверки в CI: `npm run lint:frontmatter`, `npm run lint:howto`, `npm run export:knowledge -- --check`, `npm run lint:qa`, `npm run lint:related-pages`, `npm run lint:corpus` — см. [`openspec/specs/ci-quality-gates/spec.md`](openspec/specs/ci-quality-gates/spec.md).
 5. Стандартная структура опубликованных страниц в [`wiki/howto/`](wiki/howto/) — в [`openspec/specs/howto-playbook/spec.md`](openspec/specs/howto-playbook/spec.md); для массового выравнивания заголовков можно использовать служебный скрипт `scripts/inject-howto-playbook.mjs`.

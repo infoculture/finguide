@@ -15,6 +15,13 @@ primary_topics:
   - budget_execution
 content_type: reference
 entity_type: information-system
+relationships:
+  - type: operated_by
+    target: /organizations/federal-treasury
+  - type: governed_by
+    target: /legal/44fz
+  - type: governed_by
+    target: /legal/223-fz
 description: >-
   Единая информационная система в сфере закупок (ЕИС) — федеральная публичная
   среда размещения и раскрытия сведений о закупках, для которых законом

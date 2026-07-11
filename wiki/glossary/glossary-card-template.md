@@ -21,6 +21,7 @@ draft: true
 | `slug` | да для новых карточек | `/glossary/<slug>` — тот же `<slug>`, что имя файла |
 | `content_type` | да | `concept` (по умолчанию для терминов) |
 | `entity_type` | да | `glossary` |
+| `relationships` | опционально | типизированные связи `{type, target}`; типы — в `scripts/relationship-types.json` |
 | `glossary_kind` | да | `concept` \| `classification` \| `law` \| `process` \| `organization` — переключает обязательные блоки тела карточки (см. OpenSpec `glossary-card-content`) |
 | `source_url` | по возможности | прямая ссылка на НПА или страницу Минфина |
 | `abbreviations` | при наличии | `["КБК"]` |
@@ -34,6 +35,9 @@ last_updated: YYYY-MM-DD
 slug: /glossary/<slug>
 content_type: concept
 entity_type: glossary
+# relationships:
+#   - type: governed_by
+#     target: /legal/example
 glossary_kind: concept
 # source_url: "https://..."
 # abbreviations: ["<АББР>"]

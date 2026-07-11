@@ -22,6 +22,7 @@ jobs:
       - run: npm ci
       - run: npm run lint:frontmatter
       - run: npm run lint:howto
+      - run: npm run test:knowledge-export
       - run: npm run export:knowledge -- --check
       - run: npm run lint:qa
       # Лексическая регрессия retrieval: не блокирует CI, пока базовая

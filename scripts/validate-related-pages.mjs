@@ -5,9 +5,11 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import {loadRelationshipTypes, validateRelationshipList} from './lib/knowledge-export.mjs';
 
 const WIKI = path.join(process.cwd(), 'wiki');
 const INDEX_PATH = path.join(process.cwd(), 'exports', 'knowledge-index.jsonl');
+const RELATIONSHIP_TYPES = loadRelationshipTypes();
 
 function loadSlugs() {
   const slugs = new Set();
@@ -36,16 +38,32 @@ for (const file of walk(WIKI)) {
 
   const {data} = matter(fs.readFileSync(file, 'utf8'));
   const rp = data.related_pages;
-  if (!Array.isArray(rp) || rp.length === 0) continue;
-
-  for (const s of rp) {
-    if (typeof s !== 'string' || !s.startsWith('/')) {
-      console.error(`${rel}: related_pages должен содержать только строки-slug, начинающиеся с / — некорректно: ${JSON.stringify(s)}`);
-      errors++;
-      continue;
+  if (Array.isArray(rp)) {
+    for (const s of rp) {
+      if (typeof s !== 'string' || !s.startsWith('/')) {
+        console.error(`${rel}: related_pages должен содержать только строки-slug, начинающиеся с / — некорректно: ${JSON.stringify(s)}`);
+        errors++;
+        continue;
+      }
+      if (!slugs.has(s)) {
+        console.error(`${rel}: related_pages ссылается на неизвестный slug "${s}"`);
+        errors++;
+      }
     }
-    if (!slugs.has(s)) {
-      console.error(`${rel}: related_pages ссылается на неизвестный slug "${s}"`);
+  }
+
+  let relationships = [];
+  try {
+    relationships = validateRelationshipList(data.relationships, rel, RELATIONSHIP_TYPES);
+  } catch (e) {
+    console.error(e.message);
+    errors++;
+  }
+  for (const relationship of relationships) {
+    if (!slugs.has(relationship.target)) {
+      console.error(
+        `${rel}: relationship ${relationship.type} ссылается на неизвестный slug "${relationship.target}"`,
+      );
       errors++;
     }
   }

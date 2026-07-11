@@ -18,6 +18,7 @@
     "qa:retrieval": "node scripts/qa-retrieval-regression.mjs",
     "lint:corpus": "node scripts/corpus-markdown-lint.mjs",
     "lint:related-pages": "node scripts/validate-related-pages.mjs",
+    "test:knowledge-export": "node --test tests/knowledge-export.test.mjs",
     "export:knowledge": "node scripts/export-knowledge-index.mjs",
     "inject:related-pages": "node scripts/inject-related-pages-wave.mjs",
     "generate:budget-gov-opendata-cards": "node scripts/generate-budget-gov-opendata-dataset-cards.mjs",
@@ -32,7 +33,7 @@
     "write:federal-gos-ngo-indexes": "node scripts/write-federal-gos-ngo-indexes.mjs",
     "fix:regional-fin-sidebar-labels": "node scripts/fix-regional-fin-sidebar-labels.mjs",
     "refresh:budget-gov-opendata-sidebar-labels": "node scripts/refresh-budget-gov-opendata-sidebar-labels.mjs",
-    "presubmit": "npm run lint:frontmatter && npm run lint:howto && npm run export:knowledge -- --check && npm run lint:qa && npm run qa:retrieval && npm run lint:related-pages && npm run lint:corpus && npm run typecheck && npm run build"
+    "presubmit": "npm run lint:frontmatter && npm run lint:howto && npm run test:knowledge-export && npm run export:knowledge -- --check && npm run lint:qa && npm run qa:retrieval && npm run lint:related-pages && npm run lint:corpus && npm run typecheck && npm run build"
   },
   "repository": {
     "type": "git",
@@ -58,6 +59,7 @@
     "@docusaurus/theme-mermaid": "^3.10.1",
     "@mdx-js/react": "^3.1.1",
     "clsx": "^2.1.1",
+    "github-slugger": "^1.5.0",
     "prism-react-renderer": "^2.4.1",
     "react": "^19.2.6",
     "react-dom": "^19.2.6"

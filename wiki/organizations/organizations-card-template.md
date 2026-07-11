@@ -22,6 +22,7 @@ Slug страницы совпадает с именем файла без `.md`
 | `last_updated` | да | `2026-05-10` |
 | `content_type` | да | `organization` |
 | `entity_type` | да | `organization` |
+| `relationships` | опционально | типизированные связи с ИС, НПА и другими карточками; направление «эта организация → target» |
 | `source_url` | по возможности | канонический URL официального сайта (`https://…`) |
 | `org_kind` | рекомендуется | `executive_ministry` \| `executive_service` \| `government_collegial` \| `legislature` \| `state_audit` \| `central_bank` \| `extrabudgetary_fund` \| `other` |
 | `budget_roles` | рекомендуется | YAML-массив ярлыков роли в данных: `budget_preparation`, `budget_execution`, `tax_policy`, `tax_administration`, `procurement_oversight`, `statistics`, `monetary_policy`, `financial_markets`, `social_insurance`, `health_finance`, `external_audit`, `legislation`, … |
@@ -47,6 +48,9 @@ tags: [organizations, federal, <тема>]
 last_updated: YYYY-MM-DD
 content_type: organization
 entity_type: organization
+# relationships:
+#   - type: related_to
+#     target: /organizations/example
 source_url: "https://..."
 org_kind: executive_service
 budget_roles: ["tax_administration", "statistics"]
