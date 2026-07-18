@@ -6,16 +6,16 @@ tags:
   - regional
   - budget
   - open-data
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/republic-of-dagestan-open-budget-portal-minfinrd
-source_url: 'https://portal.minfinrd.ru/'
+source_url: 'https://minfinrd.ru/activities/section-264'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 data_completeness: partial
 machine_readability: html
 description: >-
@@ -23,7 +23,13 @@ description: >-
   разделы и материалы по региональному бюджету; доступность и структура URL следует проверять перед автоматизацией.
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/dagestan-minfin
+  - type: available_in
+    target: /information-systems/regional/dagestan-open-budget
 related_pages:
+  - /information-systems/regional/dagestan-open-budget
   - /data-sources/regional/subject-republic-of-dagestan-sources-overview
   - /data-sources/regional/republic-of-dagestan-minfin-minfinrd
   - /data-sources/regional/republic-of-dagestan-budget-for-citizens-minfinrd
@@ -47,7 +53,7 @@ related_pages:
 
 | Измерение | Значение для этой карточки |
 | --- | --- |
-| Дата проверки (`last_verified`) | 2026-05-15 (**редакционная** проверка; **техническая** доступность **поддомена** уточняйте перед **скрейпингом**) |
+| Дата проверки (`last_verified`) | 2026-07-16: старый **portal.minfinrd.ru** возвращает **500**; рабочий официальный вход — **раздел «Бюджет для граждан»** на **minfinrd.ru** |
 | Полнота (`data_completeness`) | **частичная** — **не** гарантирует полноту относительно **всех** первичных **реестров** исполнения |
 | Машиночитаемость (`machine_readability`) | **преимущественно HTML**; **выгрузки** в **CSV/JSON** нужно искать **точечно** по разделам |
 | Юридическая значимость (`legal_significance`) | **официальная** **коммуникационная** витрина **Минфина** (сверяйте **цифры** с **утверждёнными** документами) |
@@ -57,18 +63,17 @@ related_pages:
 
 ## Описание
 
-Портал **portal.minfinrd.ru** предназначен для **наглядного** представления **бюджетных** данных: **доходы**, **расходы**, **ведомственные** разрезы — в **интерактивной** форме. Для **машинной** обработки **длинных** рядов **план/факт** сопоставляйте с **[федеральными наборами «Электронный бюджет»](/data-sources/federal/budget-gov-ru-datasets)** и **первичными** **PDF/XLSX** на **[сайте Минфина](/data-sources/regional/republic-of-dagestan-minfin-minfinrd)**.
+Канонический открытый вход для этого контура теперь размещён в разделе **«Бюджет для граждан»** на **minfinrd.ru**: там публикуются **бюджетные** материалы и документы по **доходам** и **расходам**. Для **машинной** обработки **длинных** рядов **план/факт** сопоставляйте с **[федеральными наборами «Электронный бюджет»](/data-sources/federal/budget-gov-ru-datasets)** и **первичными** **PDF/XLSX** на **[сайте Минфина](/data-sources/regional/republic-of-dagestan-minfin-minfinrd)**.
 
 ## Оператор
 
-**Министерство финансов Республики Дагестан** — https://portal.minfinrd.ru/
+**Министерство финансов Республики Дагестан** — https://minfinrd.ru/activities/section-264
 
 ## URL и точки доступа
 
 | Назначение | URL | Формат |
 | --- | --- | --- |
-| Корень портала «Открытый бюджет» | https://portal.minfinrd.ru/ | HTML |
-| Альтернатива по схеме HTTP | http://portal.minfinrd.ru/ | HTML |
+| Официальный раздел «Бюджет для граждан» | https://minfinrd.ru/activities/section-264 | HTML, документы |
 
 ## Объекты данных и показатели
 
@@ -82,7 +87,7 @@ related_pages:
 
 ## Ограничения и особенности
 
-- **Поддомены** региональных порталов **чувствительны** к **сертификатам** и **маршрутизации**; заложите **ручную** проверку **HTTP-кода** перед **пайплайном**.
+- Старый **portal.minfinrd.ru** при проверке возвращал **500**; для доступа используйте официальный раздел на **minfinrd.ru**.
 - **Не** подменяйте **юридически** значимые **лимиты** только **скриншотами** дашбордов.
 
 ## Связанные страницы wiki

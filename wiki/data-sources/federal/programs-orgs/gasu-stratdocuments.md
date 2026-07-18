@@ -29,6 +29,13 @@ related_pages:
   - /data-sources/federal/gasu-programs
   - /data-sources/federal/fcp
   - /glossary/gov-programs
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: HTML
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 | Признак | Значение |

@@ -35,6 +35,13 @@ related_pages:
   - /organizations/rosstat
   - /glossary/consolidated-budget
 last_verified: 2026-05-13
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: files
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 | Признак | Значение |

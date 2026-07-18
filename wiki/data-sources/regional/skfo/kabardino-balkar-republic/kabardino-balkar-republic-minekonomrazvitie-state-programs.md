@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - programs
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/kabardino-balkar-republic-minekonomrazvitie-state-programs
-source_url: 'https://economy.kbr.ru/activity/gosudarstvennye-programmy'
+source_url: 'https://economy.kbr.ru/activity/gosudarstvennye-programmy/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: regional
 data_completeness: partial
 machine_readability: html
@@ -65,13 +65,13 @@ related_pages:
 
 ## Оператор
 
-Министерство экономического развития Кабардино-Балкарской Республики — канонический вход: https://economy.kbr.ru/activity/gosudarstvennye-programmy
+Министерство экономического развития Кабардино-Балкарской Республики — канонический вход: https://economy.kbr.ru/activity/gosudarstvennye-programmy/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Раздел «Государственные программы» | https://economy.kbr.ru/activity/gosudarstvennye-programmy | HTML |
+| Раздел «Государственные программы» | https://economy.kbr.ru/activity/gosudarstvennye-programmy/ | HTML |
 
 ## Объекты данных и показатели
 

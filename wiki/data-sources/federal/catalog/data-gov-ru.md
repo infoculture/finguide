@@ -33,6 +33,13 @@ related_pages:
   - /information-systems/federal/giis-eb
   - /information-systems/federal/zakupki
   - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: HTML
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Федеральный портал открытых данных (data.gov.ru)

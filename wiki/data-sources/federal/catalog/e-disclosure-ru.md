@@ -30,6 +30,13 @@ related_pages:
   - /information-systems/federal/egrul
   - /legal/223-fz
   - /glossary/state-corporations
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: HTML
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Интерфакс: единый интерфейс раскрытия информации (e-disclosure.ru)

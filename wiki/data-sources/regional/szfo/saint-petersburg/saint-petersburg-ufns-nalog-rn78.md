@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/saint-petersburg-ufns-nalog-rn78
-source_url: 'https://www.nalog.gov.ru/rn78'
+source_url: 'https://www.nalog.gov.ru/rn78/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 description: >-
   Региональный раздел единого сайта ФНС России для Санкт-Петербурга: новости,
   сервисы налогоплательщику, региональные материалы и ссылки на федеральные
@@ -61,7 +61,7 @@ related_pages:
 
 ## Оператор
 
-**УФНС России по Санкт-Петербургу** — https://www.nalog.gov.ru/rn78
+**УФНС России по Санкт-Петербургу** — https://www.nalog.gov.ru/rn78/
 
 Карточка ИС: [Сайт ФНС России](/information-systems/federal/fnssite).
 
@@ -69,7 +69,7 @@ related_pages:
 
 | Назначение | URL | Формат |
 | --- | --- | --- |
-| Региональный корень (`rn78`) | https://www.nalog.gov.ru/rn78 | HTML |
+| Региональный корень (`rn78`) | https://www.nalog.gov.ru/rn78/ | HTML |
 
 ## Объекты данных и показатели
 
@@ -89,7 +89,7 @@ related_pages:
 
 ```bash
 curl -fsSL -A "finguide-source-check/1.0" -o /dev/null -w "%{http_code}\n" \
-  "https://www.nalog.gov.ru/rn78"
+  "https://www.nalog.gov.ru/rn78/"
 ```
 
 ## Связанные страницы wiki

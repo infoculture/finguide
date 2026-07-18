@@ -30,6 +30,13 @@ related_pages:
   - /data-sources/federal/minfin-fnb-statistics
   - /glossary/nwf
   - /budget-system/deficit-sources
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: files
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Минфин: дополнительные нефтегазовые доходы федерального бюджета

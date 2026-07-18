@@ -36,6 +36,13 @@ related_pages:
   - /howto/access/budget-gov-api
   - /glossary/kbk
   - /budget-system/federal-budget
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Наборы данных ГИИС «Электронный бюджет» (budget.gov.ru)
@@ -55,6 +62,8 @@ related_pages:
 Карточка описывает **публичный слой открытых данных** единого портала бюджетной системы `budget.gov.ru`: перечень наборов, паспорта, прямые ссылки на файлы и программный доступ там, где он раскрыт оператором. Сюда **не** входят закрытые кабинеты участников бюджетного процесса и полнота внутренних карточек документов в ИС.
 
 Для **каждой записи** актуального `list.json` (кроме наборов, у которых уже есть отдельная тематическая страница в wiki) добавлены короткие карточки-заготовки с каноническими URL паспорта: публичный путь вида **`/data-sources/federal/opendata-<identifier>`** (в сайдбаре — внутри раздела **«Бюджет и исполнение»**, подгруппа **ГИИС «Электронный бюджет» (budget.gov.ru)**, далее свёрнутые группы **«Наборы каталога EPBS (7710168360-…)»** и **«Наборы каталога EPBS (7710568760-…)»** по префиксу идентификатора в каталоге). Перегенерация списка файлов — скриптом **`scripts/generate-budget-gov-opendata-dataset-cards.mjs`** после обновления каталога на стороне портала.
+
+Полный читательский перечень: **[индекс паспортов открытых данных ГИИС «Электронный бюджет»](/data-sources/federal/budget-gov-opendata-index)**. Он обеспечивает входящую навигацию к каждой массово созданной карточке и регенерируется командой `npm run write:import-family-hubs`.
 
 Контекст портала, подсистемы и типовые ограничения — в **[ГИИС «Электронный бюджет»](/information-systems/federal/giis-eb)**. Практические шаги по API — в **[руководстве по API budget.gov.ru](/howto/access/budget-gov-api)**.
 

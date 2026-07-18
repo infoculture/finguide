@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-07-16
 slug: /data-sources/regional/republic-of-sakha-yakutia-fin-c941bcabfb
-source_url: 'https://www.nalog.gov.ru/rn14'
+source_url: 'https://www.nalog.gov.ru/rn14/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-14T00:00:00.000Z
+last_verified: 2026-07-16T00:00:00.000Z
 description: >-
   Автоимпорт из _dev/rf_finance_sources_table_full.md (Управление ФНС России):
   Налоговые поступления, статистика, задолженности
@@ -63,13 +63,13 @@ rag_priority: low
 
 ## Оператор
 
-УФНС России по Республике Саха (Якутия) — канонический вход: https://www.nalog.gov.ru/rn14
+УФНС России по Республике Саха (Якутия) — канонический вход: https://www.nalog.gov.ru/rn14/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Веб | https://www.nalog.gov.ru/rn14 | HTML |
+| Веб | https://www.nalog.gov.ru/rn14/ | HTML |
 
 ## Объекты данных и показатели
 

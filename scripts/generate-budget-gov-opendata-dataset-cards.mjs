@@ -188,7 +188,18 @@ related_information_system: /information-systems/federal/giis-eb
 description: ${yamlEscape(desc)}
 content_type: data_source
 entity_type: data-source
-source_authority: federal
+relationships:
+  - type: published_by
+    target: /organizations/minfin
+  - type: available_in
+    target: /information-systems/federal/giis-eb
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 rag_priority: low
 ---
 

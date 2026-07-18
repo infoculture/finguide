@@ -25,6 +25,9 @@ description: >-
   материалы по доходам и расходам областного бюджета, долгу, государственным программам и НПА.
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/kaliningrad-oblast-minfin
 related_pages:
   - /data-sources/regional/subject-kaliningrad-oblast-sources-overview
   - /data-sources/regional/kaliningrad-oblast-minfin-budget-process

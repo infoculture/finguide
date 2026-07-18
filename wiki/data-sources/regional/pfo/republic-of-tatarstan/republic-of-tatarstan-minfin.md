@@ -21,6 +21,9 @@ description: >-
   граждан"
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/tatarstan-minfin
 related_pages:
   - /data-sources/regional/subject-republic-of-tatarstan-sources-overview
   - /data-sources/regional

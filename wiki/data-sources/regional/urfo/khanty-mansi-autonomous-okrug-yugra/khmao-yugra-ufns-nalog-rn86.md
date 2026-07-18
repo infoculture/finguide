@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/khmao-yugra-ufns-nalog-rn86
-source_url: "https://www.nalog.gov.ru/rn86"
+source_url: "https://www.nalog.gov.ru/rn86/"
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: federal
 data_completeness: partial
 machine_readability: HTML; часть сервисов ФНС — с API/выгрузками на федеральном контуре
@@ -63,13 +63,13 @@ related_pages:
 
 ## Оператор
 
-**УФНС России по Ханты-Мансийскому автономному округу — Югре** — https://www.nalog.gov.ru/rn86
+**УФНС России по Ханты-Мансийскому автономному округу — Югре** — https://www.nalog.gov.ru/rn86/
 
 ## URL и точки доступа
 
 | Назначение | URL | Формат |
 | --- | --- | --- |
-| Региональная страница ФНС | https://www.nalog.gov.ru/rn86 | HTML |
+| Региональная страница ФНС | https://www.nalog.gov.ru/rn86/ | HTML |
 
 ## Объекты данных и показатели
 
@@ -89,7 +89,7 @@ related_pages:
 
 ```bash
 curl -fsSL -A "finguide-khmao-ufns-check/1.0" -o /dev/null -w "%{http_code}\n" \
-  "https://www.nalog.gov.ru/rn86"
+  "https://www.nalog.gov.ru/rn86/"
 ```
 
 ## Связанные страницы wiki

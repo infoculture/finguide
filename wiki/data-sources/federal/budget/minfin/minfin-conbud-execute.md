@@ -32,6 +32,13 @@ related_pages:
   - /data-sources/federal/roskazna-consolidated-rf-and-ebf-execution
   - /glossary/consolidated-budget
   - /budget-system/extrabudgetary-funds
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: files
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Минфин: краткая информация об исполнении консолидированного бюджета РФ и ГВФ

@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - budget
-last_updated: 2026-05-14
+last_updated: 2026-07-16
 slug: /data-sources/regional/republic-of-khakassia-minfin-portal-r19
-source_url: 'https://r-19.ru/society/6019'
+source_url: 'https://r-19.ru/authorities/ministry-of-finance-of-the-republic-of-khakassia/common/1607/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -15,7 +15,7 @@ formats:
   - html
   - pdf
 status: current
-last_verified: 2026-05-14
+last_verified: 2026-07-16
 data_completeness: partial
 machine_readability: html
 description: >-
@@ -62,13 +62,13 @@ related_pages:
 
 ## Оператор
 
-Министерство финансов Республики Хакасия (витрина на портале исполнительных органов) — https://r-19.ru/society/6019
+Министерство финансов Республики Хакасия (витрина на портале исполнительных органов) — https://r-19.ru/authorities/ministry-of-finance-of-the-republic-of-khakassia/common/1607/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Раздел портала | https://r-19.ru/society/6019 | HTML |
+| Раздел портала | https://r-19.ru/authorities/ministry-of-finance-of-the-republic-of-khakassia/common/1607/ | HTML |
 
 ## Объекты данных и показатели
 
@@ -88,7 +88,7 @@ related_pages:
 ## Примеры доступа
 
 ```bash
-curl -fsSL -o /dev/null -w "%{http_code}\n" --max-time 25 "https://r-19.ru/society/6019" \
+curl -fsSL -o /dev/null -w "%{http_code}\n" --max-time 25 "https://r-19.ru/authorities/ministry-of-finance-of-the-republic-of-khakassia/common/1607/" \
   || echo "ошибка сети или TLS"
 ```
 

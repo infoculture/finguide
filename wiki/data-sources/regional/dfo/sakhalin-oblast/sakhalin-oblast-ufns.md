@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-14
+last_updated: 2026-07-16
 slug: /data-sources/regional/sakhalin-oblast-ufns
-source_url: 'https://www.nalog.gov.ru/rn65'
+source_url: 'https://www.nalog.gov.ru/rn65/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -16,7 +16,7 @@ formats:
   - pdf
   - xlsx
 status: current
-last_verified: 2026-05-14
+last_verified: 2026-07-16
 data_completeness: partial
 machine_readability: mixed
 description: >-
@@ -61,7 +61,7 @@ related_pages:
 
 ## Оператор
 
-**УФНС России по Сахалинской области** — канонический вход: https://www.nalog.gov.ru/rn65
+**УФНС России по Сахалинской области** — канонический вход: https://www.nalog.gov.ru/rn65/
 
 - Карточка ИС: **[Сайт ФНС России](/information-systems/federal/fnssite)** — **общая** архитектура **витрины**.
 
@@ -69,7 +69,7 @@ related_pages:
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Региональный раздел ФНС (65) | https://www.nalog.gov.ru/rn65 | HTML, PDF, XLSX |
+| Региональный раздел ФНС (65) | https://www.nalog.gov.ru/rn65/ | HTML, PDF, XLSX |
 
 ## Объекты данных и показатели
 

@@ -34,6 +34,13 @@ related_pages:
   - /reporting/public-debt-reporting
   - /data-sources/federal/roskazna-reports
   - /glossary/deficit-financing
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: files
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Минфин: объём и структура госдолга субъектов РФ и долга муниципальных образований

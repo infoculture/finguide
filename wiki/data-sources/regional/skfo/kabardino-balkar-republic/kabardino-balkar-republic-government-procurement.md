@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - procurement
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/kabardino-balkar-republic-government-procurement
-source_url: 'https://pravitelstvo.kbr.ru/goszakupki'
+source_url: 'https://pravitelstvo.kbr.ru/goszakupki/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: regional
 data_completeness: partial
 machine_readability: html
@@ -64,13 +64,13 @@ related_pages:
 
 ## Оператор
 
-Правительство Кабардино-Балкарской Республики — канонический вход: https://pravitelstvo.kbr.ru/goszakupki
+Правительство Кабардино-Балкарской Республики — канонический вход: https://pravitelstvo.kbr.ru/goszakupki/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Раздел о закупках Правительства КБР | https://pravitelstvo.kbr.ru/goszakupki | HTML |
+| Раздел о закупках Правительства КБР | https://pravitelstvo.kbr.ru/goszakupki/ | HTML |
 
 ## Объекты данных и показатели
 

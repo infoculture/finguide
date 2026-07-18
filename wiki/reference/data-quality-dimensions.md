@@ -8,7 +8,7 @@ description: >-
 tags:
   - reference
   - data-source
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-07-16
 content_type: reference
 slug: /reference/data-quality-dimensions
 related_pages:
@@ -19,11 +19,31 @@ related_pages:
 
 # Измерения качества источника данных
 
-Страница задаёт **одинаковые смыслы** для полей качества из редакционных спецификаций репозитория (`openspec/specs/data-source-quality`, `openspec/specs/corpus-metadata`): их можно переносить во frontmatter (`data_completeness`, `machine_readability`, …) после согласования волны миграции в `AGENTS.md` и линтере. Пока поля живут **в теле карточки** по шаблону в файле `wiki/data-sources/data-source-card-template.md` (черновик для авторов в репозитории), используйте формулировки ниже.
+Страница задаёт **одинаковые смыслы** для полей качества из редакционных спецификаций репозитория (`openspec/specs/data-source-quality`, `openspec/specs/corpus-metadata`). Поля используются и во frontmatter (`data_completeness`, `machine_readability`, …), и в читательском блоке качества по шаблону `wiki/data-sources/data-source-card-template.md`: YAML нужен для фильтрации и аудита, текст — для пояснения конкретных ограничений.
 
 ## `last_verified` во frontmatter
 
 **Каноническое имя поля** даты последней редакционной проверки карточки — `last_verified` (формат даты как в остальном корпусе, обычно `YYYY-MM-DD`). В текстах отчётов и чек-листах встречается разговорное «последняя проверка» или `last_checked`: в YAML новых карточек **не** вводите синонимы как отдельные ключи, пока экспорт не расширен иначе.
+
+## Происхождение: не смешивать уровень, статус и оператора
+
+Происхождение источника раскладывается на независимые признаки:
+
+| Вопрос | Каноническое представление |
+| --- | --- |
+| Какой уровень юрисдикции? | `jurisdiction_level`: `federal`, `regional`, `municipal`, `international`, `multilevel` |
+| Насколько публикация близка к первичному официальному источнику? | `legal_significance`: `official`, `aggregator`, `civil_repackaging`, `unknown` |
+| Кто публикует? | `relationships` с типом `published_by` и target карточки организации |
+| Кто эксплуатирует ИС/витрину? | `relationships` с типом `operated_by`, если оператор известен и связь существенна |
+
+`source_authority` — **legacy-поле**. Оно временно экспортируется без переинтерпретации, но не используется в новых карточках как единственный provenance-признак.
+
+| Типичное legacy-значение | Миграция |
+| --- | --- |
+| `federal`, `regional`, `municipal` | перенести смысл в `jurisdiction_level`; публикатора указать отдельным relationship |
+| `civil` | использовать `legal_significance: civil_repackaging`; уровень определить отдельно или оставить неизвестным |
+| имя ведомства/оператора | не угадывать уровень; связать с существующей карточкой организации через `published_by` / `operated_by` после проверки |
+| смешанная или неоднозначная строка | сохранить legacy-значение и включить карточку в редакционный аудит |
 
 ## Измерения
 

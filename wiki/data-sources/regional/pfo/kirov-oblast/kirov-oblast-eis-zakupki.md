@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - budget
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-07-16
 slug: /data-sources/regional/kirov-oblast-fin-89aba82754
-source_url: 'http://www.zakupki.gov.ru/'
+source_url: 'https://zakupki.gov.ru/epz/main/public/home.html'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-14T00:00:00.000Z
+last_verified: 2026-07-16T00:00:00.000Z
 description: >-
   Автоимпорт из _dev/rf_finance_sources_table_full.md (Прочие источники по
   госфинансам): Информация о государственных закупках
@@ -65,13 +65,13 @@ rag_priority: low
 
 ## Оператор
 
-Портал закупок — канонический вход: http://www.zakupki.gov.ru/
+Портал закупок — канонический вход: https://zakupki.gov.ru/epz/main/public/home.html
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Веб | http://www.zakupki.gov.ru/ | HTML |
+| Веб | https://zakupki.gov.ru/epz/main/public/home.html | HTML |
 
 ## Объекты данных и показатели
 

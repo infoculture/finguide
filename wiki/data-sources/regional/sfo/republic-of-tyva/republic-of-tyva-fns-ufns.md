@@ -6,9 +6,9 @@ tags:
   - regional
   - federal
   - tax
-last_updated: 2026-05-14
+last_updated: 2026-07-16
 slug: /data-sources/regional/republic-of-tyva-fns-ufns
-source_url: 'https://www.nalog.gov.ru/rn17'
+source_url: 'https://www.nalog.gov.ru/rn17/'
 data_source_kind: portal
 jurisdiction: multilevel
 access: open
@@ -16,7 +16,7 @@ formats:
   - html
   - pdf
 status: current
-last_verified: 2026-05-14
+last_verified: 2026-07-16
 description: >-
   Региональная страница ФНС России (код rn17): новости, сервисы и справочная информация
   по Республике Тыва; налоговые и смежные административные данные в основном на федеральных витринах.
@@ -65,13 +65,13 @@ related_pages:
 
 ## Оператор
 
-УФНС России по Республике Тыва — https://www.nalog.gov.ru/rn17
+УФНС России по Республике Тыва — https://www.nalog.gov.ru/rn17/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Региональная страница ФНС | https://www.nalog.gov.ru/rn17 | HTML |
+| Региональная страница ФНС | https://www.nalog.gov.ru/rn17/ | HTML |
 
 ## Объекты данных и показатели
 

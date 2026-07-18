@@ -28,6 +28,10 @@ Slug страницы совпадает с именем файла без `.md`
 | `budget_roles` | рекомендуется | YAML-массив ярлыков роли в данных: `budget_preparation`, `budget_execution`, `tax_policy`, `tax_administration`, `procurement_oversight`, `statistics`, `monetary_policy`, `financial_markets`, `social_insurance`, `health_finance`, `external_audit`, `legislation`, … |
 | `aliases` | по желанию | `["Минфин", "Minfin"]` — для поиска и синонимов |
 | `reports_to` | по желанию | кратко: кому подотчётен орган (например, Федеральное Собрание — для Счётной палаты) |
+| `as_of` | для snapshot-импорта | дата состояния исходного набора `YYYY-MM-DD`; не заменяется `last_updated` |
+| `lifecycle_status` | для snapshot-импорта | `current` \| `renamed` \| `reorganized` \| `liquidated` \| `unknown` |
+| `status_as_of` | для snapshot-импорта | дата последней проверки статуса `YYYY-MM-DD` |
+| `successor_slug` | опционально | канонический slug существующей карточки организации-преемника |
 
 ### Типы организаций (`org_kind`)
 
@@ -56,6 +60,11 @@ org_kind: executive_service
 budget_roles: ["tax_administration", "statistics"]
 # aliases: ["<АББР>", "<разговорное имя>"]
 # reports_to: "<Федеральное Собрание / Президент РФ / …>"
+# Для карточек из датированного snapshot:
+# as_of: YYYY-MM-DD
+# lifecycle_status: unknown
+# status_as_of: YYYY-MM-DD
+# successor_slug: /organizations/<slug-преемника>
 ---
 
 # <Повтор title из frontmatter>

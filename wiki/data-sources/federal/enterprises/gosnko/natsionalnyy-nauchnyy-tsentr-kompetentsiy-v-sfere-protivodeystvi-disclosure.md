@@ -27,6 +27,13 @@ related_pages:
   - /data-sources/federal/procurement
   - /data-sources/civil/open-ngo
   - /howto/analysis/ngo-funding
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ "НАЦИОНАЛЬНЫЙ НАУЧНЫЙ ЦЕНТР КОМПЕТЕНЦИЙ В СФЕРЕ ПРОТИВОДЕЙСТВИЯ НЕЗАКОННОМУ ОБОРОТУ ПРОМЫШЛЕННОЙ ПРОДУКЦИИ": открытые данные и субсидии

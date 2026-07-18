@@ -21,6 +21,13 @@ description: >-
   data.gov.ru, бюджетных выгрузок и закупок.
 content_type: data_source
 entity_type: data-source
+jurisdiction_level: multilevel
+data_completeness: unknown
+machine_readability: HTML
+legal_significance: civil_repackaging
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # DataCatalogs.ru — реестр каталогов открытых данных

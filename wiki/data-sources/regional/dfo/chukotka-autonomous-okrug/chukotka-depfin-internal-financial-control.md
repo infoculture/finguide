@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - control
-last_updated: "2026-05-15"
+last_updated: 2026-07-16
 slug: /data-sources/regional/chukotka-depfin-internal-financial-control
-source_url: "https://xn--80atapud1a.xn--p1ai/depfin/activity/vnutrive-kontrol"
+source_url: "https://chaogov.ru/depfin/deyatelnost/vnutrivedomstvennyy-kontrol/"
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -63,13 +63,13 @@ related_pages:
 
 ## Оператор
 
-Департамент финансов и имущественных отношений Чукотского автономного округа — канонический вход: https://xn--80atapud1a.xn--p1ai/depfin/activity/vnutrive-kontrol
+Департамент финансов и имущественных отношений Чукотского автономного округа — канонический вход: https://chaogov.ru/depfin/deyatelnost/vnutrivedomstvennyy-kontrol/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Раздел «Внутриведомственный контроль» | https://xn--80atapud1a.xn--p1ai/depfin/activity/vnutrive-kontrol | HTML |
+| Раздел «Внутриведомственный контроль» | https://chaogov.ru/depfin/deyatelnost/vnutrivedomstvennyy-kontrol/ | HTML |
 
 ## Объекты данных и показатели
 

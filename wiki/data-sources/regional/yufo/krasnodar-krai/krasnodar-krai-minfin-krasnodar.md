@@ -23,6 +23,9 @@ description: >-
   разделы по финансовому управлению; преимущественно HTML и файлы на сайте.
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/krasnodar-krai-minfin
 related_pages:
   - /data-sources/regional/subject-krasnodar-krai-sources-overview
   - /data-sources/regional/krasnodar-krai-legislative-assembly-budget-laws

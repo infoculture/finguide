@@ -17,6 +17,14 @@ const QUALITY_FIELDS = [
   'license_or_terms',
 ];
 const DISCOVERY_FIELDS = ['audience_level', 'data_domain', 'jurisdiction_level'];
+const PROVENANCE_FIELDS = ['source_authority'];
+const LIFECYCLE_FIELDS = ['as_of', 'lifecycle_status', 'status_as_of', 'successor_slug'];
+const CHUNK_METADATA_FIELDS = [
+  ...DISCOVERY_FIELDS,
+  ...PROVENANCE_FIELDS,
+  ...QUALITY_FIELDS,
+  ...LIFECYCLE_FIELDS,
+];
 
 export function loadRelationshipTypes(root = process.cwd()) {
   const file = path.join(root, 'scripts', 'relationship-types.json');
@@ -310,9 +318,11 @@ export function buildKnowledgeArtifacts({
   }
 
   const slugs = new Set();
+  const docsBySlug = new Map();
   for (const doc of sourceDocs) {
     if (slugs.has(doc.slug)) throw new Error(`${doc.rel}: дублирующий канонический slug ${doc.slug}`);
     slugs.add(doc.slug);
+    docsBySlug.set(doc.slug, doc);
   }
   for (const doc of sourceDocs) {
     for (const target of doc.related) {
@@ -321,6 +331,14 @@ export function buildKnowledgeArtifacts({
     for (const relation of doc.relationships) {
       if (!slugs.has(relation.target)) {
         throw new Error(`${doc.rel}: relationship ${relation.type} ссылается на неизвестный slug ${relation.target}`);
+      }
+    }
+    if (doc.data.successor_slug !== undefined && doc.data.successor_slug !== null) {
+      const successor = scalarOrNull(doc.data.successor_slug);
+      const target = successor ? docsBySlug.get(successor) : null;
+      if (!target) throw new Error(`${doc.rel}: successor_slug ссылается на неизвестный slug ${successor}`);
+      if (target.data.entity_type !== 'organization') {
+        throw new Error(`${doc.rel}: successor_slug должен ссылаться на entity_type: organization (${successor})`);
       }
     }
   }
@@ -353,7 +371,14 @@ export function buildKnowledgeArtifacts({
       last_updated: dateOrNull(data.last_updated),
     };
     for (const field of DISCOVERY_FIELDS) record[field] = scalarOrNull(data[field]);
+    for (const field of PROVENANCE_FIELDS) record[field] = scalarOrNull(data[field]);
     for (const field of QUALITY_FIELDS) record[field] = scalarOrNull(data[field]);
+    for (const field of LIFECYCLE_FIELDS) {
+      record[field] =
+        field === 'as_of' || field === 'status_as_of'
+          ? dateOrNull(data[field])
+          : scalarOrNull(data[field]);
+    }
     records.push(record);
     nodes.push({slug: doc.slug, path: doc.path, title: record.title});
 
@@ -361,7 +386,7 @@ export function buildKnowledgeArtifacts({
     for (let ordinal = 0; ordinal < docSections.length; ordinal++) {
       const section = docSections[ordinal];
       const anchorSuffix = section.headingAnchor ? `#${section.headingAnchor}` : '';
-      chunks.push({
+      const chunk = {
         schema_version: SCHEMA_VERSION,
         chunk_id: chunkId(doc.slug, section.headingPath, section.headingAnchor, section.part),
         document_slug: doc.slug,
@@ -376,14 +401,13 @@ export function buildKnowledgeArtifacts({
         content_type: record.content_type,
         entity_type: record.entity_type,
         tags: record.tags,
-        audience_level: record.audience_level,
-        data_domain: record.data_domain,
-        jurisdiction_level: record.jurisdiction_level,
         rag_priority: record.rag_priority,
         draft: record.draft,
         last_updated: record.last_updated,
         last_verified: record.last_verified,
-      });
+      };
+      for (const field of CHUNK_METADATA_FIELDS) chunk[field] = record[field];
+      chunks.push(chunk);
     }
 
     for (const target of doc.related) edges.push({from: doc.slug, to: target, kind: 'related_pages'});

@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - procurement
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-07-16
 slug: /data-sources/regional/regional-procurement-sources-overview
-source_url: 'https://zakupki.gov.ru/'
+source_url: 'https://zakupki.gov.ru/epz/main/public/home.html'
 data_source_kind: mixed
 jurisdiction: multilevel
 access: open
@@ -16,7 +16,7 @@ formats:
   - xml
   - csv
 status: current
-last_verified: 2026-05-14
+last_verified: 2026-07-16
 description: >-
   Как сочетать федеральный ЕИС с региональными и муниципальными порталами
   закупок, дублирование контрактов и типовые ошибки трассировки расходов до КБК.
@@ -74,7 +74,7 @@ related_pages:
 
 | Тип | Страница wiki / URL | Зачем |
 | --- | --- | --- |
-| Федеральный контрактный реестр | [ЕИС](/information-systems/federal/zakupki), https://zakupki.gov.ru/ | Общероссийский поиск и выгрузки |
+| Федеральный контрактный реестр | [ЕИС](/information-systems/federal/zakupki), https://zakupki.gov.ru/epz/main/public/home.html | Общероссийский поиск и выгрузки |
 | Нормативка | [44-ФЗ](/legal/44fz), [223-ФЗ](/legal/223-fz) | Рамки процедур |
 | Пример городского портала (Москва) | [Закупки Москвы (tender.mos.ru)](/data-sources/regional/moscow-procurement-tender-mos) | Региональный вход для столицы |
 | Пример городского портала (Санкт-Петербург) | [Комитет по госзаказу СПб (gz-spb.ru)](/data-sources/regional/saint-petersburg-procurement-gz-spb) | Региональный вход для СПб |
@@ -106,7 +106,7 @@ related_pages:
 
 ```bash
 curl -fsSL -A "finguide-zakupki-check/1.0" -o /dev/null -w "%{http_code}\n" \
-  "https://zakupki.gov.ru/"
+  "https://zakupki.gov.ru/epz/main/public/home.html"
 ```
 
 ## Связанные страницы wiki

@@ -20,6 +20,9 @@ description: >-
   субъекта): Информация о бюджете, межбюджетных отношениях, нормативные акты
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/sakha-yakutia-minfin
 related_pages:
   - /data-sources/regional/subject-republic-of-sakha-yakutia-sources-overview
   - /data-sources/regional

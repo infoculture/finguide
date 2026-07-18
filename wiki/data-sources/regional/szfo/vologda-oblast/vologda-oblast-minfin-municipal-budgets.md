@@ -5,10 +5,10 @@ tags:
   - data-source
   - regional
   - budget
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/vologda-oblast-minfin-municipal-budgets
 source_url: >-
-  https://minfin.gov35.ru/otkrytyy-byudzhet/mezhbyudzhetnye-otnosheniya/informatsiya-o-mestnykh-byudzhetakh
+  https://minfin.gov35.ru/otkrytyy-byudzhet/mezhbyudzhetnye-otnosheniya/informatsiya-o-mestnykh-byudzhetakh/
 data_source_kind: portal
 jurisdiction: multilevel
 access: open
@@ -16,7 +16,7 @@ formats:
   - html
   - pdf
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: regional
 data_completeness: partial
 machine_readability: HTML; структура таблиц по муниципалитетам может различаться
@@ -66,13 +66,13 @@ related_pages:
 
 ## Оператор
 
-Министерство финансов Вологодской области — канонический вход: https://minfin.gov35.ru/otkrytyy-byudzhet/mezhbyudzhetnye-otnosheniya/informatsiya-o-mestnykh-byudzhetakh
+Министерство финансов Вологодской области — канонический вход: https://minfin.gov35.ru/otkrytyy-byudzhet/mezhbyudzhetnye-otnosheniya/informatsiya-o-mestnykh-byudzhetakh/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Раздел о местных бюджетах | https://minfin.gov35.ru/otkrytyy-byudzhet/mezhbyudzhetnye-otnosheniya/informatsiya-o-mestnykh-byudzhetakh | HTML |
+| Раздел о местных бюджетах | https://minfin.gov35.ru/otkrytyy-byudzhet/mezhbyudzhetnye-otnosheniya/informatsiya-o-mestnykh-byudzhetakh/ | HTML |
 
 ## Объекты данных и показатели
 

@@ -7,7 +7,8 @@ tags:
   - statistics
   - macro
 source_url: 'https://data.worldbank.org/country/russian-federation'
-last_updated: 2026-05-11T00:00:00.000Z
+last_updated: 2026-07-16
+last_verified: 2026-07-16
 slug: /data-sources/international/world-bank
 data_source_kind: mixed
 jurisdiction: multilevel
@@ -31,7 +32,13 @@ related_pages:
   - /data-sources/international/oecd-fiscal-data
   - /data-sources/international/un-data
   - /data-sources/international/cisstat-datahub
-  - /data-sources/international/cisstat-datahub
+jurisdiction_level: international
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Всемирный банк — данные по России

@@ -21,6 +21,18 @@ content_type: data_source
 entity_type: data-source
 source_authority: federal
 rag_priority: low
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
+relationships:
+  - type: published_by
+    target: /organizations/minfin
+  - type: available_in
+    target: /information-systems/federal/giis-eb
 ---
 
 # Информация о субсидиях из соответствующего бюджета бюджетной системы Российской Федерации, в том числе грантах в форме субсидий, юридическим лицам, индивидуальным предпринимателям, а также физическим лицам - производителям товаров, работ, услуг

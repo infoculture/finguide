@@ -8,7 +8,8 @@ tags:
   - data-source
   - international
   - statistics
-last_updated: 2026-05-12
+last_updated: 2026-07-16
+last_verified: 2026-07-16
 slug: /data-sources/international/un-data
 source_url: https://data.un.org/
 data_source_kind: portal
@@ -25,6 +26,13 @@ related_pages:
   - /data-sources/international/imf-gfs
   - /data-sources/international/world-bank
   - /data-sources/federal/rosstat-opendata
+jurisdiction_level: international
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # UN Data — международная статистика ООН

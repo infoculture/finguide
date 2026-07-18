@@ -7,16 +7,16 @@ tags:
   - data-source
   - regional
   - budget
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-07-16
 slug: /data-sources/regional/republic-of-mari-el-fin-f942e83747
-source_url: 'https://mari-el.gov.ru/ministries/minfin/pages/budget_citizens'
+source_url: 'https://mari-el.gov.ru/ministries/minfin/pages/budget_citizens/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-14T00:00:00.000Z
+last_verified: 2026-07-16T00:00:00.000Z
 description: >-
   Автоимпорт из _dev/rf_finance_sources_table_full.md (Открытый бюджет / бюджет
   для граждан): Брошюры "Бюджет для граждан", пояснительные записки к бюджету
@@ -67,13 +67,13 @@ rag_priority: low
 
 ## Оператор
 
-Раздел "Бюджет для граждан" на сайте Минфина Республики Марий Эл — канонический вход: https://mari-el.gov.ru/ministries/minfin/pages/budget_citizens
+Раздел "Бюджет для граждан" на сайте Минфина Республики Марий Эл — канонический вход: https://mari-el.gov.ru/ministries/minfin/pages/budget_citizens/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Веб | https://mari-el.gov.ru/ministries/minfin/pages/budget_citizens | HTML |
+| Веб | https://mari-el.gov.ru/ministries/minfin/pages/budget_citizens/ | HTML |
 
 ## Объекты данных и показатели
 

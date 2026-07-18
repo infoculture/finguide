@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-07-16
 slug: /data-sources/regional/udmurt-republic-fin-35dc508c78
-source_url: 'https://www.nalog.gov.ru/rn18'
+source_url: 'https://www.nalog.gov.ru/rn18/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-14T00:00:00.000Z
+last_verified: 2026-07-16T00:00:00.000Z
 description: >-
   Автоимпорт из _dev/rf_finance_sources_table_full.md (Управление ФНС России):
   Налоговая статистика, информация о налоговых поступлениях в бюджет
@@ -65,13 +65,13 @@ rag_priority: low
 
 ## Оператор
 
-УФНС России по Удмуртской Республике — канонический вход: https://www.nalog.gov.ru/rn18
+УФНС России по Удмуртской Республике — канонический вход: https://www.nalog.gov.ru/rn18/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Веб | https://www.nalog.gov.ru/rn18 | HTML |
+| Веб | https://www.nalog.gov.ru/rn18/ | HTML |
 
 ## Объекты данных и показатели
 

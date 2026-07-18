@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - budget
-last_updated: 2026-05-14
+last_updated: 2026-07-16
 slug: /data-sources/regional/republic-of-tyva-official-portal-budget
-source_url: 'https://rtyva.ru/acts/budget'
+source_url: 'https://rtyva.ru/acts/budget/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -15,7 +15,7 @@ formats:
   - html
   - pdf
 status: current
-last_verified: 2026-05-14
+last_verified: 2026-07-16
 description: >-
   Раздел «Бюджет» на портале органов власти Республики Тыва: проекты и сопутствующие
   материалы по республиканскому бюджету, публикации для граждан.
@@ -66,13 +66,13 @@ related_pages:
 
 ## Оператор
 
-Портал органов власти Республики Тыва — канонический вход к разделу: https://rtyva.ru/acts/budget
+Портал органов власти Республики Тыва — канонический вход к разделу: https://rtyva.ru/acts/budget/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Веб-раздел «Бюджет» | https://rtyva.ru/acts/budget | HTML |
+| Веб-раздел «Бюджет» | https://rtyva.ru/acts/budget/ | HTML |
 
 ## Объекты данных и показатели
 

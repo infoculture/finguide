@@ -34,6 +34,13 @@ related_pages:
   - /data-sources/federal/minfin-purchases-monitoring
   - /glossary/procurement-44fz
   - /glossary/procurement-223fz
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # ЕИС Закупки: статистика на главной (госзакупки и контракты)

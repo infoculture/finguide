@@ -24,7 +24,13 @@ description: >-
   бюд
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/tatarstan-minfin
+  - type: available_in
+    target: /information-systems/regional/tatarstan-open-budget
 related_pages:
+  - /information-systems/regional/tatarstan-open-budget
   - /data-sources/regional/subject-republic-of-tatarstan-sources-overview
   - /data-sources/regional
   - /data-sources/regional/how-to-find-regional-data

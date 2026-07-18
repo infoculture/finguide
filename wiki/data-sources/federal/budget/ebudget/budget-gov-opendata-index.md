@@ -1,0 +1,369 @@
+---
+title: Индекс наборов открытых данных ГИИС «Электронный бюджет»
+sidebar_label: Индекс наборов ГИИС ЭБ
+description: Полный навигационный индекс карточек паспортов открытых данных budget.gov.ru по двум семействам идентификаторов.
+tags: [data-source, federal, budget, index]
+last_updated: 2026-07-16
+slug: /data-sources/federal/budget-gov-opendata-index
+content_type: reference
+related_pages:
+  - /data-sources/federal/budget-gov-ru-datasets
+  - /information-systems/federal/giis-eb
+---
+
+# Индекс наборов открытых данных ГИИС «Электронный бюджет»
+
+Это полный читательский маршрут к **345** карточкам, созданным из каталога паспортов `budget.gov.ru`. Наличие карточки означает наличие записи в снимке каталога, но не гарантирует одинаковую полноту и стабильность каждого endpoint: перед анализом проверяйте паспорт и `last_verified`.
+
+Основной обзор и методика доступа: [Наборы данных ГИИС «Электронный бюджет»](/data-sources/federal/budget-gov-ru-datasets).
+
+## Наборы 7710168360-*
+
+- [Проект закона (решения) о бюджете (закон (решение) о бюджете)](/data-sources/federal/opendata-7710168360-BUDGETLAW) — `opendata-7710168360-BUDGETLAW`.
+- [Принятые на учет бюджетные обязательства субъектов РФ, местных бюджетов и кассовое исполнение по расходам бюджетов](/data-sources/federal/opendata-7710168360-CASHEXECEXPENSES) — `opendata-7710168360-CASHEXECEXPENSES`.
+- [План счетов бухгалтерского учета автономных учреждений](/data-sources/federal/opendata-7710168360-CHARTACCOUNTSAU) — `opendata-7710168360-CHARTACCOUNTSAU`.
+- [План счетов бухгалтерского учета бюджетных учреждений](/data-sources/federal/opendata-7710168360-CHARTACCOUNTSBU) — `opendata-7710168360-CHARTACCOUNTSBU`.
+- [План счетов бюджетного учета](/data-sources/federal/opendata-7710168360-CHARTACCOUNTSBUDACCOUNTING) — `opendata-7710168360-CHARTACCOUNTSBUDACCOUNTING`.
+- [Предельные размеры муниципального долга на очередной финансовый год и на плановый период](/data-sources/federal/opendata-7710168360-DEBTLIMITSMO) — `opendata-7710168360-DEBTLIMITSMO`.
+- [Информация об объеме и структуре муниципального долга](/data-sources/federal/opendata-7710168360-DEBTSTRUCTUREMO) — `opendata-7710168360-DEBTSTRUCTUREMO`.
+- [Перечень видов (групп, подгрупп, элементов) расходов классификации расходов бюджетов](/data-sources/federal/opendata-7710168360-EXPENSESTYPE) — `opendata-7710168360-EXPENSESTYPE`.
+- [Информация об исполнении бюджетных обязательств, принятых в целях реализации федеральной адресной инвестиционной программы (мероприятия по информатизации)](/data-sources/federal/opendata-7710168360-FAIPFB) — `opendata-7710168360-FAIPFB`.
+- [Информация об основных параметрах реализации федеральных проектов, обеспечивающих достижение целей, показателей и результатов национальных проектов](/data-sources/federal/opendata-7710168360-FEDERALPROJECT) — `opendata-7710168360-FEDERALPROJECT`.
+- [Информация об основных параметрах реализации федеральных проектов, обеспечивающих достижение целей, показателей и результатов национальных проектов (источник данных - СМЭВ)](/data-sources/federal/opendata-7710168360-FPPASSPORT) — `opendata-7710168360-FPPASSPORT`.
+- [Государственный долг РФ](/data-sources/federal/opendata-7710168360-GOVDEBTRF) — `opendata-7710168360-GOVDEBTRF`.
+- [Перечень групп источников доходов](/data-sources/federal/opendata-7710168360-GROUPPID) — `opendata-7710168360-GROUPPID`.
+- [Перечень кодов видов доходов бюджетов](/data-sources/federal/opendata-7710168360-INCOMECODE) — `opendata-7710168360-INCOMECODE`.
+- [Прогноз доходов федерального бюджета на очередной финансовый год, первый и второй год планового периода](/data-sources/federal/opendata-7710168360-INCOMEFORECASTFB) — `opendata-7710168360-INCOMEFORECASTFB`.
+- [Прогноз доходов местного бюджета на очередной финансовый год, первый и второй год планового периода](/data-sources/federal/opendata-7710168360-INCOMEFORECASTMO) — `opendata-7710168360-INCOMEFORECASTMO`.
+- [Перечень источников доходов Российской Федерации](/data-sources/federal/opendata-7710168360-INCOMESOURCES) — `opendata-7710168360-INCOMESOURCES`.
+- [Особенности эмиссии государственных ценных бумаг](/data-sources/federal/opendata-7710168360-ISSUESECURITIES) — `opendata-7710168360-ISSUESECURITIES`.
+- [Особенности эмиссии муниципальных ценных бумаг](/data-sources/federal/opendata-7710168360-ISSUESECURITIESMO) — `opendata-7710168360-ISSUESECURITIESMO`.
+- [Перечень кодов источников финансирования дефицитов бюджетов](/data-sources/federal/opendata-7710168360-KIF) — `opendata-7710168360-KIF`.
+- [Классификация операций сектора государственного управления (КОСГУ)](/data-sources/federal/opendata-7710168360-KOSGU) — `opendata-7710168360-KOSGU`.
+- [Перечень бюджетов бюджетной системы Российской Федерации](/data-sources/federal/opendata-7710168360-LISTOFBUDGETS) — `opendata-7710168360-LISTOFBUDGETS`.
+- [Среднесрочный финансовый план муниципального образования_Распределение дотаций](/data-sources/federal/opendata-7710168360-MEDIUMFINPLANDISTRSUBSID) — `opendata-7710168360-MEDIUMFINPLANDISTRSUBSID`.
+- [Среднесрочный финансовый план муниципального образования_Объем бюджетных ассигнований по главным распорядителям бюджетных средств по разделам, подразделам, целевым статьям и видам расходов классификации расходов бюджетов](/data-sources/federal/opendata-7710168360-MEDIUMFINPLANMOBA) — `opendata-7710168360-MEDIUMFINPLANMOBA`.
+- [Среднесрочный финансовый план муниципального образования_Основные характеристики консолидированного бюджета](/data-sources/federal/opendata-7710168360-MEDIUMFINPLANMOMAINCHARKB) — `opendata-7710168360-MEDIUMFINPLANMOMAINCHARKB`.
+- [Среднесрочный финансовый план муниципального образования_Основные характеристики местного бюджета](/data-sources/federal/opendata-7710168360-MEDIUMFINPLANMOMAINCHARMB) — `opendata-7710168360-MEDIUMFINPLANMOMAINCHARMB`.
+- [Среднесрочный финансовый план муниципального образования_Нормативы отчислений доходов](/data-sources/federal/opendata-7710168360-MEDIUMFINPLANNORMS) — `opendata-7710168360-MEDIUMFINPLANNORMS`.
+- [Среднесрочный финансовый план муниципального образования_Программа внутренних заимствований](/data-sources/federal/opendata-7710168360-MEDIUMFINPLANPROGINTERBOR) — `opendata-7710168360-MEDIUMFINPLANPROGINTERBOR`.
+- [Среднесрочный финансовый план муниципального образования_Прогнозируемые поступления доходов в местный бюджет](/data-sources/federal/opendata-7710168360-MEDIUMFINPLANPROJECTEDREVENUE) — `opendata-7710168360-MEDIUMFINPLANPROJECTEDREVENUE`.
+- [Среднесрочный финансовый план муниципального образования_Объем бюджетных ассигнований по разделам, подразделам](/data-sources/federal/opendata-7710168360-MEDIUMFINPLANRZPR) — `opendata-7710168360-MEDIUMFINPLANRZPR`.
+- [Информация об основных параметрах реализации национальных проектов](/data-sources/federal/opendata-7710168360-NATIONALPROJECT) — `opendata-7710168360-NATIONALPROJECT`.
+- [Информация об основных параметрах реализации национальных проектов (источник данных - СМЭВ)](/data-sources/federal/opendata-7710168360-NPPASSPORT) — `opendata-7710168360-NPPASSPORT`.
+- [План-график составления проектов бюджетов РФ](/data-sources/federal/opendata-7710168360-PGDRAFTBUDGETRF) — `opendata-7710168360-PGDRAFTBUDGETRF`.
+- [План-график составления проектов бюджетов субъектов РФ](/data-sources/federal/opendata-7710168360-PGDRAFTINGBUDGETS) — `opendata-7710168360-PGDRAFTINGBUDGETS`.
+- [План-график составления проекта бюджета муниципального образования](/data-sources/federal/opendata-7710168360-PGDRAFTINGBUDGETSMO) — `opendata-7710168360-PGDRAFTINGBUDGETSMO`.
+- [План-график реализации бюджетного процесса субъектов Российской Федерации, муниципальных образований](/data-sources/federal/opendata-7710168360-PGIMPLBUDGETPROCESS) — `opendata-7710168360-PGIMPLBUDGETPROCESS`.
+- [Перечень источников доходов](/data-sources/federal/opendata-7710168360-PID) — `opendata-7710168360-PID`.
+- [Перечень кодов главных распорядителей средств федерального бюджета и бюджетов государственных внебюджетных фондов Российской Федерации](/data-sources/federal/opendata-7710168360-PPP) — `opendata-7710168360-PPP`.
+- [Перечень и объемы привлечения муниципальных внутренних заимствований на очередной финансовый год и плановый период](/data-sources/federal/opendata-7710168360-PROGINTERBORROWMO) — `opendata-7710168360-PROGINTERBORROWMO`.
+- [Документы и материалы, передаваемые одновременно с проектом федерального бюджета](/data-sources/federal/opendata-7710168360-PROJECTDOCUMENTS) — `opendata-7710168360-PROJECTDOCUMENTS`.
+- [Реестр функций (полномочий) ФОИВ](/data-sources/federal/opendata-7710168360-REESTRFUNCTION) — `opendata-7710168360-REESTRFUNCTION`.
+- [Информация о реестрах исполнителей государственных (муниципальных) услуг в социальной сфере по социальному сертификату](/data-sources/federal/opendata-7710168360-REGEYECSOCCERT) — `opendata-7710168360-REGEYECSOCCERT`.
+- [Информация об основных параметрах реализации региональных проектов, обеспечивающих достижение целей, показателей и результатов федеральных проектов, мероприятия которых относятся к законодательно установленным полномочиям субъекта Российской Федерации, а также к вопросам местного значения муниципальных образований, расположенных на территории указанного субъекта Российской Федерации](/data-sources/federal/opendata-7710168360-REGIONALPROJECT) — `opendata-7710168360-REGIONALPROJECT`.
+- [Реестр недобросовестных исполнителей государственных (муниципальных) услуг в социальной сфере](/data-sources/federal/opendata-7710168360-REGUNFAIREXEC) — `opendata-7710168360-REGUNFAIREXEC`.
+- [Отчеты об исполнении государственных (муниципальных) социальных заказах_Фактические значения показателей](/data-sources/federal/opendata-7710168360-REPORTSOCIALORDERFACT) — `opendata-7710168360-REPORTSOCIALORDERFACT`.
+- [Отчеты об исполнении государственных (муниципальных) социальных заказах_Фактическое достижение показателей качества](/data-sources/federal/opendata-7710168360-REPORTSOCIALORDERFACTACTQUAL) — `opendata-7710168360-REPORTSOCIALORDERFACTACTQUAL`.
+- [Отчеты об исполнении государственных (муниципальных) социальных заказах_Фактическое достижение показателей объема](/data-sources/federal/opendata-7710168360-REPORTSOCIALORDERFACTACTVOL) — `opendata-7710168360-REPORTSOCIALORDERFACTACTVOL`.
+- [Отчеты об исполнении государственных (муниципальных) социальных заказах_Плановые значения показателей](/data-sources/federal/opendata-7710168360-REPORTSOCIALORDERPLAN) — `opendata-7710168360-REPORTSOCIALORDERPLAN`.
+- [Отчет об итогах эмиссии государственных и муниципальных ценных бумаг](/data-sources/federal/opendata-7710168360-REPRESISSUE) — `opendata-7710168360-REPRESISSUE`.
+- [Инвестиционные проекты с государственной (муниципальной) поддержкой в форме инвестиционного налогового вычета](/data-sources/federal/opendata-7710168360-RIP) — `opendata-7710168360-RIP`.
+- [Реестр объектов капитального строительства_Стоимостные показатели](/data-sources/federal/opendata-7710168360-ROKSCOSTSUM) — `opendata-7710168360-ROKSCOSTSUM`.
+- [Реестр объектов капитального строительства_Направление инвестирования](/data-sources/federal/opendata-7710168360-ROKSDIRECTIONINVESTMENT) — `opendata-7710168360-ROKSDIRECTIONINVESTMENT`.
+- [Реестр объектов капитального строительства_Источники финансирования](/data-sources/federal/opendata-7710168360-ROKSFINSRC) — `opendata-7710168360-ROKSFINSRC`.
+- [Реестр объектов капитального строительства_Финансовое обеспечение](/data-sources/federal/opendata-7710168360-ROKSFINSUPPORT) — `opendata-7710168360-ROKSFINSUPPORT`.
+- [Реестр объектов капитального строительства_Мощность](/data-sources/federal/opendata-7710168360-ROKSPOWER) — `opendata-7710168360-ROKSPOWER`.
+- [Информация об основных параметрах реализации региональных проектов, обеспечивающих достижение целей, показателей и результатов федеральных проектов, мероприятия которых относятся к законодательно установленным полномочиям субъекта Российской Федерации, а также к вопросам местного значения муниципальных образований, расположенных на территории указанного субъекта Российской Федерации (источник данных - СМЭВ)](/data-sources/federal/opendata-7710168360-RPPASSPORT) — `opendata-7710168360-RPPASSPORT`.
+- [Информация об утвержденных государственных (муниципальных) социальных заказах](/data-sources/federal/opendata-7710168360-SOCIALORDER) — `opendata-7710168360-SOCIALORDER`.
+- [Реестр федеральных социальных заказов](/data-sources/federal/opendata-7710168360-SOCIALORDERFB) — `opendata-7710168360-SOCIALORDERFB`.
+- [Перечень разделов и подразделов классификации расходов бюджетов](/data-sources/federal/opendata-7710168360-SUBSECTION) — `opendata-7710168360-SUBSECTION`.
+- [Информация о субсидиях из соответствующего бюджета бюджетной системы Российской Федерации, в том числе грантах в форме субсидий, юридическим лицам, индивидуальным предпринимателям, а также физическим лицам - производителям товаров, работ, услуг](/data-sources/federal/opendata-7710168360-SUBSULFLIPBSMO) — `opendata-7710168360-SUBSULFLIPBSMO`.
+- [Информация о субсидиях из федерального бюджета, в том числе грантах в форме субсидий, юридическим лицам, индивидуальным предпринимателям, а также физическим лицам - производителям товаров, работ, услуг](/data-sources/federal/opendata-7710168360-SUBSULFLIPFB) — `opendata-7710168360-SUBSULFLIPFB`.
+
+## Наборы 7710568760-*
+
+- [Сведения об изменениях по забалансовым счетам (ф.0503173, 0503373, 0503773)](/data-sources/federal/opendata-7710568760-ADDINFO) — `opendata-7710568760-ADDINFO`.
+- [Справка о суммах консолидируемых поступлений, подлежащих зачислению на счет бюджета](/data-sources/federal/opendata-7710568760-AMOUNTINCOME) — `opendata-7710568760-AMOUNTINCOME`.
+- [Справка о суммах консолидируемых поступлений, подлежащих зачислению на счет бюджета](/data-sources/federal/opendata-7710568760-AMOUNTSOURSE) — `opendata-7710568760-AMOUNTSOURSE`.
+- [Доходы бюджетов субъектов и муниципальных образований, федерального бюджета по данным АСФК](/data-sources/federal/opendata-7710568760-ASFKDOHKASSA) — `opendata-7710568760-ASFKDOHKASSA`.
+- [Доходы бюджетов субъектов и муниципальных образований по данным АСФК](/data-sources/federal/opendata-7710568760-ASFKDOHKASSAMO) — `opendata-7710568760-ASFKDOHKASSAMO`.
+- [Доходы федерального бюджета и государственных внебюджетных фондов по данным АСФК](/data-sources/federal/opendata-7710568760-ASFKFBDOHKASSA) — `opendata-7710568760-ASFKFBDOHKASSA`.
+- [Источники финансирования дефицита федерального бюджета и государственных внебюджетных фондов по данным АСФК](/data-sources/federal/opendata-7710568760-ASFKFBISTKASSA) — `opendata-7710568760-ASFKFBISTKASSA`.
+- [Источники финансирования дефицита бюджета государственных внебюджетных фондов, субъектов Российской Федерации и муниципальных образований (на отчетную дату по данным АСФК)](/data-sources/federal/opendata-7710568760-ASFKISTKASSA) — `opendata-7710568760-ASFKISTKASSA`.
+- [Источники финансирования дефицитов бюджетов субъектов и муниципальных образований по данным АСФК](/data-sources/federal/opendata-7710568760-ASFKISTKASSAMO) — `opendata-7710568760-ASFKISTKASSAMO`.
+- [Расходы бюджетов субъектов и муниципальных образований по данным АСФК](/data-sources/federal/opendata-7710568760-ASFKMOEXPENSES) — `opendata-7710568760-ASFKMOEXPENSES`.
+- [Справочник полномочий организации](/data-sources/federal/opendata-7710568760-AUTHORG) — `opendata-7710568760-AUTHORG`.
+- [Баланс по операциям кассового обслуживания бюджетных учреждений, автономных учреждений и иных организаций (ф.0503154)](/data-sources/federal/opendata-7710568760-BALANCEOPER) — `opendata-7710568760-BALANCEOPER`.
+- [Баланс операций в системе казначейских платежей (ф.0503195)](/data-sources/federal/opendata-7710568760-BALANCESKP) — `opendata-7710568760-BALANCESKP`.
+- [Сведения об идентификационных кодах банков, включенных в предусмотренный статьей 176.1 Налогового кодекса Российской Федерации перечень банков, отвечающих установленным требованиям для принятия банковских гарантий в целях налогообложения](/data-sources/federal/opendata-7710568760-BANKSID) — `opendata-7710568760-BANKSID`.
+- [Отчет об использовании ассигнований резервных фондов Правительства Российской Федерации и резервного фонда Президента Российской Федерации](/data-sources/federal/opendata-7710568760-BARESERVFUND) — `opendata-7710568760-BARESERVFUND`.
+- [Базовые (отраслевые) перечни государственных и муниципальных услуг и работ](/data-sources/federal/opendata-7710568760-BASICLISTSERVICE) — `opendata-7710568760-BASICLISTSERVICE`.
+- [Бюджетные обязательства бюджетов субъектов РФ и местных бюджетов](/data-sources/federal/opendata-7710568760-BO) — `opendata-7710568760-BO`.
+- [Бюджетные обязательства бюджетов субъектов РФ и местных бюджетов](/data-sources/federal/opendata-7710568760-BOTOFK) — `opendata-7710568760-BOTOFK`.
+- [Информация о принятых бюджетных мерах принуждения за совершенные бюджетные нарушения](/data-sources/federal/opendata-7710568760-BUDGETADOPTEDCOERCIVEMEASURES) — `opendata-7710568760-BUDGETADOPTEDCOERCIVEMEASURES`.
+- [Справочник кодов основных мероприятий (структурных элементов) ЦСР](/data-sources/federal/opendata-7710568760-BUDGETCLAKCSRFBSTRUCTELEMENT) — `opendata-7710568760-BUDGETCLAKCSRFBSTRUCTELEMENT`.
+- [Классификация расходов бюджета субъекта Российской Федерации, бюджета территориального государственного внебюджетного фонда](/data-sources/federal/opendata-7710568760-BUDGETCLASCOSTS) — `opendata-7710568760-BUDGETCLASCOSTS`.
+- [Классификация расходов федерального бюджета, бюджетов государственных внебюджетных фондов Российской Федерации](/data-sources/federal/opendata-7710568760-BUDGETCLASCOSTSFB) — `opendata-7710568760-BUDGETCLASCOSTSFB`.
+- [Классификация расходов местного бюджета](/data-sources/federal/opendata-7710568760-BUDGETCLASCOSTSMO) — `opendata-7710568760-BUDGETCLASCOSTSMO`.
+- [Перечень и коды главных администраторов доходов бюджета субъекта Российской Федерации, бюджета территориального государственного внебюджетного фонда](/data-sources/federal/opendata-7710568760-BUDGETCLASGABS) — `opendata-7710568760-BUDGETCLASGABS`.
+- [Перечень и коды главных администраторов доходов федерального бюджета, бюджетов государственных внебюджетных фондов Российской Федерации](/data-sources/federal/opendata-7710568760-BUDGETCLASGABSFB) — `opendata-7710568760-BUDGETCLASGABSFB`.
+- [Перечень и коды главных администраторов доходов местного бюджета](/data-sources/federal/opendata-7710568760-BUDGETCLASGABSMO) — `opendata-7710568760-BUDGETCLASGABSMO`.
+- [Перечень и коды главных администраторов источников финансирования дефицита бюджета субъекта Российской Федерации и бюджета территориального государственного внебюджетного фонда](/data-sources/federal/opendata-7710568760-BUDGETCLASGAIF) — `opendata-7710568760-BUDGETCLASGAIF`.
+- [Перечень и коды главных администраторов источников финансирования дефицита федерального бюджета и бюджетов государственных внебюджетных фондов Российской Федерации](/data-sources/federal/opendata-7710568760-BUDGETCLASGAIFFB) — `opendata-7710568760-BUDGETCLASGAIFFB`.
+- [Перечень и коды главных администраторов источников финансирования дефицита местного бюджета](/data-sources/federal/opendata-7710568760-BUDGETCLASGAIFMO) — `opendata-7710568760-BUDGETCLASGAIFMO`.
+- [Перечень и коды главных распорядителей средств бюджета субъекта Российской Федерации и бюджетов территориальных государственных внебюджетных фондов](/data-sources/federal/opendata-7710568760-BUDGETCLASGRBS) — `opendata-7710568760-BUDGETCLASGRBS`.
+- [Перечень и коды главных распорядителей средств федерального бюджета и бюджетов государственных внебюджетных фондов Российской Федерации](/data-sources/federal/opendata-7710568760-BUDGETCLASGRBSFB) — `opendata-7710568760-BUDGETCLASGRBSFB`.
+- [Перечень и коды главных распорядителей средств местного бюджета](/data-sources/federal/opendata-7710568760-BUDGETCLASGRBSMO) — `opendata-7710568760-BUDGETCLASGRBSMO`.
+- [Классификация доходов бюджета субъекта Российской Федерации, бюджета территориального государственного внебюджетного фонда](/data-sources/federal/opendata-7710568760-BUDGETCLASINCOME) — `opendata-7710568760-BUDGETCLASINCOME`.
+- [Классификация доходов федерального бюджета, бюджетов государственных внебюджетных фондов Российской Федерации](/data-sources/federal/opendata-7710568760-BUDGETCLASINCOMEFB) — `opendata-7710568760-BUDGETCLASINCOMEFB`.
+- [Классификация доходов местного бюджета](/data-sources/federal/opendata-7710568760-BUDGETCLASINCOMEMO) — `opendata-7710568760-BUDGETCLASINCOMEMO`.
+- [Перечень кодов целевых статей расходов бюджета субъекта Российской Федерации, бюджета территориального государственного внебюджетного фонда, местного бюджета](/data-sources/federal/opendata-7710568760-BUDGETCLASKCSR) — `opendata-7710568760-BUDGETCLASKCSR`.
+- [Перечень кодов целевых статей расходов федерального бюджета, бюджетов государственных внебюджетных фондов Российской Федерации](/data-sources/federal/opendata-7710568760-BUDGETCLASKCSRFB) — `opendata-7710568760-BUDGETCLASKCSRFB`.
+- [Перечень кодов целевых статей расходов местного бюджета](/data-sources/federal/opendata-7710568760-BUDGETCLASKCSRMO) — `opendata-7710568760-BUDGETCLASKCSRMO`.
+- [Классификация операций сектора государственного управления](/data-sources/federal/opendata-7710568760-BUDGETCLASKOSGU) — `opendata-7710568760-BUDGETCLASKOSGU`.
+- [Перечень и коды групп, подгрупп, элементов видов расходов бюджета](/data-sources/federal/opendata-7710568760-BUDGETCLASKVR) — `opendata-7710568760-BUDGETCLASKVR`.
+- [Перечень и коды разделов и подразделов классификации расходов бюджета](/data-sources/federal/opendata-7710568760-BUDGETCLASRZPR) — `opendata-7710568760-BUDGETCLASRZPR`.
+- [Классификация источников финансирования дефицита бюджета субъекта Российской Федерации, бюджета территориального государственного внебюджетного фонда, местного бюджета](/data-sources/federal/opendata-7710568760-BUDGETCLASSOURCES) — `opendata-7710568760-BUDGETCLASSOURCES`.
+- [Классификация источников финансирования дефицита федерального бюджета, бюджетов государственных внебюджетных фондов Российской Федерации](/data-sources/federal/opendata-7710568760-BUDGETCLASSOURCESFB) — `opendata-7710568760-BUDGETCLASSOURCESFB`.
+- [Классификация источников финансирования дефицита местного бюджета](/data-sources/federal/opendata-7710568760-BUDGETCLASSOURCESMO) — `opendata-7710568760-BUDGETCLASSOURCESMO`.
+- [Перечень подвидов доходов по видам доходов, главными администраторами которых являются органы государственной власти субъектов Российской Федерации](/data-sources/federal/opendata-7710568760-BUDGETCLASSUBTYPINC) — `opendata-7710568760-BUDGETCLASSUBTYPINC`.
+- [Перечень подвидов доходов по видам доходов, главными администраторами которых являются федеральные органы государственной власти, государственные внебюджетные фонды Российской Федерации](/data-sources/federal/opendata-7710568760-BUDGETCLASSUBTYPINCFB) — `opendata-7710568760-BUDGETCLASSUBTYPINCFB`.
+- [Перечень кодов подвидов по видам доходов, главными администраторами которых являются органы местного самоуправления и (или) находящиеся в их ведении казенные учреждения](/data-sources/federal/opendata-7710568760-BUDGETCLASSUBTYPINCMO) — `opendata-7710568760-BUDGETCLASSUBTYPINCMO`.
+- [Перечень кодов видов доходов бюджета и соответствующих им кодов аналитической группы подвидов доходов бюджетов](/data-sources/federal/opendata-7710568760-BUDGETCLASTYPEINC) — `opendata-7710568760-BUDGETCLASTYPEINC`.
+- [Перечень кодов источников финансирования дефицитов бюджетов и соответствующих им кодов аналитической группы вида источников финансирования дефицита бюджетов](/data-sources/federal/opendata-7710568760-BUDGETCLASVKIF) — `opendata-7710568760-BUDGETCLASVKIF`.
+- [Отчет об исполнении бюджета](/data-sources/federal/opendata-7710568760-BUDGETEXEC) — `opendata-7710568760-BUDGETEXEC`.
+- [Баланс исполнения бюджета](/data-sources/federal/opendata-7710568760-BUDGETEXECUTIONBALANCE) — `opendata-7710568760-BUDGETEXECUTIONBALANCE`.
+- [Объем расходов на осуществление бюджетных инвестиций и предоставление субсидий на осуществление капитальных вложений](/data-sources/federal/opendata-7710568760-BUDGETINVESTPLAN) — `opendata-7710568760-BUDGETINVESTPLAN`.
+- [Справочник бюджетов Российской Федерации](/data-sources/federal/opendata-7710568760-BUDGETS) — `opendata-7710568760-BUDGETS`.
+- [Порядок казначейского обслуживания](/data-sources/federal/opendata-7710568760-BUDGETSFUNCTIONSFK) — `opendata-7710568760-BUDGETSFUNCTIONSFK`.
+- [Режим первоочередных расходов в части бюджетных (автономных) учреждений](/data-sources/federal/opendata-7710568760-BUDGETSFUNCTIONSFKAUBU) — `opendata-7710568760-BUDGETSFUNCTIONSFKAUBU`.
+- [Информация о бюджетных нарушениях, выявленных органами государственного (муниципального) контроля](/data-sources/federal/opendata-7710568760-BUDGETVIOLATIONS) — `opendata-7710568760-BUDGETVIOLATIONS`.
+- [Информация о кассовом исполнении по расходам на осуществление бюджетных инвестиций и предоставление субсидий на осуществление капитальных вложений](/data-sources/federal/opendata-7710568760-BUDINCASHEXEC) — `opendata-7710568760-BUDINCASHEXEC`.
+- [Сведения об остатках денежных средств](/data-sources/federal/opendata-7710568760-CASHBALANCE) — `opendata-7710568760-CASHBALANCE`.
+- [Кассовое исполнение по расходам на межбюджетные трансферты](/data-sources/federal/opendata-7710568760-CASHEXECEXPENMBT) — `opendata-7710568760-CASHEXECEXPENMBT`.
+- [Отчет о движении денежных средств](/data-sources/federal/opendata-7710568760-CASHFLOW) — `opendata-7710568760-CASHFLOW`.
+- [Отчет о движении средств в системе казначейских платежей (ф.0503196)](/data-sources/federal/opendata-7710568760-CASHFLOWSKP) — `opendata-7710568760-CASHFLOWSKP`.
+- [Сведения об изменении остатков валюты баланса (ф.0503173, 0503373, 0503773)](/data-sources/federal/opendata-7710568760-CHANGEBALANCE) — `opendata-7710568760-CHANGEBALANCE`.
+- [Сведения об изменениях бюджетной росписи главного распорядителя бюджетных средств](/data-sources/federal/opendata-7710568760-CHANGEBR) — `opendata-7710568760-CHANGEBR`.
+- [Сведения об изменениях по забалансовым счетам (ф.0503173, 0503373, 0503773)](/data-sources/federal/opendata-7710568760-CHANGEOFFBALANCE) — `opendata-7710568760-CHANGEOFFBALANCE`.
+- [Информация о доходах, расходах и источниках финансирования дефицита консолидированного бюджета Российской Федерации и бюджетов государственных внебюджетных фондов Российской Федерации по кодам бюджетной классификации на отчетную дату нарастающим итогом с начала года](/data-sources/federal/opendata-7710568760-CONSBUDGETMONTHLY0507021) — `opendata-7710568760-CONSBUDGETMONTHLY0507021`.
+- [Информация о доходах, расходах и источниках финансирования дефицита консолидированного бюджета Российской Федерации и бюджетов государственных внебюджетных фондов Российской Федерации по кодам бюджетной классификации на отчетную дату нарастающим итогом с начала года](/data-sources/federal/opendata-7710568760-CONSBUDGETQUARTER0507021) — `opendata-7710568760-CONSBUDGETQUARTER0507021`.
+- [Информация о доходах, расходах и источниках финансирования дефицита консолидированного бюджета Российской Федерации и бюджетов государственных внебюджетных фондов Российской Федерации по кодам бюджетной классификации на отчетную дату нарастающим итогом с начала года](/data-sources/federal/opendata-7710568760-CONSBUDGETYEARLY0507021) — `opendata-7710568760-CONSBUDGETYEARLY0507021`.
+- [Консолидируемые расчеты по ОКУД 0503317](/data-sources/federal/opendata-7710568760-CONSCALCOKUD0503317) — `opendata-7710568760-CONSCALCOKUD0503317`.
+- [Консолидируемые расчеты по ОКУД 0503320](/data-sources/federal/opendata-7710568760-CONSCALCOKUD0503320) — `opendata-7710568760-CONSCALCOKUD0503320`.
+- [Консолидируемые расчеты по ОКУД 0503321](/data-sources/federal/opendata-7710568760-CONSCALCOKUD0503321) — `opendata-7710568760-CONSCALCOKUD0503321`.
+- [Отчет об исполнении консолидированного бюджета Российской Федерации и бюджетов государственных внебюджетных фондов](/data-sources/federal/opendata-7710568760-CONSCALCOKYD0507021) — `opendata-7710568760-CONSCALCOKYD0507021`.
+- [Сведения о вложениях в объекты недвижимого имущества, об объектах незавершенного строительства](/data-sources/federal/opendata-7710568760-CONSTRPROGRESS) — `opendata-7710568760-CONSTRPROGRESS`.
+- [Отчет о кассовом зачислении, распределении и поступлении ввозных таможенных пошлин, а также специальных, антидемпинговых и компенсационных пошлин в рамках Евразийского экономического союза](/data-sources/federal/opendata-7710568760-CUSTOMDUTY) — `opendata-7710568760-CUSTOMDUTY`.
+- [Расшифровка дебиторской задолженности по предоставленным субсидиям (грантам)](/data-sources/federal/opendata-7710568760-DEBTSUBSIDY) — `opendata-7710568760-DEBTSUBSIDY`.
+- [Расшифровка остатков средств во временном распоряжении к Балансу по поступлениям и выбытиям бюджетных средств](/data-sources/federal/opendata-7710568760-DECRYPTION) — `opendata-7710568760-DECRYPTION`.
+- [Расшифровка остатков средств к Балансу по операциям со средствами бюджетных учреждений, автономных учреждений и иных юридических лиц (ф. 0503154)](/data-sources/federal/opendata-7710568760-DECRYPTIONBALANCE) — `opendata-7710568760-DECRYPTIONBALANCE`.
+- [Ведомственные перечни государственных (муниципальных) услуг и работ](/data-sources/federal/opendata-7710568760-DEPLISTSERVICE) — `opendata-7710568760-DEPLISTSERVICE`.
+- [Сведения об исполнении мероприятий в рамках целевых программ (субсидий на иные цели и на цели осуществления капитальных вложений)](/data-sources/federal/opendata-7710568760-EXECUTACTIVITY) — `opendata-7710568760-EXECUTACTIVITY`.
+- [Сведения об исполнении бюджета](/data-sources/federal/opendata-7710568760-EXECUTBUDGET) — `opendata-7710568760-EXECUTBUDGET`.
+- [Сводные сведения об исполнении судебных решений по денежным обязательствам федерального бюджета](/data-sources/federal/opendata-7710568760-EXECUTDO) — `opendata-7710568760-EXECUTDO`.
+- [Сведения об исполнении текстовых статей закона (решения) о бюджете](/data-sources/federal/opendata-7710568760-EXECUTTEXTARTICL) — `opendata-7710568760-EXECUTTEXTARTICL`.
+- [Отчет об использовании межбюджетных трансфертов из федерального бюджета субъектами Российской Федерации, муниципальными образованиями и территориальным государственным внебюджетным фондом](/data-sources/federal/opendata-7710568760-EXPFUNDS) — `opendata-7710568760-EXPFUNDS`.
+- [Пояснительная записка](/data-sources/federal/opendata-7710568760-EXPNOTE) — `opendata-7710568760-EXPNOTE`.
+- [Пояснительная записка к балансу операций в системе казначейских платежей (ф.0503198)](/data-sources/federal/opendata-7710568760-EXPNOTESKP) — `opendata-7710568760-EXPNOTESKP`.
+- [Перечень объектов ФАИП](/data-sources/federal/opendata-7710568760-FAIP) — `opendata-7710568760-FAIP`.
+- [Информация об исполнении бюджетных обязательств,принятых в целях реализации федеральной адресной инвестиционной программы (ф.0506604)](/data-sources/federal/opendata-7710568760-FAIP0506604) — `opendata-7710568760-FAIP0506604`.
+- [Федеральные перечни (классификаторы) услуг и работ](/data-sources/federal/opendata-7710568760-FBPGU) — `opendata-7710568760-FBPGU`.
+- [Сведения об особенностях ведения бюджетного (бухгалтерского) учета](/data-sources/federal/opendata-7710568760-FEATURESACCOUNT) — `opendata-7710568760-FEATURESACCOUNT`.
+- [Информация о кассовом исполнении по расходам на предоставление межбюджетных трансфертов из федерального бюджета](/data-sources/federal/opendata-7710568760-FEDBUDGETCASHEXECUTIONMBT) — `opendata-7710568760-FEDBUDGETCASHEXECUTIONMBT`.
+- [Информация о порядке кассового обслуживания исполнения бюджетов бюджетной системы Российской Федерации](/data-sources/federal/opendata-7710568760-FEDBUDGETCASHSERVEXECUTION) — `opendata-7710568760-FEDBUDGETCASHSERVEXECUTION`.
+- [Информация о кассовом исполнении по расходам федерального бюджета на реализацию федеральной адресной инвестиционной программы](/data-sources/federal/opendata-7710568760-FEDBUDGETCOSTFAIP) — `opendata-7710568760-FEDBUDGETCOSTFAIP`.
+- [Отчет об исполнении бюджета (ф. 0503117)](/data-sources/federal/opendata-7710568760-FEDBUDGETMONTHLY0503117) — `opendata-7710568760-FEDBUDGETMONTHLY0503117`.
+- [Отчет об исполнении федерального бюджета (ф.0507011)](/data-sources/federal/opendata-7710568760-FEDBUDGETQUARTER0507011) — `opendata-7710568760-FEDBUDGETQUARTER0507011`.
+- [Отчет об исполнении судебных решений по денежным обязательствам получателей средств федерального бюджета на отчетную дату (ф0507024)](/data-sources/federal/opendata-7710568760-FEDBUDGETQUARTER0507024) — `opendata-7710568760-FEDBUDGETQUARTER0507024`.
+- [Отчет об исполнении федерального бюджета (ф.0507011)](/data-sources/federal/opendata-7710568760-FEDBUDGETYEARLY0507011) — `opendata-7710568760-FEDBUDGETYEARLY0507011`.
+- [Отчет об использовании ассигнований резервных фондов Правительства Российской Федерации и резервного фонда Президента Российской Федерации (ф.0507012)](/data-sources/federal/opendata-7710568760-FEDBUDGETYEARLY0507012) — `opendata-7710568760-FEDBUDGETYEARLY0507012`.
+- [Баланс исполнения федерального бюджета (ф. 0507019)](/data-sources/federal/opendata-7710568760-FEDBUDGETYEARLY0507019) — `opendata-7710568760-FEDBUDGETYEARLY0507019`.
+- [Отчет о финансовых результатах деятельности (по федеральному бюджету) (ф 0507020)](/data-sources/federal/opendata-7710568760-FEDBUDGETYEARLY0507020) — `opendata-7710568760-FEDBUDGETYEARLY0507020`.
+- [Отчет об исполнении судебных решений по денежным обязательствам получателей средств федерального бюджета на отчетную дату (ф0507024)](/data-sources/federal/opendata-7710568760-FEDBUDGETYEARLY0507024) — `opendata-7710568760-FEDBUDGETYEARLY0507024`.
+- [Сведения о финансовых вложениях](/data-sources/federal/opendata-7710568760-FINANCIALINVESTMENTS) — `opendata-7710568760-FINANCIALINVESTMENTS`.
+- [Оценка качества финансового менеджмента ГАБС](/data-sources/federal/opendata-7710568760-FINMANGABS) — `opendata-7710568760-FINMANGABS`.
+- [Сведения о целевых иностранных кредитах](/data-sources/federal/opendata-7710568760-FOREIGNCREDIT) — `opendata-7710568760-FOREIGNCREDIT`.
+- [Доходы федерального бюджета по данным главной книги](/data-sources/federal/opendata-7710568760-GKFBINCOME) — `opendata-7710568760-GKFBINCOME`.
+- [Источники финансирования дефицита федерального бюджета по данным главной книги](/data-sources/federal/opendata-7710568760-GKKIFEXPENSES) — `opendata-7710568760-GKKIFEXPENSES`.
+- [Информации о структуре долговых обязательств субъекта Российской Федерации и муниципальных образований, расположенных на территории субъекта Российской Федерации](/data-sources/federal/opendata-7710568760-GOVDEBT) — `opendata-7710568760-GOVDEBT`.
+- [Сведения о кассовых поступлениях и выбытиях источников финансирования дефицита бюджета](/data-sources/federal/opendata-7710568760-IFNP) — `opendata-7710568760-IFNP`.
+- [Сведения об использовании информационно-коммуникационных технологий](/data-sources/federal/opendata-7710568760-IKT) — `opendata-7710568760-IKT`.
+- [Отчет об управлении остатками на едином казначейском счете (ф.0503197) Раздел 1. Доходы от операций по управлению остатками средств на едином казначейском счете](/data-sources/federal/opendata-7710568760-INCOMEEKS) — `opendata-7710568760-INCOMEEKS`.
+- [Прогноз доходов бюджета субъекта Российской Федерации и бюджета территориального государственного внебюджетного фонда](/data-sources/federal/opendata-7710568760-INCOMEFORECAST) — `opendata-7710568760-INCOMEFORECAST`.
+- [Сведения о кассовых поступлениях](/data-sources/federal/opendata-7710568760-INCOMENP) — `opendata-7710568760-INCOMENP`.
+- [Аналитическая информация по управлению остатками](/data-sources/federal/opendata-7710568760-INFBAL) — `opendata-7710568760-INFBAL`.
+- [Сведения по дебиторской и кредиторской задолженности](/data-sources/federal/opendata-7710568760-INFDEBT) — `opendata-7710568760-INFDEBT`.
+- [Сведения о государственных (муниципальных) гарантиях](/data-sources/federal/opendata-7710568760-INFGARANT) — `opendata-7710568760-INFGARANT`.
+- [Аналитическая информация по выбытиям](/data-sources/federal/opendata-7710568760-INFLEAV) — `opendata-7710568760-INFLEAV`.
+- [Справка о наличии имущества и обязательств на забалансовых счетах](/data-sources/federal/opendata-7710568760-INFOFFBALANCEACCOUNT) — `opendata-7710568760-INFOFFBALANCEACCOUNT`.
+- [Сведения о просроченной задолженности](/data-sources/federal/opendata-7710568760-INFOVERDUEDEBT) — `opendata-7710568760-INFOVERDUEDEBT`.
+- [Информация о предоставлении межбюджетных трансфертов бюджетам субъектов Российской Федерации](/data-sources/federal/opendata-7710568760-INFPROVISIONMBT) — `opendata-7710568760-INFPROVISIONMBT`.
+- [Сведения о государственном (муниципальном) долге](/data-sources/federal/opendata-7710568760-INFSTATEDEBT) — `opendata-7710568760-INFSTATEDEBT`.
+- [Сведения о проведении инвентаризаций](/data-sources/federal/opendata-7710568760-INVENTORY) — `opendata-7710568760-INVENTORY`.
+- [Особенности эмиссии государственных ценных бумаг Российской Федерации_Купонный доход](/data-sources/federal/opendata-7710568760-ISSUESECFBCOUPIN) — `opendata-7710568760-ISSUESECFBCOUPIN`.
+- [Особенности эмиссии государственных ценных бумаг Российской Федерации_Генеральные условия](/data-sources/federal/opendata-7710568760-ISSUESECFBGENCON) — `opendata-7710568760-ISSUESECFBGENCON`.
+- [Справочник кодов целей субсидий и субвенций](/data-sources/federal/opendata-7710568760-KBKCCSS) — `opendata-7710568760-KBKCCSS`.
+- [Справочник кодов целевых статей расходов](/data-sources/federal/opendata-7710568760-KBKCSR) — `opendata-7710568760-KBKCSR`.
+- [Справочник кодов бюджетной классификации по доходам (20 символов)](/data-sources/federal/opendata-7710568760-KBKDOHOD) — `opendata-7710568760-KBKDOHOD`.
+- [Справочник функциональной классификации расходов бюджетов РФ](/data-sources/federal/opendata-7710568760-KBKFKR) — `opendata-7710568760-KBKFKR`.
+- [Справочник кодов ведомств](/data-sources/federal/opendata-7710568760-KBKGLAVA) — `opendata-7710568760-KBKGLAVA`.
+- [Справочник кодов подвидов доходов](/data-sources/federal/opendata-7710568760-KBKINCOMESUBTYP) — `opendata-7710568760-KBKINCOMESUBTYP`.
+- [Справочник кодов видов доходов](/data-sources/federal/opendata-7710568760-KBKINCOMETYP) — `opendata-7710568760-KBKINCOMETYP`.
+- [Справочник кодов бюджетной классификации по источникам финансирования (20 символов)](/data-sources/federal/opendata-7710568760-KBKIST) — `opendata-7710568760-KBKIST`.
+- [Классификатор операций сектора государственного управления](/data-sources/federal/opendata-7710568760-KBKKOSGU) — `opendata-7710568760-KBKKOSGU`.
+- [Справочник "Направления расходов"](/data-sources/federal/opendata-7710568760-KBKNR) — `opendata-7710568760-KBKNR`.
+- [Справочник кодов видов расходов](/data-sources/federal/opendata-7710568760-KBKOUTCOMETYP) — `opendata-7710568760-KBKOUTCOMETYP`.
+- [Справочник кодов бюджетной классификации по расходам (20 символов)](/data-sources/federal/opendata-7710568760-KBKRASHOD) — `opendata-7710568760-KBKRASHOD`.
+- [Справочник кодов видов источников](/data-sources/federal/opendata-7710568760-KBKSOURCETYP) — `opendata-7710568760-KBKSOURCETYP`.
+- [Результаты мониторинга оценки качества финансового менеджмента, осуществляемого главными администраторами средств бюджета субъекта Российской Федерации, местного бюджета_Оценка](/data-sources/federal/opendata-7710568760-KFMESTIMATE) — `opendata-7710568760-KFMESTIMATE`.
+- [Результаты мониторинга оценки качества финансового менеджмента, осуществляемого главными администраторами средств бюджета субъекта Российской Федерации, местного бюджета_Показатели](/data-sources/federal/opendata-7710568760-KFMINDICATOR) — `opendata-7710568760-KFMINDICATOR`.
+- [Справочник "Книга регистрации казначейских счетов"](/data-sources/federal/opendata-7710568760-KRKS) — `opendata-7710568760-KRKS`.
+- [Сведения о кассовых выбытиях](/data-sources/federal/opendata-7710568760-LEAVINGNP) — `opendata-7710568760-LEAVINGNP`.
+- [Сведения об основных направлениях деятельности](/data-sources/federal/opendata-7710568760-MAINACTIV) — `opendata-7710568760-MAINACTIV`.
+- [Перечень мероприятий объекта государственного (муниципального) финансового контроля по исправлению выявленных органами государственного (муниципального) контроля бюджетных нарушений](/data-sources/federal/opendata-7710568760-MEROPRIYATIYAAUDITA) — `opendata-7710568760-MEROPRIYATIYAAUDITA`.
+- [Отчетность администратора доходов иных бюджетов (ф.0503110, 0503121, 0503123, 0503127, 0503130, 0503160, 0503164, 0503169, 0503173)](/data-sources/federal/opendata-7710568760-MOATTACHMENT) — `opendata-7710568760-MOATTACHMENT`.
+- [Баланс главного распорядителя, распорядителя, получателя бюджетных средств, главного администратора, администратора источников финансирования дефицита бюджета, главного администратора, администратора доходов бюджета (ф.0503130, отчетность администратора доходов иных бюджетов)](/data-sources/federal/opendata-7710568760-MOBALANCE) — `opendata-7710568760-MOBALANCE`.
+- [Отчет о движении денежных средств (ф.0503123, отчетность администратора доходов иных бюджетов)](/data-sources/federal/opendata-7710568760-MOCASHFLOW) — `opendata-7710568760-MOCASHFLOW`.
+- [Сведения об изменении остатков валюты баланса (ф.0503173, отчетность администратора доходов иных бюджетов)](/data-sources/federal/opendata-7710568760-MOCHANGEBALANCE) — `opendata-7710568760-MOCHANGEBALANCE`.
+- [Сведения об исполнении бюджета (ф.0503164, отчетность администратора доходов иных бюджетов)](/data-sources/federal/opendata-7710568760-MOEXECUTBUDGET) — `opendata-7710568760-MOEXECUTBUDGET`.
+- [Пояснительная записка (ф.0503160, отчетность администратора доходов иных бюджетов)](/data-sources/federal/opendata-7710568760-MOEXPNOTE) — `opendata-7710568760-MOEXPNOTE`.
+- [Сведения по дебиторской и кредиторской задолженности (ф.0503169, отчетность администратора доходов иных бюджетов)](/data-sources/federal/opendata-7710568760-MOINFDEBT) — `opendata-7710568760-MOINFDEBT`.
+- [Справка о наличии имущества и обязательств на забалансовых счетах (ф.0503130, отчетность администратора доходов иных бюджетов)](/data-sources/federal/opendata-7710568760-MOINFOBALANCE) — `opendata-7710568760-MOINFOBALANCE`.
+- [Справка по заключению счетов бюджетного учета отчетного финансового года (ф.0503110, отчетность администратора доходов иных бюджетов)](/data-sources/federal/opendata-7710568760-MOREFERENCE) — `opendata-7710568760-MOREFERENCE`.
+- [Отчет об исполнении бюджета главного распорядителя, распорядителя, получателя бюджетных средств, главного администратора, администратора источников финансирования дефицита бюджета, главного администратора, администратора доходов бюджета (ф.0503127, отчетность администратора доходов иных бюджетов)](/data-sources/federal/opendata-7710568760-MOREPEXECUT) — `opendata-7710568760-MOREPEXECUT`.
+- [Отчет о финансовых результатах деятельности (ф.0503121, отчетность администратора доходов иных бюджетов)](/data-sources/federal/opendata-7710568760-MOREPFINRES) — `opendata-7710568760-MOREPFINRES`.
+- [Сведения о движении нефинансовых активов](/data-sources/federal/opendata-7710568760-MOVEMENTASSET) — `opendata-7710568760-MOVEMENTASSET`.
+- [Сведения о принятых и неисполненных обязательствах](/data-sources/federal/opendata-7710568760-NOTEXECUTOBLIGATION) — `opendata-7710568760-NOTEXECUTOBLIGATION`.
+- [Сведения о количестве обособленных подразделений](/data-sources/federal/opendata-7710568760-NUMSUBDIVIS) — `opendata-7710568760-NUMSUBDIVIS`.
+- [Сведения о количестве подведомственных участников бюджетного процесса](/data-sources/federal/opendata-7710568760-NUMSUBPARTIC) — `opendata-7710568760-NUMSUBPARTIC`.
+- [Отчет об обязательствах учреждения](/data-sources/federal/opendata-7710568760-OBLIGATION) — `opendata-7710568760-OBLIGATION`.
+- [Сведения о бюджетных обязательствах (по национальным проектам) (ф.0503128-НП)](/data-sources/federal/opendata-7710568760-OBLIGATIONNP) — `opendata-7710568760-OBLIGATIONNP`.
+- [Отчет об обязательствах учреждения (по национальным проектам) (ф.0503738-НП)](/data-sources/federal/opendata-7710568760-OBLIGATIONNPAUBU) — `opendata-7710568760-OBLIGATIONNPAUBU`.
+- [Общероссийские базовые (отраслевые) перечни (классификаторы) государственных и муниципальных услуг, оказываемых физическим лицам](/data-sources/federal/opendata-7710568760-OBPGU) — `opendata-7710568760-OBPGU`.
+- [Общероссийский классификатор объектов административно-территориального деления](/data-sources/federal/opendata-7710568760-OKATO) — `opendata-7710568760-OKATO`.
+- [Таблица соответствия кодов ОКАТО кодам ОКТМО](/data-sources/federal/opendata-7710568760-OKATOTOOKTMO) — `opendata-7710568760-OKATOTOOKTMO`.
+- [Общероссийский классификатор видов экономической деятельности, продукции и услуг](/data-sources/federal/opendata-7710568760-OKDP) — `opendata-7710568760-OKDP`.
+- [Общероссийский классификатор единиц измерения](/data-sources/federal/opendata-7710568760-OKEI) — `opendata-7710568760-OKEI`.
+- [Общероссийский классификатор экономических регионов](/data-sources/federal/opendata-7710568760-OKER) — `opendata-7710568760-OKER`.
+- [Общероссийский классификатор форм собственности](/data-sources/federal/opendata-7710568760-OKFS) — `opendata-7710568760-OKFS`.
+- [Общероссийский классификатор органов государственной власти и управления](/data-sources/federal/opendata-7710568760-OKOGU) — `opendata-7710568760-OKOGU`.
+- [Общероссийский классификатор организационно-правовых форм](/data-sources/federal/opendata-7710568760-OKOPF) — `opendata-7710568760-OKOPF`.
+- [Общероссийский классификатор продукции по видам экономической деятельности](/data-sources/federal/opendata-7710568760-OKPD) — `opendata-7710568760-OKPD`.
+- [Общероссийский классификатор стран мира](/data-sources/federal/opendata-7710568760-OKSM) — `opendata-7710568760-OKSM`.
+- [Перечень объектов капитального строительства](/data-sources/federal/opendata-7710568760-OKSNP) — `opendata-7710568760-OKSNP`.
+- [Справочник объектов капитальных вложений (ОКВ)](/data-sources/federal/opendata-7710568760-OKSNSI) — `opendata-7710568760-OKSNSI`.
+- [Общероссийский классификатор территорий муниципальных образований](/data-sources/federal/opendata-7710568760-OKTMO) — `opendata-7710568760-OKTMO`.
+- [Общероссийский классификатор валют](/data-sources/federal/opendata-7710568760-OKV) — `opendata-7710568760-OKV`.
+- [Общероссийский классификатор видов экономической деятельности](/data-sources/federal/opendata-7710568760-OKVED) — `opendata-7710568760-OKVED`.
+- [Отчет об исполнении расходов бюджета (ф.0503117, 0503317)](/data-sources/federal/opendata-7710568760-OUTLAYGVBFKBFO) — `opendata-7710568760-OUTLAYGVBFKBFO`.
+- [Сведения об исполнении бюджета (по национальным проектам) (ф.0503117-НП)](/data-sources/federal/opendata-7710568760-OUTLAYNP) — `opendata-7710568760-OUTLAYNP`.
+- [Cправочник «Книга регистрации лицевых счетов»](/data-sources/federal/opendata-7710568760-PERSACCOUNT) — `opendata-7710568760-PERSACCOUNT`.
+- [Показатели финансово-хозяйственной деятельности государственных (муниципальных) учреждений](/data-sources/federal/opendata-7710568760-PFHDGMU) — `opendata-7710568760-PFHDGMU`.
+- [Отчет об исполнении учреждением плана его финансово-хозяйственной деятельности по доходам](/data-sources/federal/opendata-7710568760-PFHDINCOME) — `opendata-7710568760-PFHDINCOME`.
+- [Отчет об исполнении учреждением плана его финансово-хозяйственной деятельности по расходам](/data-sources/federal/opendata-7710568760-PFHDOUTLAY) — `opendata-7710568760-PFHDOUTLAY`.
+- [Отчет об исполнении учреждением плана его финансово-хозяйственной деятельности по cведениям о возвратах остатков субсидий и расходов прошлых лет](/data-sources/federal/opendata-7710568760-PFHDREFUNDS) — `opendata-7710568760-PFHDREFUNDS`.
+- [Отчет об исполнении учреждением плана его финансово-хозяйственной деятельности по источникам финансирования дефицита средств учреждения](/data-sources/federal/opendata-7710568760-PFHDSOURCE) — `opendata-7710568760-PFHDSOURCE`.
+- [Перечень и объем межбюджетных трансфертов](/data-sources/federal/opendata-7710568760-PLANMBT) — `opendata-7710568760-PLANMBT`.
+- [Перечень и объем межбюджетных трансфертов Федерального бюджета](/data-sources/federal/opendata-7710568760-PLANMBTFB) — `opendata-7710568760-PLANMBTFB`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Межбюджетные трансферты бюджета территориального фонда обязательного медицинского страхования другим бюджетам бюджетной системы Российской Федерации](/data-sources/federal/opendata-7710568760-PRBUDLAWMBTBUD) — `opendata-7710568760-PRBUDLAWMBTBUD`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Межбюджетные трансферты бюджету территориального фонда обязательного медицинского страхования из других бюджетов бюджетной системы Российской Федерации](/data-sources/federal/opendata-7710568760-PRBUDLAWMBTFROMBUD) — `opendata-7710568760-PRBUDLAWMBTFROMBUD`.
+- [Решение о бюджете муниципального образования_Бюджетные ассигнования](/data-sources/federal/opendata-7710568760-PRBUDLAWMOBA) — `opendata-7710568760-PRBUDLAWMOBA`.
+- [Решение о бюджете муниципального образования_БА МДФ](/data-sources/federal/opendata-7710568760-PRBUDLAWMOBAMDF) — `opendata-7710568760-PRBUDLAWMOBAMDF`.
+- [Решение о бюджете муниципального образования_Муниципальные ведомственные программы](/data-sources/federal/opendata-7710568760-PRBUDLAWMODEPPROGMO) — `opendata-7710568760-PRBUDLAWMODEPPROGMO`.
+- [Решение о бюджете муниципального образования_Дотации](/data-sources/federal/opendata-7710568760-PRBUDLAWMOGRANTS) — `opendata-7710568760-PRBUDLAWMOGRANTS`.
+- [Решение о бюджете муниципального образования_Доходы](/data-sources/federal/opendata-7710568760-PRBUDLAWMOI) — `opendata-7710568760-PRBUDLAWMOI`.
+- [Решение о бюджете муниципального образования_Основные характеристики](/data-sources/federal/opendata-7710568760-PRBUDLAWMOMAINCHARACT) — `opendata-7710568760-PRBUDLAWMOMAINCHARACT`.
+- [Решение о бюджете муниципального образования_Предельные размеры муниципального долга](/data-sources/federal/opendata-7710568760-PRBUDLAWMOMAXSIZEMUPDEBT) — `opendata-7710568760-PRBUDLAWMOMAXSIZEMUPDEBT`.
+- [Решение о бюджете муниципального образования_МБТ](/data-sources/federal/opendata-7710568760-PRBUDLAWMOMBT) — `opendata-7710568760-PRBUDLAWMOMBT`.
+- [Решение о бюджете муниципального образования_МБТ из других бюджетов](/data-sources/federal/opendata-7710568760-PRBUDLAWMOMBTFROMBUDGETS) — `opendata-7710568760-PRBUDLAWMOMBTFROMBUDGETS`.
+- [Решение о бюджете муниципального образования_Муниципальный долг](/data-sources/federal/opendata-7710568760-PRBUDLAWMOMUNICIPALDEBT) — `opendata-7710568760-PRBUDLAWMOMUNICIPALDEBT`.
+- [Решение о бюджете муниципального образования_Нормативы](/data-sources/federal/opendata-7710568760-PRBUDLAWMONORMS) — `opendata-7710568760-PRBUDLAWMONORMS`.
+- [Решение о бюджете муниципального образования_Бюджетные инвестиции](/data-sources/federal/opendata-7710568760-PRBUDLAWMONOTINVEST) — `opendata-7710568760-PRBUDLAWMONOTINVEST`.
+- [Решение о бюджете муниципального образования_ПНО](/data-sources/federal/opendata-7710568760-PRBUDLAWMOPNO) — `opendata-7710568760-PRBUDLAWMOPNO`.
+- [Решение о бюджете муниципального образования_Программа внешних заимствований](/data-sources/federal/opendata-7710568760-PRBUDLAWMOPROGEXTERBORROW) — `opendata-7710568760-PRBUDLAWMOPROGEXTERBORROW`.
+- [Решение о бюджете муниципального образования_Программа гарантий в валюте](/data-sources/federal/opendata-7710568760-PRBUDLAWMOPROGGUARANTCUR) — `opendata-7710568760-PRBUDLAWMOPROGGUARANTCUR`.
+- [Решение о бюджете муниципального образования_Программа гарантий в рублях](/data-sources/federal/opendata-7710568760-PRBUDLAWMOPROGGUARANTRUB) — `opendata-7710568760-PRBUDLAWMOPROGGUARANTRUB`.
+- [Решение о бюджете муниципального образования_Программа государственных внутренних заимствований](/data-sources/federal/opendata-7710568760-PRBUDLAWMOPROGINTERBORROW) — `opendata-7710568760-PRBUDLAWMOPROGINTERBORROW`.
+- [Решение о бюджете муниципального образования_Перечень источников внутреннего финансирования](/data-sources/federal/opendata-7710568760-PRBUDLAWMOSOURCFINANC) — `opendata-7710568760-PRBUDLAWMOSOURCFINANC`.
+- [Решение о бюджете муниципального образования_Субсидии](/data-sources/federal/opendata-7710568760-PRBUDLAWMOSUBSIDIES) — `opendata-7710568760-PRBUDLAWMOSUBSIDIES`.
+- [Решение о бюджете муниципального образования_АИП](/data-sources/federal/opendata-7710568760-PRBUDLAWMOTIP) — `opendata-7710568760-PRBUDLAWMOTIP`.
+- [Решение о бюджете муниципального образования_Объем БА](/data-sources/federal/opendata-7710568760-PRBUDLAWMOVOLUMEBA) — `opendata-7710568760-PRBUDLAWMOVOLUMEBA`.
+- [Решение о бюджете муниципального образования_Ведомственная структура](/data-sources/federal/opendata-7710568760-PRBUDLAWMOVSR) — `opendata-7710568760-PRBUDLAWMOVSR`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Бюджетные ассигнования](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOALLOCAT) — `opendata-7710568760-PRBUDLAWSUBMOALLOCAT`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Бюджетные инвестиции на осуществление капитальных вложений](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOBUDGINVESTCAP) — `opendata-7710568760-PRBUDLAWSUBMOBUDGINVESTCAP`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Бюджетные инвестиции ЮЛ](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOBUDGINVESTUL) — `opendata-7710568760-PRBUDLAWSUBMOBUDGINVESTUL`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Доходы бюджета](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOBUDINC) — `opendata-7710568760-PRBUDLAWSUBMOBUDINC`.
+- [ЗАКОН О БЮДЖЕТЕ_Дифференцированные нормативы отчислений доходов](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMODIFINCTAXRATE) — `opendata-7710568760-PRBUDLAWSUBMODIFINCTAXRATE`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Программа государственных внешних заимствований](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOEXTERBORROW) — `opendata-7710568760-PRBUDLAWSUBMOEXTERBORROW`.
+- [ЗАКОН О БЮДЖЕТЕ_Перечень главных администраторов доходов](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOGADB) — `opendata-7710568760-PRBUDLAWSUBMOGADB`.
+- [ЗАКОН О БЮДЖЕТЕ_Информация о главном администраторе источников финансирования дефицита бюджета](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOGAIF) — `opendata-7710568760-PRBUDLAWSUBMOGAIF`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Основные характеристики бюджета субъекта](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOMAINCHARACT) — `opendata-7710568760-PRBUDLAWSUBMOMAINCHARACT`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Межбюджетные трансферты](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOMBT) — `opendata-7710568760-PRBUDLAWSUBMOMBT`.
+- [ЗАКОН О БЮДЖЕТЕ_Нормативы отчислений доходов](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMONORMSDEDUCTIONS) — `opendata-7710568760-PRBUDLAWSUBMONORMSDEDUCTIONS`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Распределение бюджетных ассигнований, направляемых на исполнение публичных нормативных обязательств](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOPNO) — `opendata-7710568760-PRBUDLAWSUBMOPNO`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Программа государственных внутренних заимствований](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOPROGINTERBORROW) — `opendata-7710568760-PRBUDLAWSUBMOPROGINTERBORROW`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Перечень источников внутреннего финансирования](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOSOURCFIN) — `opendata-7710568760-PRBUDLAWSUBMOSOURCFIN`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Программа государственных гарантий](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOSTATEGUARANT) — `opendata-7710568760-PRBUDLAWSUBMOSTATEGUARANT`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Программа государственных гарантий в валюте](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOSTATEGUARANTFC) — `opendata-7710568760-PRBUDLAWSUBMOSTATEGUARANTFC`.
+- [ЗАКОН О БЮДЖЕТЕ_Информация об объемах субсидий, перечисленных в бюджет субъекта Российской Федерации из местных бюджетов](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOSUBSID) — `opendata-7710568760-PRBUDLAWSUBMOSUBSID`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Адресная инвестиционная программа](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOTIP) — `opendata-7710568760-PRBUDLAWSUBMOTIP`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Общий объем бюджетных ассигнований](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOVOLUMEBA) — `opendata-7710568760-PRBUDLAWSUBMOVOLUMEBA`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Общий объем бюджетных ассигнований в валюте](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOVOLUMEBAFC) — `opendata-7710568760-PRBUDLAWSUBMOVOLUMEBAFC`.
+- [ЗАКОН (РЕШЕНИЕ) О БЮДЖЕТЕ_Ведомственная структура](/data-sources/federal/opendata-7710568760-PRBUDLAWSUBMOVSR) — `opendata-7710568760-PRBUDLAWSUBMOVSR`.
+- [Программа государственных внешних заимствований субъектов РФ](/data-sources/federal/opendata-7710568760-PROGEXTERBORROW) — `opendata-7710568760-PROGEXTERBORROW`.
+- [Программа государственных внутренних заимствований субъекта РФ, муниципальных заимствований](/data-sources/federal/opendata-7710568760-PROGINTERBORROW) — `opendata-7710568760-PROGINTERBORROW`.
+- [Перечни государственных (муниципальных) услуг в социальной сфере](/data-sources/federal/opendata-7710568760-PUSZ) — `opendata-7710568760-PUSZ`.
+- [Отчет об использовании межбюджетных трансфертов из федерального бюджета субъектами Российской Федерации, муниципальными образованиями и территориальным государственным внебюджетным фондом](/data-sources/federal/opendata-7710568760-REASONFUNDS) — `opendata-7710568760-REASONFUNDS`.
+- [Сведения о причинах изменений остатков валюты баланса (ф. 0503173, 0503373, 0503773)](/data-sources/federal/opendata-7710568760-REASONSCHANGE) — `opendata-7710568760-REASONSCHANGE`.
+- [Справка по заключению счетов бюджетного учета отчетного финансового года (ф.0503110, 0503710)](/data-sources/federal/opendata-7710568760-REFERENCECONSACCOUNTS) — `opendata-7710568760-REFERENCECONSACCOUNTS`.
+- [Справка по консолидируемым расчетам (ф.0503125, 0503725)](/data-sources/federal/opendata-7710568760-REFERENCECONSCALCULATION) — `opendata-7710568760-REFERENCECONSCALCULATION`.
+- [Консолидированный отчет о финансовых результатах деятельности (ф.0503320)](/data-sources/federal/opendata-7710568760-REGIONCONSBUDGETYEARLY0503320) — `opendata-7710568760-REGIONCONSBUDGETYEARLY0503320`.
+- [Сводная информация о консолидированном отчете о финансовых результатах деятельности (ф.0503320)](/data-sources/federal/opendata-7710568760-REGIONCONSBUDGETYEARLY0503320SV) — `opendata-7710568760-REGIONCONSBUDGETYEARLY0503320SV`.
+- [Консолидированный отчет о финансовых результатах деятельности (ф.0503321)](/data-sources/federal/opendata-7710568760-REGIONCONSBUDGETYEARLY0503321) — `opendata-7710568760-REGIONCONSBUDGETYEARLY0503321`.
+- [Сводная информация о консолидированном отчете о финансовых результатах деятельности (ф.0503321)](/data-sources/federal/opendata-7710568760-REGIONCONSBUDGETYEARLY0503321SV) — `opendata-7710568760-REGIONCONSBUDGETYEARLY0503321SV`.
+- [Консолидированный отчет о движении денежных средств (ф.0503323)](/data-sources/federal/opendata-7710568760-REGIONCONSBUDGETYEARLY0503323) — `opendata-7710568760-REGIONCONSBUDGETYEARLY0503323`.
+- [Сводная информация о консолидированном отчете о движении денежных средств (ф.0503323)](/data-sources/federal/opendata-7710568760-REGIONCONSBUDGETYEARLY0503323SV) — `opendata-7710568760-REGIONCONSBUDGETYEARLY0503323SV`.
+- [Региональные перечни (классификаторы) государственных (муниципальных) услуг и работ](/data-sources/federal/opendata-7710568760-REGIONLISTS) — `opendata-7710568760-REGIONLISTS`.
+- [ЕЖЕМЕСЯЧНЫЕ ДОХОДЫ КОНСОЛИДИРОВАННОГО БЮДЖЕТА СУБЪЕКТА РОССИЙСКОЙ ФЕДЕРАЦИИ И БЮДЖЕТА ТЕРРИТОРИАЛЬНОГО ГОСУДАРСТВЕННОГО ВНЕБЮДЖЕТНОГО ФОНДА](/data-sources/federal/opendata-7710568760-REGIONMONTHINCOME0503317) — `opendata-7710568760-REGIONMONTHINCOME0503317`.
+- [ЕЖЕМЕСЯЧНЫЕ РАСХОДЫ КОНСОЛИДИРОВАННОГО БЮДЖЕТА СУБЪЕКТА РОССИЙСКОЙ ФЕДЕРАЦИИ И БЮДЖЕТА ТЕРРИТОРИАЛЬНОГО ГОСУДАРСТВЕННОГО ВНЕБЮДЖЕТНОГО ФОНДА](/data-sources/federal/opendata-7710568760-REGIONMONTHOUTCOME0503317) — `opendata-7710568760-REGIONMONTHOUTCOME0503317`.
+- [ЕЖЕМЕСЯЧНЫЕ ИСТОЧНИКИ ФИНАНСИРОВАНИЯ ДЕФИЦИТА КОНСОЛИДИРОВАННОГО БЮДЖЕТА СУБЪЕКТА РОССИЙСКОЙ ФЕДЕРАЦИИ И БЮДЖЕТА ТЕРРИТОРИАЛЬНОГО ГОСУДАРСТВЕННОГО ВНЕБЮДЖЕТНОГО ФОНДА](/data-sources/federal/opendata-7710568760-REGIONMONTHSOURCE0503317) — `opendata-7710568760-REGIONMONTHSOURCE0503317`.
+- [Реестры источников доходов бюджетов субъектов Российской Федерации и местных бюджетов](/data-sources/federal/opendata-7710568760-REGSOURSESINC) — `opendata-7710568760-REGSOURSESINC`.
+- [Реестр источников доходов Российской Федерации](/data-sources/federal/opendata-7710568760-REGSOURSESINCFB) — `opendata-7710568760-REGSOURSESINCFB`.
+- [Реестр государственных заданий](/data-sources/federal/opendata-7710568760-REGSTATETASK) — `opendata-7710568760-REGSTATETASK`.
+- [Отчет об исполнении доходов бюджета](/data-sources/federal/opendata-7710568760-REPEXECUTINCOME) — `opendata-7710568760-REPEXECUTINCOME`.
+- [Отчет об исполнении доходов консолидированного бюджета Российской Федерации и бюджетов государственных внебюджетных фондов](/data-sources/federal/opendata-7710568760-REPEXECUTINCOMEKBRF) — `opendata-7710568760-REPEXECUTINCOMEKBRF`.
+- [Отчет об исполнении расходов бюджета](/data-sources/federal/opendata-7710568760-REPEXECUTOUTLAY) — `opendata-7710568760-REPEXECUTOUTLAY`.
+- [Отчет об исполнении расходов консолидированного бюджета Российской Федерации и бюджетов государственных внебюджетных фондов](/data-sources/federal/opendata-7710568760-REPEXECUTOUTLAYKBRF) — `opendata-7710568760-REPEXECUTOUTLAYKBRF`.
+- [Отчет об исполнении источников финансирования дефицита бюджетов](/data-sources/federal/opendata-7710568760-REPEXECUTSOURSE) — `opendata-7710568760-REPEXECUTSOURSE`.
+- [Отчет об исполнении источников финансирования дефицита консолидированного бюджета Российской Федерации и бюджетов государственных внебюджетных фондов](/data-sources/federal/opendata-7710568760-REPEXECUTSOURSEKBRF) — `opendata-7710568760-REPEXECUTSOURSEKBRF`.
+- [Отчет о финансовых результатах деятельности](/data-sources/federal/opendata-7710568760-REPFINRES) — `opendata-7710568760-REPFINRES`.
+- [Сроки представления бюджетной отчетности](/data-sources/federal/opendata-7710568760-REPORTPERIOD) — `opendata-7710568760-REPORTPERIOD`.
+- [Сроки представления бюджетной отчетности](/data-sources/federal/opendata-7710568760-REPORTPERIODFB) — `opendata-7710568760-REPORTPERIODFB`.
+- [Сведения о результатах внешнего государственного (муниципального) финансового контроля](/data-sources/federal/opendata-7710568760-RESEXTFINCONTROL) — `opendata-7710568760-RESEXTFINCONTROL`.
+- [Отчет об управлении остатками на едином казначейском счете (ф.0503197) Раздел 2. Результат распределения доходов от операций по управлению остатками средств на едином казначейском счете](/data-sources/federal/opendata-7710568760-RESINCOMEEKS) — `opendata-7710568760-RESINCOMEEKS`.
+- [Сведения о результатах мероприятий внутреннего государственного (муниципального) финансового контроля](/data-sources/federal/opendata-7710568760-RESINTFINCONTROL) — `opendata-7710568760-RESINTFINCONTROL`.
+- [Отчет о бюджетных обязательствах](/data-sources/federal/opendata-7710568760-RESOBLIGATION) — `opendata-7710568760-RESOBLIGATION`.
+- [Сведения о результатах деятельности](/data-sources/federal/opendata-7710568760-RESULTACTIVITY) — `opendata-7710568760-RESULTACTIVITY`.
+- [Сводная бюджетная роспись по расходам бюджетов субъектов Российской Федерации, территориальных государственных внебюджетных фондов и муниципальных образований.](/data-sources/federal/opendata-7710568760-SBRCOSTSUBMO) — `opendata-7710568760-SBRCOSTSUBMO`.
+- [Сводная бюджетная роспись по источникам финансирования дефицита бюджетов субъектов Российской Федерации, территориальных государственных внебюджетных фондов и муниципальных образований](/data-sources/federal/opendata-7710568760-SBRSOURCESSUBMO) — `opendata-7710568760-SBRSOURCESSUBMO`.
+- [Прогноз социально-экономического развития Российской Федерации на долгосрочный период](/data-sources/federal/opendata-7710568760-SEDFORECASTFB) — `opendata-7710568760-SEDFORECASTFB`.
+- [Прогноз социально-экономического развития муниципального образования на долгосрочный период](/data-sources/federal/opendata-7710568760-SEDFORECASTMO) — `opendata-7710568760-SEDFORECASTMO`.
+- [Прогноз социально-экономического развития субъекта Российской Федерации на долгосрочный период](/data-sources/federal/opendata-7710568760-SEDFORECASTSUB) — `opendata-7710568760-SEDFORECASTSUB`.
+- [Отчет о бюджетных обязательствах](/data-sources/federal/opendata-7710568760-SOBLIGATION) — `opendata-7710568760-SOBLIGATION`.
+- [Программа государственных гарантий субъекта Российской Федерации_в валюте РФ](/data-sources/federal/opendata-7710568760-STATEGUARANT) — `opendata-7710568760-STATEGUARANT`.
+- [Программа государственных гарантий субъекта Российской Федерации в иностранной валюте](/data-sources/federal/opendata-7710568760-STATEGUARANTFC) — `opendata-7710568760-STATEGUARANTFC`.
+- [Программа муниципальных гарантий](/data-sources/federal/opendata-7710568760-STATEGUARANTMO) — `opendata-7710568760-STATEGUARANTMO`.
+- [Статистика государственных финансов. Доходы.](/data-sources/federal/opendata-7710568760-STATISTICFINANCEYEARLYINCOME) — `opendata-7710568760-STATISTICFINANCEYEARLYINCOME`.
+- [Информация о состоянии активов и обязательств организаций сектора государственного управления и государственных корпораций на начало и конец отчетного финансового года в привязке к потокам их изменяющим](/data-sources/federal/opendata-7710568760-STATISTICFINANCEYEARLYINTEGRATED) — `opendata-7710568760-STATISTICFINANCEYEARLYINTEGRATED`.
+- [Отчет об источниках и использовании денежных средств](/data-sources/federal/opendata-7710568760-STATISTICFINANCEYEARLYMONEY) — `opendata-7710568760-STATISTICFINANCEYEARLYMONEY`.
+- [Статистика предоставления отчетов](/data-sources/federal/opendata-7710568760-STATISTICS) — `opendata-7710568760-STATISTICS`.
+- [Информация об исполнении судебных актов по обращению взыскания на средства бюджетов](/data-sources/federal/opendata-7710568760-STATJUDACTSEXEC) — `opendata-7710568760-STATJUDACTSEXEC`.
+- [Информация об исполнении решений налоговых органов о взыскании налога, сбора, пеней и штрафов, предусматривающих взыскания на средства бюджетов](/data-sources/federal/opendata-7710568760-STATTAXDECISIONSEXEC) — `opendata-7710568760-STATTAXDECISIONSEXEC`.
+- [Справочник территориальных органов Федерального казначейства](/data-sources/federal/opendata-7710568760-TOFK) — `opendata-7710568760-TOFK`.
+- [Сведения о доходах бюджета от перечисления части прибыли](/data-sources/federal/opendata-7710568760-TRANSFERDIVIDENDS) — `opendata-7710568760-TRANSFERDIVIDENDS`.
+- [Справочник кодов уровней бюджетов (вида средств юридических лиц)](/data-sources/federal/opendata-7710568760-UBPBUDGLEVEL) — `opendata-7710568760-UBPBUDGLEVEL`.
+- [Общий объем бюджетных ассигнований в программе государственных гарантий субъекта Российской Федерации в валюте РФ](/data-sources/federal/opendata-7710568760-VOLUMEBA) — `opendata-7710568760-VOLUMEBA`.
+- [Общий объем бюджетных ассигнований в программе государственных гарантий субъекта Российской Федерации в иностранной валюте](/data-sources/federal/opendata-7710568760-VOLUMEBABSFC) — `opendata-7710568760-VOLUMEBABSFC`.
+- [Программа муниципальных гарантий_Объем БА](/data-sources/federal/opendata-7710568760-VOLUMEBAMO) — `opendata-7710568760-VOLUMEBAMO`.

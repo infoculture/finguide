@@ -31,7 +31,7 @@ related_pages:
 
 ## Карточки источников
 
-- [Сахалинская область: Контрольно-счётная палата (ksp.sakhalin.gov.ru)](/data-sources/regional/sakhalin-oblast-account-chamber) — карточка источника.
+- [Сахалинская область: Контрольно-счётная палата (spsakh.ru)](/data-sources/regional/sakhalin-oblast-account-chamber) — карточка источника.
 - [Сахалинская область: Сахалинская областная Дума (dumasakhalin.ru)](/data-sources/regional/sakhalin-oblast-legislature-duma) — карточка источника.
 - [Сахалинская область: Министерство финансов Сахалинской области (sakhminfin.ru)](/data-sources/regional/sakhalin-oblast-minfin) — карточка источника.
 - [Сахалинская область: портал «Открытый бюджет» (openbudget.sakhminfin.ru)](/data-sources/regional/sakhalin-oblast-open-budget) — карточка источника.

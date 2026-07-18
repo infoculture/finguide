@@ -22,6 +22,9 @@ description: >-
   исполнении, бюджетный процесс, нормативные материалы и вложения к документам.
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/saint-petersburg-finance-committee
 related_pages:
   - /data-sources/regional/subject-saint-petersburg-sources-overview
   - /data-sources/regional/saint-petersburg-legislative-assembly-budget

@@ -34,6 +34,13 @@ related_pages:
   - /reporting/0503117
   - /reporting/0503317
   - /glossary/treasury-execution
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Отчёты Федерального казначейства (исполнение бюджетов)

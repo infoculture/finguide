@@ -79,11 +79,12 @@ function truncateSidebarLabel(s, max = 52) {
 
 function normalizeUrl(raw) {
   if (!raw || typeof raw !== 'string') return null;
-  let u = raw.trim();
+  let u = raw.trim().replace(/\s+\([^)]*\)\s*$/u, '');
   if (!/^https?:\/\//i.test(u)) return null;
   if (u.startsWith('http://')) u = `https://${u.slice(7)}`;
   try {
     const x = new URL(u);
+    if (x.pathname.startsWith('/%20(')) x.pathname = '/';
     x.hash = '';
     return x.toString();
   } catch {
@@ -233,6 +234,16 @@ rag_priority: low
 description: ${yq(desc)}
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/${orgSlug}
+jurisdiction_level: federal
+data_completeness: partial
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 related_pages:
   - /reporting/state-sector-overview
   - /data-sources/federal/state-owned-enterprises-disclosure

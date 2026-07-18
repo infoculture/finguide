@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/pskov-oblast-ufns
-source_url: 'https://www.nalog.gov.ru/rn60'
+source_url: 'https://www.nalog.gov.ru/rn60/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 description: >-
   Региональный раздел сайта ФНС России для Псковской области: новости,
   сервисы для налогоплательщиков, региональные материалы и ссылки на
@@ -61,13 +61,13 @@ related_pages:
 
 ## Оператор
 
-УФНС России по Псковской области — канонический вход: https://www.nalog.gov.ru/rn60
+УФНС России по Псковской области — канонический вход: https://www.nalog.gov.ru/rn60/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Региональный раздел ФНС | https://www.nalog.gov.ru/rn60 | HTML |
+| Региональный раздел ФНС | https://www.nalog.gov.ru/rn60/ | HTML |
 
 ## Объекты данных и показатели
 

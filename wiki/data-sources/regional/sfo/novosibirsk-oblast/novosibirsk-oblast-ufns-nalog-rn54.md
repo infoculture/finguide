@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-07-16
 slug: /data-sources/regional/novosibirsk-oblast-fin-d4f67bffb4
-source_url: 'https://www.nalog.gov.ru/rn54'
+source_url: 'https://www.nalog.gov.ru/rn54/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-14T00:00:00.000Z
+last_verified: 2026-07-16T00:00:00.000Z
 description: >-
   Автоимпорт из _dev/rf_finance_sources_table_full.md (Управление ФНС России):
   Налоговая отчетность, налоговое законодательство, уплата налогов
@@ -65,13 +65,13 @@ rag_priority: low
 
 ## Оператор
 
-УФНС России по Новосибирской области — канонический вход: https://www.nalog.gov.ru/rn54
+УФНС России по Новосибирской области — канонический вход: https://www.nalog.gov.ru/rn54/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Веб | https://www.nalog.gov.ru/rn54 | HTML |
+| Веб | https://www.nalog.gov.ru/rn54/ | HTML |
 
 ## Объекты данных и показатели
 

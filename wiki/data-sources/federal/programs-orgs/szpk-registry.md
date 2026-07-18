@@ -33,6 +33,13 @@ related_pages:
   - /howto/access/budget-gov-api
   - /glossary/budget-investments
 last_verified: 2026-05-12
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 | Признак | Значение |

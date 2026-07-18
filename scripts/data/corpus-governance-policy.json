@@ -1,0 +1,21 @@
+{
+  "audit_as_of": "2026-07-16",
+  "legal_stale_after_days": 180,
+  "snapshot_stale_after_days": 365,
+  "navigation_roots": [
+    "/data-sources/federal"
+  ],
+  "orphan_exceptions": [],
+  "quality_exceptions": [
+    {
+      "family": "curated-federal",
+      "field": "last_verified",
+      "reason": "Legacy curated cards without an individual network recheck keep last_verified empty until an editorial verification pass; no date is inferred from last_updated."
+    },
+    {
+      "family": "civil",
+      "field": "last_verified",
+      "reason": "Civil-source cards require an individual availability and ownership review; the migration preserves an unknown verification date instead of asserting one from historical content."
+    }
+  ]
+}

@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - budget
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/republic-of-dagestan-budget-for-citizens-minfinrd
-source_url: 'https://minfinrd.ru/activity/section-264'
+source_url: 'https://minfinrd.ru/activities/section-264'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 data_completeness: partial
 machine_readability: html
 description: >-
@@ -46,7 +46,7 @@ related_pages:
 
 | Измерение | Значение для этой карточки |
 | --- | --- |
-| Дата проверки (`last_verified`) | 2026-05-15 (**HTTP 200** для **…/section-264** при контрольном запросе) |
+| Дата проверки (`last_verified`) | 2026-07-16 (**HTTP 200** для **…/activities/section-264** при контрольном запросе) |
 | Полнота (`data_completeness`) | **частичная** — **цель** раздела **упрощение**, не **полный** **реестр** строк |
 | Машиночитаемость (`machine_readability`) | **HTML** |
 | Юридическая значимость (`legal_significance`) | **официальная** **коммуникация** **Минфина** (сверяйте **итоги** с **НПА** о бюджете) |
@@ -56,17 +56,17 @@ related_pages:
 
 ## Описание
 
-Раздел **«Бюджет для граждан»** обычно содержит **инфографику**, **короткие** **пояснения** и **ссылки** на **документы**. **URL** вида `/activity/section-264` может **смениться** при **обновлении** CMS — держите **якорь** на **[корне Минфина](/data-sources/regional/republic-of-dagestan-minfin-minfinrd)** и **навигацию** по меню.
+Раздел **«Бюджет для граждан»** обычно содержит **инфографику**, **короткие** **пояснения** и **ссылки** на **документы**. **URL** вида `/activities/section-264` может **смениться** при **обновлении** CMS — держите **якорь** на **[корне Минфина](/data-sources/regional/republic-of-dagestan-minfin-minfinrd)** и **навигацию** по меню.
 
 ## Оператор
 
-**Министерство финансов Республики Дагестан** — https://minfinrd.ru/activity/section-264
+**Министерство финансов Республики Дагестан** — https://minfinrd.ru/activities/section-264
 
 ## URL и точки доступа
 
 | Назначение | URL | Формат |
 | --- | --- | --- |
-| Раздел «Бюджет для граждан» | https://minfinrd.ru/activity/section-264 | HTML |
+| Раздел «Бюджет для граждан» | https://minfinrd.ru/activities/section-264 | HTML |
 
 ## Объекты данных и показатели
 
@@ -82,7 +82,7 @@ related_pages:
 
 ```bash
 curl -fsSL -o /dev/null -w "%{http_code}\n" --max-time 25 -A "finguide-minfinrd-budget-citizens-check/1.0" \
-  "https://minfinrd.ru/activity/section-264"
+  "https://minfinrd.ru/activities/section-264"
 ```
 
 ## Связанные страницы wiki

@@ -10,7 +10,7 @@ draft: true
 
 Служебная страница для авторов и агентов: при добавлении или правке карточки копируйте **блок ниже** (содержимое fenced-блока `markdown`) в файл карточки, замените плейсхолдеры и удалите неприменимые разделы целиком (без пустых заголовков).
 
-**Путь к файлу:** для `international` и `civil` — `wiki/data-sources/<подраздел>/<slug>.md`. Для **региональных** карточек источника — `wiki/data-sources/regional/<fed_okrug_slug>/<subject_slug>/<slug>.md` (округ и субъект из [`_dev/regional-directory.yaml`](../../../_dev/regional-directory.yaml)); сводная страница субъекта — `subject-<subject_slug>-sources-overview.md` в той же папке `<fed_okrug_slug>/<subject_slug>/`. Для **федеральных** источников — `wiki/data-sources/federal/<группа>/<slug>.md`, где `<группа>` одна из: `catalog`, `budget`, `zakupki`, `programs-orgs`, `enterprises`, `statistics`, `nalog`, `legacy` (см. оглавление `wiki/data-sources/federal/README.md`).
+**Путь к файлу:** для `international` и `civil` — `wiki/data-sources/<подраздел>/<slug>.md`. Для **региональных** карточек источника — `wiki/data-sources/regional/<fed_okrug_slug>/<subject_slug>/<slug>.md` (округ и субъект из [`_dev/regional-directory.yaml`](../../../_dev/regional-directory.yaml)); сводная страница субъекта — `subject-<subject_slug>-sources-overview.md` в той же папке `<fed_okrug_slug>/<subject_slug>/`. Для **федеральных** источников — `wiki/data-sources/federal/<группа>/<slug>.md`, где `<группа>` одна из: `catalog`, `budget`, `property-assets`, `zakupki`, `programs-orgs`, `enterprises`, `statistics`, `nalog`, `legacy` (см. оглавление `wiki/data-sources/federal/README.md`).
 
 **Подраздел:** `federal` — федеральные порталы и выгрузки; `regional` — региональные и муниципальные источники; `international` — международные и межгосударственные официальные витрины с полезными рядами по РФ или сравнениями по странам; `civil` — гражданские агрегаторы и проекты сообщества.
 
@@ -27,7 +27,7 @@ draft: true
 | `slug` | да для новых карточек | `/data-sources/<подраздел>/<slug>` — тот же `<slug>`, что имя файла (для `federal` путь в файловой системе может быть `federal/<группа>/<slug>.md`, в `slug` — всё равно `/data-sources/federal/<slug>`) |
 | `content_type` | да | `data_source` |
 | `entity_type` | да | `data-source` |
-| `relationships` | опционально | например `available_in`, `published_by`, `derived_from`, `governed_by` с каноническим target slug |
+| `relationships` | опционально | `published_by` для публикатора, `operated_by` для оператора, а также `available_in`, `derived_from`, `governed_by` с каноническим target slug |
 | `source_url` | по возможности | Канонический URL витрины, каталога наборов или главной страницы источника |
 | `data_source_kind` | рекомендуется | `portal` — веб-витрина; `api` — программный интерфейс; `files` — файловые наборы по ссылкам; `ftp` — FTP/SFTP; `mixed` — несколько каналов; `ui_only` — только интерфейс без стабильных выгрузок |
 | `jurisdiction` | рекомендуется | `federal` \| `regional` \| `municipal` \| `civil` \| `multilevel` |
@@ -36,8 +36,14 @@ draft: true
 | `status` | по возможности | `current` \| `legacy` \| `deprecated` — для устаревших описаний или зеркал |
 | `last_verified` | рекомендуется | `2026-05-14` — дата последней редакционной проверки карточки (см. [измерения качества](/reference/data-quality-dimensions)) |
 | `rag_priority` | опционально | `low` — снижает вес строки в лексическом baseline `npm run qa:retrieval` и в индексе для RAG; для массовых черновых карточек из `npm run import:regional-table` выставляется автоматически, после вычитки удалите или замените |
+| `jurisdiction_level` | рекомендуется | `federal` \| `regional` \| `municipal` \| `international` \| `multilevel`; не имя организации |
 | `data_completeness` | опционально | `full` \| `partial` \| `unknown` — после согласования линтером |
 | `machine_readability` | опционально | краткая метка канала доступа (см. справочник измерений) |
+| `legal_significance` | опционально | `official` \| `aggregator` \| `civil_repackaging` \| `unknown` |
+| `update_lag` | опционально | подтверждённый лаг или `unknown` |
+| `archive_depth` | опционально | глубина доступного архива или `unknown` |
+| `license_or_terms` | опционально | условия повторного использования или `not-explicit` |
+| `source_authority` | legacy | не используйте в новых карточках: поле временно сохраняется только для миграции старых значений |
 
 ````markdown
 ---
@@ -49,14 +55,24 @@ slug: /data-sources/<подраздел>/<slug>
 content_type: data_source
 entity_type: data-source
 # relationships:
-#   - type: available_in
-#     target: /information-systems/federal/example
+#   - type: published_by
+#     target: /organizations/example
+#   - type: operated_by
+#     target: /organizations/example-operator
 source_url: "https://..."
 data_source_kind: mixed
 jurisdiction: federal
 access: open
 # formats: ["csv", "json"]
 # status: current
+last_verified: YYYY-MM-DD
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 # rag_priority: low
 # related_information_system: "/information-systems/federal/example"
 ---

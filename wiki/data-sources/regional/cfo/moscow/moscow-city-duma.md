@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - budget
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/moscow-city-duma
-source_url: "https://duma.mos.ru/ru"
+source_url: "https://duma.mos.ru/ru/"
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -15,7 +15,7 @@ formats:
   - html
   - pdf
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: regional
 data_completeness: partial
 machine_readability: HTML/PDF; структурированных открытых наборов по всем законам нет
@@ -61,13 +61,13 @@ related_pages:
 
 ## Оператор
 
-**Московская городская Дума** — https://duma.mos.ru/ru
+**Московская городская Дума** — https://duma.mos.ru/ru/
 
 ## URL и точки доступа
 
 | Раздел | URL | Формат |
 | --- | --- | --- |
-| Корень (RU) | https://duma.mos.ru/ru | HTML |
+| Корень (RU) | https://duma.mos.ru/ru/ | HTML |
 
 ## Объекты данных и показатели
 
@@ -83,7 +83,7 @@ related_pages:
 
 ```bash
 curl -fsSL -A "finguide-mgd/1.0" -o /dev/null -w "%{http_code}\n" \
-  "https://duma.mos.ru/ru"
+  "https://duma.mos.ru/ru/"
 ```
 
 ## Связанные страницы wiki

@@ -41,6 +41,13 @@ related_pages:
   - /data-sources/federal/otchety-ob-ispolnenii-byudzhetov
   - /reporting/municipal-budget-execution
   - /glossary/budget-levels
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: files
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Минфин: данные по исполнению бюджетов субъектов РФ и местных бюджетов (perfomance/regions/operational)

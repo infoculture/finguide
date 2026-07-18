@@ -36,6 +36,13 @@ related_pages:
   - /data-sources/federal/regionalnye-byudzhety
   - /data-sources/federal/roskazna-consolidated-subjects-execution
   - /budget-system/regional-budgets
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: files
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Минфин: краткая информация об исполнении консолидированных бюджетов субъектов РФ

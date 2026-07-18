@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-14
+last_updated: 2026-07-16
 slug: /data-sources/regional/moscow-oblast-ufns-nalog-rn50
-source_url: 'https://www.nalog.gov.ru/rn50'
+source_url: 'https://www.nalog.gov.ru/rn50/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-14
+last_verified: 2026-07-16
 description: >-
   Региональная страница ФНС России для Московской области: новости, сервисы и
   справочная информация УФНС; федеральные открытые наборы ФНС — на nalog.gov.ru отдельно.
@@ -58,13 +58,13 @@ related_pages:
 
 ## Оператор
 
-**Управление Федеральной налоговой службы по Московской области** — канонический вход: https://www.nalog.gov.ru/rn50
+**Управление Федеральной налоговой службы по Московской области** — канонический вход: https://www.nalog.gov.ru/rn50/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Региональная страница ФНС | https://www.nalog.gov.ru/rn50 | HTML |
+| Региональная страница ФНС | https://www.nalog.gov.ru/rn50/ | HTML |
 | Открытые данные (федеральная витрина) | https://www.nalog.gov.ru/opendata/ | каталог наборов (CSV и др.) |
 
 ## Объекты данных и показатели
@@ -85,7 +85,7 @@ related_pages:
 ## Примеры доступа
 
 ```bash
-curl -fsSL -A "finguide-check/1.0" -o /dev/null -w "%{http_code}\n" "https://www.nalog.gov.ru/rn50"
+curl -fsSL -A "finguide-check/1.0" -o /dev/null -w "%{http_code}\n" "https://www.nalog.gov.ru/rn50/"
 ```
 
 ## Связанные страницы wiki

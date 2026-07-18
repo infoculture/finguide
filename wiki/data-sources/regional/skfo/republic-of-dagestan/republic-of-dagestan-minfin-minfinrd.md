@@ -5,7 +5,7 @@ tags:
   - data-source
   - regional
   - budget
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/republic-of-dagestan-minfin-minfinrd
 source_url: 'https://minfinrd.ru/'
 data_source_kind: mixed
@@ -16,7 +16,7 @@ formats:
   - pdf
   - xlsx
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 data_completeness: partial
 machine_readability: mixed
 description: >-
@@ -24,6 +24,9 @@ description: >-
   нормативные материалы ведомства и ссылки на связанные витрины («Открытый бюджет», бюджет для граждан).
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/dagestan-minfin
 related_pages:
   - /data-sources/regional/subject-republic-of-dagestan-sources-overview
   - /data-sources/regional/republic-of-dagestan-open-budget-portal-minfinrd
@@ -50,7 +53,7 @@ related_pages:
 
 | Измерение | Значение для этой карточки |
 | --- | --- |
-| Дата проверки (`last_verified`) | 2026-05-15 (**HTTP 200** для **minfinrd.ru** при контрольном запросе) |
+| Дата проверки (`last_verified`) | 2026-07-16 (**HTTP 200** для **minfinrd.ru** при контрольном запросе) |
 | Полнота (`data_completeness`) | **частичная** — набор **файлов** и **горизонт** лет зависит от **политики** раскрытия |
 | Машиночитаемость (`machine_readability`) | **смешанный** — **HTML** + **файлы**; **единого** стабильного API **нет** |
 | Юридическая значимость (`legal_significance`) | **официальный** сайт **регионального** финансового органа |
@@ -71,7 +74,7 @@ related_pages:
 | Назначение | URL | Формат |
 | --- | --- | --- |
 | Корень сайта Минфина РД | https://minfinrd.ru/ | HTML |
-| Бюджет для граждан (раздел) | https://minfinrd.ru/activity/section-264 | HTML |
+| Бюджет для граждан (раздел) | https://minfinrd.ru/activities/section-264 | HTML |
 
 ## Объекты данных и показатели
 

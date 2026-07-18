@@ -9,7 +9,7 @@ tags:
   - international
   - statistics
   - macro
-last_updated: 2026-05-12
+last_updated: 2026-07-16
 slug: /data-sources/international/imf-gfs
 source_url: https://data.imf.org/
 data_source_kind: mixed
@@ -22,11 +22,26 @@ formats:
 status: current
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/imf
 related_pages:
   - /data-sources/international
   - /data-sources/international/oecd-fiscal-data
+  - /data-sources/international/imf-qgfs
+  - /data-sources/international/imf-world-revenue
+  - /data-sources/international/imf-fiscal-monitor
+  - /reference/international-gfs-cofog
   - /budget-classification/sgf-2014
   - /data-sources/federal/minfin-opendata
+jurisdiction_level: international
+last_verified: 2026-07-16
+data_completeness: partial
+machine_readability: portal export and SDMX API
+legal_significance: official
+update_lag: dataset-dependent
+archive_depth: dataset-dependent
+license_or_terms: IMF Copyright and Usage terms
 ---
 
 # IMF Data — Government Finance Statistics (GFS)
@@ -36,10 +51,28 @@ related_pages:
 | Уровень и охват | Международная витрина МВФ; страновые и агрегированные ряды по методике **GFS** и смежным блокам макроданных |
 | Тип доступа | Веб-клиент на **data.imf.org**, выгрузки и API для части продуктов (зависит от выбранного датасета) |
 | Основные форматы | JSON, CSV, SDMX для ряда продуктов; HTML для интерфейса выборки |
-| Оператор | Международный валютный фонд (IMF) |
+| Оператор | [Международный валютный фонд](/organizations/imf) (IMF) |
 | Режим доступа | Открытый доступ к публичным рядам; массовые выгрузки — с учётом [правил IMF](https://data.imf.org/) и стабильности идентификаторов серий |
 
 Коротко: витрина **IMF Data** для показателей по правительственному сектору и смежным блокам; перед смешением с [российскими открытыми наборами](/data-sources/federal/minfin-opendata) проверяйте определения, версию **GFSM** и календарный охват. Связь российских КБК с международными агрегатами см. в wiki: [СГФ-2014](/budget-classification/sgf-2014).
+
+Выберите конкретный набор до выгрузки:
+
+- [QGFS](/data-sources/international/imf-qgfs) — квартальные операции и балансы; российская граница кварталов требует проверки в выборке.
+- [WoRLD](/data-sources/international/imf-world-revenue) — годовая структура налоговых и неналоговых доходов, версия 2026 до 2024 года.
+- [Fiscal Monitor](/data-sources/international/imf-fiscal-monitor) — восемь годовых индикаторов, оценки и прогнозы IMF staff.
+
+## Качество и верификация
+
+| Измерение | Значение для этой карточки |
+| --- | --- |
+| Дата проверки (`last_verified`) | 2026-07-16 |
+| Полнота (`data_completeness`) | Частичная и зависит от выбранного набора, страны, показателя и периода |
+| Машиночитаемость (`machine_readability`) | Выгрузки портала и SDMX API; контракт задаётся конкретным набором |
+| Юридическая значимость (`legal_significance`) | Официальная публикация IMF, не первичная российская отчётность |
+| Задержка обновления (`update_lag`) | Зависит от набора и передачи данных страной |
+| Глубина архива (`archive_depth`) | Зависит от набора: от квартальных серий до длинных годовых панелей |
+| Лицензия (`license_or_terms`) | IMF Copyright and Usage и условия выбранного продукта |
 
 ## Описание
 
@@ -71,16 +104,11 @@ related_pages:
 - **Сопоставимость с национальной отчётностью** ограничена: агрегаты IMF не дублируют таблицы **федерального бюджета** по КБК.
 - **Условия использования** — см. разделы Legal / Terms на **imf.org** и условия конкретного продукта на дату выгрузки.
 
-## Примеры доступа
-
-Проверка доступности корня портала данных:
-
-```bash
-curl -sSk -o /dev/null -w "%{http_code}\n" "https://data.imf.org/"
-```
-
 ## Связанные страницы wiki
 
+- [IMF QGFS](/data-sources/international/imf-qgfs) — конкретный квартальный набор GFS.
+- [IMF WoRLD](/data-sources/international/imf-world-revenue) — конкретный набор по структуре доходов.
+- [IMF Fiscal Monitor](/data-sources/international/imf-fiscal-monitor) — конкретный набор оценок и прогнозов.
 - [OECD Data](/data-sources/international/oecd-fiscal-data) — другой межстрановой каталог макро- и фискальных индикаторов.
 - [Всемирный банк — данные по России](/data-sources/international/world-bank) — смежные макропоказатели в методике WB.
 - [Международные классификаторы](/reference/international-standards) — контекст методик и сопоставлений.

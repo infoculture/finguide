@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/amur-oblast-ufns
-source_url: 'https://www.nalog.gov.ru/rn28'
+source_url: 'https://www.nalog.gov.ru/rn28/'
 data_source_kind: mixed
 jurisdiction: regional
 access: open
@@ -15,7 +15,7 @@ formats:
   - html
   - csv
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 description: >-
   Региональный раздел сайта ФНС России: новости, сервисы и справочники
   управления, а также ссылки на федеральные открытые данные и статистику
@@ -60,13 +60,13 @@ related_pages:
 
 ## Оператор
 
-УФНС России по Амурской области (раздел на портале ФНС) — канонический вход: https://www.nalog.gov.ru/rn28
+УФНС России по Амурской области (раздел на портале ФНС) — канонический вход: https://www.nalog.gov.ru/rn28/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Региональный раздел ФНС | https://www.nalog.gov.ru/rn28 | HTML |
+| Региональный раздел ФНС | https://www.nalog.gov.ru/rn28/ | HTML |
 
 ## Объекты данных и показатели
 

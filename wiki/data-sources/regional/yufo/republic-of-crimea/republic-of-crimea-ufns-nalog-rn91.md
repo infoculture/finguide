@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/republic-of-crimea-ufns-nalog-rn91
-source_url: 'https://www.nalog.gov.ru/rn91'
+source_url: 'https://www.nalog.gov.ru/rn91/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -15,7 +15,7 @@ formats:
   - html
   - pdf
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: federal
 data_completeness: partial
 machine_readability: HTML и типовые сервисы ФНС; машиночитаемые федеральные API — через общие порталы ФНС
@@ -64,13 +64,13 @@ URL **/rn91** соответствует **региональной** точке
 
 ## Оператор
 
-УФНС России по Республике Крым — https://www.nalog.gov.ru/rn91
+УФНС России по Республике Крым — https://www.nalog.gov.ru/rn91/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Региональная страница ФНС (rn91) | https://www.nalog.gov.ru/rn91 | HTML |
+| Региональная страница ФНС (rn91) | https://www.nalog.gov.ru/rn91/ | HTML |
 
 ## Объекты данных и показатели
 

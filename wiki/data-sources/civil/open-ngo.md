@@ -26,6 +26,13 @@ description: >-
   — у оператора.
 content_type: data_source
 entity_type: data-source
+jurisdiction_level: multilevel
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: civil_repackaging
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # OpenNGO.ru — финансирование НКО

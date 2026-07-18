@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - budget
-last_updated: 2026-05-14
+last_updated: 2026-07-16
 slug: /data-sources/regional/belgorod-oblast-budget-for-citizens-beldepfin
-source_url: 'https://beldepfin.ru/deyatelnost/byudzhet-dlya-grazhdan'
+source_url: 'https://minfin.belregion.ru/byudzhet-dlya-grazhdan'
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -15,7 +15,7 @@ formats:
   - html
   - pdf
 status: current
-last_verified: 2026-05-14
+last_verified: 2026-07-16
 data_completeness: partial
 machine_readability: mixed
 description: >-
@@ -59,11 +59,11 @@ related_pages:
 
 ## Описание
 
-Раздел «Бюджет для граждан» на сайте `beldepfin.ru` публикует методические и информационные материалы по областному бюджету: доходы и расходы в доступной форме, отдельные разрезы по годам. Для построения рядов в аналитике обычно требуется дополнить данные отчётами об исполнении, федеральными наборами или выгрузками из [ЕИС «Электронный бюджет»](/information-systems/federal/giis-eb).
+Раздел «Бюджет для граждан» на сайте Минфина Белгородской области публикует методические и информационные материалы по областному бюджету: доходы и расходы в доступной форме, отдельные разрезы по годам. Для построения рядов в аналитике обычно требуется дополнить данные отчётами об исполнении, федеральными наборами или выгрузками из [ЕИС «Электронный бюджет»](/information-systems/federal/giis-eb).
 
 ## Оператор
 
-Министерство финансов и бюджетной политики Белгородской области — канонический вход: https://beldepfin.ru/deyatelnost/byudzhet-dlya-grazhdan
+Министерство финансов и бюджетной политики Белгородской области — канонический вход: https://minfin.belregion.ru/byudzhet-dlya-grazhdan
 
 - Карточка ИС: [ЕИС «Электронный бюджет»](/information-systems/federal/giis-eb) — федеральная среда учёта и отчётности, с которой сверяют показатели при межуровневом анализе.
 
@@ -71,7 +71,7 @@ related_pages:
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Раздел «Бюджет для граждан» | https://beldepfin.ru/deyatelnost/byudzhet-dlya-grazhdan | HTML |
+| Раздел «Бюджет для граждан» | https://minfin.belregion.ru/byudzhet-dlya-grazhdan | HTML |
 
 ## Объекты данных и показатели
 

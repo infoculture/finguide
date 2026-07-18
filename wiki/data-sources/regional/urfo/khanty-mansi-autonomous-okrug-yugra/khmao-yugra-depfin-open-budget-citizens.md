@@ -23,7 +23,13 @@ description: >-
   доходов и расходов окружного бюджета, справочные материалы и ссылки на отчётность.
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/khmao-yugra-finance-department
+  - type: available_in
+    target: /information-systems/regional/yugra-open-budget
 related_pages:
+  - /information-systems/regional/yugra-open-budget
   - /data-sources/regional/subject-khmao-yugra-sources-overview
   - /data-sources/regional/khmao-yugra-depfin
   - /data-sources/regional/khmao-yugra-open-data-portal

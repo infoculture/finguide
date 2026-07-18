@@ -28,6 +28,13 @@ related_pages:
   - /data-sources/federal/roskazna-finops-treasury-account-placements
   - /data-sources/federal/roskazna-datamarts
   - /data-sources/federal/roskazna-reports
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: HTML
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 | Признак | Значение |

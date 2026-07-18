@@ -18,6 +18,7 @@ formats:
   - xlsx
   - docx
 status: current
+last_verified: 2026-07-16
 description: >-
   официальные таблицы СФР о поступлении и расходовании средств фонда по
   согласованному перечню показателей: прямые XLS/XLSX за годы и кварталы,
@@ -27,12 +28,20 @@ content_type: data_source
 entity_type: data-source
 related_pages:
   - /organizations/sfr
+  - /data-sources/federal/sfr-open-data-catalog
   - /data-sources/federal/budget-gov-ru-datasets
   - /data-sources/federal/roskazna-extrabudgetary-funds-execution
   - /data-sources/federal/minfin-outbud-execute
   - /data-sources/federal/roskazna-finops-pension-social-fund-placements
   - /information-systems/federal/giis-eb
   - /glossary/extrabudgetary-funds
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: files
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 | Признак | Значение |
@@ -45,9 +54,23 @@ related_pages:
 
 Коротко: **официальные таблицы СФР** о поступлении и расходовании средств фонда по **согласованному перечню показателей** — прямые **XLS/XLSX** за **годы** и **кварталы**, плюс **методика** и **пояснения** в DOCX на той же странице. Для анализа **бюджета СФР** и **казначейской кассы** используйте как **витрину фонда** и сверяйте с **[ГИИС «Электронный бюджет»](/information-systems/federal/giis-eb)** и **[отчётами Казначейства по ГВФ](/data-sources/federal/roskazna-extrabudgetary-funds-execution)** с учётом **разных методик** и лагов публикаций.
 
+## Качество и верификация
+
+| Измерение | Значение для этой карточки |
+| --- | --- |
+| Дата проверки (`last_verified`) | 2026-07-16; актуальные URL файлов проверяйте перед запуском |
+| Полнота (`data_completeness`) | Частичная: согласованный перечень показателей, не весь учёт фонда |
+| Машиночитаемость (`machine_readability`) | XLS/XLSX; методика в DOCX |
+| Юридическая значимость (`legal_significance`) | Официальная публикация СФР |
+| Задержка обновления (`update_lag`) | По квартальному и годовому циклу; точная дата зависит от файла |
+| Глубина архива (`archive_depth`) | На странице представлены несколько лет, состав меняется |
+| Лицензия (`license_or_terms`) | На этой статистической странице не указана явно |
+
 ## Описание
 
 Карточка описывает раздел **«Дополнительная информация → Статистика»** на портале СФР: публикации **«Поступление и расходование средств Социального фонда России (по согласованному перечню показателей)»**. В объём **не** входят **[открытые данные](/organizations/sfr)** на отдельном поддомене каталога (другие наборы и паспорта), **персонифицированные** сведения и **единичные** казначейские отчёты без явной привязки к этой методике СФР.
+
+Отдельный [каталог открытых данных СФР](/data-sources/federal/sfr-open-data-catalog) описывает паспорта и CSV, включая наборы исполнения бюджета; это смежный, но не тождественный канал.
 
 ## Оператор
 

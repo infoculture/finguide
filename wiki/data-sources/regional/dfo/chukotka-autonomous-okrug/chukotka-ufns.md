@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: "2026-05-15"
+last_updated: 2026-07-16
 slug: /data-sources/regional/chukotka-ufns
-source_url: "https://www.nalog.gov.ru/rn87"
+source_url: "https://www.nalog.gov.ru/rn87/"
 data_source_kind: portal
 jurisdiction: multilevel
 access: open
@@ -62,13 +62,13 @@ related_pages:
 
 ## Оператор
 
-УФНС России по Чукотскому автономному округу — канонический вход: https://www.nalog.gov.ru/rn87
+УФНС России по Чукотскому автономному округу — канонический вход: https://www.nalog.gov.ru/rn87/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Страница УФНС (rn87) | https://www.nalog.gov.ru/rn87 | HTML |
+| Страница УФНС (rn87) | https://www.nalog.gov.ru/rn87/ | HTML |
 
 ## Объекты данных и показатели
 

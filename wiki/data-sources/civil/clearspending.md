@@ -26,6 +26,13 @@ related_pages:
   - /howto/access/clearspending
   - /information-systems/civil/clearspending
   - /data-sources/federal/zakupki-xml
+jurisdiction_level: multilevel
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: civil_repackaging
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Clearspending.ru — открытые данные закупок

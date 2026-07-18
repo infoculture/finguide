@@ -5,7 +5,7 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/zaporozhye-oblast-ufns
 source_url: 'https://www.nalog.gov.ru/rn90/'
 data_source_kind: portal
@@ -14,7 +14,7 @@ access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: federal
 data_completeness: partial
 machine_readability: HTML и веб-сервисы ФНС; часть функций в личных кабинетах
@@ -71,7 +71,7 @@ related_pages:
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
 | Региональный раздел УФНС (rn90) | https://www.nalog.gov.ru/rn90/ | HTML |
-| Межрайонная ИФНС России № 1 (из обзора) | https://www.nalog.gov.ru/rn90/ifns/ifns90_01 | HTML |
+| Межрайонная ИФНС России № 1 (из обзора) | https://www.nalog.gov.ru/rn90/ifns/ifns90_01/ | HTML |
 
 ## Объекты данных и показатели
 

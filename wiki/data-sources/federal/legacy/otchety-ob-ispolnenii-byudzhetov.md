@@ -38,6 +38,13 @@ related_pages:
   - /data-sources/federal/regionalnye-byudzhety
   - /data-sources/federal/municipalnye-byudzhety
   - /glossary/treasury-execution
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Отчёты об исполнении бюджетов (обзор и точки входа)

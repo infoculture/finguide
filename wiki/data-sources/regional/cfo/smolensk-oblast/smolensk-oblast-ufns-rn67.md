@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/smolensk-oblast-ufns-rn67
-source_url: "https://www.nalog.gov.ru/rn67"
+source_url: "https://www.nalog.gov.ru/rn67/"
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -16,7 +16,7 @@ formats:
   - pdf
   - xlsx
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: federal
 data_completeness: partial
 machine_readability: HTML и файлы разделов; аналитические выгрузки — через федеральные витрины ФНС
@@ -66,13 +66,13 @@ related_pages:
 
 ## Оператор
 
-УФНС России по Смоленской области — канонический вход: https://www.nalog.gov.ru/rn67
+УФНС России по Смоленской области — канонический вход: https://www.nalog.gov.ru/rn67/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Региональный раздел ФНС (67) | https://www.nalog.gov.ru/rn67 | HTML |
+| Региональный раздел ФНС (67) | https://www.nalog.gov.ru/rn67/ | HTML |
 
 ## Объекты данных и показатели
 
@@ -91,7 +91,7 @@ related_pages:
 ## Примеры доступа
 
 ```bash
-curl -sI -A "Mozilla/5.0" --max-time 20 "https://www.nalog.gov.ru/rn67" | head -n 5
+curl -sI -A "Mozilla/5.0" --max-time 20 "https://www.nalog.gov.ru/rn67/" | head -n 5
 ```
 
 ## Связанные страницы wiki

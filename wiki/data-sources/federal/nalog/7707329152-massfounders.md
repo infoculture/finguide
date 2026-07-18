@@ -24,6 +24,20 @@ related_pages:
   - /information-systems/federal/egrul
   - /data-sources/federal/nalog-regstats
   - /organizations/fns
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: files
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
+last_verified: 2026-05-12
+rag_priority: low
+relationships:
+  - type: published_by
+    target: /organizations/fns
+  - type: available_in
+    target: /information-systems/federal/fnssite
 ---
 
 # Сведения о физических лицах, являющихся учредителями (участниками) нескольких юридических лиц

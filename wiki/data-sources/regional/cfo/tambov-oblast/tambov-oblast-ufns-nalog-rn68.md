@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/tambov-oblast-ufns-nalog-rn68
-source_url: 'https://www.nalog.gov.ru/rn68'
+source_url: 'https://www.nalog.gov.ru/rn68/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -15,7 +15,7 @@ formats:
   - html
   - xlsx
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: federal
 data_completeness: partial
 machine_readability: HTML/XLSX; машиночитаемые наборы — в федеральном каталоге opendata ФНС
@@ -64,13 +64,13 @@ URL `/rn68` — стандартный **код региона ФНС** для �
 
 ## Оператор
 
-УФНС России по Тамбовской области — канонический вход: https://www.nalog.gov.ru/rn68
+УФНС России по Тамбовской области — канонический вход: https://www.nalog.gov.ru/rn68/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Региональный раздел ФНС | https://www.nalog.gov.ru/rn68 | HTML |
+| Региональный раздел ФНС | https://www.nalog.gov.ru/rn68/ | HTML |
 
 ## Объекты данных и показатели
 
@@ -89,7 +89,7 @@ URL `/rn68` — стандартный **код региона ФНС** для �
 ## Примеры доступа
 
 ```bash
-curl -fsSL -o /dev/null -w '%{http_code}\n' 'https://www.nalog.gov.ru/rn68'
+curl -fsSL -o /dev/null -w '%{http_code}\n' 'https://www.nalog.gov.ru/rn68/'
 ```
 
 ## Связанные страницы wiki

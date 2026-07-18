@@ -24,6 +24,9 @@ description: >-
   государственном долге.
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/sverdlovsk-oblast-minfin
 related_pages:
   - /data-sources/regional/subject-sverdlovsk-oblast-sources-overview
   - /data-sources/regional/sverdlovsk-oblast-open-budget

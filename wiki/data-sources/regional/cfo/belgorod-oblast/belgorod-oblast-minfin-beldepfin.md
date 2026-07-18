@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - budget
-last_updated: 2026-05-14
+last_updated: 2026-07-16
 slug: /data-sources/regional/belgorod-oblast-minfin-beldepfin
-source_url: 'https://beldepfin.ru/'
+source_url: 'https://minfin.belregion.ru/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -15,7 +15,7 @@ formats:
   - html
   - pdf
 status: current
-last_verified: 2026-05-14
+last_verified: 2026-07-16
 data_completeness: partial
 machine_readability: mixed
 description: >-
@@ -58,11 +58,11 @@ related_pages:
 
 ## Описание
 
-На сайте `beldepfin.ru` обычно публикуются сведения о проекте и исполнении областного бюджета, долговой политике, результатах контрольных мероприятий и нормативных актах министерства. Для юридически значимых текстов законов о бюджете используйте [официальный банк НПА](/data-sources/regional/belgorod-oblast-official-legal-acts-zakonbelregion).
+На сайте Минфина Белгородской области обычно публикуются сведения о проекте и исполнении областного бюджета, долговой политике, результатах контрольных мероприятий и нормативных актах министерства. Для юридически значимых текстов законов о бюджете используйте [официальный банк НПА](/data-sources/regional/belgorod-oblast-official-legal-acts-zakonbelregion).
 
 ## Оператор
 
-Министерство финансов и бюджетной политики Белгородской области — канонический вход: https://beldepfin.ru/
+Министерство финансов и бюджетной политики Белгородской области — канонический вход: https://minfin.belregion.ru/
 
 - Карточка ИС: [ЕИС «Электронный бюджет»](/information-systems/federal/giis-eb) — федеральная среда, с которой сверяют показатели при анализе межуровневой согласованности.
 
@@ -70,7 +70,7 @@ related_pages:
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Главная страница министерства | https://beldepfin.ru/ | HTML |
+| Главная страница министерства | https://minfin.belregion.ru/ | HTML |
 
 ## Объекты данных и показатели
 

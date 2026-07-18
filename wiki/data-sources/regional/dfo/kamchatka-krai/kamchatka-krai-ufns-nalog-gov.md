@@ -6,16 +6,16 @@ tags:
   - regional
   - federal
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/kamchatka-krai-ufns-nalog-gov
-source_url: 'https://www.nalog.gov.ru/rn41'
+source_url: 'https://www.nalog.gov.ru/rn41/'
 data_source_kind: portal
 jurisdiction: multilevel
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 data_completeness: partial
 machine_readability: html
 description: >-
@@ -64,13 +64,13 @@ related_pages:
 
 ## Оператор
 
-**УФНС России по Камчатскому краю** — канонический вход: https://www.nalog.gov.ru/rn41
+**УФНС России по Камчатскому краю** — канонический вход: https://www.nalog.gov.ru/rn41/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Региональный раздел (rn41) | https://www.nalog.gov.ru/rn41 | HTML |
+| Региональный раздел (rn41) | https://www.nalog.gov.ru/rn41/ | HTML |
 
 ## Объекты данных и показатели
 

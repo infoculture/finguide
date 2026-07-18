@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - budget
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/vologda-oblast-open-budget
-source_url: 'https://minfin.gov35.ru/otkrytyy-byudzhet'
+source_url: 'https://minfin.gov35.ru/otkrytyy-byudzhet/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -15,7 +15,7 @@ formats:
   - html
   - pdf
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: regional
 data_completeness: partial
 machine_readability: HTML; отдельные файлы PDF/XLS при наличии
@@ -66,13 +66,13 @@ related_pages:
 
 ## Оператор
 
-Министерство финансов Вологодской области — канонический вход: https://minfin.gov35.ru/otkrytyy-byudzhet
+Министерство финансов Вологодской области — канонический вход: https://minfin.gov35.ru/otkrytyy-byudzhet/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Раздел «Открытый бюджет» | https://minfin.gov35.ru/otkrytyy-byudzhet | HTML |
+| Раздел «Открытый бюджет» | https://minfin.gov35.ru/otkrytyy-byudzhet/ | HTML |
 
 ## Объекты данных и показатели
 

@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/arkhangelsk-oblast-fns-un29
-source_url: 'https://www.nalog.gov.ru/rn29'
+source_url: 'https://www.nalog.gov.ru/rn29/'
 data_source_kind: portal
 jurisdiction: multilevel
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: federal
 data_completeness: partial
 machine_readability: mixed
@@ -64,7 +64,7 @@ related_pages:
 
 ## Оператор
 
-УФНС России по Архангельской области и Ненецкому автономному округу — канонический вход: https://www.nalog.gov.ru/rn29
+УФНС России по Архангельской области и Ненецкому автономному округу — канонический вход: https://www.nalog.gov.ru/rn29/
 
 - Карточка ИС: **[Сайт ФНС России](/information-systems/federal/fnssite)** — общий контур публикации и сервисов.
 
@@ -72,7 +72,7 @@ related_pages:
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Региональная главная (rn29) | https://www.nalog.gov.ru/rn29 | HTML |
+| Региональная главная (rn29) | https://www.nalog.gov.ru/rn29/ | HTML |
 
 ## Объекты данных и показатели
 

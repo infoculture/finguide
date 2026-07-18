@@ -6,10 +6,10 @@ tags:
   - regional
   - budget
   - reporting
-last_updated: 2026-05-11T00:00:00.000Z
+last_updated: 2026-07-16
 slug: /data-sources/regional/consolidated-budgets
 source_url: >-
-  https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov/
+  https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov-rossijskoj-federacii
 data_source_kind: mixed
 jurisdiction: regional
 access: open
@@ -50,7 +50,7 @@ entity_type: data-source
 
 ## Оператор
 
-**[Федеральное казначейство](/organizations/federal-treasury)** — канонический URL раздела: https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov/
+**[Федеральное казначейство](/organizations/federal-treasury)** — канонический URL раздела: https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov-rossijskoj-federacii
 
 - Карточка ИС: **[Портал Федерального казначейства](/information-systems/federal/roskazna-portal)** — витрина оператора; ограничения сайта, смена URL и сопоставление с «Электронным бюджетом» — в разделе **«Ограничения и актуальность»** той карточки.
 
@@ -58,7 +58,7 @@ entity_type: data-source
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Раздел «Консолидированные бюджеты субъектов РФ» | https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov/ | HTML; вложения XLS/XLSX/PDF по ссылкам |
+| Раздел «Консолидированные бюджеты субъектов РФ» | https://roskazna.gov.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov-rossijskoj-federacii | HTML; вложения XLS/XLSX/PDF по ссылкам |
 | Общий узел «Исполнение бюджетов» (контекст и соседние формы) | https://roskazna.gov.ru/ispolnenie-byudzhetov/ | HTML; файлы по ссылкам |
 
 ## Объекты данных и показатели

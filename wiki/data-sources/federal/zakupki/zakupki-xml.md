@@ -30,6 +30,13 @@ related_pages:
   - /information-systems/federal/egrul
   - /glossary/procurement-44fz
   - /data-sources/federal/minfin-purchases-monitoring
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # XML-выгрузки ЕИС Закупки

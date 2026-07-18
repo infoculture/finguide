@@ -24,7 +24,7 @@ related_pages:
 
 Открытые данные федеральных органов власти и операторов государственных информационных систем.
 
-Карточки сгруппированы по подпапкам в репозитории (`catalog/`, `budget/`, `zakupki/`, `programs-orgs/`, `enterprises/` с подгруппами `goscorp/`, `ppk/`, `ao/`, `gosnko/`, `other/`, `statistics/`, `rosstat/`, `cbr/`, `nalog/`, `legacy/`); публичные URL вида `/data-sources/federal/<slug>` сохранены через поле `slug` в frontmatter.
+Карточки сгруппированы по подпапкам в репозитории (`catalog/`, `budget/`, `property-assets/`, `zakupki/`, `programs-orgs/`, `enterprises/` с подгруппами `goscorp/`, `ppk/`, `ao/`, `gosnko/`, `other/`, `statistics/`, `rosstat/`, `cbr/`, `nalog/`, `legacy/`); публичные URL вида `/data-sources/federal/<slug>` сохранены через поле `slug` в frontmatter.
 
 ## Для кого
 
@@ -38,6 +38,8 @@ related_pages:
 | Сшить роспись и исполнение с КБК | [Наборы ГИИС «Электронный бюджет»](./budget/ebudget/budget-gov-ru-datasets.md), [открытые данные Минфина](./budget/minfin/minfin-opendata.md) |
 | Касса и отчёты об исполнении | [Отчёты Казначейства](./budget/roskazna/roskazna-reports.md), [витрины datamarts](./budget/roskazna/roskazna-datamarts.md) |
 | Закупки и контракты | [ЕИС](./zakupki/procurement.md), [ЕАТ](./zakupki/agregatoreat-ru.md), [статистика на главной ЕИС](./zakupki/zakupki-eis-statistics.md), [XML ЕИС](./zakupki/zakupki-xml.md) |
+| Имущество и приватизация | [Маркетплейс Росимущества](/data-sources/federal/federal-property-marketplace), [приватизация](/data-sources/federal/federal-property-privatization), [доходы от имущества](/data-sources/federal/federal-property-revenue) |
+| Долг, гарантии и контроль | [долг и фискальные риски](/data-sources/federal/debt-guarantees-fiscal-risks), [результаты финконтроля](/data-sources/federal/financial-control-results) |
 | Субнациональный контур | [Региональные источники](/data-sources/regional/) |
 | Сценарий без названия набора | [Карта данных](/intro/data-map) |
 
@@ -60,11 +62,17 @@ related_pages:
 - [РЖД: корпоративное раскрытие (company.rzd.ru)](./enterprises/ao/rzd-holding-disclosure.md)
 - [Росатом: витрины отчётности и раскрытия](./enterprises/goscorp/rosatom-disclosure.md)
 - [ВТБ: раскрытие для инвесторов](./enterprises/ao/vtb-disclosure.md)
+- [Россети: корпоративное раскрытие](/data-sources/federal/rosseti-disclosure)
+- [АЛРОСА: корпоративное раскрытие](/data-sources/federal/alrosa-disclosure)
+- [Почта России: отчётность и закупки](/data-sources/federal/russian-post-disclosure)
+- [Совкомфлот: корпоративное раскрытие](/data-sources/federal/sovcomflot-disclosure)
+- [Ростелеком: корпоративное раскрытие](/data-sources/federal/rostelecom-disclosure)
 - [Роснефть: раскрытие](./enterprises/ao/rosneft-disclosure.md)
 
 ## Бюджетные данные
 
 - [Наборы данных ГИИС «Электронный бюджет»](./budget/ebudget/budget-gov-ru-datasets.md)
+- [Полный индекс паспортов ГИИС «Электронный бюджет»](/data-sources/federal/budget-gov-opendata-index) — маршрут ко всем массово созданным карточкам `opendata-*`.
 - [Единая площадка мер финансовой поддержки (promote.budget.gov.ru)](./budget/ebudget/promote-budget-gov-ru.md)
 - [Открытые данные Минфина](./budget/minfin/minfin-opendata.md)
 - [Дополнительные нефтегазовые доходы федерального бюджета (fedbud/oil)](./budget/minfin/minfin-fedbud-oil.md)
@@ -101,10 +109,19 @@ related_pages:
 - [Единый агрегатор торговли (agregatoreat.ru)](./zakupki/agregatoreat-ru.md)
 - [XML-выгрузки ЕИС Закупки](./zakupki/zakupki-xml.md)
 - [ГИС «Торги» (torgi.gov.ru)](./zakupki/torgi-gov-ru.md)
+- [Раздельные маршруты по реестрам ЕИС](/data-sources/federal/eis-registry-routes)
+
+## Государственное имущество
+
+- [Маркетплейс федерального имущества](/data-sources/federal/federal-property-marketplace)
+- [Навигатор по приватизации](/data-sources/federal/federal-property-privatization)
+- [Федеральные пакеты акций](/data-sources/federal/federal-shareholdings)
+- [Доходы от использования и реализации имущества](/data-sources/federal/federal-property-revenue)
+- [Матрица приоритетных федеральных доменов](/data-sources/federal/federal-domain-coverage-matrix)
 
 ## Учреждения, госпрограммы и внешний контроль
 
-- [Мониторинг образования: организации ВО (monitoring.miccedu.ru)](./programs-orgs/miccedu-monitoring-vpo.md)
+- [Мониторинг образования: организации ВО (monitoring.miccedu.ru)](/data-sources/federal/miccedu-monitoring-vpo)
 - [ГИС «Наука»: НИОКТР, РИД и связь с бюджетным финансированием](./programs-orgs/gisnauka-niokr-rid-budget.md)
 - [Открытые данные bus.gov.ru](./programs-orgs/bus-opendata.md)
 - [programs.economy.gov.ru — веб-клиент АИС ГП](./programs-orgs/programs-economy-ais-gp.md)
@@ -113,10 +130,15 @@ related_pages:
 - [Перечень объектов капитального строительства (PDF, government.ru)](./programs-orgs/perechen-obektov-kapitalnogo-stroitelstva.md)
 - [Реестр соглашений о защите и поощрении капиталовложений (СпИК, budget.gov.ru)](./programs-orgs/szpk-registry.md)
 - [Счётная палата: открытые данные и материалы аудита](./programs-orgs/accounts-chamber-opendata.md)
+- [Публичные инвестиции и ФАИП](/data-sources/federal/public-investment-faip)
+- [Результаты государственного финансового контроля](/data-sources/federal/financial-control-results)
+- [Долг, гарантии и фискальные риски](/data-sources/federal/debt-guarantees-fiscal-risks)
 
 ## Налоговая служба (открытые данные ФНС)
 
 Машиночитаемые **наборы открытых данных** с паспортами на сайте ФНС ([витрина «Открытые данные»](https://www.nalog.gov.ru/rn77/opendata/)): отдельная карточка на каждый идентификатор `7707329152-*` в подкаталоге репозитория `nalog/` (рядом с этим README). Это **не** то же самое, что сводные таблицы **налоговой статистики** и **госрегистрации** ниже: там другие URL, прежде всего HTML/XLSX-витрины разделов «Статистика и аналитика».
+
+- [Полный индекс паспортов открытых данных ФНС](/data-sources/federal/fns-opendata-index) — маршрут ко всем карточкам семейства `7707329152-*` с низким RAG-приоритетом до индивидуальной проверки.
 
 - [ГИР БО — бухгалтерская (финансовая) отчётность организаций (bo.nalog.gov.ru)](./nalog/bo-nalog-gov-ru.md) — публичный поиск и просмотр отчётности юрлиц, представленной в ФНС; не путать с паспортами opendata и с отчётностью учреждений на bus.gov.ru.
 - [Единый реестр субъектов МСП — публичный портал (rmsp.nalog.ru)](./nalog/rmsp-nalog-ru.md) — поиск, статистика и Excel по реестру МСП; машиночитаемые выгрузки — в наборе [7707329152-rsmp](./nalog/7707329152-rsmp.md).
@@ -137,6 +159,9 @@ related_pages:
 - [Статистика государственной регистрации ЮЛ и ИП (ФНС)](./statistics/nalog-regstats.md)
 - [Таможенная статистика и ОД ФТС](./statistics/fts-customs-statistics.md)
 - [СФР: поступление и расходование средств (согласованный перечень показателей)](./statistics/sfr-receipt-expenditure.md)
+- [Каталог открытых данных СФР](/data-sources/federal/sfr-open-data-catalog)
+- [Публичные финансовые публикации ФФОМС](/data-sources/federal/ffoms-publications)
+- [Публичные материалы и производные ГИС ГМП](/data-sources/federal/gis-gmp-public-derivatives)
 
 ## Росстат (официальная статистика)
 

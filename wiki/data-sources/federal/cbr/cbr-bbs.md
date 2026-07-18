@@ -36,6 +36,13 @@ related_pages:
   - /data-sources/federal/roskazna-state-finances-statistics
   - /data-sources/federal/minfin-opendata
   - /organizations/cbr
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: files
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 | Признак | Значение |

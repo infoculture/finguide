@@ -22,7 +22,13 @@ description: >-
   города (на базе официальных данных).
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/saint-petersburg-finance-committee
+  - type: available_in
+    target: /information-systems/regional/saint-petersburg-open-budget
 related_pages:
+  - /information-systems/regional/saint-petersburg-open-budget
   - /data-sources/regional/subject-saint-petersburg-sources-overview
   - /data-sources/regional/saint-petersburg-finance-committee-fincom
   - /data-sources/regional/saint-petersburg-open-data-gov-spb

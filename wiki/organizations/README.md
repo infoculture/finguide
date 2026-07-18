@@ -7,7 +7,7 @@ description: >-
 tags:
   - organizations
   - index
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-07-16
 content_type: reference
 related_pages:
   - /organizations/minfin
@@ -54,7 +54,12 @@ related_pages:
 - [Федеральная антимонопольная служба](./fas.md)
 - [Счётная палата РФ](./accounts-chamber.md)
 - [Министерство экономического развития РФ](./minekonomiki.md)
+- [Министерство труда и социальной защиты РФ](./mintrud.md)
+- [Министерство здравоохранения РФ](./minzdrav.md)
+- [Министерство строительства и ЖКХ РФ](./minstroy.md)
+- [Министерство науки и высшего образования РФ](./minobrnauki.md)
 - [Министерство юстиции РФ](./minjust.md)
+- [Росимущество](./rosim.md)
 - [Росстат](./rosstat.md)
 - [Правительство РФ](./pravgov.md)
 - [Государственная Дума](./gosduma.md)
@@ -65,9 +70,28 @@ related_pages:
 - [Социальный фонд России (СФР)](./sfr.md)
 - [Федеральный фонд обязательного медицинского страхования (ФФОМС)](./ffoms.md)
 
+## Международные организации и исследовательские издатели
+
+- [Международный валютный фонд](./imf.md) — методология GFS и наборы IMF Data.
+- [Организация экономического сотрудничества и развития](./oecd.md) — сопоставимая статистика и данные о финансовой децентрализации.
+- [International Budget Partnership](./international-budget-partnership.md) — независимый издатель Open Budget Survey.
+
+## Региональные финансовые органы (пилот)
+
+- [Департамент финансов Москвы](./moscow-finance-department.md)
+- [Комитет финансов Санкт-Петербурга](./saint-petersburg-finance-committee.md)
+- [Министерство финансов Татарстана](./tatarstan-minfin.md)
+- [Министерство финансов Краснодарского края](./krasnodar-krai-minfin.md)
+- [Министерство финансов Свердловской области](./sverdlovsk-oblast-minfin.md)
+- [Министерство финансов Республики Саха (Якутия)](./sakha-yakutia-minfin.md)
+- [Министерство финансов Республики Дагестан](./dagestan-minfin.md)
+- [Министерство финансов Кузбасса](./kuzbass-minfin.md)
+- [Департамент финансов Югры](./khmao-yugra-finance-department.md)
+- [Министерство финансов Калининградской области](./kaliningrad-oblast-minfin.md)
+
 ## Госучастие и госкорпорации
 
-Карточки **30** крупнейших госкомпаний, госкорпораций, ППК и институтов развития — в [каталоге госучастия](/organizations/state-sector). Парные **навигаторы по витринам отчётности** — в [источниках данных: enterprises](/data-sources/federal/enterprises). Навигатор сектора: [корпоративное раскрытие](/data-sources/federal/state-owned-enterprises-disclosure).
+Карточки **35** отобранных госкомпаний, госкорпораций, ППК и институтов развития — в [каталоге госучастия](/organizations/state-sector). Парные **навигаторы по витринам отчётности** — в [источниках данных: enterprises](/data-sources/federal/enterprises). Навигатор сектора: [корпоративное раскрытие](/data-sources/federal/state-owned-enterprises-disclosure).
 
 Примеры: [Газпром](/organizations/gazprom), [РЖД](/organizations/rzd), [Росатом](/organizations/rosatom), [ВЭБ.РФ](/organizations/veb-rf), [ВТБ](/organizations/vtb).
 

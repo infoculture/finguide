@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - control
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/saint-petersburg-financial-control-committee
-source_url: 'https://www.gov.spb.ru/gov/otrasl/kfk'
+source_url: 'https://www.gov.spb.ru/gov/otrasl/fin_kontrol/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -15,7 +15,7 @@ formats:
   - html
   - pdf
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 description: >-
   Официальный раздел Комитета финансового контроля Санкт-Петербурга на портале
   Администрации: внутренний финансовый контроль, методические материалы и
@@ -62,13 +62,13 @@ related_pages:
 
 ## Оператор
 
-**Комитет финансового контроля Санкт-Петербурга** — https://www.gov.spb.ru/gov/otrasl/kfk
+**Комитет финансового контроля Санкт-Петербурга** — https://www.gov.spb.ru/gov/otrasl/fin_kontrol/
 
 ## URL и точки доступа
 
 | Назначение | URL | Формат |
 | --- | --- | --- |
-| Раздел КФК | https://www.gov.spb.ru/gov/otrasl/kfk | HTML |
+| Раздел КФК | https://www.gov.spb.ru/gov/otrasl/fin_kontrol/ | HTML |
 
 ## Объекты данных и показатели
 
@@ -88,7 +88,7 @@ related_pages:
 
 ```bash
 curl -fsSL -A "finguide-source-check/1.0" -o /dev/null -w "%{http_code}\n" \
-  "https://www.gov.spb.ru/gov/otrasl/kfk"
+  "https://www.gov.spb.ru/gov/otrasl/fin_kontrol/"
 ```
 
 ## Связанные страницы wiki

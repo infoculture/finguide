@@ -1,14 +1,14 @@
 ---
-title: 'Сахалинская область: Контрольно-счётная палата (ksp.sakhalin.gov.ru)'
+title: 'Сахалинская область: Контрольно-счётная палата (spsakh.ru)'
 sidebar_label: КСП Сахалинской области
 tags:
   - data-source
   - regional
   - budget
   - oversight
-last_updated: 2026-05-14
+last_updated: 2026-07-16
 slug: /data-sources/regional/sakhalin-oblast-account-chamber
-source_url: 'https://ksp.sakhalin.gov.ru/'
+source_url: 'https://spsakh.ru/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -16,7 +16,7 @@ formats:
   - html
   - pdf
 status: current
-last_verified: 2026-05-14
+last_verified: 2026-07-16
 data_completeness: partial
 machine_readability: mixed
 description: >-
@@ -32,7 +32,7 @@ related_pages:
   - /data-sources/regional/consolidated-budgets
 ---
 
-# Сахалинская область: Контрольно-счётная палата (ksp.sakhalin.gov.ru)
+# Сахалинская область: Контрольно-счётная палата (spsakh.ru)
 
 | Признак | Значение |
 | :--- | :--- |
@@ -62,13 +62,13 @@ related_pages:
 
 ## Оператор
 
-**Контрольно-счётная палата Сахалинской области** — канонический вход: https://ksp.sakhalin.gov.ru/
+**Контрольно-счётная палата Сахалинской области** — канонический вход: https://spsakh.ru/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Официальный сайт КСП | https://ksp.sakhalin.gov.ru/ | HTML, PDF |
+| Официальный сайт КСП | https://spsakh.ru/ | HTML, PDF |
 
 ## Объекты данных и показатели
 

@@ -27,6 +27,13 @@ related_pages:
   - /data-sources/federal/procurement
   - /data-sources/civil/open-ngo
   - /howto/analysis/ngo-funding
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ «ОРГАНИЗАЦИОННЫЙ КОМИТЕТ ПО ПОДГОТОВКЕ И ПРОВЕДЕНИЮ В 2022 ГОДУ ЧЕМПИОНАТА МИРА ПО ВОЛЕЙБОЛУ ФИВБ»: открытые данные и субсидии

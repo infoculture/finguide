@@ -159,6 +159,13 @@ rag_priority: low
 description: ${yq(desc)}
 content_type: data_source
 entity_type: data-source
+jurisdiction_level: ${jurisdiction}
+data_completeness: unknown
+machine_readability: HTML
+legal_significance: unknown
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 related_pages:
 ${related.map((x) => `  - ${x}`).join('\n')}
 ---

@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/republic-of-karelia-ufns
-source_url: 'https://www.nalog.gov.ru/rn10'
+source_url: 'https://www.nalog.gov.ru/rn10/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: federal
 data_completeness: partial
 machine_readability: HTML и веб-сервисы ФНС; часть функций в личных кабинетах
@@ -63,13 +63,13 @@ related_pages:
 
 ## Оператор
 
-УФНС России по Республике Карелия — https://www.nalog.gov.ru/rn10
+УФНС России по Республике Карелия — https://www.nalog.gov.ru/rn10/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Сайт УФНС (код региона 10) | https://www.nalog.gov.ru/rn10 | HTML |
+| Сайт УФНС (код региона 10) | https://www.nalog.gov.ru/rn10/ | HTML |
 
 ## Объекты данных и показатели
 

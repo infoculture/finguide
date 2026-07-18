@@ -23,7 +23,13 @@ description: >-
   материалы по планированию и исполнению, навигация к госпрограммам и смежным разделам.
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/moscow-finance-department
+  - type: available_in
+    target: /information-systems/regional/moscow-open-budget
 related_pages:
+  - /information-systems/regional/moscow-open-budget
   - /data-sources/regional/subject-moscow-sources-overview
   - /data-sources/regional/moscow-open-budget-state-programs
   - /data-sources/regional/moscow-findep

@@ -32,6 +32,7 @@ const ORG_DIR = path.join(ROOT, 'wiki/organizations/federal-gos-nko');
 const ENT_ROOT = path.join(ROOT, 'wiki/data-sources/federal/enterprises');
 const STATE_ORG_DIR = path.join(ROOT, 'wiki/organizations/state-sector');
 const LAST_VERIFIED = '2020-11-26';
+const LIFECYCLE_AUDIT_DATE = '2026-07-16';
 const DATA_SLICE = '2017–2020 (исследование GovNGO, ноябрь 2020)';
 
 const PRESERVE_STATE_SECTOR_DISCLOSURE = new Set([
@@ -183,6 +184,16 @@ rag_priority: low
 description: ${yq(desc)}
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/federal-gos-nko/${orgSlug}
+jurisdiction_level: federal
+data_completeness: partial
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 inn: "${rec.inn}"
 related_pages:
   - /organizations/federal-gos-nko/${orgSlug}
@@ -293,6 +304,9 @@ last_updated: ${LAST_VERIFIED}T00:00:00.000Z
 slug: /organizations/federal-gos-nko/${orgSlug}
 content_type: organization
 entity_type: organization
+as_of: ${LAST_VERIFIED}
+lifecycle_status: unknown
+status_as_of: ${LIFECYCLE_AUDIT_DATE}
 ${sourceUrl ? `source_url: ${yq(sourceUrl)}\n` : ''}org_kind: federal_gos_ngo
 inn: "${rec.inn}"
 description: ${yq(desc)}

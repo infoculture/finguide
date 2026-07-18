@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/vologda-oblast-ufns
-source_url: 'https://www.nalog.gov.ru/rn35'
+source_url: 'https://www.nalog.gov.ru/rn35/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -16,7 +16,7 @@ formats:
   - xml
   - xlsx
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: regional
 data_completeness: partial
 machine_readability: 'смешанная: HTML + файлы статистики и форм на сайте ФНС'
@@ -62,17 +62,17 @@ related_pages:
 
 ## Описание
 
-URL `https://www.nalog.gov.ru/rn35` — стандартный **региональный корень** на общем портале ФНС. Для **сопоставления налоговых индикаторов** с бюджетным исполнением используйте в связке [консолидированные бюджеты](/data-sources/regional/consolidated-budgets) и [аналитический портал ФНС](/information-systems/federal/analytic-nalog) (общероссийский контур, не только 35 регион).
+URL `https://www.nalog.gov.ru/rn35/` — стандартный **региональный корень** на общем портале ФНС. Для **сопоставления налоговых индикаторов** с бюджетным исполнением используйте в связке [консолидированные бюджеты](/data-sources/regional/consolidated-budgets) и [аналитический портал ФНС](/information-systems/federal/analytic-nalog) (общероссийский контур, не только 35 регион).
 
 ## Оператор
 
-УФНС России по Вологодской области (через единый домен ФНС) — канонический вход: https://www.nalog.gov.ru/rn35
+УФНС России по Вологодской области (через единый домен ФНС) — канонический вход: https://www.nalog.gov.ru/rn35/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Региональный раздел (rn35) | https://www.nalog.gov.ru/rn35 | HTML |
+| Региональный раздел (rn35) | https://www.nalog.gov.ru/rn35/ | HTML |
 
 ## Объекты данных и показатели
 

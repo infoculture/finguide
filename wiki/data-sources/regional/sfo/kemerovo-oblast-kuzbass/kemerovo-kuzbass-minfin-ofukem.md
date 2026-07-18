@@ -21,6 +21,9 @@ description: >-
   консолидированного бюджета Кемеровской области
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/kuzbass-minfin
 related_pages:
   - /data-sources/regional/subject-kemerovo-oblast-kuzbass-sources-overview
   - /data-sources/regional

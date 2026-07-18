@@ -20,9 +20,15 @@ related_pages:
   - /data-sources/federal/procurement
   - /data-sources/civil/open-ngo
   - /howto/analysis/ngo-funding
+as_of: 2020-11-26
+lifecycle_status: unknown
+status_as_of: 2026-07-16
 ---
 
 # АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ "НАЦИОНАЛЬНЫЙ НАУЧНЫЙ ЦЕНТР КОМПЕТЕНЦИЙ В СФЕРЕ ПРОТИВОДЕЙСТВИЯ НЕЗАКОННОМУ ОБОРОТУ ПРОМЫШЛЕННОЙ ПРОДУКЦИИ"
+
+<!-- lifecycle-audit-note -->
+> **Статус на 2026-07-16:** текущий жизненный цикл не подтверждён в рамках массового аудита; карточка описывает snapshot GovNGO от 2020-11-26. Перед выводами проверьте ЕГРЮЛ и официальный сайт.
 
 Коротко: **НАЦИОНАЛЬНЫЙ НАУЧНЫЙ ЦЕНТР КОМПЕТЕНЦИЙ В СФЕРЕ…** — [федеральная госНКО](/glossary/gosudarstvennye-nko) в срезе исследования **GovNGO 2020**; для идентификации, субсидий (2017–2020 (исследование GovNGO, ноябрь 2020)) и ссылок на реестры используйте **[карточку источника](/data-sources/federal/natsionalnyy-nauchnyy-tsentr-kompetentsiy-v-sfere-protivodeystvi-disclosure)**.
 

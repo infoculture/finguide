@@ -1,0 +1,455 @@
+profile_version: 1
+profile_name: "Налоговые паспорта ФНС: наблюдаемый профиль ZIP-выгрузок"
+source:
+  endpoint_template: "https://analytic.nalog.gov.ru/api/TaxPassports/ExportAll?year={year}"
+  request_method: GET
+  inspected_at: "2026-07-17"
+  user_agent: "Mozilla/5.0 (compatible; finguide-data-audit/1.0; +https://github.com/ibegtin/finguide)"
+  important_format_note: >-
+    Проверенные endpoint-архивы содержат BIFF8 .xls, а не .xlsx. Для .xls нужен
+    xlrd (либо LibreOffice); openpyxl напрямую эти файлы не читает.
+
+verified_archives:
+  - year: 2014
+    http_status: 200
+    content_type: "application/zip"
+    zip_sha256: "58e6979d805ed906a3629cb0b6c729bb98f56724d642bed9f4b611b128ade991"
+    files: 92
+    extensions: {".xls": 92}
+    total_unpacked_bytes: 17682944
+    file_size_bytes: {min: 186368, max: 194048}
+    duplicate_file_payloads_by_sha256: 0
+    geography_files:
+      subjects: 83
+      federal_districts: 8
+      russian_federation_total: 1
+    sample_file_names:
+      - "НП_2014_Томская область.xls"
+      - "НП_2014_СИБИРСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ.xls"
+      - "НП_2014_РОССИЙСКАЯ ФЕДЕРАЦИЯ.xls"
+    workbook_sequences:
+      - files: 91
+        sheets: ["ТИТУЛ", "Содержание", "Руководители", "Раздел1", "Раздел2", "Раздел3", "Раздел4", "Раздел5", "Раздел6", "Раздел7", "Раздел8", "Раздел9", "Раздел10", "Раздел11"]
+      - files: 1
+        sheets: ["ТИТУЛ", "Содержание", "Раздел1", "Раздел2", "Раздел3", "Раздел4", "Раздел5", "Раздел6", "Раздел7", "Раздел8", "Раздел9", "Раздел10", "Раздел11"]
+    formula_records_biff8: 5000
+  - year: 2024
+    http_status: 200
+    content_type: "application/zip"
+    zip_sha256: "6613d10519a00ef50d2079a9782468cf90d591101bb7e38f893b74e66bb729cc"
+    files: 94
+    extensions: {".xls": 94}
+    total_unpacked_bytes: 15397888
+    file_size_bytes: {min: 159744, max: 165376}
+    duplicate_file_payloads_by_sha256: 0
+    geography_files:
+      subjects: 85
+      federal_districts: 8
+      russian_federation_total: 1
+    added_subject_file_labels_since_2014: ["Республика Крым", "г.Севастополь"]
+    sample_file_names:
+      - "НП_2024_Томская область.xls"
+      - "НП_2024_СИБИРСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ.xls"
+      - "НП_2024_РОССИЙСКАЯ ФЕДЕРАЦИЯ.xls"
+    workbook_sequences:
+      - files: 93
+        sheets: ["ТИТУЛ", "Содержание", "Руководители", "Раздел1", "Раздел2", "Раздел3", "Раздел4", "Раздел5", "Раздел6", "Раздел7", "Раздел10", "Раздел11", "Раздел12"]
+      - files: 1
+        sheets: ["ТИТУЛ", "Содержание", "Раздел1", "Раздел2", "Раздел3", "Раздел4", "Раздел5", "Раздел6", "Раздел7", "Раздел10", "Раздел11", "Раздел12"]
+    formula_records_biff8: 0
+
+file_selection:
+  filename_pattern: "НП_<year>_<file_label>.xls"
+  file_label_rule: >-
+    Это отображаемое наименование территории в имени файла, без кода ОКТМО,
+    ОКАТО, ISO или другого машиночитаемого идентификатора. Не выводить код
+    территории из имени эвристически; сохранять file_label как исходную строку.
+  geography_classes:
+    subject: "Обычное наименование субъекта РФ, например «Томская область»"
+    federal_district: "Верхний регистр и фраза «ФЕДЕРАЛЬНЫЙ ОКРУГ»"
+    russian_federation_total: "РОССИЙСКАЯ ФЕДЕРАЦИЯ"
+  primary_file_key: [year, file_label]
+  workbook_scope_field: "file_label"
+
+common_workbook_rules:
+  worksheet_format: "BIFF8 .xls"
+  hidden_worksheets: false
+  hidden_columns_observed: false
+  hidden_rows: >-
+    Есть во многих листах; pandas/xlrd прочитает их. В частности, в 2024
+    скрыты служебные строки Раздел4, Раздел5 и Раздел10, а в 2014 — также
+    служебные строки Раздел1, Раздел4, Раздел5, Раздел7, Раздел9 и Раздел10.
+  cell_types_observed:
+    - string
+    - number
+    - empty
+  dates_observed_as_excel_date_cells: false
+  missing_markers:
+    - "пустая ячейка"
+    - "X"
+    - "- (главным образом в листах 2014 года)"
+  row_code_rule: >-
+    «Код строки» — внутренний код строки шаблона паспорта, а не опубликованный
+    классификатор налогов, ОКВЭД, ОКТМО или КБК. Нормализовать к строке,
+    сохраняя десятичные коды (например, 530.1) и отрицательные служебные коды.
+  hierarchy_rule: >-
+    Строки «в том числе:», «из них:», «Справочно:» и строки с пустым «Кодом
+    строки» — заголовки/контекст, не самостоятельные наблюдения. Для плоской
+    таблицы брать строки с непустым row_code и отдельно сохранять иерархию
+    индикаторов, если она нужна для интерпретации.
+  default_logical_key: [year, file_label, sheet_name, row_code]
+  key_caveat: >-
+    Ключ применим только внутри одного годового шаблона и листа. Код строки
+    меняет смысл при переносе разделов между годами; нельзя соединять листы
+    только по row_code.
+
+layouts:
+  annual_indicator:
+    grain: "Один индикатор шаблона паспорта в территории и году"
+    columns:
+      - {source_header: "ПОКАЗАТЕЛЬ", normalized_name: indicator_label, type: string, unit: "зависит от текста показателя"}
+      - {source_header: "Код строки", normalized_name: row_code, type: "string after normalisation", unit: null}
+      - {source_header: "<YYYY> год", normalized_name: value_yyyy, type: "number|string", unit: "в тексте показателя либо не указан"}
+      - {source_header: "В % к предыдущему году", normalized_name: pct_to_previous_year, type: "number|string", unit: "%"}
+  budget_receipts:
+    grain: "Вид администрируемого дохода в территории и году"
+    columns:
+      - {source_header_path: "ПОКАЗАТЕЛЬ", normalized_name: indicator_label, type: string}
+      - {source_header_path: "Код строки", normalized_name: row_code, type: "string after normalisation"}
+      - {source_header_path: "Поступило в консолидированный бюджет Российской Федерации → Всего", normalized_name: consolidated_budget_rf_total, type: "number|string"}
+      - {source_header_path: "Поступило в консолидированный бюджет Российской Федерации → В % к предыдущему периоду", normalized_name: consolidated_budget_rf_pct_prev_period, type: "number|string", unit: "%"}
+      - {source_header_path: "Поступило в консолидированный бюджет Российской Федерации → Удельный вес (%)", normalized_name: consolidated_budget_rf_share_pct, type: "number|string", unit: "%"}
+      - {source_header_path: "в том числе → В федеральный бюджет → Всего", normalized_name: federal_budget_total, type: "number|string"}
+      - {source_header_path: "в том числе → В федеральный бюджет → В % к предыдущему периоду", normalized_name: federal_budget_pct_prev_period, type: "number|string", unit: "%"}
+      - {source_header_path: "в том числе → В федеральный бюджет → Удельный вес (%)", normalized_name: federal_budget_share_pct, type: "number|string", unit: "%"}
+      - {source_header_path: "в том числе → В консолидированный бюджет субъекта РФ → Всего", normalized_name: subject_consolidated_budget_total, type: "number|string"}
+      - {source_header_path: "в том числе → В консолидированный бюджет субъекта РФ → В % к предыдущему периоду", normalized_name: subject_consolidated_budget_pct_prev_period, type: "number|string", unit: "%"}
+      - {source_header_path: "в том числе → В консолидированный бюджет субъекта РФ → Удельный вес (%)", normalized_name: subject_consolidated_budget_share_pct, type: "number|string", unit: "%"}
+      - {source_header_path: "из него → В местный бюджет → Всего", normalized_name: local_budget_total, type: "number|string"}
+      - {source_header_path: "из него → В местный бюджет → В % к предыдущему периоду", normalized_name: local_budget_pct_prev_period, type: "number|string", unit: "%"}
+
+sheet_profiles:
+  "ТИТУЛ":
+    kind: metadata_form
+    grain: "Одна книга"
+    fields_by_cell_anchor:
+      - {source_label: "ПО СОСТОЯНИЮ НА DD.MM.YYYY", normalized_name: snapshot_as_of_text, type: string}
+      - {source_label: "СУБЪЕКТ РОССИЙСКОЙ ФЕДЕРАЦИИ", normalized_name: territory_display_name, type: string}
+      - {source_label: "ОБЛАСТНОЙ (РЕСПУБЛИКАНСКИЙ, КРАЕВОЙ) ЦЕНТР", normalized_name: regional_centre, type: string}
+      - {source_label: "ФЕДЕРАЛЬНЫЙ ОКРУГ", normalized_name: federal_district_display_name, type: string}
+      - {source_label: "КОД УПРАВЛЕНИЯ ФНС РОССИИ", normalized_name: fns_administration_code, type: "number|string"}
+    caveat: "Это анкета с merged cells, а не строковая таблица; якоря различаются по типу территории."
+  "Содержание":
+    kind: navigation
+    grain: "Одна строка на лист паспорта"
+    columns:
+      - {source_header: "имя листа, например Раздел5", normalized_name: sheet_name, type: string}
+      - {source_header: "текст назначения", normalized_name: sheet_title, type: string}
+  "Руководители":
+    kind: personal_data_table
+    present_in: "Во всех региональных и окружных книгах; отсутствует в книге РФ"
+    header_rows:
+      - "ПОКАЗАТЕЛЬ"
+      - "Код строки"
+      - "Фамилия, имя, отчество"
+      - "Адрес → почтовый"
+      - "Адрес → электронной почты"
+      - "Код и номер → телефона"
+      - "Код и номер → факса"
+    contains_personal_data: true
+    machine_processing_rule: "Не выгружать и не публиковать без отдельного правового основания и политики ПДн."
+
+  "2014":
+    "Раздел1":
+      title: "Социально-экономическая характеристика региона"
+      layout: annual_indicator
+      header_row_1_based: 13
+      serial_number_row_1_based: 14
+      first_data_row_1_based: 15
+      dimensions: "69–72 × 4"
+      example: {row_code: "101", value_2014: 402.5621}
+    "Раздел2":
+      title: "Основные показатели налоговой базы по администрируемым доходам"
+      layout: annual_indicator
+      header_row_1_based: 13
+      serial_number_row_1_based: 14
+      first_data_row_1_based: 16
+      dimensions: "102 × 4"
+      example: {row_code: "201", value_2014: 697692.802, pct_to_previous_year: 107.3447460782}
+    "Раздел3":
+      title: "Льготы по отдельным администрируемым доходам"
+      layout: annual_indicator
+      header_row_1_based: 13
+      serial_number_row_1_based: 14
+      first_data_row_1_based: 16
+      dimensions: "32 × 4"
+      example: {row_code: "301", value_2014: 250.367, pct_to_previous_year: 36.9089405414}
+    "Раздел4":
+      title: "Основные показатели контрольной работы налоговых органов"
+      layout: annual_indicator
+      header_row_1_based: 13
+      serial_number_row_1_based: 14
+      first_data_row_1_based: 15
+      dimensions: "29 × 4"
+      example: {row_code: "401", value_2014: 1768.628, pct_to_previous_year: 105.7075558249}
+    "Раздел5":
+      title: "Поступления основных администрируемых доходов в структуре консолидированного бюджета Российской Федерации"
+      layout: budget_receipts
+      header_rows_1_based: [13, 14, 15, 16]
+      serial_number_row_1_based: 17
+      first_data_row_1_based: 18
+      dimensions: "64–67 × 13"
+      unit_annotation: "млн.руб. в C13 строки с названием территории"
+      example: {row_code: "501", consolidated_budget_rf_total: 141687.827}
+    "Раздел6":
+      title: "Поступления администрируемых доходов в консолидированный бюджет Российской Федерации в структуре основных видов экономической деятельности"
+      grain: "Вид экономической деятельности в территории и году"
+      header_rows_1_based: [13, 14, 15, 16]
+      serial_number_row_1_based: 17
+      first_data_row_1_based: 18
+      dimensions: "52 × 15"
+      unit_annotation: "млн.руб. в C15 строки с названием территории"
+      columns:
+        - {source_header_path: "ПОКАЗАТЕЛЬ", normalized_name: activity_label, type: string}
+        - {source_header_path: "Код строки", normalized_name: row_code, type: "string after normalisation"}
+        - {source_header_path: "Поступило в консолидированный бюджет, всего", normalized_name: consolidated_budget_total, type: "number|string"}
+        - {source_header_path: "Уд. вес в общей сумме поступлений (%)", normalized_name: consolidated_budget_share_pct, type: "number|string", unit: "%"}
+        - {source_header_path: "в том числе → Федеральные налоги", normalized_name: federal_taxes, type: "number|string"}
+        - {source_header_path: "в том числе → Федеральные налоги → из них → налог на прибыль организации → Всего", normalized_name: corporate_income_tax_total, type: "number|string"}
+        - {source_header_path: "в том числе → Федеральные налоги → из них → налог на прибыль организации → в том числе в федеральный бюджет", normalized_name: corporate_income_tax_federal_budget, type: "number|string"}
+        - {source_header_path: "в том числе → налог на доходы физических лиц", normalized_name: personal_income_tax, type: "number|string"}
+        - {source_header_path: "в том числе → НДС", normalized_name: vat, type: "number|string"}
+        - {source_header_path: "в том числе → акцизы по подакцизным товарам", normalized_name: excises, type: "number|string"}
+        - {source_header_path: "в том числе → налог на добычу полезных ископаемых", normalized_name: mineral_extraction_tax, type: "number|string"}
+        - {source_header_path: "в том числе → остальные налоги и сборы", normalized_name: other_taxes_and_fees, type: "number|string"}
+        - {source_header_path: "в том числе → Региональные налоги и сборы", normalized_name: regional_taxes_and_fees, type: "number|string"}
+        - {source_header_path: "в том числе → Местные налоги и сборы", normalized_name: local_taxes_and_fees, type: "number|string"}
+        - {source_header_path: "в том числе → Налоги со специальным налоговым режимом", normalized_name: special_tax_regime_taxes, type: "number|string"}
+    "Раздел7":
+      title: "Задолженность по налогам и сборам в консолидированный бюджет Российской Федерации"
+      grain: "Вид задолженности/налога в территории на дату среза"
+      header_rows_1_based: [13, 14, 15]
+      serial_number_row_1_based: 16
+      first_data_row_1_based: 17
+      dimensions: "43–44 × 10"
+      unit_annotation: "млн.руб. в C10 строки с названием территории"
+      columns:
+        - {source_header_path: "ПОКАЗАТЕЛЬ", normalized_name: indicator_label, type: string}
+        - {source_header_path: "Код строки", normalized_name: row_code, type: "string after normalisation"}
+        - {source_header_path: "По состоянию на 01.01.2015 → Всего", normalized_name: debt_total_as_of, type: "number|string"}
+        - {source_header_path: "По состоянию на 01.01.2015 → из неё: → Недоимка", normalized_name: debt_arrears_as_of, type: "number|string"}
+        - {source_header_path: "По состоянию на 01.01.2015 → из неё: → Отсроченные (рассроченные) платежи и реструктурированная задолженность", normalized_name: debt_deferred_or_restructured_as_of, type: "number|string"}
+        - {source_header_path: "По состоянию на 01.01.2015 → из неё: → Приостановленные к взысканию платежи", normalized_name: debt_suspended_collection_as_of, type: "number|string"}
+        - {source_header_path: "Изменение за 2014 год → Всего", normalized_name: debt_change_total, type: "number|string"}
+        - {source_header_path: "Изменение за 2014 год → в том числе → Недоимка", normalized_name: debt_change_arrears, type: "number|string"}
+        - {source_header_path: "Изменение за 2014 год → в том числе → Отсроченные (рассроченные) платежи и реструктурированная задолженность", normalized_name: debt_change_deferred_or_restructured, type: "number|string"}
+        - {source_header_path: "Изменение за 2014 год → в том числе → Приостановленные к взысканию платежи", normalized_name: debt_change_suspended_collection, type: "number|string"}
+    "Раздел8":
+      title: "Задолженность по налогам и сборам по основным видам экономической деятельности"
+      grain: "Вид экономической деятельности в территории на дату среза"
+      header_rows_1_based: [13, 14, 15]
+      serial_number_row_1_based: 16
+      first_data_row_1_based: 17
+      dimensions: "57 × 10"
+      columns:
+        - {source_header_path: "ПОКАЗАТЕЛЬ", normalized_name: activity_label, type: string}
+        - {source_header_path: "Код строки", normalized_name: row_code, type: "string after normalisation"}
+        - {source_header_path: "Задолженность → млн. рублей", normalized_name: debt_total, type: "number|string", unit: "млн. рублей"}
+        - {source_header_path: "Задолженность → Удельный вес в общей сумме задолженности (%)", normalized_name: debt_share_pct, type: "number|string", unit: "%"}
+        - {source_header_path: "в том числе → Недоимка → млн. рублей", normalized_name: arrears_total, type: "number|string", unit: "млн. рублей"}
+        - {source_header_path: "в том числе → Недоимка → Удельный вес в сумме задолженности (%)", normalized_name: arrears_share_pct, type: "number|string", unit: "%"}
+        - {source_header_path: "в том числе → Отсроченные (рассроченные) платежи и реструктурированная задолженность → млн. рублей", normalized_name: deferred_or_restructured_total, type: "number|string", unit: "млн. рублей"}
+        - {source_header_path: "в том числе: → Отсроченные (рассроченные) платежи и реструктурированная задолженность → Удельный вес в сумме задолженности (%)", normalized_name: deferred_or_restructured_share_pct, type: "number|string", unit: "%"}
+        - {source_header_path: "в том числе → Приостановленные к взысканию платежи → млн. рублей", normalized_name: suspended_collection_total, type: "number|string", unit: "млн. рублей"}
+        - {source_header_path: "в том числе: → Приостановленные к взысканию платежи → Удельный вес в сумме задолженности (%)", normalized_name: suspended_collection_share_pct, type: "number|string", unit: "%"}
+    "Раздел9":
+      title: "Показатели налоговой нагрузки"
+      grain: "Вид администрируемого дохода в территории и году"
+      header_rows_1_based: [13, 14]
+      serial_number_row_1_based: 15
+      first_data_row_1_based: 16
+      dimensions: "40 × 5"
+      columns:
+        - {source_header_path: "ПОКАЗАТЕЛЬ", normalized_name: indicator_label, type: string}
+        - {source_header_path: "Код строки", normalized_name: row_code, type: "string after normalisation"}
+        - {source_header_path: "НАЛОГОВАЯ НАГРУЗКА (В % К ВРП) В 2014 ГОДУ → в консолидированный бюджет Российской Федерации", normalized_name: tax_burden_consolidated_budget_rf_pct_grp, type: "number|string", unit: "%"}
+        - {source_header_path: "НАЛОГОВАЯ НАГРУЗКА (В % К ВРП) В 2014 ГОДУ → в федеральный бюджет", normalized_name: tax_burden_federal_budget_pct_grp, type: "number|string", unit: "%"}
+        - {source_header_path: "НАЛОГОВАЯ НАГРУЗКА (В % К ВРП) В 2014 ГОДУ → в консолидированный бюджет субъекта РФ", normalized_name: tax_burden_subject_budget_pct_grp, type: "number|string", unit: "%"}
+    "Раздел10":
+      title: "Показатели налоговой нагрузки по отдельным видам экономической деятельности"
+      grain: "Вид администрируемого дохода в территории и году"
+      header_rows_1_based: [13, 14]
+      serial_number_row_1_based: 15
+      first_data_row_1_based: 16
+      dimensions: "28–29 × 6–7"
+      columns:
+        - {source_header_path: "ПОКАЗАТЕЛЬ", normalized_name: indicator_label, type: string}
+        - {source_header_path: "Код строки", normalized_name: row_code, type: "string after normalisation"}
+        - {source_header_path: "НАЛОГОВАЯ НАГРУЗКА (копеек с 1 рубля объема отгруженных товаров собственного производства, выполненных работ и услуг собственными силами) → Обрабатывающие производства", normalized_name: manufacturing_tax_burden_kopeks_per_ruble, type: "number|string", unit: "копеек с 1 рубля"}
+        - {source_header_path: "НАЛОГОВАЯ НАГРУЗКА (копеек с 1 рубля объема отгруженных товаров собственного производства, выполненных работ и услуг собственными силами) → Добыча полезных ископаемых", normalized_name: mining_tax_burden_kopeks_per_ruble, type: "number|string", unit: "копеек с 1 рубля"}
+        - {source_header_path: "НАЛОГОВАЯ НАГРУЗКА (копеек с 1 рубля объема отгруженных товаров собственного производства, выполненных работ и услуг собственными силами) → Производство и распределение электроэнергии, газа и воды", normalized_name: utilities_tax_burden_kopeks_per_ruble, type: "number|string", unit: "копеек с 1 рубля"}
+        - {source_header_path: "НАЛОГОВАЯ НАГРУЗКА (копеек с 1 рубля объема выполненных работ) → Строительство", normalized_name: construction_tax_burden_kopeks_per_ruble, type: "number|string", unit: "копеек с 1 рубля"}
+    "Раздел11":
+      title: "Оценка и прогнозирование поступлений отдельных налогов"
+      grain: "Показатель налога в территории и горизонте прогноза"
+      header_row_1_based: 4
+      serial_number_row_1_based: 5
+      first_data_row_1_based: 7
+      dimensions: "63 × 5"
+      columns:
+        - {source_header: "ПОКАЗАТЕЛЬ", normalized_name: indicator_label, type: string}
+        - {source_header: "Код строки", normalized_name: row_code, type: "string after normalisation"}
+        - {source_header: "2014 год (базисный год - факт)", normalized_name: baseline_actual_2014, type: "number|string", unit: "зависит от показателя"}
+        - {source_header: "2015 год (текущий год - оценка)", normalized_name: current_year_estimate_2015, type: "number|string", unit: "зависит от показателя"}
+        - {source_header: "Планируемый период (прогноз)", normalized_name: planned_period_forecast, type: "number|string", unit: "зависит от показателя"}
+
+  "2024":
+    "Раздел1":
+      title: "Социально-экономическая характеристика региона"
+      layout: annual_indicator
+      header_row_1_based: 7
+      serial_number_row_1_based: 8
+      first_data_row_1_based: 9
+      dimensions: "65–68 × 4"
+      example: {row_code: "101", value_2024: 912.4494, pct_to_previous_year: 112.2070863719}
+    "Раздел2":
+      title: "Основные показатели налоговой базы по администрируемым доходам"
+      layout: annual_indicator
+      header_row_1_based: 4
+      serial_number_row_1_based: 5
+      first_data_row_1_based: 7
+      dimensions: "134 × 4"
+      example: {row_code: "201", value_2024: 2043162.124, pct_to_previous_year: 105.1387209131}
+    "Раздел3":
+      title: "Льготы по отдельным администрируемым доходам"
+      layout: annual_indicator
+      header_row_1_based: 4
+      serial_number_row_1_based: 5
+      first_data_row_1_based: 7
+      dimensions: "26 × 4"
+      example: {row_code: "301", value_2024: 1496.714, pct_to_previous_year: 49.4643641458}
+    "Раздел4":
+      title: "Основные показатели контрольной работы налоговых органов"
+      layout: annual_indicator
+      header_row_1_based: 4
+      serial_number_row_1_based: 5
+      first_data_row_1_based: 6
+      dimensions: "18 × 4"
+      example: {row_code: "401", value_2024: 32, pct_to_previous_year: 72.7272727273}
+    "Раздел5":
+      title: "Поступления основных администрируемых доходов в структуре консолидированного бюджета Российской Федерации"
+      layout: budget_receipts
+      header_rows_1_based: [4, 5, 6, 7]
+      serial_number_row_1_based: 8
+      first_data_row_1_based: 9
+      dimensions: "45 × 13"
+      unit_annotation: "В проверенном файле отдельная единица измерения в шапке не указана; не подставлять её по аналогии с 2014."
+      example: {row_code: "501", consolidated_budget_rf_total: 413862.958, consolidated_budget_rf_share_pct: 100}
+    "Раздел6":
+      title: "Поступление доходов по страховым взносам на обязательное социальное страхование в Российской Федерации"
+      grain: "Вид страхового взноса в территории и году"
+      header_rows_1_based: [4, 5]
+      serial_number_row_1_based: 6
+      first_data_row_1_based: 7
+      dimensions: "10–12 × 4"
+      columns:
+        - {source_header_path: "ПОКАЗАТЕЛЬ", normalized_name: indicator_label, type: string}
+        - {source_header_path: "Код строки", normalized_name: row_code, type: "string after normalisation"}
+        - {source_header_path: "Поступление доходов по страховым взносам на обязательное социальное страхование в Российской Федерации → Всего", normalized_name: mandatory_social_insurance_receipts_total, type: "number|string"}
+        - {source_header_path: "Поступление доходов по страховым взносам на обязательное социальное страхование в Российской Федерации → В % к предыдущему периоду", normalized_name: mandatory_social_insurance_receipts_pct_prev_period, type: "number|string", unit: "%"}
+      example: {row_code: "601", mandatory_social_insurance_receipts_total: 76561.789}
+    "Раздел7":
+      title: "Поступления администрируемых доходов в консолидированный бюджет Российской Федерации в структуре основных видов экономической деятельности"
+      grain: "Строка с видом экономической деятельности в территории и году"
+      header_rows_1_based: [4, 5, 6, 7]
+      serial_number_row_1_based: 8
+      first_data_row_1_based: 9
+      dimensions: "47 × 18–19"
+      note: "19-й физический столбец у региональных книг пустой; содержательные поля — C:R (18)."
+      columns:
+        - {source_header_path: "ПОКАЗАТЕЛЬ", normalized_name: activity_label, type: string}
+        - {source_header_path: "Код строки", normalized_name: row_code, type: "string after normalisation"}
+        - {source_header_path: "Поступило в консолидированный бюджет, всего", normalized_name: consolidated_budget_total, type: "number|string"}
+        - {source_header_path: "Уд. вес в общей сумме поступлений (%)", normalized_name: consolidated_budget_share_pct, type: "number|string", unit: "%"}
+        - {source_header_path: "в том числе → Федеральные налоги", normalized_name: federal_taxes, type: "number|string"}
+        - {source_header_path: "в том числе → Федеральные налоги → из них → налог на прибыль организации → Всего", normalized_name: corporate_income_tax_total, type: "number|string"}
+        - {source_header_path: "в том числе → Федеральные налоги → из них → налог на прибыль организации → в том числе в федеральный бюджет", normalized_name: corporate_income_tax_federal_budget, type: "number|string"}
+        - {source_header_path: "в том числе → налог на доходы физических лиц", normalized_name: personal_income_tax, type: "number|string"}
+        - {source_header_path: "в том числе → НДС", normalized_name: vat, type: "number|string"}
+        - {source_header_path: "в том числе → акцизы по подакцизным товарам", normalized_name: excises, type: "number|string"}
+        - {source_header_path: "в том числе → налог на добычу полезных ископаемых", normalized_name: mineral_extraction_tax, type: "number|string"}
+        - {source_header_path: "в том числе → остальные налоги и сборы", normalized_name: other_taxes_and_fees, type: "number|string"}
+        - {source_header_path: "в том числе → Региональные налоги и сборы", normalized_name: regional_taxes_and_fees, type: "number|string"}
+        - {source_header_path: "в том числе → Местные налоги и сборы", normalized_name: local_taxes_and_fees, type: "number|string"}
+        - {source_header_path: "в том числе → Налоги, предусмотренные специальными налоговыми режимами", normalized_name: special_tax_regime_taxes, type: "number|string"}
+        - {source_header_path: "Поступило по страховым взносам на обязательное социальное страхование", normalized_name: mandatory_social_insurance_contributions, type: "number|string"}
+        - {source_header_path: "Поступило по страховым взносам на обязательное социальное страхование → в том числе: → Страховые взносы на обязательное социальное страхование, зачисляемые в бюджет фонда пенсионного и социального страхования Российской Федерации", normalized_name: contributions_pension_and_social_insurance_fund, type: "number|string"}
+        - {source_header_path: "Поступило по страховым взносам на обязательное социальное страхование → в том числе: → Страховые взносы на обязательное социальное страхование, зачисляемые в бюджет фонда медицинского страхования Российской Федерации", normalized_name: contributions_medical_insurance_fund, type: "number|string"}
+      classifier_note: "Названия видов деятельности есть, но коды ОКВЭД в книге не опубликованы. row_code не является ОКВЭД."
+      example: {row_code: "701", consolidated_budget_total: 413861.021, activity_label: "ВСЕГО:"}
+    "Раздел10":
+      title: "Показатели налоговой нагрузки"
+      grain: "Вид администрируемого дохода в территории и году"
+      header_rows_1_based: [4, 5]
+      serial_number_row_1_based: 6
+      first_data_row_1_based: 7
+      dimensions: "26 × 5"
+      columns:
+        - {source_header_path: "ПОКАЗАТЕЛЬ", normalized_name: indicator_label, type: string}
+        - {source_header_path: "Код строки", normalized_name: row_code, type: "string after normalisation"}
+        - {source_header_path: "НАЛОГОВАЯ НАГРУЗКА (В % К ВРП) В 2024 ГОДУ → в консолидированный бюджет Российской Федерации", normalized_name: tax_burden_consolidated_budget_rf_pct_grp, type: "number|string", unit: "%"}
+        - {source_header_path: "НАЛОГОВАЯ НАГРУЗКА (В % К ВРП) В 2024 ГОДУ → в федеральный бюджет", normalized_name: tax_burden_federal_budget_pct_grp, type: "number|string", unit: "%"}
+        - {source_header_path: "НАЛОГОВАЯ НАГРУЗКА (В % К ВРП) В 2024 ГОДУ → в консолидированный бюджет субъекта РФ", normalized_name: tax_burden_subject_budget_pct_grp, type: "number|string", unit: "%"}
+      hidden_rows_include: ["на нефтепродукты (code -1010)", "ВРП за 2010 год (code -1001)", "Численность населения региона (code -1002)"]
+      example: {row_code: "1001", tax_burden_consolidated_budget_rf_pct_grp: 45.3573598711}
+    "Раздел11":
+      title: "Показатели налоговой нагрузки по отдельным видам экономической деятельности в 2023-2024 годах"
+      grain: "Вид экономической деятельности в территории и году-колонке"
+      header_rows_1_based: [4, 5]
+      serial_number_row_1_based: 6
+      first_data_row_1_based: 7
+      dimensions: "19 × 8"
+      columns:
+        - {source_header_path: "ПОКАЗАТЕЛЬ", normalized_name: activity_label, type: string}
+        - {source_header_path: "Код строки", normalized_name: row_code, type: "string after normalisation"}
+        - {source_header_path: "2023 год → Поступило в консолидированный бюджет РФ, млрд.руб", normalized_name: receipts_2023_billion_rub, type: "number|string", unit: "млрд.руб"}
+        - {source_header_path: "2023 год → Оборот организаций, млрд.руб.", normalized_name: turnover_2023_billion_rub, type: "number|string", unit: "млрд.руб"}
+        - {source_header_path: "2023 год → Налоговая нагрузка, %", normalized_name: tax_burden_2023_pct, type: "number|string", unit: "%"}
+        - {source_header_path: "2024 год → Поступило в консолидированный бюджет РФ, млрд.руб", normalized_name: receipts_2024_billion_rub, type: "number|string", unit: "млрд.руб"}
+        - {source_header_path: "2024 год → Оборот организаций, млрд.руб.", normalized_name: turnover_2024_billion_rub, type: "number|string", unit: "млрд.руб"}
+        - {source_header_path: "2024 год → Налоговая нагрузка, %", normalized_name: tax_burden_2024_pct, type: "number|string", unit: "%"}
+      classifier_note: "Названия отраслей без опубликованных кодов ОКВЭД."
+      example: {row_code: "1101", receipts_2024_billion_rub: 413.861021, turnover_2024_billion_rub: 1625.3}
+    "Раздел12":
+      title: "Оценка и прогнозирование поступлений отдельных налогов"
+      grain: "Показатель налога в территории и горизонте прогноза"
+      header_row_1_based: 4
+      serial_number_row_1_based: 5
+      first_data_row_1_based: 7
+      dimensions: "47 × 5"
+      columns:
+        - {source_header: "ПОКАЗАТЕЛЬ", normalized_name: indicator_label, type: string}
+        - {source_header: "Код строки", normalized_name: row_code, type: "string after normalisation"}
+        - {source_header: "2024 год (базисный год - факт)", normalized_name: baseline_actual_2024, type: "number|string", unit: "зависит от показателя"}
+        - {source_header: "2025 год (текущий год - оценка)", normalized_name: current_year_estimate_2025, type: "number|string", unit: "зависит от показателя"}
+        - {source_header: "Планируемый период (прогноз)", normalized_name: planned_period_forecast, type: "number|string", unit: "зависит от показателя"}
+      example: {row_code: "1200", baseline_actual_2024: 92024}
+
+join_and_aggregation_rules:
+  safe_within_sheet: "[year, file_label, sheet_name, row_code] после исключения контекстных строк"
+  cross_year: >-
+    Сначала сопоставить sheet title, текст показателя, единицу и смысл столбца.
+    Номер раздела и row_code сами по себе недостаточны: разделы 6–12 были
+    перераспределены между 2014 и 2024.
+  cross_file: >-
+    Книги федеральных округов и РФ — готовые агрегаты, а не строки для
+    присоединения к субъектам. Не суммировать их с субъектами и не считать
+    одновременно РФ, округи и субъекты одной совокупностью.
+  totals: >-
+    Внутри листов встречаются «ВСЕГО», «в том числе», «из него» и отраслевые
+    детализации. Не суммировать строки без проверки отношений вложенности;
+    видимые итоги уже могут включать детализацию. Отрицательные значения
+    встречаются в поступлениях и изменениях.
+  missing_values: >-
+    «X», «-» и пустая ячейка не равны нулю. Сохранять их как отдельный
+    missing_reason/исходный текст до решения о допустимой подстановке.

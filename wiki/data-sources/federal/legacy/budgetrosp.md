@@ -31,6 +31,13 @@ related_pages:
   - /glossary/kbk
   - /glossary/lbo
   - /budget-system/federal-budget
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 | Признак | Значение |

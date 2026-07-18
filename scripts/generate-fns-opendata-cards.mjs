@@ -14,6 +14,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, '..');
 const SNAPSHOT = path.join(ROOT, 'scripts/data/fns-opendata-page-snapshot.md');
 const OUT_DIR = path.join(ROOT, 'wiki/data-sources/federal/nalog');
+const SNAPSHOT_VERIFIED = '2026-05-12';
 
 function parseRows(text) {
   const re =
@@ -167,6 +168,20 @@ access: open
 formats:
 ${formatsYaml}
 ${statusLine}related_information_system: /information-systems/federal/fnssite
+last_verified: ${SNAPSHOT_VERIFIED}
+rag_priority: low
+relationships:
+  - type: published_by
+    target: /organizations/fns
+  - type: available_in
+    target: /information-systems/federal/fnssite
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: files
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 description: ${descQ}
 related_pages:
 ${relatedYaml}

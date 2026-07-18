@@ -5,7 +5,7 @@ tags:
   - data-source
   - regional
   - procurement
-last_updated: 2026-05-14
+last_updated: 2026-07-16
 slug: /data-sources/regional/moscow-oblast-easuz
 source_url: 'https://easuz.mosreg.ru/'
 data_source_kind: portal
@@ -14,7 +14,7 @@ access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-14
+last_verified: 2026-07-16
 description: >-
   Региональный единый портал закупок Московской области: размещение извещений и
   результатов закупок субъекта и подведомственных заказчиков; юридически значимый след по 44/223-ФЗ — в ЕИС.
@@ -65,7 +65,7 @@ related_pages:
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
 | Портал закупок | https://easuz.mosreg.ru/ | HTML |
-| ЕИС (федеральный контур) | https://zakupki.gov.ru/ | HTML, выгрузки |
+| ЕИС (федеральный контур) | https://zakupki.gov.ru/epz/main/public/home.html | HTML, выгрузки |
 
 ## Объекты данных и показатели
 

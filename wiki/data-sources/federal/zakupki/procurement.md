@@ -58,6 +58,13 @@ related_pages:
   - /glossary/procurement-223fz
   - /information-systems/federal/egrul
   - /data-sources/federal/nalog-regstats
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Сведения о закупках и контрактах (ЕИС)

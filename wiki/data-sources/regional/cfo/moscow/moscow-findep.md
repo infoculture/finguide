@@ -24,6 +24,9 @@ description: >-
   нормативные материалы, долг и смежные разделы исполнительной власти города.
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/moscow-finance-department
 related_pages:
   - /data-sources/regional/subject-moscow-sources-overview
   - /data-sources/regional/moscow-open-budget

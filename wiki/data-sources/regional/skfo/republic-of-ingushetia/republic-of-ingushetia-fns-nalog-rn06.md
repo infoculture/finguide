@@ -5,7 +5,7 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/republic-of-ingushetia-fns-nalog-rn06
 source_url: 'https://www.nalog.gov.ru/rn06/'
 data_source_kind: portal
@@ -14,7 +14,7 @@ access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 data_completeness: partial
 machine_readability: html
 description: >-
@@ -66,7 +66,7 @@ related_pages:
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
 | Корень регионального раздела (актуальная точка входа) | https://www.nalog.gov.ru/rn06/ | HTML |
-| Справочный путь из старых обзоров (может быть недоступен) | https://www.nalog.gov.ru/rn06/apply_fts | HTML (проверяйте актуальность) |
+| Справочный путь из старых обзоров (может быть недоступен) | https://www.nalog.gov.ru/rn06/apply_fts/ | HTML (проверяйте актуальность) |
 
 ## Объекты данных и показатели
 

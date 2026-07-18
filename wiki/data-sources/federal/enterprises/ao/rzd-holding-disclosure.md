@@ -33,6 +33,13 @@ related_pages:
   - /information-systems/federal/egrul
   - /glossary/state-corporations
   - /data-sources/federal/rosstat-opendata
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # РЖД (корпоративный портал): раскрытие для инвесторов и отчётность

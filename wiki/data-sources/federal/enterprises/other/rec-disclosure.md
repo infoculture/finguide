@@ -32,6 +32,13 @@ related_pages:
   - /data-sources/federal/exiar-disclosure
   - /legal/223-fz
   - /data-sources/federal/procurement
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Акционерное общество "Российский экспортный центр" (РЭЦ): отчётность и раскрытие

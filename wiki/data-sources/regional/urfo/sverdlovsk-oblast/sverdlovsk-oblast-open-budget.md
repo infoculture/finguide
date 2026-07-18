@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - budget
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/sverdlovsk-oblast-open-budget
-source_url: 'https://smart.mfural.ru/ebudget'
+source_url: 'http://smart.mfural.ru/ebudget'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: regional
 data_completeness: partial
 machine_readability: HTML; наглядные материалы без гарантированных открытых наборов в карточке
@@ -23,7 +23,13 @@ description: >-
   наглядные материалы по областному бюджету, исполнению и приоритетам для граждан и СМИ.
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/sverdlovsk-oblast-minfin
+  - type: available_in
+    target: /information-systems/regional/sverdlovsk-open-budget
 related_pages:
+  - /information-systems/regional/sverdlovsk-open-budget
   - /data-sources/regional/subject-sverdlovsk-oblast-sources-overview
   - /data-sources/regional/sverdlovsk-oblast-minfin
   - /data-sources/regional/sverdlovsk-oblast-npa-portal-pravo-gov66
@@ -61,17 +67,17 @@ related_pages:
 
 ## Описание
 
-Портал предназначен для **ознакомления** с целями, задачами и приоритетами областного бюджета без специальной подготовки. Термины планирования и исполнения см. в [глоссарии: «Бюджет»](/glossary/budget). Канонический вход в импортной таблице был `http://smart.mfural.ru/ebudget`; при проверке используйте **HTTPS**, если площадка его поддерживает.
+Портал предназначен для **ознакомления** с целями, задачами и приоритетами областного бюджета без специальной подготовки. Термины планирования и исполнения см. в [глоссарии: «Бюджет»](/glossary/budget). При проверке сервис отвечал по **HTTP** и перенаправлял на рабочую страницу; HTTPS-соединение сбрасывалось.
 
 ## Оператор
 
-Министерство финансов Свердловской области — раздел «Открытый бюджет»: https://smart.mfural.ru/ebudget
+Министерство финансов Свердловской области — раздел «Открытый бюджет»: http://smart.mfural.ru/ebudget
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| «Открытый бюджет» | https://smart.mfural.ru/ebudget | HTML |
+| «Открытый бюджет» | http://smart.mfural.ru/ebudget | HTML |
 
 ## Объекты данных и показатели
 

@@ -20,9 +20,15 @@ related_pages:
   - /data-sources/federal/procurement
   - /data-sources/civil/open-ngo
   - /howto/analysis/ngo-funding
+as_of: 2020-11-26
+lifecycle_status: unknown
+status_as_of: 2026-07-16
 ---
 
 # ФОНД ПОДДЕРЖКИ ИСЛАМСКОЙ КУЛЬТУРЫ, НАУКИ И ОБРАЗОВАНИЯ
+
+<!-- lifecycle-audit-note -->
+> **Статус на 2026-07-16:** текущий жизненный цикл не подтверждён в рамках массового аудита; карточка описывает snapshot GovNGO от 2020-11-26. Перед выводами проверьте ЕГРЮЛ и официальный сайт.
 
 Коротко: **ФОНД ПОДДЕРЖКИ ИСЛАМСКОЙ КУЛЬТУРЫ, НАУКИ И ОБРАЗОВАНИЯ** — [федеральная госНКО](/glossary/gosudarstvennye-nko) в срезе исследования **GovNGO 2020**; для идентификации, субсидий (2017–2020 (исследование GovNGO, ноябрь 2020)) и ссылок на реестры используйте **[карточку источника](/data-sources/federal/fond-podderzhki-islamskoy-kultury-nauki-i-obrazovaniya-disclosure)**.
 

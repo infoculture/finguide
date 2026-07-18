@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-07-16
 slug: /data-sources/regional/republic-of-mari-el-fin-a3f5b37fd4
-source_url: 'https://www.nalog.gov.ru/rn12'
+source_url: 'https://www.nalog.gov.ru/rn12/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-14T00:00:00.000Z
+last_verified: 2026-07-16T00:00:00.000Z
 description: >-
   Автоимпорт из _dev/rf_finance_sources_table_full.md (Управление ФНС России):
   Информация о налогообложении, задолженностях, ЕНС
@@ -65,13 +65,13 @@ rag_priority: low
 
 ## Оператор
 
-УФНС России по Республике Марий Эл — канонический вход: https://www.nalog.gov.ru/rn12
+УФНС России по Республике Марий Эл — канонический вход: https://www.nalog.gov.ru/rn12/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Веб | https://www.nalog.gov.ru/rn12 | HTML |
+| Веб | https://www.nalog.gov.ru/rn12/ | HTML |
 
 ## Объекты данных и показатели
 

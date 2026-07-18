@@ -16,9 +16,16 @@
     "lint:howto": "node scripts/howto-structure-lint.mjs",
     "lint:qa": "node scripts/validate-qa-jsonl.mjs",
     "qa:retrieval": "node scripts/qa-retrieval-regression.mjs",
+    "audit:corpus": "node scripts/audit-corpus-governance.mjs",
+    "migrate:source-metadata": "node scripts/migrate-source-metadata.mjs",
+    "migrate:govngo-lifecycle": "node scripts/migrate-govngo-lifecycle.mjs",
+    "fix:malformed-urls": "node scripts/fix-malformed-external-urls.mjs",
+    "write:import-family-hubs": "node scripts/write-import-family-hubs.mjs",
     "lint:corpus": "node scripts/corpus-markdown-lint.mjs",
+    "lint:url-syntax": "node scripts/url-syntax-lint.mjs",
     "lint:related-pages": "node scripts/validate-related-pages.mjs",
     "test:knowledge-export": "node --test tests/knowledge-export.test.mjs",
+    "test:url-syntax": "node --test tests/url-syntax-lint.test.mjs",
     "export:knowledge": "node scripts/export-knowledge-index.mjs",
     "inject:related-pages": "node scripts/inject-related-pages-wave.mjs",
     "generate:budget-gov-opendata-cards": "node scripts/generate-budget-gov-opendata-dataset-cards.mjs",
@@ -33,7 +40,7 @@
     "write:federal-gos-ngo-indexes": "node scripts/write-federal-gos-ngo-indexes.mjs",
     "fix:regional-fin-sidebar-labels": "node scripts/fix-regional-fin-sidebar-labels.mjs",
     "refresh:budget-gov-opendata-sidebar-labels": "node scripts/refresh-budget-gov-opendata-sidebar-labels.mjs",
-    "presubmit": "npm run lint:frontmatter && npm run lint:howto && npm run test:knowledge-export && npm run export:knowledge -- --check && npm run lint:qa && npm run qa:retrieval && npm run lint:related-pages && npm run lint:corpus && npm run typecheck && npm run build"
+    "presubmit": "npm run lint:frontmatter && npm run lint:howto && npm run lint:url-syntax && npm run test:knowledge-export && npm run test:url-syntax && npm run audit:corpus -- --check && npm run export:knowledge -- --check && npm run lint:qa && npm run qa:retrieval && npm run lint:related-pages && npm run lint:corpus && npm run typecheck && npm run build"
   },
   "repository": {
     "type": "git",

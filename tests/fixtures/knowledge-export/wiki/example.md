@@ -7,8 +7,24 @@ last_updated: 2026-07-11
 content_type: reference
 entity_type: information-system
 draft: true
+source_authority: legacy-federal
+jurisdiction_level: federal
+legal_significance: official
+data_completeness: partial
+machine_readability: mixed
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
+as_of: 2020-11-26
+lifecycle_status: reorganized
+status_as_of: 2026-07-16
+successor_slug: /target
 relationships:
   - type: related_to
+    target: /target
+  - type: published_by
+    target: /target
+  - type: operated_by
     target: /target
 ---
 

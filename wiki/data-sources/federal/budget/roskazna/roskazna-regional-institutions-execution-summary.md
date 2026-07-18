@@ -37,6 +37,13 @@ related_pages:
   - /information-systems/federal/bus-gov
   - /budget-system/regional-budgets
   - /budget-system/municipal-budgets
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 | Признак | Значение |

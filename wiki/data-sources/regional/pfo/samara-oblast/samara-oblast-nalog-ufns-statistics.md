@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-14
+last_updated: 2026-07-16
 slug: /data-sources/regional/samara-oblast-nalog-ufns-statistics
-source_url: 'https://www.nalog.gov.ru/rn63/related_activities/statistics_and_analytics'
+source_url: 'https://www.nalog.gov.ru/rn63/related_activities/statistics_and_analytics/'
 data_source_kind: portal
 jurisdiction: multilevel
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-14
+last_verified: 2026-07-16
 data_completeness: partial
 machine_readability: html
 description: >-
@@ -61,13 +61,13 @@ related_pages:
 
 ## Оператор
 
-Управление Федеральной налоговой службы по Самарской области — канонический вход: https://www.nalog.gov.ru/rn63/related_activities/statistics_and_analytics
+Управление Федеральной налоговой службы по Самарской области — канонический вход: https://www.nalog.gov.ru/rn63/related_activities/statistics_and_analytics/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Статистика и аналитика УФНС | https://www.nalog.gov.ru/rn63/related_activities/statistics_and_analytics | HTML |
+| Статистика и аналитика УФНС | https://www.nalog.gov.ru/rn63/related_activities/statistics_and_analytics/ | HTML |
 | Корень сайта УФНС (код 63) | https://www.nalog.gov.ru/rn63/ | HTML |
 
 ## Объекты данных и показатели
@@ -88,7 +88,7 @@ related_pages:
 
 ```bash
 curl -fsSL -o /dev/null -w "%{http_code}\n" --max-time 25 -A "Mozilla/5.0" \
-  "https://www.nalog.gov.ru/rn63/related_activities/statistics_and_analytics" \
+  "https://www.nalog.gov.ru/rn63/related_activities/statistics_and_analytics/" \
   || echo "при 403 проверьте в браузере или используйте открытые данные ФНС"
 ```
 

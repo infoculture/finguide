@@ -29,6 +29,13 @@ related_pages:
   - /data-sources/federal/zakupki-eis-statistics
   - /data-sources/federal/zakupki-xml
   - /glossary/procurement-44fz
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: files
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Минфин: мониторинг закупок (отчёты)

@@ -7,13 +7,16 @@ description: >-
 tags:
   - legal
   - index
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-07-16
 content_type: reference
 related_pages:
   - /legal/budget-code
   - /legal/44fz
   - /legal/open-data-law
   - /legal/budget-classification-orders
+  - /legal/33fz-local-self-government
+  - /legal/131fz-local-self-government
+  - /legal/414fz-public-authority-regions
   - /data-sources
   - /reporting
   - /intro/data-map
@@ -92,9 +95,16 @@ related_pages:
 - [172-ФЗ — о стратегическом планировании](./strategic-planning-172fz.md)
 - [ПП № 594 — исторический порядок ФЦП](./government-594-fcp.md)
 
-## Местное самоуправление и таможня
+## Публичная власть и местное самоуправление
 
-- [131-ФЗ — об общих принципах МСУ](./131fz-local-self-government.md)
+- [33-ФЗ — новая рамка местного самоуправления](./33fz-local-self-government.md)
+- [131-ФЗ — переходная применимость до 1 января 2028 года](./131fz-local-self-government.md)
+- [414-ФЗ — организация публичной власти в субъектах РФ](./414fz-public-authority-regions.md)
+
+Переход 131-ФЗ → 33-ФЗ нельзя читать по исходной дате 2027 года: Федеральный закон № 85-ФЗ от 9 апреля 2026 года перенёс ключевую границу на **1 января 2028 года**.
+
+## Таможня
+
 - [Таможенный кодекс ЕАЭС](./customs-code-eaeu.md)
 - [311-ФЗ — о таможенном регулировании в РФ](./311fz-customs-regulation.md)
 

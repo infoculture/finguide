@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/murmansk-oblast-ufns-rn51
-source_url: 'https://www.nalog.gov.ru/rn51'
+source_url: 'https://www.nalog.gov.ru/rn51/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
@@ -16,7 +16,7 @@ formats:
   - xml
   - pdf
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: federal
 data_completeness: partial
 machine_readability: HTML; часть сервисов ФНС — формы и выгрузки (XML/PDF) по задаче
@@ -65,7 +65,7 @@ related_pages:
 
 ## Оператор
 
-УФНС России по Мурманской области (веб-вход через федеральный сайт) — канонический URL раздела: https://www.nalog.gov.ru/rn51
+УФНС России по Мурманской области (веб-вход через федеральный сайт) — канонический URL раздела: https://www.nalog.gov.ru/rn51/
 
 Карточка ИС: [Сайт ФНС России](/information-systems/federal/fnssite) — базовый федеральный контур сервисов и публикаций.
 
@@ -73,7 +73,7 @@ related_pages:
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Региональный раздел (`rn51`) | https://www.nalog.gov.ru/rn51 | HTML |
+| Региональный раздел (`rn51`) | https://www.nalog.gov.ru/rn51/ | HTML |
 
 ## Объекты данных и показатели
 

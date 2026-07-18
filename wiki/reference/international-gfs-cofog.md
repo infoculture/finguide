@@ -7,7 +7,7 @@ description: >-
 tags:
   - reference
   - international
-last_updated: 2026-05-14T00:00:00.000Z
+last_updated: 2026-07-16
 content_type: reference
 slug: /reference/international-gfs-cofog
 related_pages:
@@ -15,6 +15,11 @@ related_pages:
   - /budget-classification/sgf-2014
   - /data-sources/international/imf-gfs
   - /data-sources/international/oecd-fiscal-data
+  - /data-sources/international/imf-qgfs
+  - /data-sources/international/imf-world-revenue
+  - /data-sources/international/imf-fiscal-monitor
+  - /data-sources/international/oecd-fiscal-decentralisation
+  - /data-sources/international/open-budget-survey-russia-2023
   - /data-sources/international/world-bank
   - /data-sources/international/un-data
   - /glossary/kbk
@@ -54,7 +59,12 @@ related_pages:
 ## Связанные источники данных (международные)
 
 - [IMF GFS](/data-sources/international/imf-gfs) — методология и ряды GFS.
+- [IMF QGFS](/data-sources/international/imf-qgfs) — квартальные операции и балансы по уровням правительства.
+- [IMF WoRLD](/data-sources/international/imf-world-revenue) — годовая структура налоговых и неналоговых доходов.
+- [IMF Fiscal Monitor](/data-sources/international/imf-fiscal-monitor) — восемь агрегатов с оценками и прогнозами; не подменяет GFS.
 - [OECD fiscal](/data-sources/international/oecd-fiscal-data) — межстрановые панели.
+- [OECD Fiscal Decentralisation](/data-sources/international/oecd-fiscal-decentralisation) — уровни управления и COFOG; российские наблюдения в текущих таблицах отсутствуют.
+- [Open Budget Survey Russia 2023](/data-sources/international/open-budget-survey-russia-2023) — оценка институтов прозрачности, а не денежный ряд GFS.
 - [World Bank](/data-sources/international/world-bank) — макро и фискальные индикаторы.
 - [UN Data](/data-sources/international/un-data) — глобальные справочники и ссылки на методологию.
 

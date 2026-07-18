@@ -5,7 +5,7 @@ tags:
   - data-source
   - regional
   - procurement
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/khmao-yugra-eis-zakupki-gov-ru-regional-entry
 source_url: "https://zakupki.gov.ru/epz/organization/view/info.html?organizationCode=01872000017"
 data_source_kind: portal
@@ -14,7 +14,7 @@ access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: federal
 data_completeness: partial
 machine_readability: HTML витрина; массовые XML/JSON выгрузки — по правилам ЕИС и отдельным карточкам
@@ -64,7 +64,7 @@ related_pages:
 
 ## Оператор
 
-**Единая информационная система в сфере закупок** — базовый домен https://zakupki.gov.ru/
+**Единая информационная система в сфере закупок** — базовый домен https://zakupki.gov.ru/epz/main/public/home.html
 
 ## URL и точки доступа
 

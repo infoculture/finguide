@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/moscow-ufns-rn77
-source_url: "https://www.nalog.gov.ru/rn77"
+source_url: "https://www.nalog.gov.ru/rn77/"
 data_source_kind: portal
 jurisdiction: multilevel
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 source_authority: federal
 data_completeness: partial
 machine_readability: HTML; машинные налоговые наборы — на федеральной витрине ФНС
@@ -61,13 +61,13 @@ related_pages:
 
 ## Оператор
 
-**Управление Федеральной налоговой службы по г. Москве** — https://www.nalog.gov.ru/rn77
+**Управление Федеральной налоговой службы по г. Москве** — https://www.nalog.gov.ru/rn77/
 
 ## URL и точки доступа
 
 | Тип | URL | Формат |
 | --- | --- | --- |
-| Региональный корень | https://www.nalog.gov.ru/rn77 | HTML |
+| Региональный корень | https://www.nalog.gov.ru/rn77/ | HTML |
 | Федеральный портал ФНС | https://www.nalog.gov.ru/ | HTML |
 
 ## Объекты данных и показатели
@@ -84,7 +84,7 @@ related_pages:
 
 ```bash
 curl -fsSL -A "finguide-ufns-moscow/1.0" -o /dev/null -w "%{http_code}\n" \
-  "https://www.nalog.gov.ru/rn77"
+  "https://www.nalog.gov.ru/rn77/"
 ```
 
 ## Связанные страницы wiki

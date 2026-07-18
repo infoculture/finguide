@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/sevastopol-ufns
-source_url: 'https://www.nalog.gov.ru/rn92'
+source_url: 'https://www.nalog.gov.ru/rn92/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 description: >-
   Региональный сайт УФНС по Севастополю: новости, сервисы для налогоплательщиков
   и публичные материалы по администрированию доходов бюджетной системы на контуре субъекта.
@@ -58,13 +58,13 @@ related_pages:
 
 ## Оператор
 
-УФНС России по городу Севастополю — https://www.nalog.gov.ru/rn92
+УФНС России по городу Севастополю — https://www.nalog.gov.ru/rn92/
 
 ## URL и точки доступа
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Региональный раздел ФНС | https://www.nalog.gov.ru/rn92 | HTML |
+| Региональный раздел ФНС | https://www.nalog.gov.ru/rn92/ | HTML |
 
 ## Объекты данных и показатели
 

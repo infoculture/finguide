@@ -9,7 +9,8 @@ tags:
 last_updated: 2026-05-15T00:00:00.000Z
 content_type: reference
 description: >-
-  Индекс карточек отчётности и корпоративного раскрытия по 30 госкомпаниям,
+  Индекс карточек отчётности и корпоративного раскрытия по 30 импортированным
+  и 5 редакционно проверенным госкомпаниям,
   госкорпорациям, ППК и институтам развития; пары с разделом организаций
   state-sector.
 related_pages:
@@ -21,7 +22,7 @@ related_pages:
 
 # Госкомпании и раскрытие — каталог
 
-Коротко: **30** организаций из таблицы `_dev/federal_gov_orgs_links_table.xlsx` ([GitHub](https://github.com/infoculture/finguide/blob/master/_dev/federal_gov_orgs_links_table.xlsx)): для каждой — карточка **[организации](/organizations)** в группе [госучастия](/organizations/state-sector) и **источника** по шаблону `wiki/data-sources/data-source-card-template.md` ([GitHub](https://github.com/infoculture/finguide/blob/master/wiki/data-sources/data-source-card-template.md)) с таблицами URL по категориям (отчётность, закупки, ESG и др.). Перегенерация: `npm run import:federal-gov-orgs`.
+Коротко: каталог содержит **30** организаций из импортной таблицы и **5** редакционно проверенных дополнений; для каждой есть карточка **[организации](/organizations/state-sector)** и парный источник. Перегенерация импортной части: `npm run import:federal-gov-orgs`; редакционные дополнения импортёр не перезаписывает.
 
 Навигатор сектора: [корпоративное раскрытие и госкомпании](/data-sources/federal/state-owned-enterprises-disclosure).
 
@@ -57,6 +58,11 @@ related_pages:
 | [РусГидро](/organizations/rushydro) | rushydro | [/data-sources/federal/rushydro-disclosure](/data-sources/federal/rushydro-disclosure) |
 | [Транснефть](/organizations/transneft) | transneft | [/data-sources/federal/transneft-disclosure](/data-sources/federal/transneft-disclosure) |
 | [ВТБ](/organizations/vtb) | vtb | [/data-sources/federal/vtb-disclosure](/data-sources/federal/vtb-disclosure) |
+| [Россети](/organizations/rosseti) | rosseti | [/data-sources/federal/rosseti-disclosure](/data-sources/federal/rosseti-disclosure) |
+| [АЛРОСА](/organizations/alrosa) | alrosa | [/data-sources/federal/alrosa-disclosure](/data-sources/federal/alrosa-disclosure) |
+| [Почта России](/organizations/russian-post) | russian-post | [/data-sources/federal/russian-post-disclosure](/data-sources/federal/russian-post-disclosure) |
+| [Совкомфлот](/organizations/sovcomflot) | sovcomflot | [/data-sources/federal/sovcomflot-disclosure](/data-sources/federal/sovcomflot-disclosure) |
+| [Ростелеком](/organizations/rostelecom) | rostelecom | [/data-sources/federal/rostelecom-disclosure](/data-sources/federal/rostelecom-disclosure) |
 
 ## Связанные разделы
 

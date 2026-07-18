@@ -5,9 +5,9 @@ tags:
   - data-source
   - regional
   - procurement
-last_updated: 2026-05-15
+last_updated: 2026-07-16
 slug: /data-sources/regional/magadan-oblast-eis-zakupki
-source_url: 'https://zakupki.gov.ru/'
+source_url: 'https://zakupki.gov.ru/epz/main/public/home.html'
 data_source_kind: mixed
 jurisdiction: multilevel
 access: open
@@ -15,7 +15,7 @@ formats:
   - html
   - xml
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-07-16
 data_completeness: partial
 machine_readability: xml_api_federal
 description: >-
@@ -61,7 +61,7 @@ related_pages:
 
 ## Оператор
 
-Федеральный оператор ЕИС (см. карточку информационной системы ниже) — канонический вход: https://zakupki.gov.ru/
+Федеральный оператор ЕИС (см. карточку информационной системы ниже) — канонический вход: https://zakupki.gov.ru/epz/main/public/home.html
 
 - Карточка ИС: [ЕИС в сфере закупок](/information-systems/federal/zakupki) — официальное описание границ системы и каналов доступа.
 
@@ -69,7 +69,7 @@ related_pages:
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Главная ЕИС | https://zakupki.gov.ru/ | HTML |
+| Главная ЕИС | https://zakupki.gov.ru/epz/main/public/home.html | HTML |
 | Поиск и реестры | разделы «Закупки», «Контракты», «Реестры» на zakupki.gov.ru | HTML / выгрузки по правилам ЕИС |
 
 ## Объекты данных и показатели
@@ -90,7 +90,7 @@ related_pages:
 ## Примеры доступа
 
 ```bash
-curl -sS -I 'https://zakupki.gov.ru/' | head -n 5
+curl -sS -I 'https://zakupki.gov.ru/epz/main/public/home.html' | head -n 5
 ```
 
 ## Связанные страницы wiki

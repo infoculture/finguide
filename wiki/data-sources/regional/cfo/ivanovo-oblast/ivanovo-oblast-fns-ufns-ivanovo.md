@@ -5,16 +5,16 @@ tags:
   - data-source
   - regional
   - tax
-last_updated: 2026-05-14
+last_updated: 2026-07-16
 slug: /data-sources/regional/ivanovo-oblast-fns-ufns-ivanovo
-source_url: 'https://www.nalog.gov.ru/rn37'
+source_url: 'https://www.nalog.gov.ru/rn37/'
 data_source_kind: portal
 jurisdiction: regional
 access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-14
+last_verified: 2026-07-16
 data_completeness: partial
 machine_readability: html
 description: >-
@@ -61,7 +61,7 @@ related_pages:
 
 ## Оператор
 
-Управление Федеральной налоговой службы по Ивановской области — канонический вход: https://www.nalog.gov.ru/rn37
+Управление Федеральной налоговой службы по Ивановской области — канонический вход: https://www.nalog.gov.ru/rn37/
 
 - Карточка ИС: [Официальный сайт ФНС России](/information-systems/federal/fnssite) — федеральная ИС/портал, к которой относится региональная витрина.
 
@@ -69,7 +69,7 @@ related_pages:
 
 | Тип доступа | URL | Формат |
 | --- | --- | --- |
-| Региональная страница (код 37) | https://www.nalog.gov.ru/rn37 | HTML |
+| Региональная страница (код 37) | https://www.nalog.gov.ru/rn37/ | HTML |
 
 ## Объекты данных и показатели
 

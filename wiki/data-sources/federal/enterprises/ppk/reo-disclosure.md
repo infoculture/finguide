@@ -30,6 +30,13 @@ related_pages:
   - /legal/223-fz
   - /data-sources/federal/procurement
   - /data-sources/federal/subsidy
+jurisdiction_level: federal
+data_completeness: unknown
+machine_readability: mixed
+legal_significance: official
+update_lag: unknown
+archive_depth: unknown
+license_or_terms: not-explicit
 ---
 
 # Публично-правовая компания "Российский экологический оператор": отчётность и раскрытие

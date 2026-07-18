@@ -23,6 +23,9 @@ description: >-
   материалы по планированию и исполнению окружного бюджета, ссылки на смежные разделы и отчётность.
 content_type: data_source
 entity_type: data-source
+relationships:
+  - type: published_by
+    target: /organizations/khmao-yugra-finance-department
 related_pages:
   - /data-sources/regional/subject-khmao-yugra-sources-overview
   - /data-sources/regional/khmao-yugra-depfin-open-budget-citizens

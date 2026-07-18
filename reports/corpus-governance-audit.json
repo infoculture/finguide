@@ -1,0 +1,1089 @@
+{
+  "audit_as_of": "2026-07-16",
+  "freshness": {
+    "groups": {
+      "legal-document": {
+        "stale_or_unverified": 29,
+        "total": 32
+      },
+      "organization": {
+        "federal-gos-nko-snapshot": {
+          "lifecycle_unknown": 58,
+          "stale": 0,
+          "total": 58
+        }
+      }
+    },
+    "legal_stale_after_days": 180,
+    "legal_stale_or_unverified": [
+      {
+        "last_verified": null,
+        "slug": "/legal/129fz-egrul"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/135fz-competition"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/147fz-natural-monopolies"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/161fz-unitary-enterprises"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/174fz-autonomous-institutions"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/223-fz"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/236fz-ppk"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/311fz-customs-regulation"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/41fz"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/44fz"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/7fz-nko"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/8fz"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/94fz-legacy-procurement"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/99fz-federal-budget-execution"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/accounting-instructions"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/budget-classification-orders"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/budget-code"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/budgetlaw"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/civil-code"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/constitution"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/customs-code-eaeu"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/extrabudgetary-fund-budget-laws"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/government-594-fcp"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/nwf-289fz"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/open-data-law"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/pp640-state-assignment"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/state-corporation-charter-laws"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/strategic-planning-172fz"
+      },
+      {
+        "last_verified": null,
+        "slug": "/legal/tax-code"
+      }
+    ],
+    "snapshot_stale_after_days": 365
+  },
+  "lifecycle": {
+    "inventory": [
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://erdc.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/agentstvo-dalnego-vostoka-po-privlecheniyu-investitsiy-i-podderz",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"АГЕНТСТВО ДАЛЬНЕГО ВОСТОКА ПО ПРИВЛЕЧЕНИЮ ИНВЕСТИЦИЙ И ПОДДЕРЖКЕ ЭКСПОРТА\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://www.exportcenter.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/agentstvo-investitsionnogo-razvitiya",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"АГЕНТСТВО ИНВЕСТИЦИОННОГО РАЗВИТИЯ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://erdc.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/agentstvo-po-razvitiyu-chelovecheskogo-kapitala-na-dalnem-vostok",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"АГЕНТСТВО ПО РАЗВИТИЮ ЧЕЛОВЕЧЕСКОГО КАПИТАЛА НА ДАЛЬНЕМ ВОСТОКЕ И В АРКТИКЕ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://asi.org/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/agentstvo-po-tehnologicheskomu-razvitiyu",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"АГЕНТСТВО ПО ТЕХНОЛОГИЧЕСКОМУ РАЗВИТИЮ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://worldskills.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/agentstvo-razvitiya-professionalnogo-masterstva-vorldskills-ross",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"АГЕНТСТВО РАЗВИТИЯ ПРОФЕССИОНАЛЬНОГО МАСТЕРСТВА (ВОРЛДСКИЛЛС РОССИЯ)\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://asi.org/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/agentstvo-strategicheskikh-initsiativ-ano",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"АГЕНТСТВО СТРАТЕГИЧЕСКИХ ИНИЦИАТИВ ПО ПРОДВИЖЕНИЮ НОВЫХ ПРОЕКТОВ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://ac.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/analiticheskiy-tsentr-pri-pravitelstve",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"АНАЛИТИЧЕСКИЙ ЦЕНТР ПРИ ПРАВИТЕЛЬСТВЕ РОССИЙСКОЙ ФЕДЕРАЦИИ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://www.minsport.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/arena-2018",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"АРЕНА-2018\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://mintrans.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/direktsiya-mezhdunarodnyh-transportnyh-koridorov",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ДИРЕКЦИЯ МЕЖДУНАРОДНЫХ ТРАНСПОРТНЫХ КОРИДОРОВ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://mintrans.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/direktsiya-po-razvitiyu-transportnoy-sistemy-sankt-peterburga-i-",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ДИРЕКЦИЯ ПО РАЗВИТИЮ ТРАНСПОРТНОЙ СИСТЕМЫ САНКТ-ПЕТЕРБУРГА И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://mintrans.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/direktsiya-po-upravleniyu-federalnoy-tselevoy-programmoy",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ДИРЕКЦИЯ ПО УПРАВЛЕНИЮ ФЕДЕРАЛЬНОЙ ЦЕЛЕВОЙ ПРОГРАММОЙ \"СОЦИАЛЬНО-ЭКОНОМИЧЕСКОЕ РАЗВИТИЕ РЕСПУБЛИКИ КРЫМ И Г. СЕВАСТОПОЛЯ ДО 2022 ГОДА\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://mintrans.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/edinaya-transportnaya-direktsiya",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ЕДИНАЯ ТРАНСПОРТНАЯ ДИРЕКЦИЯ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://fcktr.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/federalnyy-tsentr-kompetentsiy-v-sfere-proizvoditelnosti-truda",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ФЕДЕРАЛЬНЫЙ ЦЕНТР КОМПЕТЕНЦИЙ В СФЕРЕ ПРОИЗВОДИТЕЛЬНОСТИ ТРУДА\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://xn--h1aaridg8g.xn--p1ai/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/fond-istoriya-otechestva",
+        "snapshot_name": "ФОНД \"ИСТОРИЯ ОТЕЧЕСТВА\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://fpi.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/fond-perspektivnyh-issledovaniy",
+        "snapshot_name": "ФОНД ПЕРСПЕКТИВНЫХ ИССЛЕДОВАНИЙ",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://islamfund.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/fond-podderzhki-islamskoy-kultury-nauki-i-obrazovaniya",
+        "snapshot_name": "ФОНД ПОДДЕРЖКИ ИСЛАМСКОЙ КУЛЬТУРЫ, НАУКИ И ОБРАЗОВАНИЯ",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://fondmonogorod.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/fond-razvitiya-monogorodov",
+        "snapshot_name": "НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ФОНД РАЗВИТИЯ МОНОГОРОДОВ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://solovki-monastyr.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/fond-solovki",
+        "snapshot_name": "ФОНД ПО СОХРАНЕНИЮ И РАЗВИТИЮ СОЛОВЕЦКОГО АРХИПЕЛАГА",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://fondvp.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/fond-spetsializirovannyh-programm-podderzhki-razvitiya-i-stimuli",
+        "snapshot_name": "ФОНД СПЕЦИАЛИЗИРОВАННЫХ ПРОГРАММ ПОДДЕРЖКИ, РАЗВИТИЯ И СТИМУЛИРОВАНИЯ УПРАВЛЕНИЯ ДЕЛАМИ ПРЕЗИДЕНТА РОССИЙСКОЙ ФЕДЕРАЦИИ",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://xn----gtbba5bf4bb.xn--p1ai/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/fond-zashchity-ddu",
+        "snapshot_name": "ПУБЛИЧНО-ПРАВОВАЯ КОМПАНИЯ \"ФОНД ЗАЩИТЫ ПРАВ ГРАЖДАН - УЧАСТНИКОВ ДОЛЕВОГО СТРОИТЕЛЬСТВА\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://xn----gtbba5bf4bb.xn--p1ai/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/fond-zashchity-ddu-legacy",
+        "snapshot_name": "ФОНД ЗАЩИТЫ ПРАВ ГРАЖДАН – УЧАСТНИКОВ ДОЛЕВОГО СТРОИТЕЛЬСТВА",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://dom.gosuslugi.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/fond-zhkh-reform",
+        "snapshot_name": "ГОСУДАРСТВЕННАЯ КОРПОРАЦИЯ - ФОНД СОДЕЙСТВИЯ РЕФОРМИРОВАНИЮ ЖИЛИЩНО-КОММУНАЛЬНОГО ХОЗЯЙСТВА",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://rostec.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/gk-razrabotka-proizvodstvo",
+        "snapshot_name": "ГОСУДАРСТВЕННАЯ КОРПОРАЦИЯ ПО СОДЕЙСТВИЮ РАЗРАБОТКЕ, ПРОИЗВОДСТВУ И ЭКСПОРТУ ВЫСОКОТЕХНОЛОГИЧНОЙ ПРОМЫШЛЕННОЙ ПРОДУКЦИИ \"РОСТЕХ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://mcx.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/informatsionno-analiticheskiy-tsentr-po-voprosam-vneshnetorgovoy",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ИНФОРМАЦИОННО-АНАЛИТИЧЕСКИЙ ЦЕНТР ПО ВОПРОСАМ ВНЕШНЕТОРГОВОЙ ДЕЯТЕЛЬНОСТИ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://iri.org.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/institut-razvitiya-interneta",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ИНСТИТУТ РАЗВИТИЯ ИНТЕРНЕТА\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://issd.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/institut-strategii-ustoychivogo-razvitiya",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ СОЦИАЛЬНО-ПРАВОВЫХ УСЛУГ \"ИНСТИТУТ СТРАТЕГИИ УСТОЙЧИВОГО РАЗВИТИЯ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://minsport.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/ispolnitelnaya-direktsiya",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ИСПОЛНИТЕЛЬНАЯ ДИРЕКЦИЯ \"УНИВЕРСИАДА-2023\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://minsport.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/ispolnitelnaya-direktsiya-xxix-vsemirnoy-zimney-universiady-2019",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ИСПОЛНИТЕЛЬНАЯ ДИРЕКЦИЯ XXIX ВСЕМИРНОЙ ЗИМНЕЙ УНИВЕРСИАДЫ 2019 ГОДА В Г. КРАСНОЯРСКЕ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://cctld.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/koordinatsionnyy-tsentr-natsionalnogo-domena-seti-internet",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"КООРДИНАЦИОННЫЙ ЦЕНТР НАЦИОНАЛЬНОГО ДОМЕНА СЕТИ ИНТЕРНЕТ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://minsport.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/lokalnaya-organizatsionnaya-struktura-uefa-evro-2020",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ «ЛОКАЛЬНАЯ ОРГАНИЗАЦИОННАЯ СТРУКТУРА УЕФА ЕВРО 2020»",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://nark.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/nark",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"НАЦИОНАЛЬНОЕ АГЕНТСТВО РАЗВИТИЯ КВАЛИФИКАЦИЙ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://nationalpriority.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/natsionalnye-prioritety",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"НАЦИОНАЛЬНЫЕ ПРИОРИТЕТЫ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://bigenc.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/natsionalnyy-nauchno-obrazovatelnyy-tsentr",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"НАЦИОНАЛЬНЫЙ НАУЧНО-ОБРАЗОВАТЕЛЬНЫЙ ЦЕНТР \"БОЛЬШАЯ РОССИЙСКАЯ ЭНЦИКЛОПЕДИЯ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://rospotrebnadzor.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/natsionalnyy-nauchnyy-tsentr-kompetentsiy-v-sfere-protivodeystvi",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"НАЦИОНАЛЬНЫЙ НАУЧНЫЙ ЦЕНТР КОМПЕТЕНЦИЙ В СФЕРЕ ПРОТИВОДЕЙСТВИЯ НЕЗАКОННОМУ ОБОРОТУ ПРОМЫШЛЕННОЙ ПРОДУКЦИИ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://iidf.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/nekommercheskaya-organizatsiya-fond-razvitiya-tsentra-razrabotki",
+        "snapshot_name": "НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ ФОНД РАЗВИТИЯ ЦЕНТРА РАЗРАБОТКИ И КОММЕРЦИАЛИЗАЦИИ НОВЫХ ТЕХНОЛОГИЙ",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://otr-online.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/obschestvennoe-televidenie-rossii",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ОБЩЕСТВЕННОЕ ТЕЛЕВИДЕНИЕ РОССИИ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://minsport.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/organizatsionnyy-komitet-po-podgotovke-i-provedeniyu-v-2022-godu",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ «ОРГАНИЗАЦИОННЫЙ КОМИТЕТ ПО ПОДГОТОВКЕ И ПРОВЕДЕНИЮ В 2022 ГОДУ ЧЕМПИОНАТА МИРА ПО ВОЛЕЙБОЛУ ФИВБ»",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://www.business.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/platforma-dlya-raboty-s-obrascheniyami-predprinimateley",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ПЛАТФОРМА ДЛЯ РАБОТЫ С ОБРАЩЕНИЯМИ ПРЕДПРИНИМАТЕЛЕЙ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://xn----7sbauboseoccignp9a6cvfij.xn--p1ai/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/platforma-natsionalnaya-tekhnologiya",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ «ПЛАТФОРМА НАЦИОНАЛЬНОЙ ТЕХНОЛОГИЧЕСКОЙ ИНИЦИАТИВЫ»",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://reo.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/ppk-obrashchenie-s-otkhodami",
+        "snapshot_name": "ПУБЛИЧНО-ПРАВОВАЯ КОМПАНИЯ ПО ФОРМИРОВАНИЮ КОМПЛЕКСНОЙ СИСТЕМЫ ОБРАЩЕНИЯ С ТВЕРДЫМИ КОММУНАЛЬНЫМИ ОТХОДАМИ \"РОССИЙСКИЙ ЭКОЛОГИЧЕСКИЙ ОПЕРАТОР\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://council.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/redaktsiya-telekanala-soveta-federatsii",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"РЕДАКЦИЯ ТЕЛЕКАНАЛА СОВЕТА ФЕДЕРАЦИИ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://rfrit.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/rfrit",
+        "snapshot_name": "РОССИЙСКИЙ ФОНД РАЗВИТИЯ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://rscf.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/rosnauchnyy-fond",
+        "snapshot_name": "РОССИЙСКИЙ НАУЧНЫЙ ФОНД",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://rsv.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/rossiya-strana-vozmozhnostey",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"РОССИЯ - СТРАНА ВОЗМОЖНОСТЕЙ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://rsq.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/rossiyskaya-sistema-kachestva",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"РОССИЙСКАЯ СИСТЕМА КАЧЕСТВА\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://rdsh.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/rossiyskoe-dvizhenie-shkolnikov",
+        "snapshot_name": "ОБЩЕРОССИЙСКАЯ ОБЩЕСТВЕННО-ГОСУДАРСТВЕННАЯ ДЕТСКО-ЮНОШЕСКАЯ ОРГАНИЗАЦИЯ \"РОССИЙСКОЕ ДВИЖЕНИЕ ШКОЛЬНИКОВ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://mintrans.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/transportnaya-direktsiya-chempionata-mira-po-futbolu-2018-goda-v",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ТРАНСПОРТНАЯ ДИРЕКЦИЯ ЧЕМПИОНАТА МИРА ПО ФУТБОЛУ 2018 ГОДА В РОССИЙСКОЙ ФЕДЕРАЦИИ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://www.economy.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/tsentr-ekspertizy-po-voprosam-vsemirnoy-torgovoy-organizatsii",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ЦЕНТР ЭКСПЕРТИЗЫ ПО ВОПРОСАМ ВСЕМИРНОЙ ТОРГОВОЙ ОРГАНИЗАЦИИ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://fadm.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/tsentr-izucheniya-i-setevogo-monitoringa-molodezhnoy-sredy",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ «ЦЕНТР ИЗУЧЕНИЯ И СЕТЕВОГО МОНИТОРИНГА МОЛОДЕЖНОЙ СРЕДЫ»",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://minsport.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/tsentr-planirovaniya-i-monitoringa-programmy-podgotovki-k-proved",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ЦЕНТР ПЛАНИРОВАНИЯ И МОНИТОРИНГА ПРОГРАММЫ ПОДГОТОВКИ К ПРОВЕДЕНИЮ В 2018 ГОДУ В РОССИЙСКОЙ ФЕДЕРАЦИИ ЧЕМПИОНАТА МИРА ПО ФУТБОЛУ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://xn--80aeeqaabljrdbg6a3ahhcl4ay9hsa.xn--p1ai/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/tsentr-razvitiya-kulturnyh-initsiativ",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ «ЦЕНТР РАЗВИТИЯ КУЛЬТУРНЫХ ИНИЦИАТИВ»",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://www.csr.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/tsentr-strategicheskih-razrabotok",
+        "snapshot_name": "ФОНД \"ЦЕНТР СТРАТЕГИЧЕСКИХ РАЗРАБОТОК\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://digital.gov.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/tsifrovaya-ekonomika",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ЦИФРОВАЯ ЭКОНОМИКА\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://tvnovosti.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/tv-novosti",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"ТВ-НОВОСТИ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://innopolis.university/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/universitet-innopolis",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ ВЫСШЕГО ОБРАЗОВАНИЯ \"УНИВЕРСИТЕТ ИННОПОЛИС\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://2035.university/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/universitet-natsionalnoy-tehnologicheskoy-initsiativy-2035",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ \"УНИВЕРСИТЕТ НАЦИОНАЛЬНОЙ ТЕХНОЛОГИЧЕСКОЙ ИНИЦИАТИВЫ 2035\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://yunostrossii.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/yunost-rossii",
+        "snapshot_name": "ОБЩЕСТВЕННО-ГОСУДАРСТВЕННОЕ ФИЗКУЛЬТУРНО-СПОРТИВНОЕ ОБЪЕДИНЕНИЕ \"ЮНОСТЬ РОССИИ\"",
+        "status_as_of": "2026-07-16"
+      },
+      {
+        "as_of": "2020-11-26",
+        "current_name": null,
+        "lifecycle_status": "unknown",
+        "official_site": "https://zhkh-zashchita.ru/",
+        "possible_successor_slug": null,
+        "slug": "/organizations/federal-gos-nko/zhkh-zaschita",
+        "snapshot_name": "АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ ПО ЗАЩИТЕ ИНТЕРЕСОВ ГРАЖДАН И ОРГАНИЗАЦИЙ В СФЕРЕ ЖИЛИЩНО-КОММУНАЛЬНОГО ХОЗЯЙСТВА И БЛАГОУСТРОЙСТВА ТЕРРИТОРИЙ \"ЖКХ ЗАЩИТА\"",
+        "status_as_of": "2026-07-16"
+      }
+    ],
+    "missing_as_of": [],
+    "missing_status_as_of": [],
+    "snapshot_cards": 58,
+    "stale": [],
+    "status_values": {
+      "unknown": 58
+    }
+  },
+  "navigation": {
+    "exceptions": [],
+    "roots": [
+      "/data-sources/federal"
+    ],
+    "source_unreachable_by_family": {
+      "civil": [],
+      "curated-federal": [],
+      "electronic-budget-import": [],
+      "fns-import": [],
+      "international": [],
+      "regional": [],
+      "state-sector": []
+    },
+    "source_zero_inbound_by_family": {
+      "civil": [],
+      "curated-federal": [],
+      "electronic-budget-import": [],
+      "fns-import": [],
+      "international": [],
+      "regional": [],
+      "state-sector": []
+    },
+    "zero_inbound_by_entity_type": {
+      "(missing)": [
+        "/",
+        "/data-sources/regional/subject-khanty-mansi-autonomous-okrug-yugra-sources-overview",
+        "/intro/analytics-scenarios-catalog",
+        "/reference/budget-cycle",
+        "/reference/links",
+        "/reference/openprojects",
+        "/reference/organization-codes",
+        "/reference/principles"
+      ],
+      "glossary": [
+        "/glossary/public-obligations",
+        "/glossary/state-credits-to-foreign-borrowers"
+      ],
+      "howto": [
+        "/howto/analysis/reconcile-sfr-ffoms-budget-data"
+      ],
+      "legal-document": [
+        "/legal/99fz-federal-budget-execution",
+        "/legal/extrabudgetary-fund-budget-laws"
+      ],
+      "organization": [
+        "/organizations/minobrnauki",
+        "/organizations/mintrud",
+        "/organizations/minzdrav"
+      ]
+    }
+  },
+  "provenance": {
+    "jurisdiction_level_values": {
+      "(missing)": 950,
+      "federal": 626,
+      "international": 11,
+      "multilevel": 8
+    },
+    "legal_significance_values": {
+      "(missing)": 950,
+      "aggregator": 2,
+      "civil_repackaging": 6,
+      "official": 637
+    },
+    "source_authority_values": {
+      "(missing)": 879,
+      "civil": 3,
+      "federal": 462,
+      "municipal": 17,
+      "regional": 214,
+      "Администрация Петропавловск-Камчатского городского округа": 1,
+      "Законодательное Собрание Камчатского края": 1,
+      "Контрольно-счётная палата города Рязани": 1,
+      "Контрольно-счётная палата Рязанской области": 1,
+      "Министерство финансов Камчатского края": 1,
+      "Министерство финансов Камчатского края (публикация на kamgov.ru)": 1,
+      "Министерство финансов Рязанской области": 3,
+      "Министерство экономического развития Рязанской области": 1,
+      "Оператор региональной витрины закупок Рязанской области (czro.ru)": 1,
+      "Рязанская областная Дума": 1,
+      "Территориальный орган Росстата по Рязанской области": 1,
+      "Территориальный фонд обязательного медицинского страхования Камчатского края": 1,
+      "Территориальный фонд обязательного медицинского страхования Рязанской области": 1,
+      "Управление Федерального казначейства по Рязанской области": 1,
+      "Управление Федеральной налоговой службы по Рязанской области": 1,
+      "Федеральная налоговая служба (УФНС по Камчатскому краю)": 1,
+      "Федеральная служба государственной статистики (территориальный орган по Камчатскому краю)": 1,
+      "Федеральное казначейство (территориальное управление по Камчатскому краю)": 1
+    }
+  },
+  "quality_exceptions": [
+    {
+      "family": "curated-federal",
+      "field": "last_verified",
+      "missing": 62,
+      "reason": "Legacy curated cards without an individual network recheck keep last_verified empty until an editorial verification pass; no date is inferred from last_updated.",
+      "total": 96
+    },
+    {
+      "family": "civil",
+      "field": "last_verified",
+      "missing": 5,
+      "reason": "Civil-source cards require an individual availability and ownership review; the migration preserves an unknown verification date instead of asserting one from historical content.",
+      "total": 5
+    }
+  ],
+  "schema_version": 1,
+  "source_families": {
+    "civil": {
+      "quality": {
+        "archive_depth": {
+          "missing": 0,
+          "populated": 5
+        },
+        "data_completeness": {
+          "missing": 0,
+          "populated": 5
+        },
+        "last_verified": {
+          "missing": 5,
+          "populated": 0
+        },
+        "legal_significance": {
+          "missing": 0,
+          "populated": 5
+        },
+        "license_or_terms": {
+          "missing": 0,
+          "populated": 5
+        },
+        "machine_readability": {
+          "missing": 0,
+          "populated": 5
+        },
+        "update_lag": {
+          "missing": 0,
+          "populated": 5
+        }
+      },
+      "total": 5,
+      "unreachable_from_navigation_root": [],
+      "zero_inbound": []
+    },
+    "curated-federal": {
+      "quality": {
+        "archive_depth": {
+          "missing": 0,
+          "populated": 96
+        },
+        "data_completeness": {
+          "missing": 0,
+          "populated": 96
+        },
+        "last_verified": {
+          "missing": 62,
+          "populated": 34
+        },
+        "legal_significance": {
+          "missing": 0,
+          "populated": 96
+        },
+        "license_or_terms": {
+          "missing": 0,
+          "populated": 96
+        },
+        "machine_readability": {
+          "missing": 0,
+          "populated": 96
+        },
+        "update_lag": {
+          "missing": 0,
+          "populated": 96
+        }
+      },
+      "total": 96,
+      "unreachable_from_navigation_root": [],
+      "zero_inbound": []
+    },
+    "electronic-budget-import": {
+      "quality": {
+        "archive_depth": {
+          "missing": 0,
+          "populated": 345
+        },
+        "data_completeness": {
+          "missing": 0,
+          "populated": 345
+        },
+        "last_verified": {
+          "missing": 0,
+          "populated": 345
+        },
+        "legal_significance": {
+          "missing": 0,
+          "populated": 345
+        },
+        "license_or_terms": {
+          "missing": 0,
+          "populated": 345
+        },
+        "machine_readability": {
+          "missing": 0,
+          "populated": 345
+        },
+        "update_lag": {
+          "missing": 0,
+          "populated": 345
+        }
+      },
+      "total": 345,
+      "unreachable_from_navigation_root": [],
+      "zero_inbound": []
+    },
+    "fns-import": {
+      "quality": {
+        "archive_depth": {
+          "missing": 0,
+          "populated": 95
+        },
+        "data_completeness": {
+          "missing": 0,
+          "populated": 95
+        },
+        "last_verified": {
+          "missing": 0,
+          "populated": 95
+        },
+        "legal_significance": {
+          "missing": 0,
+          "populated": 95
+        },
+        "license_or_terms": {
+          "missing": 0,
+          "populated": 95
+        },
+        "machine_readability": {
+          "missing": 0,
+          "populated": 95
+        },
+        "update_lag": {
+          "missing": 0,
+          "populated": 95
+        }
+      },
+      "total": 95,
+      "unreachable_from_navigation_root": [],
+      "zero_inbound": []
+    },
+    "international": {
+      "quality": {
+        "archive_depth": {
+          "missing": 0,
+          "populated": 11
+        },
+        "data_completeness": {
+          "missing": 0,
+          "populated": 11
+        },
+        "last_verified": {
+          "missing": 0,
+          "populated": 11
+        },
+        "legal_significance": {
+          "missing": 0,
+          "populated": 11
+        },
+        "license_or_terms": {
+          "missing": 0,
+          "populated": 11
+        },
+        "machine_readability": {
+          "missing": 0,
+          "populated": 11
+        },
+        "update_lag": {
+          "missing": 0,
+          "populated": 11
+        }
+      },
+      "total": 11,
+      "unreachable_from_navigation_root": [],
+      "zero_inbound": []
+    },
+    "regional": {
+      "quality": {
+        "archive_depth": {
+          "missing": 950,
+          "populated": 0
+        },
+        "data_completeness": {
+          "missing": 330,
+          "populated": 620
+        },
+        "last_verified": {
+          "missing": 4,
+          "populated": 946
+        },
+        "legal_significance": {
+          "missing": 950,
+          "populated": 0
+        },
+        "license_or_terms": {
+          "missing": 950,
+          "populated": 0
+        },
+        "machine_readability": {
+          "missing": 344,
+          "populated": 606
+        },
+        "update_lag": {
+          "missing": 950,
+          "populated": 0
+        }
+      },
+      "total": 950,
+      "unreachable_from_navigation_root": [],
+      "zero_inbound": []
+    },
+    "state-sector": {
+      "quality": {
+        "archive_depth": {
+          "missing": 0,
+          "populated": 93
+        },
+        "data_completeness": {
+          "missing": 0,
+          "populated": 93
+        },
+        "last_verified": {
+          "missing": 0,
+          "populated": 93
+        },
+        "legal_significance": {
+          "missing": 0,
+          "populated": 93
+        },
+        "license_or_terms": {
+          "missing": 0,
+          "populated": 93
+        },
+        "machine_readability": {
+          "missing": 0,
+          "populated": 93
+        },
+        "update_lag": {
+          "missing": 0,
+          "populated": 93
+        }
+      },
+      "total": 93,
+      "unreachable_from_navigation_root": [],
+      "zero_inbound": []
+    }
+  },
+  "totals": {
+    "data_sources": 1595,
+    "documents": 2106,
+    "graph_edges": 28109
+  }
+}
