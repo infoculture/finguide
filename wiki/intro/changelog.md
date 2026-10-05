@@ -7,13 +7,21 @@ description: >-
 tags:
   - intro
   - changelog
-last_updated: 2026-05-13T23:59:00.000Z
+last_updated: 2026-10-05T00:00:00.000Z
 content_type: reference
 ---
 
 # История изменений
 
 История структурных и содержательных обновлений базы знаний.
+
+## 2026-10-05
+
+- Глоссарий: **завершена редакционная миграция** по спеке `glossary-card-content` (OpenSpec change `update-glossary-editorial-depth`) — все 89 карточек во всех 7 подкаталогах получили раздел «Зачем … и кто за что отвечает» (происхождение термина + явное разделение ролей «ведение перечня» vs «применение в сфере»); для классификационных терминов добавлены подразделы «Формат и иерархия кода» ([КБК](/glossary/kbk), [КВР](/glossary/kvr), [КОСГУ](/glossary/kosgu), [АнКВД/АнКВИ](/glossary/ankv), [КПП](/glossary/kpp), [ОКТМО](/glossary/oktmo), [ОКВЭД2](/glossary/okved), ведомственная структура расходов и др.).
+- Для сопровождения корпуса: в `npm run lint:corpus` добавлены эвристики обязательного блока происхождения у глоссарных карточек и кодового подраздела у `glossary_kind: classification`; [шаблон глоссарной карточки](https://github.com/infoculture/finguide/blob/master/wiki/glossary/glossary-card-template.md) и [AGENTS.md](https://github.com/infoculture/finguide/blob/master/AGENTS.md) синхронизированы с принятым стилем; статус миграции зафиксирован в [плане наполнения](/intro/wiki-filling-plan).
+- Источники данных: **углублены 15 карточек** Казначейства, Минфина и ГИС ГМП с живой верификацией 2026-10-03 — хаб-карта раздела «Исполнение бюджетов» ([отчёты Казначейства](/data-sources/federal/roskazna-reports)) с картой девяти подразделов и их фильтров; [консолидированные бюджеты субъектов](/data-sources/federal/roskazna-consolidated-subjects-execution) (формы 0503317/0503320/0503321/0503323, свод-«шахматка» по РФ и округам); [свод по учреждениям субъектов](/data-sources/federal/roskazna-regional-institutions-execution-summary) (0503737 по КФО, ZIP в ZIP); [использование выделяемых средств](/data-sources/federal/roskazna-budget-funds-use) (расходы главы 100); [исполнение ПП № 658](/data-sources/federal/roskazna-pp658-execution) (замороженный комплект методики централизации учёта); Минфин — [fedbud/execute](/data-sources/federal/minfin-fedbud-execute) (три согласованных ряда, легенда ЕНС/СПОТ), [outbud/execute](/data-sources/federal/minfin-outbud-execute) (границы валидности строк ПФР/ФСС/СФР), [fedbud/oil](/data-sources/federal/minfin-fedbud-oil) (расчёт дополнительных НГД), [реестр открытых данных](/data-sources/federal/minfin-opendata) (75 наборов); финансовые операции — [размещения ЕКС](/data-sources/federal/roskazna-finops-treasury-account-placements), [ЕСФБ](/data-sources/federal/roskazna-finops-federal-budget-account-placements) и [СФР](/data-sources/federal/roskazna-finops-pension-social-fund-placements) (XML-схемы отборов, серии идентификаторов 1/2/3xxxxxxx), удалённая страница [«Операционный день»](/data-sources/federal/roskazna-finops-operating-day) (историческая, Wayback), [ГМИ ГМП](/data-sources/federal/gis-gmp-public-derivatives).
+- Верификация источников: **331 карточка получила `last_verified: 2026-10-04`** — 95 наборов открытых данных ФНС (снята сниженная приоритетность, зафиксированы глубина архива — до 1533 версий файла — и даты последних выгрузок, форматы сверены с фактическими файлами), 105 региональных УФНС на nalog.gov.ru, 116 региональных порталов и 35 карточек gosnko/disclosure с живыми URL; регрессионный QA-поиск (176 вопросов) — без нарушений.
+- Для редакторов: корневой README дополнен таблицей проверок качества корпуса и полной структурой репозитория (`scripts/`, `openspec/`, `exports/`, `tests/`).
 
 ## 2026-05-13
 

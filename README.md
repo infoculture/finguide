@@ -19,6 +19,10 @@
 ├── sidebars.ts            # Структура навигации и сайдбара
 ├── package.json           # Зависимости и npm-скрипты
 ├── tsconfig.json          # Настройки TypeScript
+├── scripts/               # Линтеры корпуса, экспорт знаний, служебные скрипты
+├── openspec/              # Спецификации и change-предложения качества корпуса
+├── exports/               # knowledge-index.jsonl и knowledge-graph.json (генерируются)
+├── tests/                 # QA-набор вопросов для qa:retrieval
 ├── src/                   # Кастомные стили и компоненты
 │   └── css/custom.css
 ├── static/                # Статические ассеты (PDF, изображения)
@@ -66,6 +70,23 @@ npm start
 | `npm run clear` | Очистка кэша Docusaurus |
 | `npm run typecheck` | Проверка типов TypeScript |
 | `npm run deploy` | Публикация на GitHub Pages |
+
+## Проверки качества корпуса
+
+Выполняйте перед PR (тот же набор запускает CI):
+
+| Команда | Проверяет |
+| --- | --- |
+| `npm run lint:frontmatter` | Обязательные и допустимые поля frontmatter (белый список тегов, `content_type`, `entity_type`) |
+| `npm run lint:corpus` | Заглушки и структуру карточек (README-хабы, короткие страницы, заголовки); для глоссария — блок происхождения/ответственности и кодовый подраздел у `glossary_kind: classification` |
+| `npm run lint:related-pages` | Существование всех slug в `related_pages` и перекрёстных ссылках |
+| `npm run lint:howto` | Структуру howto-страниц по playbook |
+| `npm run lint:qa` | Согласованность QA-набора вопросов с индексом |
+| `npm run export:knowledge` | Пересборку `exports/knowledge-index.jsonl` и `exports/knowledge-graph.json` |
+| `npm run export:knowledge -- --check` | Соответствие экспорта текущему корпусу (для CI) |
+| `npm run qa:retrieval` | Регрессию лексического поиска по 176 эталонным вопросам |
+
+Нормативные требования к содержанию карточек — в [`AGENTS.md`](./AGENTS.md); спецификации и change-предложения — в [`openspec/`](./openspec/AGENTS.md).
 
 ## Как редактировать контент
 
