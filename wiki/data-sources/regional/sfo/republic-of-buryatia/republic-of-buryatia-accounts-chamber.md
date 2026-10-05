@@ -14,7 +14,8 @@ access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-14T00:00:00.000Z
+last_verified: 2026-10-04T00:00:00.000Z
+rag_priority: low
 description: >-
   Автоимпорт из _dev/rf_finance_sources_table_full.md (Прочие источники по
   госфинансам): Результаты контрольных мероприятий, отчеты
@@ -26,7 +27,6 @@ related_pages:
   - /data-sources/regional/how-to-find-regional-data
   - /data-sources/regional/consolidated-budgets
   - /data-sources/federal/budget-gov-ru-datasets
-rag_priority: low
 ---
 
 # Республика Бурятия: Счетная палата Республики Бурятия
@@ -47,7 +47,7 @@ rag_priority: low
 
 | Измерение | Значение для этой карточки |
 | --- | --- |
-| Дата проверки (`last_verified`) | 2026-05-14 (массовый импорт; точечная проверка URL — позже) |
+| Дата проверки (`last_verified`) | 2026-10-04 — URL источника проверен: сервер отвечает (HTTP 200), страница не пуста |
 | Полнота (`data_completeness`) | неизвестна — карточка свёрнута из широкого обзора |
 | Машиночитаемость (`machine_readability`) | HTML; машиночитаемые выгрузки не зафиксированы в таблице |
 | Юридическая значимость (`legal_significance`) | официальный или смежный региональный вход (см. комментарий таблицы) |

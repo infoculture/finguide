@@ -15,7 +15,7 @@ formats:
   - html
   - pdf
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-10-04T00:00:00.000Z
 source_authority: regional
 data_completeness: partial
 machine_readability: HTML; федеральные сервисы ФНС — преимущественно через UI

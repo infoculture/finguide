@@ -6,7 +6,7 @@ tags:
   - federal
   - tax
   - organizations
-last_updated: 2026-05-12T00:00:00.000Z
+last_updated: 2026-10-04T00:00:00.000Z
 slug: /data-sources/federal/7707329152-reestropereldoc
 content_type: data_source
 entity_type: data-source
@@ -27,11 +27,10 @@ jurisdiction_level: federal
 data_completeness: unknown
 machine_readability: files
 legal_significance: official
-update_lag: unknown
-archive_depth: unknown
+update_lag: "последний файл данных набора датирован 2026-09-03"
+archive_depth: "33 версий файла данных на странице набора (проверено 2026-10-04)"
 license_or_terms: not-explicit
-last_verified: 2026-05-12
-rag_priority: low
+last_verified: 2026-10-04
 relationships:
   - type: published_by
     target: /organizations/fns
