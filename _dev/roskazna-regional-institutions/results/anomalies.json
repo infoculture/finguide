@@ -1,0 +1,584 @@
+{
+  "x_total_marker": {
+    "occurrences": 19300,
+    "checked_files": 2888,
+    "affected_files": 2709,
+    "examples": [
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 46,
+        "value": "х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 135,
+        "value": "x"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 156,
+        "value": "х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 171,
+        "value": "х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 174,
+        "value": "х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 178,
+        "value": "х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 182,
+        "value": "х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 195,
+        "value": "х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_6.XLS",
+        "sheet": "0503737",
+        "row": 46,
+        "value": "х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_6.XLS",
+        "sheet": "0503737",
+        "row": 135,
+        "value": "x"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_6.XLS",
+        "sheet": "0503737",
+        "row": 156,
+        "value": "х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_6.XLS",
+        "sheet": "0503737",
+        "row": 171,
+        "value": "х"
+      }
+    ]
+  },
+  "negative_money": {
+    "occurrences": 79046,
+    "checked_files": 2888,
+    "affected_files": 2879,
+    "examples": [
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 46,
+        "col": "H",
+        "value": "-102560411.09"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 47,
+        "col": "H",
+        "value": "-6290939.94"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 48,
+        "col": "H",
+        "value": "-6290939.94"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 49,
+        "col": "H",
+        "value": "-11740430.83"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 50,
+        "col": "H",
+        "value": "-2048303.54"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 69,
+        "col": "H",
+        "value": "-96160395.51"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 75,
+        "col": "H",
+        "value": "-96160395.51"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 78,
+        "col": "H",
+        "value": "-96160395.51"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 84,
+        "col": "G",
+        "value": "-33870.00"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 86,
+        "col": "G",
+        "value": "-26876.15"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 110,
+        "col": "H",
+        "value": "-109075.64"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 125,
+        "col": "G",
+        "value": "-6671.80"
+      }
+    ]
+  },
+  "blank_line_code": {
+    "occurrences": 142035,
+    "checked_files": 2888,
+    "affected_files": 2128,
+    "examples": [
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 47
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 48
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 49
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 50
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 51
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 52
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 53
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 54
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 55
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 56
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 57
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503737_na_01.01.2019_КФО_7.XLS",
+        "sheet": "0503737",
+        "row": 69
+      }
+    ]
+  },
+  "alphanumeric_analytics": {
+    "occurrences": 815,
+    "checked_files": 2888,
+    "affected_files": 179,
+    "examples": [
+      {
+        "member": "FO_01.01.2019.zip!FO_0503721_svod_01.01.2019.xls",
+        "sheet": "0503721",
+        "row": 83,
+        "value": "41Х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503721_svod_01.01.2019.xls",
+        "sheet": "0503721",
+        "row": 86,
+        "value": "42Х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503721_svod_01.01.2019.xls",
+        "sheet": "0503721",
+        "row": 89,
+        "value": "43Х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503721_01.01.2019.zip!11_01.01.2019_0503721.XLS",
+        "sheet": "0503721",
+        "row": 83,
+        "value": "41Х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503721_01.01.2019.zip!11_01.01.2019_0503721.XLS",
+        "sheet": "0503721",
+        "row": 86,
+        "value": "42Х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503721_01.01.2019.zip!11_01.01.2019_0503721.XLS",
+        "sheet": "0503721",
+        "row": 89,
+        "value": "43Х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503721_01.01.2019.zip!94_01.01.2019_0503721.XLS",
+        "sheet": "0503721",
+        "row": 83,
+        "value": "41Х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503721_01.01.2019.zip!94_01.01.2019_0503721.XLS",
+        "sheet": "0503721",
+        "row": 86,
+        "value": "42Х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503721_01.01.2019.zip!94_01.01.2019_0503721.XLS",
+        "sheet": "0503721",
+        "row": 89,
+        "value": "43Х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503721_01.01.2019.zip!48_01.01.2019_0503721.XLS",
+        "sheet": "0503721",
+        "row": 83,
+        "value": "41Х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503721_01.01.2019.zip!48_01.01.2019_0503721.XLS",
+        "sheet": "0503721",
+        "row": 86,
+        "value": "42Х"
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503721_01.01.2019.zip!48_01.01.2019_0503721.XLS",
+        "sheet": "0503721",
+        "row": 89,
+        "value": "43Х"
+      }
+    ]
+  },
+  "missing_region_prefix": {
+    "occurrences": 177,
+    "checked_files": 2888,
+    "affected_files": 177,
+    "examples": [
+      {
+        "member": "FO_01.01.2019.zip!FO_0503730_01.01.2019.zip!_01.01.2019_0503730_79.XLS",
+        "layout_id": "standard_2018_0503730",
+        "region_code_system": "treasury_2digit",
+        "legacy_header_code": null,
+        "report_date": "2019-01-01",
+        "form_code": "0503730",
+        "region_code": null,
+        "region_name": null,
+        "institution_name": "ДЕПАРТАМЕНТ ФИНАНСОВ КОСТРОМСКОЙ ОБЛАСТИ",
+        "okpo": "02287081",
+        "oktmo": "34701000",
+        "kfo": null
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503730_01.01.2019.zip!_01.01.2019_0503730_48.XLS",
+        "layout_id": "standard_2018_0503730",
+        "region_code_system": "treasury_2digit",
+        "legacy_header_code": null,
+        "report_date": "2019-01-01",
+        "form_code": "0503730",
+        "region_code": null,
+        "region_name": null,
+        "institution_name": "МИНИСТЕРСТВО ФИНАНСОВ РЕСПУБЛИКИ МАРИЙ ЭЛ",
+        "okpo": "00087320",
+        "oktmo": "88701000",
+        "kfo": null
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503730_01.01.2019.zip!_01.01.2019_0503730_17.XLS",
+        "layout_id": "standard_2018_0503730",
+        "region_code_system": "treasury_2digit",
+        "legacy_header_code": null,
+        "report_date": "2019-01-01",
+        "form_code": "0503730",
+        "region_code": null,
+        "region_name": null,
+        "institution_name": "УПРАВЛЕНИЕ ФИНАНСОВ АДМИНИСТРАЦИИ ГОРОДА БАЙКОНУР",
+        "okpo": "44098922",
+        "oktmo": "55000000",
+        "kfo": null
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503730_01.01.2019.zip!_01.01.2019_0503730_66.XLS",
+        "layout_id": "standard_2018_0503730",
+        "region_code_system": "treasury_2digit",
+        "legacy_header_code": null,
+        "report_date": "2019-01-01",
+        "form_code": "0503730",
+        "region_code": null,
+        "region_name": null,
+        "institution_name": "ФИНАНСОВОЕ УПРАВЛЕНИЕ КУРГАНСКОЙ ОБЛАСТИ",
+        "okpo": "02287885",
+        "oktmo": "37701000",
+        "kfo": null
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503730_01.01.2019.zip!_01.01.2019_0503730_35.XLS",
+        "layout_id": "standard_2018_0503730",
+        "region_code_system": "treasury_2digit",
+        "legacy_header_code": null,
+        "report_date": "2019-01-01",
+        "form_code": "0503730",
+        "region_code": null,
+        "region_name": null,
+        "institution_name": "ФИНАНСОВОЕ УПРАВЛЕНИЕ ТАМБОВСКОЙ ОБЛАСТИ",
+        "okpo": "02296192",
+        "oktmo": "68701000",
+        "kfo": null
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503730_01.01.2019.zip!_01.01.2019_0503730_84.XLS",
+        "layout_id": "standard_2018_0503730",
+        "region_code_system": "treasury_2digit",
+        "legacy_header_code": null,
+        "report_date": "2019-01-01",
+        "form_code": "0503730",
+        "region_code": null,
+        "region_name": null,
+        "institution_name": "ФИНАНСОВОЕ УПРАВЛЕНИЕ ПРАВИТЕЛЬСТВА ЕВРЕЙСКОЙ АВТОНОМНОЙ ОБЛАСТИ",
+        "okpo": "02281061",
+        "oktmo": "99701000",
+        "kfo": null
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503730_01.01.2019.zip!_01.01.2019_0503730_53.XLS",
+        "layout_id": "standard_2018_0503730",
+        "region_code_system": "treasury_2digit",
+        "legacy_header_code": null,
+        "report_date": "2019-01-01",
+        "form_code": "0503730",
+        "region_code": null,
+        "region_name": null,
+        "institution_name": "МИНИСТЕРСТВО ФИНАНСОВ РЕСПУБЛИКИ ХАКАСИЯ",
+        "okpo": "00049667",
+        "oktmo": "95701000",
+        "kfo": null
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503730_01.01.2019.zip!_01.01.2019_0503730_22.XLS",
+        "layout_id": "standard_2018_0503730",
+        "region_code_system": "treasury_2digit",
+        "legacy_header_code": null,
+        "report_date": "2019-01-01",
+        "form_code": "0503730",
+        "region_code": null,
+        "region_name": null,
+        "institution_name": "ДЕПАРТАМЕНТ ФИНАНСОВ ОРЛОВСКОЙ ОБЛАСТИ",
+        "okpo": "02291792",
+        "oktmo": "54000000",
+        "kfo": null
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503730_01.01.2019.zip!_01.01.2019_0503730_71.XLS",
+        "layout_id": "standard_2018_0503730",
+        "region_code_system": "treasury_2digit",
+        "legacy_header_code": null,
+        "report_date": "2019-01-01",
+        "form_code": "0503730",
+        "region_code": null,
+        "region_name": null,
+        "institution_name": "МИНИСТЕРСТВО ФИНАНСОВ СТАВРОПОЛЬСКОГО КРАЯ",
+        "okpo": "00087716",
+        "oktmo": "07701000",
+        "kfo": null
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503730_01.01.2019.zip!_01.01.2019_0503730_4.XLS",
+        "layout_id": "standard_2018_0503730",
+        "region_code_system": "treasury_2digit",
+        "legacy_header_code": null,
+        "report_date": "2019-01-01",
+        "form_code": "0503730",
+        "region_code": null,
+        "region_name": null,
+        "institution_name": "Министерство финансов Чувашской Республики",
+        "okpo": "00086258",
+        "oktmo": "97000000",
+        "kfo": null
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503730_01.01.2019.zip!_01.01.2019_0503730_40.XLS",
+        "layout_id": "standard_2018_0503730",
+        "region_code_system": "treasury_2digit",
+        "legacy_header_code": null,
+        "report_date": "2019-01-01",
+        "form_code": "0503730",
+        "region_code": null,
+        "region_name": null,
+        "institution_name": "МИНИСТЕРСТВО ФИНАНСОВ ЧЕЧЕНСКОЙ РЕСПУБЛИКИ",
+        "okpo": "45268875",
+        "oktmo": "96701000",
+        "kfo": null
+      },
+      {
+        "member": "FO_01.01.2019.zip!FO_0503730_01.01.2019.zip!_01.01.2019_0503730_58.XLS",
+        "layout_id": "standard_2018_0503730",
+        "region_code_system": "treasury_2digit",
+        "legacy_header_code": null,
+        "report_date": "2019-01-01",
+        "form_code": "0503730",
+        "region_code": null,
+        "region_name": null,
+        "institution_name": "КОМИТЕТ ФИНАНСОВ ЛЕНИНГРАДСКОЙ ОБЛАСТИ",
+        "okpo": "02288703",
+        "oktmo": "41000000",
+        "kfo": null
+      }
+    ]
+  },
+  "text_money": {
+    "occurrences": 80,
+    "checked_files": 2888,
+    "affected_files": 15,
+    "examples": [
+      {
+        "member": "FO_0503737-na-01.10.2025.7z!ФО свод ф. 0503737 на 01.10.2025 КФО 2.XLS",
+        "sheet": "0503737",
+        "row": 171,
+        "col": "I",
+        "value": "-1 695 662 845 277,59"
+      },
+      {
+        "member": "FO_0503737-na-01.10.2025.7z!ФО свод ф. 0503737 на 01.10.2025 КФО 4.XLS",
+        "sheet": "0503737",
+        "row": 171,
+        "col": "E",
+        "value": "-5 172 048 501 037,80"
+      },
+      {
+        "member": "FO_0503737-na-01.10.2025.7z!ФО свод ф. 0503737 на 01.10.2025 КФО 4.XLS",
+        "sheet": "0503737",
+        "row": 171,
+        "col": "I",
+        "value": "-5 231 305 694 281,98"
+      },
+      {
+        "member": "FO_0503737-na-01.10.2025.7z!ФО свод ф. 0503737 на 01.10.2025 КФО 5.XLS",
+        "sheet": "0503737",
+        "row": 171,
+        "col": "E",
+        "value": "-1 405 941 456 706,26"
+      },
+      {
+        "member": "FO_0503737-na-01.10.2025.7z!ФО свод ф. 0503737 на 01.10.2025 КФО 5.XLS",
+        "sheet": "0503737",
+        "row": 171,
+        "col": "I",
+        "value": "-1 409 066 469 270,43"
+      },
+      {
+        "member": "FO_0503737-na-01.10.2025.7z!ФО свод ф. 0503737 на 01.10.2025 КФО 7.XLS",
+        "sheet": "0503737",
+        "row": 171,
+        "col": "E",
+        "value": "-2 454 658 403 434,37"
+      },
+      {
+        "member": "FO_0503737-na-01.10.2025.7z!ФО свод ф. 0503737 на 01.10.2025 КФО 7.XLS",
+        "sheet": "0503737",
+        "row": 171,
+        "col": "I",
+        "value": "-2 464 193 924 670,74"
+      },
+      {
+        "member": "ФО_01.01.2026.zip!ФО свод ф. 0503721 на 01.01.2026.XLS",
+        "sheet": "0503721",
+        "row": 18,
+        "col": "I",
+        "value": "14 985 399 747 688,89"
+      },
+      {
+        "member": "ФО_01.01.2026.zip!ФО свод ф. 0503721 на 01.01.2026.XLS",
+        "sheet": "0503721",
+        "row": 30,
+        "col": "I",
+        "value": "11 766 531 890 279,06"
+      },
+      {
+        "member": "ФО_01.01.2026.zip!ФО свод ф. 0503721 на 01.01.2026.XLS",
+        "sheet": "0503721",
+        "row": 59,
+        "col": "G",
+        "value": "-1 664 961 569 200,79"
+      },
+      {
+        "member": "ФО_01.01.2026.zip!ФО свод ф. 0503721 на 01.01.2026.XLS",
+        "sheet": "0503721",
+        "row": 59,
+        "col": "I",
+        "value": "-1 678 943 621 107,33"
+      },
+      {
+        "member": "ФО_01.01.2026.zip!ФО свод ф. 0503721 на 01.01.2026.XLS",
+        "sheet": "0503721",
+        "row": 62,
+        "col": "G",
+        "value": "-1 695 738 707 955,88"
+      }
+    ]
+  }
+}

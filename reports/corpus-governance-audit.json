@@ -781,18 +781,18 @@
   "provenance": {
     "jurisdiction_level_values": {
       "(missing)": 950,
-      "federal": 626,
+      "federal": 611,
       "international": 11,
-      "multilevel": 8
+      "multilevel": 9
     },
     "legal_significance_values": {
       "(missing)": 950,
       "aggregator": 2,
       "civil_repackaging": 6,
-      "official": 637
+      "official": 623
     },
     "source_authority_values": {
-      "(missing)": 879,
+      "(missing)": 865,
       "civil": 3,
       "federal": 462,
       "municipal": 17,
@@ -821,9 +821,9 @@
     {
       "family": "curated-federal",
       "field": "last_verified",
-      "missing": 62,
+      "missing": 34,
       "reason": "Legacy curated cards without an individual network recheck keep last_verified empty until an editorial verification pass; no date is inferred from last_updated.",
-      "total": 96
+      "total": 82
     },
     {
       "family": "civil",
@@ -874,34 +874,34 @@
       "quality": {
         "archive_depth": {
           "missing": 0,
-          "populated": 96
+          "populated": 82
         },
         "data_completeness": {
           "missing": 0,
-          "populated": 96
+          "populated": 82
         },
         "last_verified": {
-          "missing": 62,
-          "populated": 34
+          "missing": 34,
+          "populated": 48
         },
         "legal_significance": {
           "missing": 0,
-          "populated": 96
+          "populated": 82
         },
         "license_or_terms": {
           "missing": 0,
-          "populated": 96
+          "populated": 82
         },
         "machine_readability": {
           "missing": 0,
-          "populated": 96
+          "populated": 82
         },
         "update_lag": {
           "missing": 0,
-          "populated": 96
+          "populated": 82
         }
       },
-      "total": 96,
+      "total": 82,
       "unreachable_from_navigation_root": [],
       "zero_inbound": []
     },
@@ -1082,8 +1082,8 @@
     }
   },
   "totals": {
-    "data_sources": 1595,
+    "data_sources": 1581,
     "documents": 2106,
-    "graph_edges": 28109
+    "graph_edges": 28628
   }
 }

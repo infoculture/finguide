@@ -1,0 +1,29 @@
+{
+  "verified_at": "2026-11-03T22:35:44+03:00",
+  "parser_tests": {
+    "passed": 8,
+    "failed": 0
+  },
+  "documentation_python_examples": 2,
+  "member_patterns_checked": 2889,
+  "date_headers_checked": 2888,
+  "date_header_mismatches": 0,
+  "quality_gates": {
+    "lint:frontmatter": "pass",
+    "lint:howto": "pass",
+    "lint:qa": "pass",
+    "lint:related-pages": "pass",
+    "lint:corpus": "pass",
+    "lint:url-syntax": "pass",
+    "export:knowledge -- --check": "pass",
+    "git diff --check": "pass"
+  },
+  "build": {
+    "status": "failed",
+    "cause": "pre-existing broken link in unrelated card",
+    "source": "wiki/data-sources/federal/budget/roskazna/roskazna-finops-operating-day.md",
+    "broken_slug": "/data-sources/federal/roskazna-finops-treasury-account-fundraishing",
+    "existing_slug": "/data-sources/federal/roskazna-finops-treasury-account-fundraising",
+    "pre_existing_verified": "git show HEAD, lines 111 and 211"
+  }
+}

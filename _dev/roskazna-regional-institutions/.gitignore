@@ -1,0 +1,5 @@
+.venv/
+raw/
+extracted/
+results/tidy*.csv
+__pycache__/
