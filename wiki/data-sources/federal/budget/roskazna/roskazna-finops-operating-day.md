@@ -9,7 +9,7 @@ description: >-
   только через снимки Wayback Machine. преемники — листовые страницы операций
   и витрины данных.
 tags: [data-source, federal, budget, reporting]
-last_updated: 2026-10-03
+last_updated: 2026-11-03
 last_verified: 2026-10-03
 slug: /data-sources/federal/roskazna-finops-operating-day
 content_type: data_source
@@ -108,7 +108,7 @@ related_pages:
 
 - Гранулярность — **одна операция размещения/привлечения в колонке таблицы**: `дата отбора × инструмент × атрибут`.
 - Меры: сумма размещения (млн руб. / USD / CNY), минимальная и средневзвешенная ставка (%), срок (дней), число кредитных организаций, остаток к возврату (млн руб. / USD / CNY).
-- Ключи связки с живыми источниками: дата операции + инструмент ↔ листовые страницы [размещений на банковских депозитах](/data-sources/federal/roskazna-finops-treasury-account-placements) и [привлечения средств](/data-sources/federal/roskazna-finops-treasury-account-fundraishing), где публикуются дневные протоколы отбора заявок (`…otbor_*.docx`).
+- Ключи связки с живыми источниками: дата операции + инструмент ↔ листовые страницы [размещений на банковских депозитах](/data-sources/federal/roskazna-finops-treasury-account-placements) и [привлечения средств](/data-sources/federal/roskazna-finops-treasury-account-fundraising), где публикуются дневные протоколы отбора заявок (`…otbor_*.docx`).
 - Числа локализованы: пробел — разделитель тысяч, запятая — десятичный (например, `628 000,0`).
 
 **Пробелы**: нет выгрузок и API; глубина истории на одном снимке ограничена выборкой фильтра; соответствие итогов таблицы и листовых протоколов формально не описано.
@@ -208,7 +208,7 @@ gotchas:
 
 **В: Где теперь взять те же показатели — суммы, ставки, остатки по депозитам и репо за день?**
 
-**О:** По инструментам — на листовых страницах: [размещение средств ЕКС](/data-sources/federal/roskazna-finops-treasury-account-placements) (депозиты, репо, ПФИ, ЦК) и [привлечение на ЕКС](/data-sources/federal/roskazna-finops-treasury-account-fundraishing); там публикуются дневные протоколы DOCX. Машиночитаемые ряды — в [витринах данных](/data-sources/federal/roskazna-datamarts).
+**О:** По инструментам — на листовых страницах: [размещение средств ЕКС](/data-sources/federal/roskazna-finops-treasury-account-placements) (депозиты, репо, ПФИ, ЦК) и [привлечение на ЕКС](/data-sources/federal/roskazna-finops-treasury-account-fundraising); там публикуются дневные протоколы DOCX. Машиночитаемые ряды — в [витринах данных](/data-sources/federal/roskazna-datamarts).
 
 **В: Можно ли восстановить историю показателей из Wayback?**
 
