@@ -1,0 +1,95 @@
+{
+  "download_integrity": [
+    {
+      "file": "catalog-2014-53.html",
+      "status": "pass"
+    },
+    {
+      "file": "catalog-2014-54.html",
+      "status": "pass"
+    },
+    {
+      "file": "catalog-2018-53.html",
+      "status": "pass"
+    },
+    {
+      "file": "catalog-2018-54.html",
+      "status": "pass"
+    },
+    {
+      "file": "catalog-2021-53.html",
+      "status": "pass"
+    },
+    {
+      "file": "catalog-2021-54.html",
+      "status": "pass"
+    },
+    {
+      "file": "catalog-2024-53.html",
+      "status": "pass"
+    },
+    {
+      "file": "catalog-2024-54.html",
+      "status": "pass"
+    },
+    {
+      "file": "catalog-2025-53.html",
+      "status": "pass"
+    },
+    {
+      "file": "catalog-2025-54.html",
+      "status": "pass"
+    },
+    {
+      "file": "catalog-2026-53.html",
+      "status": "pass"
+    },
+    {
+      "file": "catalog-2026-54.html",
+      "status": "pass"
+    },
+    {
+      "file": "ФО_01.01.2026.zip",
+      "status": "pass"
+    },
+    {
+      "file": "ФО_0503737_01.07.2026.zip",
+      "status": "pass"
+    },
+    {
+      "file": "FO_0503737_01.07.2014.zip",
+      "status": "pass"
+    },
+    {
+      "file": "FO_01.01.2019.zip",
+      "status": "pass"
+    },
+    {
+      "file": "FO_0503737-na-01.10.2025.7z",
+      "status": "pass"
+    }
+  ],
+  "protocol_checks": [
+    {
+      "witness": "FO_01.01.2019.zip!FO_SVOD_0503737_01.01.2019.zip!ProtocolFO.txt",
+      "reports_in_protocol": 87,
+      "xls_observed": 87,
+      "status": "pass"
+    }
+  ],
+  "parse_failures": 0,
+  "files_parsed": 2888,
+  "cross_sum_checks": 471,
+  "cross_sum_statuses": {
+    "pass": 461,
+    "difference": 0,
+    "unavailable": 10
+  },
+  "arithmetic": {
+    "pass": 134186,
+    "difference": 0,
+    "unavailable": 3819
+  },
+  "null_sum_policy": "blank->0 only within a nonempty set; all-empty->unavailable",
+  "release_status": "pass"
+}

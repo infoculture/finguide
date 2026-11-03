@@ -1,0 +1,138 @@
+[
+  {
+    "url": "https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/?filter_type=53&filter_year=2014",
+    "local_file": "catalog-2014-53.html",
+    "accessed_at": "2026-11-03T21:55:22+03:00",
+    "size_bytes": 159958,
+    "sha256": "3b9c5d9e461adf79446d2e24c539c629a6b6c063b8908140ff6e9d43452b191a",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/?filter_type=54&filter_year=2014",
+    "local_file": "catalog-2014-54.html",
+    "accessed_at": "2026-11-03T21:55:27+03:00",
+    "size_bytes": 158310,
+    "sha256": "2bafdf9a1c41ccce7ca88657ef4fe29c2154f282c31b52f6fb06165f9d588ba2",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/?filter_type=53&filter_year=2018",
+    "local_file": "catalog-2018-53.html",
+    "accessed_at": "2026-11-03T21:55:30+03:00",
+    "size_bytes": 161413,
+    "sha256": "355c72ce887d94f5b23f12cc01629e275a1427fa55f2863d7599a53280bdc3b6",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/?filter_type=54&filter_year=2018",
+    "local_file": "catalog-2018-54.html",
+    "accessed_at": "2026-11-03T21:55:33+03:00",
+    "size_bytes": 158303,
+    "sha256": "ece3114892da2ee3883a4e736dd2df9f56df6d19c27f3e0bd8e7962ca2e0052e",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/?filter_type=53&filter_year=2021",
+    "local_file": "catalog-2021-53.html",
+    "accessed_at": "2026-11-03T21:55:36+03:00",
+    "size_bytes": 161412,
+    "sha256": "6691dba6e882c285a75d5b3a8a69947839861f9f73c486f9d5196cd6aaa3ed84",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/?filter_type=54&filter_year=2021",
+    "local_file": "catalog-2021-54.html",
+    "accessed_at": "2026-11-03T21:55:40+03:00",
+    "size_bytes": 158303,
+    "sha256": "57ddaecb8dedbb7b42d54b1283c2f9b5e20afd8f5d0e1a9e30a603835557d3c7",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/?filter_type=53&filter_year=2024",
+    "local_file": "catalog-2024-53.html",
+    "accessed_at": "2026-11-03T21:55:43+03:00",
+    "size_bytes": 161411,
+    "sha256": "db93737daada62a21a6af96a57edcd9454a4945770cdf55df3b1f54b038a42cf",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/?filter_type=54&filter_year=2024",
+    "local_file": "catalog-2024-54.html",
+    "accessed_at": "2026-11-03T21:55:46+03:00",
+    "size_bytes": 158303,
+    "sha256": "87bbed5949ec92e9b0d2722e24299b21bd9a33d0a0673685f429259719ae1ad7",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/?filter_type=53&filter_year=2025",
+    "local_file": "catalog-2025-53.html",
+    "accessed_at": "2026-11-03T21:55:49+03:00",
+    "size_bytes": 161140,
+    "sha256": "9ca5ef1c44c8c579906e75b7f812cec862b651658a2e44722b5094187a815221",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/?filter_type=54&filter_year=2025",
+    "local_file": "catalog-2025-54.html",
+    "accessed_at": "2026-11-03T21:55:53+03:00",
+    "size_bytes": 158033,
+    "sha256": "f1d4a1cf1462808f0107f48a2d3116952795b969e0ab290cbbe485da0ee132ed",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/?filter_type=53&filter_year=2026",
+    "local_file": "catalog-2026-53.html",
+    "accessed_at": "2026-11-03T21:56:00+03:00",
+    "size_bytes": 159408,
+    "sha256": "071c4c57f0c93704d7a66319290778782c016ccc977b13e586ca137c85a2646b",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/?filter_type=54&filter_year=2026",
+    "local_file": "catalog-2026-54.html",
+    "accessed_at": "2026-11-03T21:56:05+03:00",
+    "size_bytes": 158033,
+    "sha256": "08bf7477e5ed709bcefe19305d6ed5e358ebeea716492c30ee8d79af9dbabccf",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/storage/page-files/21117/%D0%A4%D0%9E_01.01.2026.zip",
+    "local_file": "ФО_01.01.2026.zip",
+    "accessed_at": "2026-11-03T21:57:06+03:00",
+    "size_bytes": 27904564,
+    "sha256": "0f1283a5f4b75fe71f25b0f8b8a3183c6e6775cc5fe93cd417d842488c38e7bf",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/storage/page-files/21117/%D0%A4%D0%9E_0503737_01.07.2026.zip",
+    "local_file": "ФО_0503737_01.07.2026.zip",
+    "accessed_at": "2026-11-03T21:59:13+03:00",
+    "size_bytes": 23602664,
+    "sha256": "23e79bf01e9bd83a369c2422e9831ddfba0d1c0df0fd6d1d61c36902c9395de1",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/uploads/migrate/roskaznagovru/documents/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/297/FO_0503737_01.07.2014.zip",
+    "local_file": "FO_0503737_01.07.2014.zip",
+    "accessed_at": "2026-11-03T22:00:47+03:00",
+    "size_bytes": 15200026,
+    "sha256": "2f8f5ebb273ea9684cbd2194def9c2c095ab92abfecb0347bd9e8c2318342ba3",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/uploads/migrate/roskaznagovru/documents/ispolnenie-byudzhetov/svodnaya-informaciya-po-byudzhetnym-i-avtonomnym-uchrezhdeniyam-subuektov-rf-mestnyh-byudzhetov/bed/FO_01.01.2019.zip",
+    "local_file": "FO_01.01.2019.zip",
+    "accessed_at": "2026-11-03T22:03:51+03:00",
+    "size_bytes": 22729664,
+    "sha256": "68bac093cf1d91d205e49a7c824444723eefa044c9b44e6c8160233c3c42cdda",
+    "tls_verified": false
+  },
+  {
+    "url": "https://roskazna.gov.ru/storage/page-files/21117/FO_0503737-na-01.10.2025.7z",
+    "local_file": "FO_0503737-na-01.10.2025.7z",
+    "accessed_at": "2026-11-03T22:04:17+03:00",
+    "size_bytes": 7867249,
+    "sha256": "0d4e625b6fc3891c19aa17908d0a4784050954c5e08232a1f20c57248fb45515",
+    "tls_verified": false
+  }
+]

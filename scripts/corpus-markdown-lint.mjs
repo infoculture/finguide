@@ -23,6 +23,10 @@ const MIN_README_BODY = 450;
 const MIN_CARD_BODY = 180;
 const LONG_LINES = 220;
 const LONG_MIN_H2 = 2;
+/** OpenSpec glossary-card-content: происхождение + разделение ролей (допустимые варианты заголовков). */
+const GLOSSARY_ORIGIN_RE = /^## (Зачем|Происхождение|Ведение перечня)[^#]*$/m;
+/** OpenSpec glossary-card-content: кодовый подраздел для `glossary_kind: classification`. */
+const GLOSSARY_CODE_RE = /Формат и иерархия кода|Как устроена запись кода|Структура 20 знаков|записи кода|структуру кода/;
 
 function walk(dir, out = []) {
   for (const ent of fs.readdirSync(dir, {withFileTypes: true})) {
@@ -99,6 +103,24 @@ for (const file of walk(WIKI)) {
         `${rel}: карточка слишком короткая (${body.length} символов тела) — вероятная заглушка; цель ≥${MIN_CARD_BODY}.`,
       );
       errors++;
+    }
+    // OpenSpec glossary-card-content (update-glossary-editorial-depth, задача 4.1):
+    // происхождение + ответственность — для всех глоссарных карточек;
+    // кодовый подраздел — только для `glossary_kind: classification`.
+    if (rel.startsWith('glossary/') && body.length > 0) {
+      const hasOrigin = GLOSSARY_ORIGIN_RE.test(content);
+      if (!hasOrigin) {
+        console.error(
+          `${rel}: глоссарная карточка без блока происхождения/ответственности — добавьте раздел «Зачем … и кто за что отвечает» (происхождение + разделение ролей; см. openspec glossary-card-content).`,
+        );
+        errors++;
+      }
+      if (data.glossary_kind === 'classification' && !GLOSSARY_CODE_RE.test(content)) {
+        console.error(
+          `${rel}: glossary_kind: classification без кодового подраздела — добавьте «Формат и иерархия кода» (структура, префиксы, типичные ошибки аналитики).`,
+        );
+        errors++;
+      }
     }
   }
 

@@ -16,7 +16,7 @@ formats:
   - xml
   - xlsx
 status: current
-last_verified: 2026-07-16
+last_verified: 2026-10-04T00:00:00.000Z
 source_authority: regional
 data_completeness: partial
 machine_readability: 'смешанная: HTML + файлы статистики и форм на сайте ФНС'

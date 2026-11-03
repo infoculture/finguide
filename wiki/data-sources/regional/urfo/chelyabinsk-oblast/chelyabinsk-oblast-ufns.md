@@ -16,7 +16,7 @@ formats:
   - xml
   - xlsx
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-10-04T00:00:00.000Z
 source_authority: federal
 data_completeness: partial
 machine_readability: смешанная; массовые ряды — через федеральные разделы ФНС

@@ -1,0 +1,7 @@
+{
+  "checked_files": 2888,
+  "recovered_prefixless": 177,
+  "unresolved": [],
+  "inconsistencies": [],
+  "method": "Only a unique ОКПО at the same report_date; ОКТМО is retained for comparison, not forced to match."
+}

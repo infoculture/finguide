@@ -14,7 +14,7 @@ access: open
 formats:
   - html
 status: current
-last_verified: 2026-05-15
+last_verified: 2026-10-04T00:00:00.000Z
 data_completeness: partial
 machine_readability: mixed
 description: >-

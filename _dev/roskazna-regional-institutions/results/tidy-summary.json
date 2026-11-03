@@ -1,0 +1,26 @@
+{
+  "source_files": 2888,
+  "facts": 1962763,
+  "unresolved_region_facts": 0,
+  "facts_by_representation": {
+    "rf_0503737_kfo_2018": 3555,
+    "rf_0503730_2018": 760,
+    "rf_0503721_2018": 408,
+    "subject_0503737_kfo_2018": 297909,
+    "rf_0503737_matrix": 2839,
+    "subject_0503737_matrix": 254799,
+    "subject_0503730_2018": 65360,
+    "subject_0503721_2018": 35088,
+    "rf_0503737_kfo": 10615,
+    "subject_0503737_kfo": 938352,
+    "legacy_2014_0503737_kfo": 222306,
+    "rf_0503721": 720,
+    "rf_0503730": 816,
+    "subject_0503721": 54980,
+    "subject_0503730": 74256
+  },
+  "output": "results/tidy.csv",
+  "size_bytes": 1030522117,
+  "sha256": "f75b4da5c3bc3a7e1f2af1e73d96137e188127408d8729b841a13a762ae7487f",
+  "sample_facts": 230
+}
